@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NUM",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "NUM.36.1",
+      "edition_verse_id": "ASV1901:NUM.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the heads of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the family of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the heads of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.36.2",
+      "edition_verse_id": "ASV1901:NUM.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and they said, Jehovah commanded my lord to give the land for inheritance by lot to the children of Israel: and my lord was commanded by Jehovah to give the inheritance of Zelophehad our brother unto his daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.3",
+      "edition_verse_id": "ASV1901:NUM.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And if they be married to any of the sons of the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " tribes of the children of Israel, then will their inheritance be taken away from the inheritance of our fathers, and will be added to the inheritance of the tribe whereunto they shall belong: so will it be taken away from the lot of our inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.4",
+      "edition_verse_id": "ASV1901:NUM.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when the jubilee of the children of Israel shall be, then will their inheritance be added unto the inheritance of the tribe whereunto they shall belong: so will their inheritance be taken away from the inheritance of the tribe of our fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.5",
+      "edition_verse_id": "ASV1901:NUM.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Moses commanded the children of Israel according to the word of Jehovah, saying, The tribe of the sons of Joseph speaketh right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.36.6",
+      "edition_verse_id": "ASV1901:NUM.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This is the thing which Jehovah doth command concerning the daughters of Zelophehad, saying, Let them be married to whom they think best; only into the family of the tribe of their father shall they be married.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.7",
+      "edition_verse_id": "ASV1901:NUM.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So shall no inheritance of the children of Israel remove from tribe to tribe; for the children of Israel shall cleave every one to the inheritance of the tribe of his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.8",
+      "edition_verse_id": "ASV1901:NUM.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may possess every man the inheritance of his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.9",
+      "edition_verse_id": "ASV1901:NUM.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So shall no inheritance remove from one tribe to another tribe; for the tribes of the children of Israel shall cleave every one to his own inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.10",
+      "edition_verse_id": "ASV1901:NUM.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Even as Jehovah commanded Moses, so did the daughters of Zelophehad:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.36.11",
+      "edition_verse_id": "ASV1901:NUM.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "for Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.12",
+      "edition_verse_id": "ASV1901:NUM.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They were married into the families of the sons of Manasseh the son of Joseph; and their inheritance remained in the tribe of the family of their father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.36.13",
+      "edition_verse_id": "ASV1901:NUM.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "These are the commandments and the ordinances which Jehovah commanded by Moses unto the children of Israel in the plains of Moab by the Jordan at Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

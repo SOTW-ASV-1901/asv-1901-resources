@@ -1,0 +1,688 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NUM",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "NUM.33.1",
+      "edition_verse_id": "ASV1901:NUM.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the journeys of the children of Israel, when they went forth out of the land of Egypt by their hosts under the hand of Moses and Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.33.2",
+      "edition_verse_id": "ASV1901:NUM.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Moses wrote their goings out according to their journeys by the commandment of Jehovah: and these are their journeys according to their goings out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.3",
+      "edition_verse_id": "ASV1901:NUM.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they journeyed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with a high hand in the sight of all the Egyptians,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.4",
+      "edition_verse_id": "ASV1901:NUM.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "while the Egyptians were burying all their first-born, whom Jehovah had smitten among them: upon their gods also Jehovah executed judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.5",
+      "edition_verse_id": "ASV1901:NUM.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the children of Israel journeyed from Rameses, and encamped in Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.33.6",
+      "edition_verse_id": "ASV1901:NUM.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they journeyed from Succoth, and encamped in Etham, which is in the edge of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.7",
+      "edition_verse_id": "ASV1901:NUM.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they journeyed from Etham, and turned back unto Pi-hahiroth, which is before Baal-zephon: and they encamped before Migdol.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.8",
+      "edition_verse_id": "ASV1901:NUM.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they journeyed from before Hahiroth, and passed through the midst of the sea into the wilderness: and they went three days’ journey in the wilderness of Etham, and encamped in Marah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.9",
+      "edition_verse_id": "ASV1901:NUM.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they journeyed from Marah, and came unto Elim: and in Elim were twelve springs of water, and threescore and ten palm-trees; and they encamped there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.10",
+      "edition_verse_id": "ASV1901:NUM.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they journeyed from Elim, and encamped by the Red Sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.11",
+      "edition_verse_id": "ASV1901:NUM.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they journeyed from the Red Sea, and encamped in the wilderness of Sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.12",
+      "edition_verse_id": "ASV1901:NUM.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they journeyed from the wilderness of Sin, and encamped in Dophkah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.13",
+      "edition_verse_id": "ASV1901:NUM.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they journeyed from Dophkah, and encamped in Alush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.14",
+      "edition_verse_id": "ASV1901:NUM.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And they journeyed from Alush, and encamped in Rephidim, where was no water for the people to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.15",
+      "edition_verse_id": "ASV1901:NUM.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they journeyed from Rephidim, and encamped in the wilderness of Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.16",
+      "edition_verse_id": "ASV1901:NUM.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they journeyed from the wilderness of Sinai, and encamped in Kibroth-hattaavah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.17",
+      "edition_verse_id": "ASV1901:NUM.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they journeyed from Kibroth-hattaavah, and encamped in Hazeroth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.18",
+      "edition_verse_id": "ASV1901:NUM.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they journeyed from Hazeroth, and encamped in Rithmah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.19",
+      "edition_verse_id": "ASV1901:NUM.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they journeyed from Rithmah, and encamped in Rimmon-perez.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.20",
+      "edition_verse_id": "ASV1901:NUM.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And they journeyed from Rimmon-perez, and encamped in Libnah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.21",
+      "edition_verse_id": "ASV1901:NUM.33.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they journeyed from Libnah, and encamped in Rissah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.22",
+      "edition_verse_id": "ASV1901:NUM.33.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they journeyed from Rissah, and encamped in Kehelathah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.23",
+      "edition_verse_id": "ASV1901:NUM.33.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they journeyed from Kehelathah, and encamped in mount Shepher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.24",
+      "edition_verse_id": "ASV1901:NUM.33.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they journeyed from mount Shepher, and encamped in Haradah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.25",
+      "edition_verse_id": "ASV1901:NUM.33.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they journeyed from Haradah, and encamped in Makheloth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.26",
+      "edition_verse_id": "ASV1901:NUM.33.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they journeyed from Makheloth, and encamped in Tahath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.27",
+      "edition_verse_id": "ASV1901:NUM.33.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they journeyed from Tahath, and encamped in Terah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.28",
+      "edition_verse_id": "ASV1901:NUM.33.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they journeyed from Terah, and encamped in Mithkah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.29",
+      "edition_verse_id": "ASV1901:NUM.33.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And they journeyed from Mithkah, and encamped in Hashmonah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.30",
+      "edition_verse_id": "ASV1901:NUM.33.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And they journeyed from Hashmonah, and encamped in Moseroth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.31",
+      "edition_verse_id": "ASV1901:NUM.33.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they journeyed from Moseroth, and encamped in Bene-jaakan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.32",
+      "edition_verse_id": "ASV1901:NUM.33.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they journeyed from Bene-jaakan, and encamped in Hor-haggidgad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.33",
+      "edition_verse_id": "ASV1901:NUM.33.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they journeyed from Hor-haggidgad, and encamped in Jotbathah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.34",
+      "edition_verse_id": "ASV1901:NUM.33.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And they journeyed from Jotbathah, and encamped in Abronah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.35",
+      "edition_verse_id": "ASV1901:NUM.33.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they journeyed from Abronah, and encamped in Ezion-geber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.36",
+      "edition_verse_id": "ASV1901:NUM.33.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And they journeyed from Ezion-geber, and encamped in the wilderness of Zin (the same is Kadesh).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.37",
+      "edition_verse_id": "ASV1901:NUM.33.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And they journeyed from Kadesh, and encamped in mount Hor, in the edge of the land of Edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.38",
+      "edition_verse_id": "ASV1901:NUM.33.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Aaron the priest went up into mount Hor at the commandment of Jehovah, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the fifth month, on the first day of the month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.33.39",
+      "edition_verse_id": "ASV1901:NUM.33.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And Aaron was a hundred and twenty and three years old when he died in mount Hor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.40",
+      "edition_verse_id": "ASV1901:NUM.33.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the Canaanite, the king of Arad, who dwelt in the South in the land of Canaan, heard of the coming of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.33.41",
+      "edition_verse_id": "ASV1901:NUM.33.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And they journeyed from mount Hor, and encamped in Zalmonah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.33.42",
+      "edition_verse_id": "ASV1901:NUM.33.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And they journeyed from Zalmonah, and encamped in Punon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.43",
+      "edition_verse_id": "ASV1901:NUM.33.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And they journeyed from Punon, and encamped in Oboth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.44",
+      "edition_verse_id": "ASV1901:NUM.33.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And they journeyed from Oboth, and encamped in Iye-abarim, in the border of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.45",
+      "edition_verse_id": "ASV1901:NUM.33.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And they journeyed from Iyim, and encamped in Dibon-gad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.46",
+      "edition_verse_id": "ASV1901:NUM.33.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And they journeyed from Dibon-gad, and encamped in Almon-diblathaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.47",
+      "edition_verse_id": "ASV1901:NUM.33.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And they journeyed from Almon-diblathaim, and encamped in the mountains of Abarim, before Nebo.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.48",
+      "edition_verse_id": "ASV1901:NUM.33.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And they journeyed from the mountains of Abarim, and encamped in the plains of Moab by the Jordan at Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.49",
+      "edition_verse_id": "ASV1901:NUM.33.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And they encamped by the Jordan, from Beth-jeshimoth even unto Abel-shittim in the plains of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.50",
+      "edition_verse_id": "ASV1901:NUM.33.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses in the plains of Moab by the Jordan at Jericho, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.33.51",
+      "edition_verse_id": "ASV1901:NUM.33.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, and say unto them, When ye pass over the Jordan into the land of Canaan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.52",
+      "edition_verse_id": "ASV1901:NUM.33.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "then ye shall drive out all the inhabitants of the land from before you, and destroy all their figured ",
+          "kind": "text"
+        },
+        {
+          "text": "stones",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and destroy all their molten images, and demolish all their high places:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.53",
+      "edition_verse_id": "ASV1901:NUM.33.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "and ye shall take possession of the land, and dwell therein; for unto you have I given the land to possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.54",
+      "edition_verse_id": "ASV1901:NUM.33.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And ye shall inherit the land by lot according to your families; to the more ye shall give the more inheritance, and to the fewer thou shalt give the less inheritance: wheresoever the lot falleth to any man, that shall be his; according to the tribes of your fathers shall ye inherit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.55",
+      "edition_verse_id": "ASV1901:NUM.33.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "But if ye will not drive out the inhabitants of the land from before you, then shall those that ye let remain of them be as pricks in your eyes, and as thorns in your sides, and they shall vex you in the land wherein ye dwell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.33.56",
+      "edition_verse_id": "ASV1901:NUM.33.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that, as I thought to do unto them, so will I do unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

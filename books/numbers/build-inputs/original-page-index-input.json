@@ -1,0 +1,456 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 155,
+      "type": "scripture",
+      "printed_page": 129,
+      "running_head_first_verse": "NUM.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.1.1",
+      "last_verse": "NUM.1.28",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 156,
+      "type": "scripture",
+      "printed_page": 130,
+      "running_head_first_verse": "NUM.1.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.1.28",
+      "last_verse": "NUM.1.54",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 157,
+      "type": "scripture",
+      "printed_page": 131,
+      "running_head_first_verse": "NUM.2.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.1.54",
+      "last_verse": "NUM.2.31",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 158,
+      "type": "scripture",
+      "printed_page": 132,
+      "running_head_first_verse": "NUM.2.32",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.2.31",
+      "last_verse": "NUM.3.28",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 159,
+      "type": "scripture",
+      "printed_page": 133,
+      "running_head_first_verse": "NUM.3.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.3.28",
+      "last_verse": "NUM.4.4",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 160,
+      "type": "scripture",
+      "printed_page": 134,
+      "running_head_first_verse": "NUM.4.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.4.4",
+      "last_verse": "NUM.4.30",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 161,
+      "type": "scripture",
+      "printed_page": 135,
+      "running_head_first_verse": "NUM.4.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.4.30",
+      "last_verse": "NUM.5.8",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 162,
+      "type": "scripture",
+      "printed_page": 136,
+      "running_head_first_verse": "NUM.5.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.5.8",
+      "last_verse": "NUM.6.2",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 163,
+      "type": "scripture",
+      "printed_page": 137,
+      "running_head_first_verse": "NUM.6.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.6.2",
+      "last_verse": "NUM.6.27",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 164,
+      "type": "scripture",
+      "printed_page": 138,
+      "running_head_first_verse": "NUM.7.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.7.1",
+      "last_verse": "NUM.7.35",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 165,
+      "type": "scripture",
+      "printed_page": 139,
+      "running_head_first_verse": "NUM.7.36",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.7.36",
+      "last_verse": "NUM.7.73",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 166,
+      "type": "scripture",
+      "printed_page": 140,
+      "running_head_first_verse": "NUM.7.74",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.7.73",
+      "last_verse": "NUM.8.15",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 167,
+      "type": "scripture",
+      "printed_page": 141,
+      "running_head_first_verse": "NUM.8.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.8.15",
+      "last_verse": "NUM.9.14",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 168,
+      "type": "scripture",
+      "printed_page": 142,
+      "running_head_first_verse": "NUM.9.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.9.14",
+      "last_verse": "NUM.10.18",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 169,
+      "type": "scripture",
+      "printed_page": 143,
+      "running_head_first_verse": "NUM.10.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.10.18",
+      "last_verse": "NUM.11.12",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 170,
+      "type": "scripture",
+      "printed_page": 144,
+      "running_head_first_verse": "NUM.11.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.11.12",
+      "last_verse": "NUM.12.2",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 171,
+      "type": "scripture",
+      "printed_page": 145,
+      "running_head_first_verse": "NUM.12.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.12.2",
+      "last_verse": "NUM.13.23",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 172,
+      "type": "scripture",
+      "printed_page": 146,
+      "running_head_first_verse": "NUM.13.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.13.23",
+      "last_verse": "NUM.14.16",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 173,
+      "type": "scripture",
+      "printed_page": 147,
+      "running_head_first_verse": "NUM.14.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.14.16",
+      "last_verse": "NUM.14.45",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 174,
+      "type": "scripture",
+      "printed_page": 148,
+      "running_head_first_verse": "NUM.15.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.14.45",
+      "last_verse": "NUM.15.29",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 175,
+      "type": "scripture",
+      "printed_page": 149,
+      "running_head_first_verse": "NUM.15.30",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.15.29",
+      "last_verse": "NUM.16.15",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 176,
+      "type": "scripture",
+      "printed_page": 150,
+      "running_head_first_verse": "NUM.16.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.16.15",
+      "last_verse": "NUM.16.45",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 177,
+      "type": "scripture",
+      "printed_page": 151,
+      "running_head_first_verse": "NUM.16.46",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.16.45",
+      "last_verse": "NUM.18.8",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 178,
+      "type": "scripture",
+      "printed_page": 152,
+      "running_head_first_verse": "NUM.18.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.18.8",
+      "last_verse": "NUM.18.30",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 179,
+      "type": "scripture",
+      "printed_page": 153,
+      "running_head_first_verse": "NUM.18.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.18.30",
+      "last_verse": "NUM.19.22",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 180,
+      "type": "scripture",
+      "printed_page": 154,
+      "running_head_first_verse": "NUM.20.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.20.1",
+      "last_verse": "NUM.20.28",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 181,
+      "type": "scripture",
+      "printed_page": 155,
+      "running_head_first_verse": "NUM.20.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.20.28",
+      "last_verse": "NUM.21.25",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 182,
+      "type": "scripture",
+      "printed_page": 156,
+      "running_head_first_verse": "NUM.21.26",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.21.25",
+      "last_verse": "NUM.22.15",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 183,
+      "type": "scripture",
+      "printed_page": 157,
+      "running_head_first_verse": "NUM.22.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.22.15",
+      "last_verse": "NUM.23.1",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 184,
+      "type": "scripture",
+      "printed_page": 158,
+      "running_head_first_verse": "NUM.23.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.23.1",
+      "last_verse": "NUM.23.26",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 185,
+      "type": "scripture",
+      "printed_page": 159,
+      "running_head_first_verse": "NUM.23.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.23.26",
+      "last_verse": "NUM.24.19",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 186,
+      "type": "scripture",
+      "printed_page": 160,
+      "running_head_first_verse": "NUM.24.20",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.24.20",
+      "last_verse": "NUM.26.4",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 187,
+      "type": "scripture",
+      "printed_page": 161,
+      "running_head_first_verse": "NUM.26.5",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.26.5",
+      "last_verse": "NUM.26.37",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 188,
+      "type": "scripture",
+      "printed_page": 162,
+      "running_head_first_verse": "NUM.26.38",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.26.37",
+      "last_verse": "NUM.27.1",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 189,
+      "type": "scripture",
+      "printed_page": 163,
+      "running_head_first_verse": "NUM.27.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.27.1",
+      "last_verse": "NUM.28.7",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 190,
+      "type": "scripture",
+      "printed_page": 164,
+      "running_head_first_verse": "NUM.28.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.28.7",
+      "last_verse": "NUM.29.6",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 191,
+      "type": "scripture",
+      "printed_page": 165,
+      "running_head_first_verse": "NUM.29.7",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.29.7",
+      "last_verse": "NUM.29.38",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 192,
+      "type": "scripture",
+      "printed_page": 166,
+      "running_head_first_verse": "NUM.29.39",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.29.38",
+      "last_verse": "NUM.31.9",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 193,
+      "type": "scripture",
+      "printed_page": 167,
+      "running_head_first_verse": "NUM.31.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.31.9",
+      "last_verse": "NUM.31.41",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 194,
+      "type": "scripture",
+      "printed_page": 168,
+      "running_head_first_verse": "NUM.31.42",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NUM.31.42",
+      "last_verse": "NUM.32.18",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 195,
+      "type": "scripture",
+      "printed_page": 169,
+      "running_head_first_verse": "NUM.32.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.32.18",
+      "last_verse": "NUM.33.7",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 196,
+      "type": "scripture",
+      "printed_page": 170,
+      "running_head_first_verse": "NUM.33.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.33.7",
+      "last_verse": "NUM.33.52",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 197,
+      "type": "scripture",
+      "printed_page": 171,
+      "running_head_first_verse": "NUM.33.53",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.33.52",
+      "last_verse": "NUM.34.27",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 198,
+      "type": "scripture",
+      "printed_page": 172,
+      "running_head_first_verse": "NUM.34.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.34.27",
+      "last_verse": "NUM.35.27",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    },
+    {
+      "source_pdf_page": 199,
+      "type": "scripture",
+      "printed_page": 173,
+      "running_head_first_verse": "NUM.35.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NUM.35.27",
+      "last_verse": "NUM.36.13",
+      "evidence_method": "Original scanned 1901 physical page opening and consecutive verse boundary checked against digital transcription; running head separated from physical first verse; no OCR coordinates"
+    }
+  ]
+}

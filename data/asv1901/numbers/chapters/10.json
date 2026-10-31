@@ -1,0 +1,456 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NUM",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "NUM.10.1",
+      "edition_verse_id": "ASV1901:NUM.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.2",
+      "edition_verse_id": "ASV1901:NUM.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Make thee two trumpets of silver; of beaten work shalt thou make them: and thou shalt use them for the calling of the congregation, and for the journeying of the camps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.3",
+      "edition_verse_id": "ASV1901:NUM.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when they shall blow them, all the congregation shall gather themselves unto thee at the door of the tent of meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.4",
+      "edition_verse_id": "ASV1901:NUM.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And if they blow but one, then the princes, the heads of the thousands of Israel, shall gather themselves unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.5",
+      "edition_verse_id": "ASV1901:NUM.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when ye blow an alarm, the camps that lie on the east side shall take their journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.6",
+      "edition_verse_id": "ASV1901:NUM.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when ye blow an alarm the second time, the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.7",
+      "edition_verse_id": "ASV1901:NUM.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But when the assembly is to be gathered together, ye shall blow, but ye shall not sound an alarm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.8",
+      "edition_verse_id": "ASV1901:NUM.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the sons of Aaron, the priests, shall blow the trumpets; and they shall be to you for a statute for ever throughout your generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.9",
+      "edition_verse_id": "ASV1901:NUM.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when ye go to war in your land against the adversary that oppresseth you, then ye shall sound an alarm with the trumpets; and ye shall be remembered before Jehovah your God, and ye shall be saved from your enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.10",
+      "edition_verse_id": "ASV1901:NUM.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Also in the day of your gladness, and in your set feasts, and in the beginnings of your months, ye shall blow the trumpets over your burnt-offerings, and over the sacrifices of your peace-offerings; and they shall be to you for a memorial before your God: I am Jehovah your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.11",
+      "edition_verse_id": "ASV1901:NUM.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass in the second year, in the second month, on the twentieth day of the month, that the cloud was taken up from over the tabernacle of the testimony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.12",
+      "edition_verse_id": "ASV1901:NUM.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the children of Israel set forward according to their journeys out of the wilderness of Sinai; and the cloud abode in the wilderness of Paran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.13",
+      "edition_verse_id": "ASV1901:NUM.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they first took their journey according to the commandment of Jehovah by Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.14",
+      "edition_verse_id": "ASV1901:NUM.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And in the first ",
+          "kind": "text"
+        },
+        {
+          "text": "place",
+          "kind": "supplied"
+        },
+        {
+          "text": " the standard of the camp of the children of Judah set forward according to their hosts: and over his host was Nahshon the son of Amminadab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.15",
+      "edition_verse_id": "ASV1901:NUM.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Issachar was Nethanel the son of Zuar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.16",
+      "edition_verse_id": "ASV1901:NUM.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Zebulun was Eliab the son of Helon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.17",
+      "edition_verse_id": "ASV1901:NUM.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari, who bare the tabernacle, set forward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.18",
+      "edition_verse_id": "ASV1901:NUM.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the standard of the camp of Reuben set forward according to their hosts: and over his host was Elizur the son of Shedeur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.19",
+      "edition_verse_id": "ASV1901:NUM.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.20",
+      "edition_verse_id": "ASV1901:NUM.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.21",
+      "edition_verse_id": "ASV1901:NUM.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the Kohathites set forward, bearing the sanctuary: and ",
+          "kind": "text"
+        },
+        {
+          "text": "the others",
+          "kind": "supplied"
+        },
+        {
+          "text": " did set up the tabernacle against their coming.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.22",
+      "edition_verse_id": "ASV1901:NUM.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the standard of the camp of the children of Ephraim set forward according to their hosts: and over his host was Elishama the son of Ammihud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.23",
+      "edition_verse_id": "ASV1901:NUM.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.24",
+      "edition_verse_id": "ASV1901:NUM.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.25",
+      "edition_verse_id": "ASV1901:NUM.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the standard of the camp of the children of Dan, which was the rearward of all the camps, set forward according to their hosts: and over his host was Ahiezer the son of Ammishaddai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.26",
+      "edition_verse_id": "ASV1901:NUM.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Asher was Pagiel the son of Ochran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.27",
+      "edition_verse_id": "ASV1901:NUM.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.28",
+      "edition_verse_id": "ASV1901:NUM.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thus were the journeyings of the children of Israel according to their hosts; and they set forward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.29",
+      "edition_verse_id": "ASV1901:NUM.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Moses said unto Hobab, the son of Reuel the Midianite, Moses’ father-in-law, We are journeying unto the place of which Jehovah said, I will give it you: come thou with us, and we will do thee good; for Jehovah hath spoken good concerning Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.30",
+      "edition_verse_id": "ASV1901:NUM.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.31",
+      "edition_verse_id": "ASV1901:NUM.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou shalt be to us instead of eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.32",
+      "edition_verse_id": "ASV1901:NUM.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And it shall be, if thou go with us, yea, it shall be, that what good soever Jehovah shall do unto us, the same will we do unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.33",
+      "edition_verse_id": "ASV1901:NUM.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they set forward from the mount of Jehovah three days’ journey; and the ark of the covenant of Jehovah went before them three days’ journey, to seek out a resting-place for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.34",
+      "edition_verse_id": "ASV1901:NUM.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the cloud of Jehovah was over them by day, when they set forward from the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.35",
+      "edition_verse_id": "ASV1901:NUM.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And it came to pass, when the ark set forward, that Moses said, Rise up, O Jehovah, and let thine enemies be scattered; and let them that hate thee flee before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.36",
+      "edition_verse_id": "ASV1901:NUM.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And when it rested, he said, Return, O Jehovah, unto the ten thousands of the thousands of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

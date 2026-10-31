@@ -1,0 +1,460 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NUM",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "NUM.21.1",
+      "edition_verse_id": "ASV1901:NUM.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the Canaanite, the king of Arad, who dwelt in the South, heard tell that Israel came by the way of Atharim; and he fought against Israel, and took some of them captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.2",
+      "edition_verse_id": "ASV1901:NUM.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Israel vowed a vow unto Jehovah, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.3",
+      "edition_verse_id": "ASV1901:NUM.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Jehovah hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and the name of the place was called Hormah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.4",
+      "edition_verse_id": "ASV1901:NUM.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they journeyed from mount Hor by the way to the Red Sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.5",
+      "edition_verse_id": "ASV1901:NUM.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, and there is no water; and our soul loatheth this light bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.6",
+      "edition_verse_id": "ASV1901:NUM.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Jehovah sent fiery serpents among the people, and they bit the people; and much people of Israel died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.7",
+      "edition_verse_id": "ASV1901:NUM.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the people came to Moses, and said, We have sinned, because we have spoken against Jehovah, and against thee; pray unto Jehovah, that he take away the serpents from us. And Moses prayed for the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.8",
+      "edition_verse_id": "ASV1901:NUM.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Jehovah said unto Moses, Make thee a fiery serpent, and set it upon a standard: and it shall come to pass, that every one that is bitten, when he seeth it, shall live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.9",
+      "edition_verse_id": "ASV1901:NUM.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Moses made a serpent of brass, and set it upon the standard: and it came to pass, that if a serpent had bitten any man, when he looked unto the serpent of brass, he lived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.10",
+      "edition_verse_id": "ASV1901:NUM.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the children of Israel journeyed, and encamped in Oboth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.11",
+      "edition_verse_id": "ASV1901:NUM.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they journeyed from Oboth, and encamped at Iye-abarim, in the wilderness which is before Moab, toward the sunrising.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.12",
+      "edition_verse_id": "ASV1901:NUM.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "From thence they journeyed, and encamped in the valley of Zered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.13",
+      "edition_verse_id": "ASV1901:NUM.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "From thence they journeyed, and encamped on the other side of the Arnon, which is in the wilderness, that cometh out of the border of the Amorites: for the Arnon is the border of Moab, between Moab and the Amorites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.14",
+      "edition_verse_id": "ASV1901:NUM.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Wherefore it is said in the book of the Wars of Jehovah,\nVaheb in Suphah,\nAnd the valleys of the Arnon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.15",
+      "edition_verse_id": "ASV1901:NUM.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the slope of the valleys\nThat inclineth toward the dwelling of Ar,\nAnd leaneth upon the border of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.16",
+      "edition_verse_id": "ASV1901:NUM.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And from thence ",
+          "kind": "text"
+        },
+        {
+          "text": "they journeyed",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Beer: that is the well whereof Jehovah said unto Moses, Gather the people together, and I will give them water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.17",
+      "edition_verse_id": "ASV1901:NUM.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then sang Israel this song:\nSpring up, O well; sing ye unto it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.18",
+      "edition_verse_id": "ASV1901:NUM.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The well, which the princes digged,\nWhich the nobles of the people delved,With the sceptre, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with their staves.And from the wilderness ",
+          "kind": "text"
+        },
+        {
+          "text": "they journeyed",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Mattanah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.19",
+      "edition_verse_id": "ASV1901:NUM.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.20",
+      "edition_verse_id": "ASV1901:NUM.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looketh down upon the desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.21",
+      "edition_verse_id": "ASV1901:NUM.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Israel sent messengers unto Sihon king of the Amorites, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.22",
+      "edition_verse_id": "ASV1901:NUM.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Let me pass through thy land: we will not turn aside into field, or into vineyard; we will not drink of the water of the wells: we will go by the king’s highway, until we have passed thy border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.23",
+      "edition_verse_id": "ASV1901:NUM.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness, and came to Jahaz; and he fought against Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.24",
+      "edition_verse_id": "ASV1901:NUM.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Israel smote him with the edge of the sword, and possessed his land from the Arnon unto the Jabbok, even unto the children of Ammon; for the border of the children of Ammon was strong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.25",
+      "edition_verse_id": "ASV1901:NUM.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the towns thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.26",
+      "edition_verse_id": "ASV1901:NUM.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto the Arnon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.27",
+      "edition_verse_id": "ASV1901:NUM.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Wherefore they that speak in proverbs say,\nCome ye to Heshbon;\nLet the city of Sihon be built and established:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.28",
+      "edition_verse_id": "ASV1901:NUM.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For a fire is gone out of Heshbon,\nA flame from the city of Sihon:\nIt hath devoured Ar of Moab,\nThe lords of the high places of the Arnon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.29",
+      "edition_verse_id": "ASV1901:NUM.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Woe to thee, Moab!\nThou art undone, O people of Chemosh:\nHe hath given his sons as fugitives,\nAnd his daughters into captivity,\nUnto Sihon king of the Amorites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.30",
+      "edition_verse_id": "ASV1901:NUM.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "We have shot at them; Heshbon is perished even unto Dibon,\nAnd we have laid waste even unto Nophah,\nWhich ",
+          "kind": "text"
+        },
+        {
+          "text": "reacheth",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Medeba.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.31",
+      "edition_verse_id": "ASV1901:NUM.21.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Thus Israel dwelt in the land of the Amorites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.32",
+      "edition_verse_id": "ASV1901:NUM.21.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Moses sent to spy out Jazer; and they took the towns thereof, and drove out the Amorites that were there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.33",
+      "edition_verse_id": "ASV1901:NUM.21.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he and all his people, to battle at Edrei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.21.34",
+      "edition_verse_id": "ASV1901:NUM.21.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Jehovah said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, who dwelt at Heshbon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.21.35",
+      "edition_verse_id": "ASV1901:NUM.21.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "So they smote him, and his sons and all his people, until there was none left him remaining: and they possessed his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

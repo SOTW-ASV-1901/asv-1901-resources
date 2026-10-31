@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NUM",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "NUM.12.1",
+      "edition_verse_id": "ASV1901:NUM.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Miriam and Aaron spake against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.2",
+      "edition_verse_id": "ASV1901:NUM.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they said, Hath Jehovah indeed spoken only with Moses? hath he not spoken also with us? And Jehovah heard it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.3",
+      "edition_verse_id": "ASV1901:NUM.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now the man Moses was very meek, above all the men that were upon the face of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.4",
+      "edition_verse_id": "ASV1901:NUM.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jehovah spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tent of meeting. And they three came out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.5",
+      "edition_verse_id": "ASV1901:NUM.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jehovah came down in a pillar of cloud, and stood at the door of the Tent, and called Aaron and Miriam; and they both came forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.6",
+      "edition_verse_id": "ASV1901:NUM.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said, Hear now my words: if there be a prophet among you, I Jehovah will make myself known unto him in a vision, I will speak with him in a dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.7",
+      "edition_verse_id": "ASV1901:NUM.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "My servant Moses is not so; he is faithful in all my house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.8",
+      "edition_verse_id": "ASV1901:NUM.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "with him will I speak mouth to mouth, even manifestly, and not in dark speeches; and the form of Jehovah shall he behold: wherefore then were ye not afraid to speak against my servant, against Moses?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.9",
+      "edition_verse_id": "ASV1901:NUM.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the anger of Jehovah was kindled against them; and he departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.10",
+      "edition_verse_id": "ASV1901:NUM.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the cloud removed from over the Tent; and, behold, Miriam was leprous, as ",
+          "kind": "text"
+        },
+        {
+          "text": "white as",
+          "kind": "supplied"
+        },
+        {
+          "text": " snow: and Aaron looked upon Miriam, and, behold, she was leprous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.11",
+      "edition_verse_id": "ASV1901:NUM.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Aaron said unto Moses, Oh, my lord, lay not, I pray thee, sin upon us, for that we have done foolishly, and for that we have sinned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.12",
+      "edition_verse_id": "ASV1901:NUM.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let her not, I pray, be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.13",
+      "edition_verse_id": "ASV1901:NUM.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Moses cried unto Jehovah, saying, Heal her, O God, I beseech thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.14",
+      "edition_verse_id": "ASV1901:NUM.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Jehovah said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut up without the camp seven days, and after that she shall be brought in again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.15",
+      "edition_verse_id": "ASV1901:NUM.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Miriam was shut up without the camp seven days: and the people journeyed not till Miriam was brought in again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.16",
+      "edition_verse_id": "ASV1901:NUM.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And afterward the people journeyed from Hazeroth, and encamped in the wilderness of Paran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
