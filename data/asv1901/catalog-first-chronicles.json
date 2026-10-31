@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "book_name": "1 Chronicles",
+  "book_order": 13,
+  "canonical_ids": "1CH.{chapter}.{verse}",
+  "edition_ids": "ASV1901:1CH.{chapter}.{verse}",
+  "chapter_count": 29,
+  "verse_count": 942,
+  "chapter_path_template": "first-chronicles/chapters/{chapter:02d}.json",
+  "facsimile_index": "first-chronicles/page-index.json",
+  "predecessor_book_code": "2KI",
+  "successor_book_code": "2CH",
+  "source_provenance": "books/first-chronicles/SOURCE_INVENTORY.json",
+  "reader": "books/first-chronicles/site/index.html",
+  "note": "Book-level catalog only. No cross-foundation master catalog or verified original-language lexical alignment."
+}

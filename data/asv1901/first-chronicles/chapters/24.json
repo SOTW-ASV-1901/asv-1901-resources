@@ -1,0 +1,444 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "1CH.24.1",
+      "edition_verse_id": "ASV1901:1CH.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the courses of the sons of Aaron ",
+          "kind": "text"
+        },
+        {
+          "text": "were these",
+          "kind": "supplied"
+        },
+        {
+          "text": ". The sons of Aaron: Nadab and Abihu, Eleazar and Ithamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.24.2",
+      "edition_verse_id": "ASV1901:1CH.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.3",
+      "edition_verse_id": "ASV1901:1CH.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And David with Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, divided them according to their ordering in their service.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.4",
+      "edition_verse_id": "ASV1901:1CH.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and ",
+          "kind": "text"
+        },
+        {
+          "text": "thus",
+          "kind": "supplied"
+        },
+        {
+          "text": " were they divided: of the sons of Eleazar there were sixteen, heads of fathers’ houses; and of the sons of Ithamar, according to their fathers’ houses, eight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.5",
+      "edition_verse_id": "ASV1901:1CH.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thus were they divided by lot, one sort with another; for there were princes of the sanctuary, and princes of God, both of the sons of Eleazar, and of the sons of Ithamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.6",
+      "edition_verse_id": "ASV1901:1CH.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Shemaiah the son of Nethanel the scribe, who was of the Levites, wrote them in the presence of the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and the heads of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the priests and of the Levites; one fathers’ house being taken for Eleazar, and one taken for Ithamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.7",
+      "edition_verse_id": "ASV1901:1CH.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now the first lot came forth to Jehoiarib, the second to Jedaiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.24.8",
+      "edition_verse_id": "ASV1901:1CH.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "the third to Harim, the fourth to Seorim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.9",
+      "edition_verse_id": "ASV1901:1CH.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "the fifth to Malchijah, the sixth to Mijamin,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.10",
+      "edition_verse_id": "ASV1901:1CH.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "the seventh to Hakkoz, the eighth to Abijah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.11",
+      "edition_verse_id": "ASV1901:1CH.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "the ninth to Jeshua, the tenth to Shecaniah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.12",
+      "edition_verse_id": "ASV1901:1CH.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "the eleventh to Eliashib, the twelfth to Jakim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.13",
+      "edition_verse_id": "ASV1901:1CH.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "the thirteenth to Huppah, the fourteenth to Jeshebeab,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.14",
+      "edition_verse_id": "ASV1901:1CH.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the fifteenth to Bilgah, the sixteenth to Immer,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.15",
+      "edition_verse_id": "ASV1901:1CH.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "the seventeenth to Hezir, the eighteenth to Happizzez,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.16",
+      "edition_verse_id": "ASV1901:1CH.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the nineteenth to Pethahiah, the twentieth to Jehezkel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.17",
+      "edition_verse_id": "ASV1901:1CH.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the one and twentieth to Jachin, the two and twentieth to Gamul,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.18",
+      "edition_verse_id": "ASV1901:1CH.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the three and twentieth to Delaiah, the four and twentieth to Maaziah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.19",
+      "edition_verse_id": "ASV1901:1CH.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "This was the ordering of them in their service, to come into the house of Jehovah according to the ordinance ",
+          "kind": "text"
+        },
+        {
+          "text": "given",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto them by Aaron their father, as Jehovah, the God of Israel, had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.20",
+      "edition_verse_id": "ASV1901:1CH.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And of the rest of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.24.21",
+      "edition_verse_id": "ASV1901:1CH.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Of Rehabiah: of the sons of Rehabiah, Isshiah the chief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.22",
+      "edition_verse_id": "ASV1901:1CH.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.23",
+      "edition_verse_id": "ASV1901:1CH.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the sons ",
+          "kind": "text"
+        },
+        {
+          "text": "of Hebron",
+          "kind": "supplied"
+        },
+        {
+          "text": ": Jeriah ",
+          "kind": "text"
+        },
+        {
+          "text": "the chief",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Amariah the second, Jahaziel the third, Jekameam the fourth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.24",
+      "edition_verse_id": "ASV1901:1CH.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The sons of Uzziel, Micah; of the sons of Micah, Shamir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.25",
+      "edition_verse_id": "ASV1901:1CH.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The brother of Micah, Isshiah; of the sons of Isshiah, Zechariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.26",
+      "edition_verse_id": "ASV1901:1CH.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The sons of Merari: Mahli and Mushi; the sons of Jaaziah: Beno.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.27",
+      "edition_verse_id": "ASV1901:1CH.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The sons of Merari: of Jaaziah, Beno, and Shoham, and Zaccur, and Ibri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.28",
+      "edition_verse_id": "ASV1901:1CH.24.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Of Mahli: Eleazar, who had no sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.29",
+      "edition_verse_id": "ASV1901:1CH.24.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Of Kish; the sons of Kish: Jerahmeel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.30",
+      "edition_verse_id": "ASV1901:1CH.24.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the sons of Mushi: Mahli, and Eder, and Jerimoth. These were the sons of the Levites after their fathers’ houses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.24.31",
+      "edition_verse_id": "ASV1901:1CH.24.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "These likewise cast lots even as their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the heads of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the priests and of the Levites; the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the chief even as those of his younger brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

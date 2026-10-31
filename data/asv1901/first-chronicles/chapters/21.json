@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "1CH.21.1",
+      "edition_verse_id": "ASV1901:1CH.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Satan stood up against Israel, and moved David to number Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.2",
+      "edition_verse_id": "ASV1901:1CH.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And David said to Joab and to the princes of the people, Go, number Israel from Beer-sheba even to Dan; and bring me word, that I may know the sum of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.3",
+      "edition_verse_id": "ASV1901:1CH.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Joab said, Jehovah make his people a hundred times as many as they are: but, my lord the king, are they not all my lord’s servants? why doth my lord require this thing? why will he be a cause of guilt unto Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.4",
+      "edition_verse_id": "ASV1901:1CH.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nevertheless the king’s word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.5",
+      "edition_verse_id": "ASV1901:1CH.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Joab gave up the sum of the numbering of the people unto David. And all they of Israel were a thousand thousand and a hundred thousand men that drew sword: and Judah was four hundred threescore and ten thousand men that drew sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.6",
+      "edition_verse_id": "ASV1901:1CH.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But Levi and Benjamin counted he not among them; for the king’s word was abominable to Joab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.7",
+      "edition_verse_id": "ASV1901:1CH.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And God was displeased with this thing; therefore he smote Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.8",
+      "edition_verse_id": "ASV1901:1CH.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And David said unto God, I have sinned greatly, in that I have done this thing: but now, put away, I beseech thee, the iniquity of thy servant; for I have done very foolishly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.9",
+      "edition_verse_id": "ASV1901:1CH.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Gad, David’s seer, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.10",
+      "edition_verse_id": "ASV1901:1CH.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Go and speak unto David, saying, Thus saith Jehovah, I offer thee three things: choose thee one of them, that I may do it unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.11",
+      "edition_verse_id": "ASV1901:1CH.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Gad came to David, and said unto him, Thus saith Jehovah, Take which thou wilt:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.12",
+      "edition_verse_id": "ASV1901:1CH.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "either three years of famine; or three months to be consumed before thy foes, while the sword of thine enemies overtaketh thee; or else three days the sword of Jehovah, even pestilence in the land, and the angel of Jehovah destroying throughout all the borders of Israel. Now therefore consider what answer I shall return to him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.13",
+      "edition_verse_id": "ASV1901:1CH.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And David said unto Gad, I am in a great strait: let me fall, I pray, into the hand of Jehovah; for very great are his mercies: and let me not fall into the hand of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.14",
+      "edition_verse_id": "ASV1901:1CH.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Jehovah sent a pestilence upon Israel; and there fell of Israel seventy thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.15",
+      "edition_verse_id": "ASV1901:1CH.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And God sent an angel unto Jerusalem to destroy it: and as he was about to destroy, Jehovah beheld, and he repented him of the evil, and said to the destroying angel, It is enough; now stay thy hand. And the angel of Jehovah was standing by the threshing-floor of Ornan the Jebusite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.16",
+      "edition_verse_id": "ASV1901:1CH.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And David lifted up his eyes, and saw the angel of Jehovah standing between earth and heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders, clothed in sackcloth, fell upon their faces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.17",
+      "edition_verse_id": "ASV1901:1CH.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done very wickedly; but these sheep, what have they done? let thy hand, I pray thee, O Jehovah my God, be against me, and against my father’s house; but not against thy people, that they should be plagued.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.18",
+      "edition_verse_id": "ASV1901:1CH.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the angel of Jehovah commanded Gad to say to David, that David should go up, and rear an altar unto Jehovah in the threshing-floor of Ornan the Jebusite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.19",
+      "edition_verse_id": "ASV1901:1CH.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And David went up at the saying of Gad, which he spake in the name of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.20",
+      "edition_verse_id": "ASV1901:1CH.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Ornan turned back, and saw the angel; and his four sons that were with him hid themselves. Now Ornan was threshing wheat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.21",
+      "edition_verse_id": "ASV1901:1CH.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And as David came to Ornan, Ornan looked and saw David, and went out of the threshing-floor, and bowed himself to David with his face to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.22",
+      "edition_verse_id": "ASV1901:1CH.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then David said to Ornan, Give me the place of this threshing-floor, that I may build thereon an altar unto Jehovah: for the full price shalt thou give it me, that the plague may be stayed from the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.23",
+      "edition_verse_id": "ASV1901:1CH.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Ornan said unto David, Take it to thee, and let my lord the king do that which is good in his eyes: lo, I give ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " the oxen for burnt-offerings, and the threshing instruments for wood, and the wheat for the meal-offering; I give it all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.24",
+      "edition_verse_id": "ASV1901:1CH.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is thine for Jehovah, nor offer a burnt-offering without cost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.25",
+      "edition_verse_id": "ASV1901:1CH.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So David gave to Ornan for the place six hundred shekels of gold by weight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.26",
+      "edition_verse_id": "ASV1901:1CH.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And David built there an altar unto Jehovah, and offered burnt-offerings and peace-offerings, and called upon Jehovah; and he answered him from heaven by fire upon the altar of burnt-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.27",
+      "edition_verse_id": "ASV1901:1CH.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Jehovah commanded the angel; and he put up his sword again into the sheath thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.28",
+      "edition_verse_id": "ASV1901:1CH.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "At that time, when David saw that Jehovah had answered him in the threshing-floor of Ornan the Jebusite, then he sacrificed there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.21.29",
+      "edition_verse_id": "ASV1901:1CH.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For the tabernacle of Jehovah, which Moses made in the wilderness, and the altar of burnt-offering, were at that time in the high place at Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.21.30",
+      "edition_verse_id": "ASV1901:1CH.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But David could not go before it to inquire of God; for he was afraid because of the sword of the angel of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

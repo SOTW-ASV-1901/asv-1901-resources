@@ -1,0 +1,508 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "1CH.7.1",
+      "edition_verse_id": "ASV1901:1CH.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And of the sons of Issachar: Tola, and Puah, Jashub, and Shimron, four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.2",
+      "edition_verse_id": "ASV1901:1CH.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the sons of Tola: Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Ibsam, and Shemuel, heads of their fathers’ houses, ",
+          "kind": "text"
+        },
+        {
+          "text": "to wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of Tola; mighty men of valor in their generations: their number in the days of David was two and twenty thousand and six hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.3",
+      "edition_verse_id": "ASV1901:1CH.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the sons of Uzzi: Izrahiah. And the sons of Izrahiah: Michael, and Obadiah, and Joel, Isshiah, five; all of them chief men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.4",
+      "edition_verse_id": "ASV1901:1CH.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And with them, by their generations, after their fathers’ houses, were bands of the host for war, six and thirty thousand; for they had many wives and sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.5",
+      "edition_verse_id": "ASV1901:1CH.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And their brethren among all the families of Issachar, mighty men of valor, reckoned in all by genealogy, were fourscore and seven thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.6",
+      "edition_verse_id": "ASV1901:1CH.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The sons of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Benjamin: Bela, and Becher, and Jediael, three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.7",
+      "edition_verse_id": "ASV1901:1CH.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the sons of Bela: Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five; heads of fathers’ houses, mighty men of valor; and they were reckoned by genealogy twenty and two thousand and thirty and four.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.8",
+      "edition_verse_id": "ASV1901:1CH.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the sons of Becher: Zemirah, and Joash, and Eliezer, and Elioenai, and Omri, and Jeremoth, and Abijah, and Anathoth, and Alemeth. All these were the sons of Becher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.9",
+      "edition_verse_id": "ASV1901:1CH.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they were reckoned by genealogy, after their generations, heads of their fathers’ houses, mighty men of valor, twenty thousand and two hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.10",
+      "edition_verse_id": "ASV1901:1CH.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the sons of Jediael: Bilhan. And the sons of Bilhan: Jeush, and Benjamin, and Ehud, and Chenaanah, and Zethan, and Tarshish, and Ahishahar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.11",
+      "edition_verse_id": "ASV1901:1CH.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "All these were sons of Jediael, according to the heads of their fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": ", mighty men of valor, seventeen thousand and two hundred, that were able to go forth in the host for war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.12",
+      "edition_verse_id": "ASV1901:1CH.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Shuppim also, and Huppim, the sons of Ir, Hushim, the sons of Aher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.13",
+      "edition_verse_id": "ASV1901:1CH.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The sons of Naphtali: Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.14",
+      "edition_verse_id": "ASV1901:1CH.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The sons of Manasseh: Asriel, whom his concubine the Aramitess bare; she bare Machir the father of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.15",
+      "edition_verse_id": "ASV1901:1CH.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Machir took a wife of Huppim and Shuppim, whose sister’s name was Maacah; and the name of the second was Zelophehad: and Zelophehad had daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.16",
+      "edition_verse_id": "ASV1901:1CH.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Maacah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.17",
+      "edition_verse_id": "ASV1901:1CH.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the sons of Ulam: Bedan. These were the sons of Gilead the son of Machir, the son of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.18",
+      "edition_verse_id": "ASV1901:1CH.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And his sister Hammolecheth bare Ishhod, and Abiezer, and Mahlah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.19",
+      "edition_verse_id": "ASV1901:1CH.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the sons of Shemida were Ahian, and Shechem, and Likhi, and Aniam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.20",
+      "edition_verse_id": "ASV1901:1CH.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the sons of Ephraim: Shuthelah, and Bered his son, and Tahath his son, and Eleadah his son, and Tahath his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.21",
+      "edition_verse_id": "ASV1901:1CH.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath that were born in the land slew, because they came down to take away their cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.22",
+      "edition_verse_id": "ASV1901:1CH.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Ephraim their father mourned many days, and his brethren came to comfort him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.23",
+      "edition_verse_id": "ASV1901:1CH.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he went in to his wife, and she conceived, and bare a son, and he called his name Beriah, because it went evil with his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.24",
+      "edition_verse_id": "ASV1901:1CH.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And his daughter was Sheerah, who built Beth-horon the nether and the upper, and Uzzen-sheerah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.25",
+      "edition_verse_id": "ASV1901:1CH.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Rephah was his son, and Resheph, and Telah his son, and Tahan his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.26",
+      "edition_verse_id": "ASV1901:1CH.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Ladan his son, Ammihud his son, Elishama his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.27",
+      "edition_verse_id": "ASV1901:1CH.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Nun his son, Joshua his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.28",
+      "edition_verse_id": "ASV1901:1CH.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And their possessions and habitations were Beth-el and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Azzah and the towns thereof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.29",
+      "edition_verse_id": "ASV1901:1CH.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and by the borders of the children of Manasseh, Beth-shean and its towns, Taanach and its towns, Megiddo and its towns, Dor and its towns. In these dwelt the children of Joseph the son of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.30",
+      "edition_verse_id": "ASV1901:1CH.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The sons of Asher: Imnah, and Ishvah, and Ishvi, and Beriah, and Serah their sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.31",
+      "edition_verse_id": "ASV1901:1CH.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the sons of Beriah: Heber, and Malchiel, who was the father of Birzaith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.32",
+      "edition_verse_id": "ASV1901:1CH.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.33",
+      "edition_verse_id": "ASV1901:1CH.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the sons of Japhlet: Pasach, and Bimhal, and Ashvath. These are the children of Japhlet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.34",
+      "edition_verse_id": "ASV1901:1CH.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the sons of Shemer: Ahi, and Rohgah, Jehubbah, and Aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.35",
+      "edition_verse_id": "ASV1901:1CH.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the sons of Helem his brother: Zophah, and Imna, and Shelesh, and Amal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.36",
+      "edition_verse_id": "ASV1901:1CH.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The sons of Zophah: Suah, and Harnepher, and Shual, and Beri, and Imrah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.37",
+      "edition_verse_id": "ASV1901:1CH.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.38",
+      "edition_verse_id": "ASV1901:1CH.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the sons of Jether: Jephunneh, and Pispa, and Ara.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.39",
+      "edition_verse_id": "ASV1901:1CH.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the sons of Ulla: Arah, and Hanniel, and Rizia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.40",
+      "edition_verse_id": "ASV1901:1CH.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "All these were the children of Asher, heads of the fathers’ houses, choice and mighty men of valor, chief of the princes. And the number of them reckoned by genealogy for service in war was twenty and six thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

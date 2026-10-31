@@ -1,0 +1,472 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "1CH.29.1",
+      "edition_verse_id": "ASV1901:1CH.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And David the king said unto all the assembly, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great; for the palace is not for man, but for Jehovah God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.2",
+      "edition_verse_id": "ASV1901:1CH.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now I have prepared with all my might for the house of my God the gold for the ",
+          "kind": "text"
+        },
+        {
+          "text": "things of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, and the silver for the ",
+          "kind": "text"
+        },
+        {
+          "text": "things of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver, and the brass for the ",
+          "kind": "text"
+        },
+        {
+          "text": "things of",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass, the iron for the ",
+          "kind": "text"
+        },
+        {
+          "text": "things of",
+          "kind": "supplied"
+        },
+        {
+          "text": " iron, and wood for the ",
+          "kind": "text"
+        },
+        {
+          "text": "things of",
+          "kind": "supplied"
+        },
+        {
+          "text": " wood; onyx stones, and ",
+          "kind": "text"
+        },
+        {
+          "text": "stones",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be set, stones for inlaid work, and of divers colors, and all manner of precious stones, and marble stones in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.3",
+      "edition_verse_id": "ASV1901:1CH.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Moreover also, because I have set my affection on the house of my God, seeing that I have a treasure of mine own of gold and silver, I give it unto the house of my God, over and above all that I have prepared for the holy house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.4",
+      "edition_verse_id": "ASV1901:1CH.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, wherewith to overlay the walls of the houses;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.5",
+      "edition_verse_id": "ASV1901:1CH.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "of gold for the ",
+          "kind": "text"
+        },
+        {
+          "text": "things of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, and of silver for the ",
+          "kind": "text"
+        },
+        {
+          "text": "things of",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver, and for all manner of work ",
+          "kind": "text"
+        },
+        {
+          "text": "to be made",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the hands of artificers. Who then offereth willingly to consecrate himself this day unto Jehovah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.6",
+      "edition_verse_id": "ASV1901:1CH.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the princes of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers over the king’s work, offered willingly;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.7",
+      "edition_verse_id": "ASV1901:1CH.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and they gave for the service of the house of God of gold five thousand talents and ten thousand darics, and of silver ten thousand talents, and of brass eighteen thousand talents, and of iron a hundred thousand talents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.8",
+      "edition_verse_id": "ASV1901:1CH.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they with whom ",
+          "kind": "text"
+        },
+        {
+          "text": "precious",
+          "kind": "supplied"
+        },
+        {
+          "text": " stones were found gave them to the treasure of the house of Jehovah, under the hand of Jehiel the Gershonite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.9",
+      "edition_verse_id": "ASV1901:1CH.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the people rejoiced, for that they offered willingly, because with a perfect heart they offered willingly to Jehovah: and David the king also rejoiced with great joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.10",
+      "edition_verse_id": "ASV1901:1CH.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Wherefore David blessed Jehovah before all the assembly; and David said, Blessed be thou, O Jehovah, the God of Israel our father, for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.11",
+      "edition_verse_id": "ASV1901:1CH.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thine, O Jehovah, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heavens and in the earth ",
+          "kind": "text"
+        },
+        {
+          "text": "is thine",
+          "kind": "supplied"
+        },
+        {
+          "text": "; thine is the kingdom, O Jehovah, and thou art exalted as head above all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.12",
+      "edition_verse_id": "ASV1901:1CH.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Both riches and honor come of thee, and thou rulest over all; and in thy hand is power and might; and in thy hand it is to make great, and to give strength unto all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.13",
+      "edition_verse_id": "ASV1901:1CH.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now therefore, our God, we thank thee, and praise thy glorious name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.14",
+      "edition_verse_id": "ASV1901:1CH.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.15",
+      "edition_verse_id": "ASV1901:1CH.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For we are strangers before thee, and sojourners, as all our fathers were: our days on the earth are as a shadow, and there is no abiding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.16",
+      "edition_verse_id": "ASV1901:1CH.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "O Jehovah our God, all this store that we have prepared to build thee a house for thy holy name cometh of thy hand, and is all thine own.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.17",
+      "edition_verse_id": "ASV1901:1CH.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of my heart I have willingly offered all these things: and now have I seen with joy thy people, that are present here, offer willingly unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.18",
+      "edition_verse_id": "ASV1901:1CH.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "O Jehovah, the God of Abraham, of Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.19",
+      "edition_verse_id": "ASV1901:1CH.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and give unto Solomon my son a perfect heart, to keep thy commandments, thy testimonies, and thy statutes, and to do all these things, and to build the palace, for which I have made provision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.20",
+      "edition_verse_id": "ASV1901:1CH.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And David said to all the assembly, Now bless Jehovah your God. And all the assembly blessed Jehovah, the God of their fathers, and bowed down their heads, and worshipped Jehovah, and the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.21",
+      "edition_verse_id": "ASV1901:1CH.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they sacrificed sacrifices unto Jehovah, and offered burnt-offerings unto Jehovah, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink-offerings, and sacrifices in abundance for all Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.22",
+      "edition_verse_id": "ASV1901:1CH.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "and did eat and drink before Jehovah on that day with great gladness.And they made Solomon the son of David king the second time, and anointed him unto Jehovah to be prince, and Zadok to be priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.23",
+      "edition_verse_id": "ASV1901:1CH.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then Solomon sat on the throne of Jehovah as king instead of David his father, and prospered; and all Israel obeyed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.24",
+      "edition_verse_id": "ASV1901:1CH.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And all the princes, and the mighty men, and all the sons likewise of king David, submitted themselves unto Solomon the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.25",
+      "edition_verse_id": "ASV1901:1CH.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Jehovah magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.26",
+      "edition_verse_id": "ASV1901:1CH.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Now David the son of Jesse reigned over all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.27",
+      "edition_verse_id": "ASV1901:1CH.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three ",
+          "kind": "text"
+        },
+        {
+          "text": "years",
+          "kind": "supplied"
+        },
+        {
+          "text": " reigned he in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.28",
+      "edition_verse_id": "ASV1901:1CH.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he died in a good old age, full of days, riches, and honor: and Solomon his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.29",
+      "edition_verse_id": "ASV1901:1CH.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Now the acts of David the king, first and last, behold, they are written in the history of Samuel the seer, and in the history of Nathan the prophet, and in the history of Gad the seer,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.30",
+      "edition_verse_id": "ASV1901:1CH.29.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "with all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

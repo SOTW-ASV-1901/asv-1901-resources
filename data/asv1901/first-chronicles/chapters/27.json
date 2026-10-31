@@ -1,0 +1,516 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "1CH.27.1",
+      "edition_verse_id": "ASV1901:1CH.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the children of Israel after their number, ",
+          "kind": "text"
+        },
+        {
+          "text": "to wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the heads of fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " and the captains of thousands and of hundreds, and their officers that served the king, in any matter of the courses which came in and went out month by month throughout all the months of the year—of every course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.27.2",
+      "edition_verse_id": "ASV1901:1CH.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.3",
+      "edition_verse_id": "ASV1901:1CH.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He was",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Perez, the chief of all the captains of the host for the first month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.4",
+      "edition_verse_id": "ASV1901:1CH.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And over the course of the second month was Dodai the Ahohite, and his course; and Mikloth the ruler: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.5",
+      "edition_verse_id": "ASV1901:1CH.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The third captain of the host for the third month was Benaiah, the son of Jehoiada the priest, chief: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.6",
+      "edition_verse_id": "ASV1901:1CH.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This is that Benaiah, who was the mighty man of the thirty, and over the thirty: and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his course was Ammizabad his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.7",
+      "edition_verse_id": "ASV1901:1CH.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.8",
+      "edition_verse_id": "ASV1901:1CH.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The fifth captain for the fifth month was Shamhuth the Izrahite: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.9",
+      "edition_verse_id": "ASV1901:1CH.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The sixth ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the sixth month was Ira the son of Ikkesh the Tekoite: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.10",
+      "edition_verse_id": "ASV1901:1CH.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The seventh ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.11",
+      "edition_verse_id": "ASV1901:1CH.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The eighth ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the eighth month was Sibbecai the Hushathite, of the Zerahites: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.12",
+      "edition_verse_id": "ASV1901:1CH.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The ninth ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the ninth month was Abiezer the Anathothite, of the Benjamites: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.13",
+      "edition_verse_id": "ASV1901:1CH.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the tenth month was Maharai the Netophathite, of the Zerahites: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.14",
+      "edition_verse_id": "ASV1901:1CH.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The eleventh ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.15",
+      "edition_verse_id": "ASV1901:1CH.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The twelfth ",
+          "kind": "text"
+        },
+        {
+          "text": "captain",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the twelfth month was Heldai the Netophathite, of Othniel: and in his course were twenty and four thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.16",
+      "edition_verse_id": "ASV1901:1CH.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Furthermore over the tribes of Israel: of the Reubenites was Eliezer the son of Zichri the ruler: of the Simeonites, Shephatiah the son of Maacah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.27.17",
+      "edition_verse_id": "ASV1901:1CH.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "of Levi, Hashabiah the son of Kemuel: of Aaron, Zadok:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.18",
+      "edition_verse_id": "ASV1901:1CH.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.19",
+      "edition_verse_id": "ASV1901:1CH.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jeremoth the son of Azriel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.20",
+      "edition_verse_id": "ASV1901:1CH.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "of the children of Ephraim, Hoshea the son of Azaziah: of the half-tribe of Manasseh, Joel the son of Pedaiah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.21",
+      "edition_verse_id": "ASV1901:1CH.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "of the half-",
+          "kind": "text"
+        },
+        {
+          "text": "tribe",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.22",
+      "edition_verse_id": "ASV1901:1CH.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "of Dan, Azarel the son of Jeroham. These were the captains of the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.23",
+      "edition_verse_id": "ASV1901:1CH.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But David took not the number of them from twenty years old and under, because Jehovah had said he would increase Israel like to the stars of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.24",
+      "edition_verse_id": "ASV1901:1CH.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Joab the son of Zeruiah began to number, but finished not; and there came wrath for this upon Israel; neither was the number put into the account in the chronicles of king David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.25",
+      "edition_verse_id": "ASV1901:1CH.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And over the king’s treasures was Azmaveth the son of Adiel: and over the treasures in the fields, in the cities, and in the villages, and in the castles, was Jonathan the son of Uzziah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.27.26",
+      "edition_verse_id": "ASV1901:1CH.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and over them that did the work of the field for tillage of the ground was Ezri the son of Chelub:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.27",
+      "edition_verse_id": "ASV1901:1CH.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and over the vineyards was Shimei the Ramathite: and over the increase of the vineyards for the wine-cellars was Zabdi the Shiphmite:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.28",
+      "edition_verse_id": "ASV1901:1CH.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and over the olive-trees and the sycomore-trees that were in the lowland was Baal-hanan the Gederite: and over the cellars of oil was Joash:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.29",
+      "edition_verse_id": "ASV1901:1CH.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and over the herds that fed in Sharon was Shitrai the Sharonite: and over the herds that were in the valleys was Shaphat the son of Adlai:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.30",
+      "edition_verse_id": "ASV1901:1CH.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and over the camels was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite: and over the flocks was Jaziz the Hagrite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.31",
+      "edition_verse_id": "ASV1901:1CH.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "All these were the rulers of the substance which was king David’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.32",
+      "edition_verse_id": "ASV1901:1CH.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Also Jonathan, David’s uncle, was a counsellor, a man of understanding, and a scribe: and Jehiel the son of Hachmoni was with the king’s sons:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.27.33",
+      "edition_verse_id": "ASV1901:1CH.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "and Ahithophel was the king’s counsellor: and Hushai the Archite was the king’s friend:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.27.34",
+      "edition_verse_id": "ASV1901:1CH.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "and after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the captain of the king’s host was Joab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

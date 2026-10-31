@@ -1,0 +1,692 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1CH.2.1",
+      "edition_verse_id": "ASV1901:1CH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the sons of Israel: Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.2",
+      "edition_verse_id": "ASV1901:1CH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.3",
+      "edition_verse_id": "ASV1901:1CH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sons of Judah: Er, and Onan, and Shelah; which three were born unto him of Shua’s daughter the Canaanitess. And Er, Judah’s first-born, was wicked in the sight of Jehovah; and he slew him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.4",
+      "edition_verse_id": "ASV1901:1CH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Tamar his daughter-in-law bare him Perez and Zerah. All the sons of Judah were five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.5",
+      "edition_verse_id": "ASV1901:1CH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sons of Perez: Hezron, and Hamul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.6",
+      "edition_verse_id": "ASV1901:1CH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the sons of Zerah: Zimri, and Ethan, and Heman, and Calcol, and Dara; five of them in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.7",
+      "edition_verse_id": "ASV1901:1CH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the sons of Carmi: Achar, the troubler of Israel, who committed a trespass in the devoted thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.8",
+      "edition_verse_id": "ASV1901:1CH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the sons of Ethan: Azariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.9",
+      "edition_verse_id": "ASV1901:1CH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The sons also of Hezron, that were born unto him: Jerahmeel, and Ram, and Chelubai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.10",
+      "edition_verse_id": "ASV1901:1CH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Ram begat Amminadab, and Amminadab begat Nahshon, prince of the children of Judah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.11",
+      "edition_verse_id": "ASV1901:1CH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and Nahshon begat Salma, and Salma begat Boaz,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.12",
+      "edition_verse_id": "ASV1901:1CH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and Boaz begat Obed, and Obed begat Jesse;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.13",
+      "edition_verse_id": "ASV1901:1CH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and Jesse begat his first-born Eliab, and Abinadab the second, and Shimea the third,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.14",
+      "edition_verse_id": "ASV1901:1CH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Nethanel the fourth, Raddai the fifth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.15",
+      "edition_verse_id": "ASV1901:1CH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ozem the sixth, David the seventh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.16",
+      "edition_verse_id": "ASV1901:1CH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and their sisters were Zeruiah and Abigail. And the sons of Zeruiah: Abishai, and Joab, and Asahel, three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.17",
+      "edition_verse_id": "ASV1901:1CH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Abigail bare Amasa; and the father of Amasa was Jether the Ishmaelite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.18",
+      "edition_verse_id": "ASV1901:1CH.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Caleb the son of Hezron begat ",
+          "kind": "text"
+        },
+        {
+          "text": "children",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Azubah ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " wife, and of Jerioth; and these were her sons: Jesher, and Shobab, and Ardon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.19",
+      "edition_verse_id": "ASV1901:1CH.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Azubah died, and Caleb took unto him Ephrath, who bare him Hur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.20",
+      "edition_verse_id": "ASV1901:1CH.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Hur begat Uri, and Uri begat Bezalel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.21",
+      "edition_verse_id": "ASV1901:1CH.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he took ",
+          "kind": "text"
+        },
+        {
+          "text": "to wife",
+          "kind": "supplied"
+        },
+        {
+          "text": " when he was threescore years old; and she bare him Segub.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.22",
+      "edition_verse_id": "ASV1901:1CH.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Segub begat Jair, who had three and twenty cities in the land of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.23",
+      "edition_verse_id": "ASV1901:1CH.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Geshur and Aram took the towns of Jair from them, with Kenath, and the villages thereof, even threescore cities. All these were the sons of Machir the father of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.24",
+      "edition_verse_id": "ASV1901:1CH.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And after that Hezron was dead in Caleb-ephrathah, then Abijah Hezron’s wife bare him Ashhur the father of Tekoa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.25",
+      "edition_verse_id": "ASV1901:1CH.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the sons of Jerahmeel the first-born of Hezron were Ram the first-born, and Bunah, and Oren, and Ozem, Ahijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.26",
+      "edition_verse_id": "ASV1901:1CH.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Jerahmeel had another wife, whose name was Atarah; she was the mother of Onam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.27",
+      "edition_verse_id": "ASV1901:1CH.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the sons of Ram the first-born of Jerahmeel were Maaz, and Jamin, and Eker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.28",
+      "edition_verse_id": "ASV1901:1CH.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the sons of Onam were Shammai, and Jada. And the sons of Shammai: Nadab, and Abishur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.29",
+      "edition_verse_id": "ASV1901:1CH.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the name of the wife of Abishur was Abihail; and she bare him Ahban, and Molid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.30",
+      "edition_verse_id": "ASV1901:1CH.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the sons of Nadab: Seled, and Appaim; but Seled died without children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.31",
+      "edition_verse_id": "ASV1901:1CH.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the sons of Appaim: Ishi. And the sons of Ishi: Sheshan. And the sons of Sheshan: Ahlai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.32",
+      "edition_verse_id": "ASV1901:1CH.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the sons of Jada the brother of Shammai: Jether, and Jonathan; and Jether died without children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.33",
+      "edition_verse_id": "ASV1901:1CH.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the sons of Jonathan: Peleth, and Zaza. These were the sons of Jerahmeel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.34",
+      "edition_verse_id": "ASV1901:1CH.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name was Jarha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.35",
+      "edition_verse_id": "ASV1901:1CH.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.36",
+      "edition_verse_id": "ASV1901:1CH.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Attai begat Nathan, and Nathan begat Zabad,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.37",
+      "edition_verse_id": "ASV1901:1CH.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "and Zabad begat Ephlal, and Ephlal begat Obed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.38",
+      "edition_verse_id": "ASV1901:1CH.2.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "and Obed begat Jehu, and Jehu begat Azariah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.39",
+      "edition_verse_id": "ASV1901:1CH.2.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and Azariah begat Helez, and Helez begat Eleasah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.40",
+      "edition_verse_id": "ASV1901:1CH.2.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "and Eleasah begat Sismai, and Sismai begat Shallum,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.41",
+      "edition_verse_id": "ASV1901:1CH.2.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "and Shallum begat Jekamiah, and Jekamiah begat Elishama.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.42",
+      "edition_verse_id": "ASV1901:1CH.2.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And the sons of Caleb the brother of Jerahmeel were Mesha his first-born, who was the father of Ziph; and the sons of Mareshah the father of Hebron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.43",
+      "edition_verse_id": "ASV1901:1CH.2.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And the sons of Hebron: Korah, and Tappuah, and Rekem, and Shema.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.44",
+      "edition_verse_id": "ASV1901:1CH.2.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Shema begat Raham, the father of Jorkeam; and Rekem begat Shammai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.45",
+      "edition_verse_id": "ASV1901:1CH.2.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And the son of Shammai was Maon; and Maon was the father of Beth-zur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.46",
+      "edition_verse_id": "ASV1901:1CH.2.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Ephah, Caleb’s concubine, bare Haran, and Moza, and Gazez; and Haran begat Gazez.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.47",
+      "edition_verse_id": "ASV1901:1CH.2.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And the sons of Jahdai: Regem, and Jothan, and Geshan, and Pelet, and Ephah, and Shaaph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.48",
+      "edition_verse_id": "ASV1901:1CH.2.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Maacah, Caleb’s concubine, bare Sheber and Tirhanah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.49",
+      "edition_verse_id": "ASV1901:1CH.2.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "She bare also Shaaph the father of Madmannah, Sheva the father of Machbena, and the father of Gibea; and the daughter of Caleb was Achsah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.50",
+      "edition_verse_id": "ASV1901:1CH.2.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "These were the sons of Caleb, the son of Hur, the first-born of Ephrathah: Shobal the father of Kiriath-jearim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.51",
+      "edition_verse_id": "ASV1901:1CH.2.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Salma the father of Beth-lehem, Hareph the father of Beth-gader.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.52",
+      "edition_verse_id": "ASV1901:1CH.2.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And Shobal the father of Kiriath-jearim had sons: Haroeh, half of the Menuhoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.53",
+      "edition_verse_id": "ASV1901:1CH.2.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And the families of Kiriath-jearim: The Ithrites, and the Puthites, and the Shumathites, and the Mishraites; of them came the Zorathites and the Eshtaolites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.54",
+      "edition_verse_id": "ASV1901:1CH.2.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "The sons of Salma: Beth-lehem, and the Netophathites, Atroth-beth-joab, and half of the Manahathites, the Zorites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.55",
+      "edition_verse_id": "ASV1901:1CH.2.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And the families of scribes that dwelt at Jabez: the Tirathites, the Shimeathites, the Sucathites. These are the Kenites that came of Hammath, the father of the house of Rechab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CH",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "1CH.28.1",
+      "edition_verse_id": "ASV1901:1CH.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that served the king by course, and the captains of thousands, and the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers, and the mighty men, even all the mighty men of valor, unto Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.2",
+      "edition_verse_id": "ASV1901:1CH.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: as for me, it was in my heart to build a house of rest for the ark of the covenant of Jehovah, and for the footstool of our God; and I had made ready for the building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.3",
+      "edition_verse_id": "ASV1901:1CH.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But God said unto me, Thou shalt not build a house for my name, because thou art a man of war, and hast shed blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.4",
+      "edition_verse_id": "ASV1901:1CH.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Howbeit Jehovah, the God of Israel, chose me out of all the house of my father to be king over Israel for ever: for he hath chosen Judah to be prince; and in the house of Judah, the house of my father; and among the sons of my father he took pleasure in me to make me king over all Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.5",
+      "edition_verse_id": "ASV1901:1CH.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and of all my sons (for Jehovah hath given me many sons), he hath chosen Solomon my son to sit upon the throne of the kingdom of Jehovah over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.6",
+      "edition_verse_id": "ASV1901:1CH.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said unto me, Solomon thy son, he shall build my house and my courts; for I have chosen him to be my son, and I will be his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.7",
+      "edition_verse_id": "ASV1901:1CH.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I will establish his kingdom for ever, if he be constant to do my commandments and mine ordinances, as at this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.8",
+      "edition_verse_id": "ASV1901:1CH.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now therefore, in the sight of all Israel, the assembly of Jehovah, and in the audience of our God, observe and seek out all the commandments of Jehovah your God; that ye may possess this good land, and leave it for an inheritance to your children after you for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.9",
+      "edition_verse_id": "ASV1901:1CH.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind; for Jehovah searcheth all hearts, and understandeth all the imaginations of the thoughts. If thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.10",
+      "edition_verse_id": "ASV1901:1CH.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Take heed now; for Jehovah hath chosen thee to build a house for the sanctuary: be strong, and do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.11",
+      "edition_verse_id": "ASV1901:1CH.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then David gave to Solomon his son the pattern of the porch ",
+          "kind": "text"
+        },
+        {
+          "text": "of the temple",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and of the houses thereof, and of the treasuries thereof, and of the upper rooms thereof, and of the inner chambers thereof, and of the place of the mercy-seat;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.12",
+      "edition_verse_id": "ASV1901:1CH.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and the pattern of all that he had by the Spirit, for the courts of the house of Jehovah, and for all the chambers round about, for the treasuries of the house of God, and for the treasuries of the dedicated things;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.13",
+      "edition_verse_id": "ASV1901:1CH.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "also for the courses of the priests and the Levites, and for all the work of the service of the house of Jehovah, and for all the vessels of service in the house of Jehovah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.14",
+      "edition_verse_id": "ASV1901:1CH.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "of gold by weight for the ",
+          "kind": "text"
+        },
+        {
+          "text": "vessels of",
+          "kind": "supplied"
+        },
+        {
+          "text": " gold, for all vessels of every kind of service; ",
+          "kind": "text"
+        },
+        {
+          "text": "of silver",
+          "kind": "supplied"
+        },
+        {
+          "text": " for all the vessels of silver by weight, for all vessels of every kind of service;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.15",
+      "edition_verse_id": "ASV1901:1CH.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "by weight also for the candlesticks of gold, and for the lamps thereof, of gold, by weight for every candlestick and for the lamps thereof; and for the candlesticks of silver, ",
+          "kind": "text"
+        },
+        {
+          "text": "silver",
+          "kind": "supplied"
+        },
+        {
+          "text": " by weight for ",
+          "kind": "text"
+        },
+        {
+          "text": "every",
+          "kind": "supplied"
+        },
+        {
+          "text": " candlestick and for the lamps thereof, according to the use of every candlestick;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.16",
+      "edition_verse_id": "ASV1901:1CH.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and the gold by weight for the tables of showbread, for every table; and silver for the tables of silver;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.17",
+      "edition_verse_id": "ASV1901:1CH.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and the flesh-hooks, and the basins, and the cups, of pure gold; and for the golden bowls by weight for every bowl; and for the silver bowls by weight for every bowl;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.18",
+      "edition_verse_id": "ASV1901:1CH.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and for the altar of incense refined gold by weight; and gold for the pattern of the chariot, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cherubim, that spread out ",
+          "kind": "text"
+        },
+        {
+          "text": "their wings",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and covered the ark of the covenant of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.19",
+      "edition_verse_id": "ASV1901:1CH.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All this, ",
+          "kind": "text"
+        },
+        {
+          "text": "said David",
+          "kind": "supplied"
+        },
+        {
+          "text": ", have I been made to understand in writing from the hand of Jehovah, even all the works of this pattern.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.20",
+      "edition_verse_id": "ASV1901:1CH.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed; for Jehovah God, even my God, is with thee; he will not fail thee, nor forsake thee, until all the work for the service of the house of Jehovah be finished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.21",
+      "edition_verse_id": "ASV1901:1CH.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And, behold, there are the courses of the priests and the Levites, for all the service of the house of God: and there shall be with thee in all manner of work every willing man that hath skill, for any manner of service: also the captains and all the people will be wholly at thy commandment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
