@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2KI",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "2KI.25.1",
+      "edition_verse_id": "ASV1901:2KI.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.2",
+      "edition_verse_id": "ASV1901:2KI.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So the city was besieged unto the eleventh year of king Zedekiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.3",
+      "edition_verse_id": "ASV1901:2KI.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "On the ninth day of the ",
+          "kind": "text"
+        },
+        {
+          "text": "fourth",
+          "kind": "supplied"
+        },
+        {
+          "text": " month the famine was sore in the city, so that there was no bread for the people of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.4",
+      "edition_verse_id": "ASV1901:2KI.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then a breach was made in the city, and all the men of war ",
+          "kind": "text"
+        },
+        {
+          "text": "fled",
+          "kind": "supplied"
+        },
+        {
+          "text": " by night by the way of the gate between the two walls, which was by the king’s garden (now the Chaldeans were against the city round about); and ",
+          "kind": "text"
+        },
+        {
+          "text": "the king",
+          "kind": "supplied"
+        },
+        {
+          "text": " went by the way of the Arabah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.5",
+      "edition_verse_id": "ASV1901:2KI.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But the army of the Chaldeans pursued after the king, and overtook him in the plains of Jericho; and all his army was scattered from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.6",
+      "edition_verse_id": "ASV1901:2KI.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then they took the king, and carried him up unto the king of Babylon to Riblah; and they gave judgment upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.7",
+      "edition_verse_id": "ASV1901:2KI.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him in fetters, and carried him to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.8",
+      "edition_verse_id": "ASV1901:2KI.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now in the fifth month, on the seventh day of the month, which was the nineteenth year of king Nebuchadnezzar, king of Babylon, came Nebuzaradan the captain of the guard, a servant of the king of Babylon, unto Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.9",
+      "edition_verse_id": "ASV1901:2KI.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he burnt the house of Jehovah, and the king’s house; and all the houses of Jerusalem, even every great house, burnt he with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.10",
+      "edition_verse_id": "ASV1901:2KI.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And all the army of the Chaldeans, that were ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " the captain of the guard, brake down the walls of Jerusalem round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.11",
+      "edition_verse_id": "ASV1901:2KI.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the residue of the people that were left in the city, and those that fell away, that fell to the king of Babylon, and the residue of the multitude, did Nebuzaradan the captain of the guard carry away captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.12",
+      "edition_verse_id": "ASV1901:2KI.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But the captain of the guard left of the poorest of the land to be vinedressers and husbandmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.13",
+      "edition_verse_id": "ASV1901:2KI.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the pillars of brass that were in the house of Jehovah, and the bases and the brazen sea that were in the house of Jehovah, did the Chaldeans break in pieces, and carried the brass of them to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.14",
+      "edition_verse_id": "ASV1901:2KI.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.15",
+      "edition_verse_id": "ASV1901:2KI.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the firepans, and the basins, that which was of gold, in gold, and that which was of silver, in silver, the captain of the guard took away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.16",
+      "edition_verse_id": "ASV1901:2KI.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The two pillars, the one sea, and the bases, which Solomon had made for the house of Jehovah, the brass of all these vessels was without weight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.17",
+      "edition_verse_id": "ASV1901:2KI.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The height of the one pillar was eighteen cubits, and a capital of brass was upon it; and the height of the capital was three cubits, with network and pomegranates upon the capital round about, all of brass: and like unto these had the second pillar with network.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.18",
+      "edition_verse_id": "ASV1901:2KI.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the threshold:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.19",
+      "edition_verse_id": "ASV1901:2KI.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and out of the city he took an officer that was set over the men of war; and five men of them that saw the king’s face, who were found in the city; and the scribe, the captain of the host, who mustered the people of the land; and threescore men of the people of the land, that were found in the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.20",
+      "edition_verse_id": "ASV1901:2KI.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Nebuzaradan the captain of the guard took them, and brought them to the king of Babylon to Riblah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.21",
+      "edition_verse_id": "ASV1901:2KI.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the king of Babylon smote them, and put them to death at Riblah in the land of Hamath. So Judah was carried away captive out of his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.22",
+      "edition_verse_id": "ASV1901:2KI.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And as for the people that were left in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, governor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.23",
+      "edition_verse_id": "ASV1901:2KI.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now when all the captains of the forces, they and their men, heard that the king of Babylon had made Gedaliah governor, they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Kareah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of the Maacathite, they and their men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.24",
+      "edition_verse_id": "ASV1901:2KI.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Gedaliah sware to them and to their men, and said unto them, Fear not because of the servants of the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.25",
+      "edition_verse_id": "ASV1901:2KI.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, so that he died, and the Jews and the Chaldeans that were with him at Mizpah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.26",
+      "edition_verse_id": "ASV1901:2KI.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And all the people, both small and great, and the captains of the forces, arose, and came to Egypt; for they were afraid of the Chaldeans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.27",
+      "edition_verse_id": "ASV1901:2KI.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evil-merodach king of Babylon, in the year that he began to reign, did lift up the head of Jehoiachin king of Judah out of prison;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.25.28",
+      "edition_verse_id": "ASV1901:2KI.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.29",
+      "edition_verse_id": "ASV1901:2KI.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and changed his prison garments. And ",
+          "kind": "text"
+        },
+        {
+          "text": "Jehoiachin",
+          "kind": "supplied"
+        },
+        {
+          "text": " did eat bread before him continually all the days of his life:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.25.30",
+      "edition_verse_id": "ASV1901:2KI.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and for his allowance, there was a continual allowance given him of the king, every day a portion, all the days of his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

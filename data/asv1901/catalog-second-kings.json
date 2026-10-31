@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2KI",
+  "book_name": "2 Kings",
+  "book_order": 12,
+  "canonical_ids": "2KI.{chapter}.{verse}",
+  "edition_ids": "ASV1901:2KI.{chapter}.{verse}",
+  "chapter_count": 25,
+  "verse_count": 719,
+  "chapter_path_template": "second-kings/chapters/{chapter:02d}.json",
+  "facsimile_index": "second-kings/page-index.json",
+  "predecessor_book_code": "1KI",
+  "successor_book_code": "1CH",
+  "source_provenance": "books/second-kings/SOURCE_INVENTORY.json",
+  "reader": "books/second-kings/site/index.html",
+  "note": "Book-level resource metadata only; no cross-foundation master catalog or Strong’s word-alignment certification."
+}

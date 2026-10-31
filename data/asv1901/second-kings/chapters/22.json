@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2KI",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "2KI.22.1",
+      "edition_verse_id": "ASV1901:2KI.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Josiah was eight years old when he began to reign; and he reigned thirty and one years in Jerusalem: and his mother’s name was Jedidah the daughter of Adaiah of Bozkath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.2",
+      "edition_verse_id": "ASV1901:2KI.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he did that which was right in the eyes of Jehovah, and walked in all the way of David his father, and turned not aside to the right hand or to the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.3",
+      "edition_verse_id": "ASV1901:2KI.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan, the son of Azaliah the son of Meshullam, the scribe, to the house of Jehovah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.4",
+      "edition_verse_id": "ASV1901:2KI.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Go up to Hilkiah the high priest, that he may sum the money which is brought into the house of Jehovah, which the keepers of the threshold have gathered of the people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.5",
+      "edition_verse_id": "ASV1901:2KI.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and let them deliver it into the hand of the workmen that have the oversight of the house of Jehovah; and let them give it to the workmen that are in the house of Jehovah, to repair the breaches of the house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.6",
+      "edition_verse_id": "ASV1901:2KI.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "unto the carpenters, and to the builders, and to the masons, and for buying timber and hewn stone to repair the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.7",
+      "edition_verse_id": "ASV1901:2KI.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Howbeit there was no reckoning made with them of the money that was delivered into their hand; for they dealt faithfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.8",
+      "edition_verse_id": "ASV1901:2KI.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of Jehovah. And Hilkiah delivered the book to Shaphan, and he read it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.9",
+      "edition_verse_id": "ASV1901:2KI.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have emptied out the money that was found in the house, and have delivered it into the hand of the workmen that have the oversight of the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.10",
+      "edition_verse_id": "ASV1901:2KI.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Shaphan the scribe told the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.11",
+      "edition_verse_id": "ASV1901:2KI.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.12",
+      "edition_verse_id": "ASV1901:2KI.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Micaiah, and Shaphan the scribe, and Asaiah the king’s servant, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.13",
+      "edition_verse_id": "ASV1901:2KI.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Go ye, inquire of Jehovah for me, and for the people, and for all Judah, concerning the words of this book that is found; for great is the wrath of Jehovah that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.14",
+      "edition_verse_id": "ASV1901:2KI.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe (now she dwelt in Jerusalem in the second quarter); and they communed with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.22.15",
+      "edition_verse_id": "ASV1901:2KI.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And she said unto them, Thus saith Jehovah, the God of Israel: Tell ye the man that sent you unto me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.16",
+      "edition_verse_id": "ASV1901:2KI.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.17",
+      "edition_verse_id": "ASV1901:2KI.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the work of their hands, therefore my wrath shall be kindled against this place, and it shall not be quenched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.18",
+      "edition_verse_id": "ASV1901:2KI.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But unto the king of Judah, who sent you to inquire of Jehovah, thus shall ye say to him, Thus saith Jehovah, the God of Israel: As touching the words which thou hast heard,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.19",
+      "edition_verse_id": "ASV1901:2KI.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "because thy heart was tender, and thou didst humble thyself before Jehovah, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.22.20",
+      "edition_verse_id": "ASV1901:2KI.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Therefore, behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil which I will bring upon this place. And they brought the king word again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

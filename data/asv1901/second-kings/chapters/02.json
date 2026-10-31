@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2KI",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2KI.2.1",
+      "edition_verse_id": "ASV1901:2KI.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jehovah would take up Elijah by a whirlwind into heaven, that Elijah went with Elisha from Gilgal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.2.2",
+      "edition_verse_id": "ASV1901:2KI.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Elijah said unto Elisha, Tarry here, I pray thee; for Jehovah hath sent me as far as Beth-el. And Elisha said, As Jehovah liveth, and as thy soul liveth, I will not leave thee. So they went down to Beth-el.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.3",
+      "edition_verse_id": "ASV1901:2KI.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the sons of the prophets that were at Beth-el came forth to Elisha, and said unto him, Knowest thou that Jehovah will take away thy master from thy head to-day? And he said, Yea, I know it; hold ye your peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.4",
+      "edition_verse_id": "ASV1901:2KI.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Elijah said unto him, Elisha, tarry here, I pray thee; for Jehovah hath sent me to Jericho. And he said, As Jehovah liveth, and as thy soul liveth, I will not leave thee. So they came to Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.5",
+      "edition_verse_id": "ASV1901:2KI.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the sons of the prophets that were at Jericho came near to Elisha, and said unto him, Knowest thou that Jehovah will take away thy master from thy head to-day? And he answered, Yea, I know it; hold ye your peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.6",
+      "edition_verse_id": "ASV1901:2KI.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Elijah said unto him, Tarry here, I pray thee; for Jehovah hath sent me to the Jordan. And he said, As Jehovah liveth, and as thy soul liveth, I will not leave thee. And they two went on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.7",
+      "edition_verse_id": "ASV1901:2KI.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And fifty men of the sons of the prophets went, and stood over against them afar off: and they two stood by the Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.8",
+      "edition_verse_id": "ASV1901:2KI.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Elijah took his mantle, and wrapped it together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.9",
+      "edition_verse_id": "ASV1901:2KI.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I am taken from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.10",
+      "edition_verse_id": "ASV1901:2KI.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he said, Thou hast asked a hard thing: ",
+          "kind": "text"
+        },
+        {
+          "text": "nevertheless",
+          "kind": "supplied"
+        },
+        {
+          "text": ", if thou see me when I am taken from thee, it shall be so unto thee; but if not, it shall not be so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.11",
+      "edition_verse_id": "ASV1901:2KI.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, as they still went on, and talked, that, behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "there appeared",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chariot of fire, and horses of fire, which parted them both asunder; and Elijah went up by a whirlwind into heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.12",
+      "edition_verse_id": "ASV1901:2KI.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Elisha saw it, and he cried, My father, my father, the chariots of Israel and the horsemen thereof!And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.13",
+      "edition_verse_id": "ASV1901:2KI.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of the Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.2.14",
+      "edition_verse_id": "ASV1901:2KI.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is Jehovah, the God of Elijah? and when he also had smitten the waters, they were divided hither and thither; and Elisha went over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.15",
+      "edition_verse_id": "ASV1901:2KI.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And when the sons of the prophets that were at Jericho over against him saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.2.16",
+      "edition_verse_id": "ASV1901:2KI.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they said unto him, Behold now, there are with thy servants fifty strong men; let them go, we pray thee, and seek thy master, lest the Spirit of Jehovah hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.17",
+      "edition_verse_id": "ASV1901:2KI.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.18",
+      "edition_verse_id": "ASV1901:2KI.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they came back to him, while he tarried at Jericho; and he said unto them, Did I not say unto you, Go not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.19",
+      "edition_verse_id": "ASV1901:2KI.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the men of the city said unto Elisha, Behold, we pray thee, the situation of this city is pleasant, as my lord seeth: but the water is bad, and the land miscarrieth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.2.20",
+      "edition_verse_id": "ASV1901:2KI.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he said, Bring me a new cruse, and put salt therein. And they brought it to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.21",
+      "edition_verse_id": "ASV1901:2KI.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he went forth unto the spring of the waters, and cast salt therein, and said, Thus saith Jehovah, I have healed these waters; there shall not be from thence any more death or miscarrying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.22",
+      "edition_verse_id": "ASV1901:2KI.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So the waters were healed unto this day, according to the word of Elisha which he spake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.23",
+      "edition_verse_id": "ASV1901:2KI.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he went up from thence unto Beth-el; and as he was going up by the way, there came forth young lads out of the city, and mocked him, and said unto him, Go up, thou baldhead; go up, thou baldhead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.2.24",
+      "edition_verse_id": "ASV1901:2KI.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he looked behind him and saw them, and cursed them in the name of Jehovah. And there came forth two she-bears out of the wood, and tare forty and two lads of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.2.25",
+      "edition_verse_id": "ASV1901:2KI.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he went from thence to mount Carmel, and from thence he returned to Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

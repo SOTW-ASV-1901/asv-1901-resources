@@ -1,0 +1,348 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 400,
+      "type": "scripture",
+      "printed_page": 366,
+      "running_head_first_verse": "2KI.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2KI.1.1",
+      "last_verse": "2KI.1.18",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 401,
+      "type": "map",
+      "historical_description": "Original Nelson map: Canaan illustrating Kings 1:1\u201314:23"
+    },
+    {
+      "source_pdf_page": 402,
+      "type": "interleaf",
+      "historical_description": "Blank reverse of original historical map"
+    },
+    {
+      "source_pdf_page": 403,
+      "type": "scripture",
+      "printed_page": 367,
+      "running_head_first_verse": "2KI.2.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2KI.2.1",
+      "last_verse": "2KI.2.23",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 404,
+      "type": "scripture",
+      "printed_page": 368,
+      "running_head_first_verse": "2KI.2.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.2.23",
+      "last_verse": "2KI.3.23",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 405,
+      "type": "scripture",
+      "printed_page": 369,
+      "running_head_first_verse": "2KI.3.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.3.23",
+      "last_verse": "2KI.4.20",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 406,
+      "type": "scripture",
+      "printed_page": 370,
+      "running_head_first_verse": "2KI.4.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.4.20",
+      "last_verse": "2KI.5.1",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 407,
+      "type": "scripture",
+      "printed_page": 371,
+      "running_head_first_verse": "2KI.5.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.5.1",
+      "last_verse": "2KI.5.22",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 408,
+      "type": "scripture",
+      "printed_page": 372,
+      "running_head_first_verse": "2KI.5.23",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.5.22",
+      "last_verse": "2KI.6.21",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 409,
+      "type": "scripture",
+      "printed_page": 373,
+      "running_head_first_verse": "2KI.6.21",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2KI.6.21",
+      "last_verse": "2KI.7.9",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 410,
+      "type": "scripture",
+      "printed_page": 374,
+      "running_head_first_verse": "2KI.7.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.7.9",
+      "last_verse": "2KI.8.9",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 411,
+      "type": "scripture",
+      "printed_page": 375,
+      "running_head_first_verse": "2KI.8.10",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2KI.8.10",
+      "last_verse": "2KI.9.6",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 412,
+      "type": "scripture",
+      "printed_page": 376,
+      "running_head_first_verse": "2KI.9.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.9.6",
+      "last_verse": "2KI.9.27",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 413,
+      "type": "scripture",
+      "printed_page": 377,
+      "running_head_first_verse": "2KI.9.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.9.27",
+      "last_verse": "2KI.10.14",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 414,
+      "type": "scripture",
+      "printed_page": 378,
+      "running_head_first_verse": "2KI.10.15",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2KI.10.15",
+      "last_verse": "2KI.11.2",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 415,
+      "type": "scripture",
+      "printed_page": 379,
+      "running_head_first_verse": "2KI.11.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.11.2",
+      "last_verse": "2KI.12.4",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 416,
+      "type": "scripture",
+      "printed_page": 380,
+      "running_head_first_verse": "2KI.12.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.12.4",
+      "last_verse": "2KI.13.4",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 417,
+      "type": "scripture",
+      "printed_page": 381,
+      "running_head_first_verse": "2KI.13.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.13.4",
+      "last_verse": "2KI.14.3",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 418,
+      "type": "scripture",
+      "printed_page": 382,
+      "running_head_first_verse": "2KI.14.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.14.3",
+      "last_verse": "2KI.14.28",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 419,
+      "type": "scripture",
+      "printed_page": 383,
+      "running_head_first_verse": "2KI.14.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.14.28",
+      "last_verse": "2KI.15.25",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 420,
+      "type": "scripture",
+      "printed_page": 384,
+      "running_head_first_verse": "2KI.15.26",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2KI.15.26",
+      "last_verse": "2KI.16.13",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 421,
+      "type": "map",
+      "historical_description": "Original Nelson map: Western Asia illustrating Kings 15:1\u201325:30"
+    },
+    {
+      "source_pdf_page": 422,
+      "type": "interleaf",
+      "historical_description": "Blank reverse of original historical map"
+    },
+    {
+      "source_pdf_page": 423,
+      "type": "scripture",
+      "printed_page": 385,
+      "running_head_first_verse": "2KI.16.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.16.13",
+      "last_verse": "2KI.17.16",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 424,
+      "type": "scripture",
+      "printed_page": 386,
+      "running_head_first_verse": "2KI.17.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.17.16",
+      "last_verse": "2KI.17.39",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 425,
+      "type": "scripture",
+      "printed_page": 387,
+      "running_head_first_verse": "2KI.17.40",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.17.39",
+      "last_verse": "2KI.18.22",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 426,
+      "type": "scripture",
+      "printed_page": 388,
+      "running_head_first_verse": "2KI.18.23",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.18.22",
+      "last_verse": "2KI.19.8",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 427,
+      "type": "scripture",
+      "printed_page": 389,
+      "running_head_first_verse": "2KI.19.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.19.8",
+      "last_verse": "2KI.19.31",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 428,
+      "type": "scripture",
+      "printed_page": 390,
+      "running_head_first_verse": "2KI.19.32",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.19.31",
+      "last_verse": "2KI.20.17",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 429,
+      "type": "scripture",
+      "printed_page": 391,
+      "running_head_first_verse": "2KI.20.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.20.17",
+      "last_verse": "2KI.21.21",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 430,
+      "type": "scripture",
+      "printed_page": 392,
+      "running_head_first_verse": "2KI.21.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.21.21",
+      "last_verse": "2KI.22.19",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 431,
+      "type": "scripture",
+      "printed_page": 393,
+      "running_head_first_verse": "2KI.22.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.22.19",
+      "last_verse": "2KI.23.15",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers.",
+      "running_head_last_verse": "2KI.23.13",
+      "evidence_note": "Running head ends at 23:13 but printed text continues through part of 23:15, verified in original scan; 23:15 finishes on next Scripture page."
+    },
+    {
+      "source_pdf_page": 432,
+      "type": "scripture",
+      "printed_page": 394,
+      "running_head_first_verse": "2KI.23.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.23.15",
+      "last_verse": "2KI.23.36",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 433,
+      "type": "scripture",
+      "printed_page": 395,
+      "running_head_first_verse": "2KI.23.37",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.23.36",
+      "last_verse": "2KI.25.4",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 434,
+      "type": "scripture",
+      "printed_page": 396,
+      "running_head_first_verse": "2KI.25.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.25.4",
+      "last_verse": "2KI.25.26",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    },
+    {
+      "source_pdf_page": 435,
+      "type": "scripture",
+      "printed_page": 397,
+      "running_head_first_verse": "2KI.25.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2KI.25.26",
+      "last_verse": "2KI.25.30",
+      "evidence_method": "Original 1901 page opening and final verse checked; actual physical-page verse ranges override typographic running headers."
+    }
+  ]
+}

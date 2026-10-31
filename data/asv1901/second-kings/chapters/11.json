@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2KI",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "2KI.11.1",
+      "edition_verse_id": "ASV1901:2KI.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.2",
+      "edition_verse_id": "ASV1901:2KI.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him away from among the king’s sons that were slain, even him and his nurse, ",
+          "kind": "text"
+        },
+        {
+          "text": "and put them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the bedchamber; and they hid him from Athaliah, so that he was not slain;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.3",
+      "edition_verse_id": "ASV1901:2KI.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he was with her hid in the house of Jehovah six years. And Athaliah reigned over the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.4",
+      "edition_verse_id": "ASV1901:2KI.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And in the seventh year Jehoiada sent and fetched the captains over hundreds of the Carites and of the guard, and brought them to him into the house of Jehovah; and he made a covenant with them, and took an oath of them in the house of Jehovah, and showed them the king’s son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.5",
+      "edition_verse_id": "ASV1901:2KI.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he commanded them, saying, This is the thing that ye shall do: a third part of you, that come in on the sabbath, shall be keepers of the watch of the king’s house;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.6",
+      "edition_verse_id": "ASV1901:2KI.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and a third part shall be at the gate Sur; and a third part at the gate behind the guard: so shall ye keep the watch of the house, and be a barrier.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.7",
+      "edition_verse_id": "ASV1901:2KI.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the two companies of you, even all that go forth on the sabbath, shall keep the watch of the house of Jehovah about the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.8",
+      "edition_verse_id": "ASV1901:2KI.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And ye shall compass the king round about, every man with his weapons in his hand; and he that cometh within the ranks, let him be slain: and be ye with the king when he goeth out, and when he cometh in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.9",
+      "edition_verse_id": "ASV1901:2KI.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the captains over hundreds did according to all that Jehoiada the priest commanded; and they took every man his men, those that were to come in on the sabbath, with those that were to go out on the sabbath, and came to Jehoiada the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.10",
+      "edition_verse_id": "ASV1901:2KI.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the priest delivered to the captains over hundreds the spears and shields that had been king David’s, which were in the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.11",
+      "edition_verse_id": "ASV1901:2KI.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the guard stood, every man with his weapons in his hand, from the right side of the house to the left side of the house, along by the altar and the house, by the king round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.12",
+      "edition_verse_id": "ASV1901:2KI.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then he brought out the king’s son, and put the crown upon him, and ",
+          "kind": "text"
+        },
+        {
+          "text": "gave him",
+          "kind": "supplied"
+        },
+        {
+          "text": " the testimony; and they made him king, and anointed him; and they clapped their hands, and said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Long",
+          "kind": "supplied"
+        },
+        {
+          "text": " live the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.13",
+      "edition_verse_id": "ASV1901:2KI.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when Athaliah heard the noise of the guard ",
+          "kind": "text"
+        },
+        {
+          "text": "and of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the people, she came to the people into the house of Jehovah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.14",
+      "edition_verse_id": "ASV1901:2KI.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and she looked, and, behold, the king stood by the pillar, as the manner was, and the captains and the trumpets by the king; and all the people of the land rejoiced, and blew trumpets. Then Athaliah rent her clothes, and cried, Treason! treason!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.15",
+      "edition_verse_id": "ASV1901:2KI.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Jehoiada the priest commanded the captains of hundreds that were set over the host, and said unto them, Have her forth between the ranks; and him that followeth her slay with the sword. For the priest said, Let her not be slain in the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.16",
+      "edition_verse_id": "ASV1901:2KI.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So they made way for her; and she went by the way of the horses’ entry to the king’s house: and there was she slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.17",
+      "edition_verse_id": "ASV1901:2KI.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jehoiada made a covenant between Jehovah and the king and the people, that they should be Jehovah’s people; between the king also and the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.11.18",
+      "edition_verse_id": "ASV1901:2KI.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And all the people of the land went to the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.19",
+      "edition_verse_id": "ASV1901:2KI.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he took the captains over hundreds, and the Carites, and the guard, and all the people of the land; and they brought down the king from the house of Jehovah, and came by the way of the gate of the guard unto the king’s house. And he sat on the throne of the kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.20",
+      "edition_verse_id": "ASV1901:2KI.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So all the people of the land rejoiced, and the city was quiet. And Athaliah they had slain with the sword at the king’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.11.21",
+      "edition_verse_id": "ASV1901:2KI.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jehoash was seven years old when he began to reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

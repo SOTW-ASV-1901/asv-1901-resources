@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2KI",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "2KI.14.1",
+      "edition_verse_id": "ASV1901:2KI.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the second year of Joash son of Joahaz king of Israel began Amaziah the son of Joash king of Judah to reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.14.2",
+      "edition_verse_id": "ASV1901:2KI.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He was twenty and five years old when he began to reign; and he reigned twenty and nine years in Jerusalem: and his mother’s name was Jehoaddin of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.3",
+      "edition_verse_id": "ASV1901:2KI.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he did that which was right in the eyes of Jehovah, yet not like David his father: he did according to all that Joash his father had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.4",
+      "edition_verse_id": "ASV1901:2KI.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Howbeit the high places were not taken away: the people still sacrificed and burnt incense in the high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.5",
+      "edition_verse_id": "ASV1901:2KI.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And it came to pass, as soon as the kingdom was established in his hand, that he slew his servants who had slain the king his father:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.6",
+      "edition_verse_id": "ASV1901:2KI.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "but the children of the murderers he put not to death; according to that which is written in the book of the law of Moses, as Jehovah commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but every man shall die for his own sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.7",
+      "edition_verse_id": "ASV1901:2KI.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He slew of Edom in the Valley of Salt ten thousand, and took Sela by war, and called the name of it Joktheel, unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.8",
+      "edition_verse_id": "ASV1901:2KI.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.14.9",
+      "edition_verse_id": "ASV1901:2KI.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jehoash the king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trod down the thistle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.10",
+      "edition_verse_id": "ASV1901:2KI.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou hast indeed smitten Edom, and thy heart hath lifted thee up: glory thereof, and abide at home; for why shouldest thou meddle to ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " hurt, that thou shouldest fall, even thou, and Judah with thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.11",
+      "edition_verse_id": "ASV1901:2KI.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But Amaziah would not hear. So Jehoash king of Israel went up; and he and Amaziah king of Judah looked one another in the face at Beth-shemesh, which belongeth to Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.14.12",
+      "edition_verse_id": "ASV1901:2KI.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Judah was put to the worse before Israel; and they fled every man to his tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.13",
+      "edition_verse_id": "ASV1901:2KI.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Beth-shemesh, and came to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim unto the corner gate, four hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.14",
+      "edition_verse_id": "ASV1901:2KI.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he took all the gold and silver, and all the vessels that were found in the house of Jehovah, and in the treasures of the king’s house, the hostages also, and returned to Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.15",
+      "edition_verse_id": "ASV1901:2KI.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Jehoash which he did, and his might, and how he fought with Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.14.16",
+      "edition_verse_id": "ASV1901:2KI.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Jehoash slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.17",
+      "edition_verse_id": "ASV1901:2KI.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz king of Israel fifteen years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.14.18",
+      "edition_verse_id": "ASV1901:2KI.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Amaziah, are they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.19",
+      "edition_verse_id": "ASV1901:2KI.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent after him to Lachish, and slew him there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.20",
+      "edition_verse_id": "ASV1901:2KI.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And they brought him upon horses; and he was buried at Jerusalem with his fathers in the city of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.21",
+      "edition_verse_id": "ASV1901:2KI.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And all the people of Judah took Azariah, who was sixteen years old, and made him king in the room of his father Amaziah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.22",
+      "edition_verse_id": "ASV1901:2KI.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He built Elath, and restored it to Judah, after that the king slept with his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.23",
+      "edition_verse_id": "ASV1901:2KI.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In the fifteenth year of Amaziah the son of Joash king of Judah Jeroboam the son of Joash king of Israel began to reign in Samaria, ",
+          "kind": "text"
+        },
+        {
+          "text": "and reigned",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty and one years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.14.24",
+      "edition_verse_id": "ASV1901:2KI.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he did that which was evil in the sight of Jehovah: he departed not from all the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.25",
+      "edition_verse_id": "ASV1901:2KI.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He restored the border of Israel from the entrance of Hamath unto the sea of the Arabah, according to the word of Jehovah, the God of Israel, which he spake by his servant Jonah the son of Amittai, the prophet, who was of Gath-hepher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.26",
+      "edition_verse_id": "ASV1901:2KI.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For Jehovah saw the affliction of Israel, that it was very bitter; for there was none shut up nor left at large, neither was there any helper for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.27",
+      "edition_verse_id": "ASV1901:2KI.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Jehovah said not that he would blot out the name of Israel from under heaven; but he saved them by the hand of Jeroboam the son of Joash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.14.28",
+      "edition_verse_id": "ASV1901:2KI.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Jeroboam, and all that he did, and his might, how he warred, and how he recovered Damascus, and Hamath, ",
+          "kind": "text"
+        },
+        {
+          "text": "which had belonged",
+          "kind": "supplied"
+        },
+        {
+          "text": " to Judah, for Israel, are they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.14.29",
+      "edition_verse_id": "ASV1901:2KI.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Jeroboam slept with his fathers, even with the kings of Israel; and Zechariah his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

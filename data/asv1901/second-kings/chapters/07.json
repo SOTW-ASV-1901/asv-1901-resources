@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2KI",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "2KI.7.1",
+      "edition_verse_id": "ASV1901:2KI.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Elisha said, Hear ye the word of Jehovah: thus saith Jehovah, To-morrow about this time shall a measure of fine flour be ",
+          "kind": "text"
+        },
+        {
+          "text": "sold",
+          "kind": "supplied"
+        },
+        {
+          "text": " for a shekel, and two measures of barley for a shekel, in the gate of Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.2",
+      "edition_verse_id": "ASV1901:2KI.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then the captain on whose hand the king leaned answered the man of God, and said, Behold, if Jehovah should make windows in heaven, might this thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.3",
+      "edition_verse_id": "ASV1901:2KI.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now there were four leprous men at the entrance of the gate: and they said one to another, Why sit we here until we die?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.7.4",
+      "edition_verse_id": "ASV1901:2KI.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If we say, We will enter into the city, then the famine is in the city, and we shall die there; and if we sit still here, we die also. Now therefore come, and let us fall unto the host of the Syrians: if they save us alive, we shall live; and if they kill us, we shall but die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.5",
+      "edition_verse_id": "ASV1901:2KI.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they rose up in the twilight, to go unto the camp of the Syrians; and when they were come to the outermost part of the camp of the Syrians, behold, there was no man there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.6",
+      "edition_verse_id": "ASV1901:2KI.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.7",
+      "edition_verse_id": "ASV1901:2KI.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wherefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it was, and fled for their life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.8",
+      "edition_verse_id": "ASV1901:2KI.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when these lepers came to the outermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and they came back, and entered into another tent, and carried thence also, and went and hid it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.9",
+      "edition_verse_id": "ASV1901:2KI.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then they said one to another, We do not well; this day is a day of good tidings, and we hold our peace: if we tarry till the morning light, punishment will overtake us; now therefore come, let us go and tell the king’s household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.7.10",
+      "edition_verse_id": "ASV1901:2KI.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So they came and called unto the porter of the city; and they told them, saying, We came to the camp of the Syrians, and, behold, there was no man there, neither voice of man, but the horses tied, and the asses tied, and the tents as they were.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.11",
+      "edition_verse_id": "ASV1901:2KI.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he called the porters; and they told it to the king’s household within.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.12",
+      "edition_verse_id": "ASV1901:2KI.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the king arose in the night, and said unto his servants, I will now show you what the Syrians have done to us. They know that we are hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we shall take them alive, and get into the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.13",
+      "edition_verse_id": "ASV1901:2KI.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And one of his servants answered and said, Let some take, I pray thee, five of the horses that remain, which are left in the city (behold, they are as all the multitude of Israel that are left in it; behold, they are as all the multitude of Israel that are consumed); and let us send and see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.14",
+      "edition_verse_id": "ASV1901:2KI.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They took therefore two chariots with horses; and the king sent after the host of the Syrians, saying, Go and see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.15",
+      "edition_verse_id": "ASV1901:2KI.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they went after them unto the Jordan: and, lo, all the way was full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned, and told the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.16",
+      "edition_verse_id": "ASV1901:2KI.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the people went out, and plundered the camp of the Syrians. So a measure of fine flour was ",
+          "kind": "text"
+        },
+        {
+          "text": "sold",
+          "kind": "supplied"
+        },
+        {
+          "text": " for a shekel, and two measures of barley for a shekel, according to the word of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.7.17",
+      "edition_verse_id": "ASV1901:2KI.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the king appointed the captain on whose hand he leaned to have the charge of the gate: and the people trod upon him in the gate, and he died as the man of God had said, who spake when the king came down to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.18",
+      "edition_verse_id": "ASV1901:2KI.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And it came to pass, as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to-morrow about this time in the gate of Samaria;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.19",
+      "edition_verse_id": "ASV1901:2KI.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and that captain answered the man of God, and said, Now, behold, if Jehovah should make windows in heaven, might such a thing be? and he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.7.20",
+      "edition_verse_id": "ASV1901:2KI.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "it came to pass even so unto him; for the people trod upon him in the gate, and he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
