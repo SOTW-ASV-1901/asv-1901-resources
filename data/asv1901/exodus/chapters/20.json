@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EXO",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "EXO.20.1",
+      "edition_verse_id": "ASV1901:EXO.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And God spake all these words, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.2",
+      "edition_verse_id": "ASV1901:EXO.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.3",
+      "edition_verse_id": "ASV1901:EXO.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou shalt have no other gods before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.4",
+      "edition_verse_id": "ASV1901:EXO.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou shalt not make unto thee a graven image, nor any likeness ",
+          "kind": "text"
+        },
+        {
+          "text": "of any thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.5",
+      "edition_verse_id": "ASV1901:EXO.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "thou shalt not bow down thyself unto them, nor serve them; for I Jehovah thy God am a jealous God, visiting the iniquity of the fathers upon the children, upon the third and upon the fourth generation of them that hate me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.6",
+      "edition_verse_id": "ASV1901:EXO.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and showing lovingkindness unto thousands of them that love me and keep my commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.7",
+      "edition_verse_id": "ASV1901:EXO.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou shalt not take the name of Jehovah thy God in vain; for Jehovah will not hold him guiltless that taketh his name in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.8",
+      "edition_verse_id": "ASV1901:EXO.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Remember the sabbath day, to keep it holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.9",
+      "edition_verse_id": "ASV1901:EXO.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Six days shalt thou labor, and do all thy work;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.10",
+      "edition_verse_id": "ASV1901:EXO.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but the seventh day is a sabbath unto Jehovah thy God: ",
+          "kind": "text"
+        },
+        {
+          "text": "in it",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt not do any work, thou, nor thy son, nor thy daughter, thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.11",
+      "edition_verse_id": "ASV1901:EXO.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "for in six days Jehovah made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore Jehovah blessed the sabbath day, and hallowed it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.12",
+      "edition_verse_id": "ASV1901:EXO.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Honor thy father and thy mother, that thy days may be long in the land which Jehovah thy God giveth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.13",
+      "edition_verse_id": "ASV1901:EXO.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou shalt not kill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.14",
+      "edition_verse_id": "ASV1901:EXO.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou shalt not commit adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.15",
+      "edition_verse_id": "ASV1901:EXO.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thou shalt not steal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.16",
+      "edition_verse_id": "ASV1901:EXO.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thou shalt not bear false witness against thy neighbor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.17",
+      "edition_verse_id": "ASV1901:EXO.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thou shalt not covet thy neighbor’s house, thou shalt not covet thy neighbor’s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor anything that is thy neighbor’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.18",
+      "edition_verse_id": "ASV1901:EXO.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And all the people perceived the thunderings, and the lightnings, and the voice of the trumpet, and the mountain smoking: and when the people saw it, they trembled, and stood afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.19",
+      "edition_verse_id": "ASV1901:EXO.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they said unto Moses, Speak thou with us, and we will hear; but let not God speak with us, lest we die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.20",
+      "edition_verse_id": "ASV1901:EXO.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before you, that ye sin not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.21",
+      "edition_verse_id": "ASV1901:EXO.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the people stood afar off, and Moses drew near unto the thick darkness where God was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.22",
+      "edition_verse_id": "ASV1901:EXO.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Jehovah said unto Moses, Thus thou shalt say unto the children of Israel, Ye yourselves have seen that I have talked with you from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.23",
+      "edition_verse_id": "ASV1901:EXO.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Ye shall not make ",
+          "kind": "text"
+        },
+        {
+          "text": "other gods",
+          "kind": "supplied"
+        },
+        {
+          "text": " with me; gods of silver, or gods of gold, ye shall not make unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.24",
+      "edition_verse_id": "ASV1901:EXO.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt-offerings, and thy peace-offerings, thy sheep, and thine oxen: in every place where I record my name I will come unto thee and I will bless thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.25",
+      "edition_verse_id": "ASV1901:EXO.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And if thou make me an altar of stone, thou shalt not build it of hewn stones; for if thou lift up thy tool upon it, thou hast polluted it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.26",
+      "edition_verse_id": "ASV1901:EXO.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not uncovered thereon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

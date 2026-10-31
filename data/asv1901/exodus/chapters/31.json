@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EXO",
+  "chapter": 31,
+  "verses": [
+    {
+      "id": "EXO.31.1",
+      "edition_verse_id": "ASV1901:EXO.31.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.31.2",
+      "edition_verse_id": "ASV1901:EXO.31.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "See, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.3",
+      "edition_verse_id": "ASV1901:EXO.31.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and I have filled him with the Spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.4",
+      "edition_verse_id": "ASV1901:EXO.31.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "to devise skilful works, to work in gold, and in silver, and in brass,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.5",
+      "edition_verse_id": "ASV1901:EXO.31.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and in cutting of stones for setting, and in carving of wood, to work in all manner of workmanship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.6",
+      "edition_verse_id": "ASV1901:EXO.31.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I, behold, I have appointed with him Oholiab, the son of Ahisamach, of the tribe of Dan; and in the heart of all that are wise-hearted I have put wisdom, that they may make all that I have commanded thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.7",
+      "edition_verse_id": "ASV1901:EXO.31.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "the tent of meeting, and the ark of the testimony, and the mercy-seat that is thereupon, and all the furniture of the Tent,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.8",
+      "edition_verse_id": "ASV1901:EXO.31.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and the table and its vessels, and the pure candlestick with all its vessels, and the altar of incense,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.9",
+      "edition_verse_id": "ASV1901:EXO.31.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and the altar of burnt-offering with all its vessels, and the laver and its base,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.10",
+      "edition_verse_id": "ASV1901:EXO.31.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and the finely wrought garments, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.11",
+      "edition_verse_id": "ASV1901:EXO.31.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and the anointing oil, and the incense of sweet spices for the holy place: according to all that I have commanded thee shall they do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.12",
+      "edition_verse_id": "ASV1901:EXO.31.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.31.13",
+      "edition_verse_id": "ASV1901:EXO.31.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Speak thou also unto the children of Israel, saying, Verily ye shall keep my sabbaths: for it is a sign between me and you throughout your generations; that ye may know that I am Jehovah who sanctifieth you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.14",
+      "edition_verse_id": "ASV1901:EXO.31.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ye shall keep the sabbath therefore; for it is holy unto you: every one that profaneth it shall surely be put to death; for whosoever doeth any work therein, that soul shall be cut off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.15",
+      "edition_verse_id": "ASV1901:EXO.31.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Six days shall work be done; but on the seventh day is a sabbath of solemn rest, holy to Jehovah; whosoever doeth any work on the sabbath day, he shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.16",
+      "edition_verse_id": "ASV1901:EXO.31.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.17",
+      "edition_verse_id": "ASV1901:EXO.31.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "It is a sign between me and the children of Israel for ever: for in six days Jehovah made heaven and earth, and on the seventh day he rested, and was refreshed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.31.18",
+      "edition_verse_id": "ASV1901:EXO.31.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, the two tables of the testimony, tables of stone, written with the finger of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

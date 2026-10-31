@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EXO",
+  "chapter": 39,
+  "verses": [
+    {
+      "id": "EXO.39.1",
+      "edition_verse_id": "ASV1901:EXO.39.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And of the blue, and purple, and scarlet, they made finely wrought garments, for ministering in the holy place, and made the holy garments for Aaron; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.2",
+      "edition_verse_id": "ASV1901:EXO.39.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.3",
+      "edition_verse_id": "ASV1901:EXO.39.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they did beat the gold into thin plates, and cut it into wires, to work it in the blue, and in the purple, and in the scarlet, and in the fine linen, the work of the skilful workman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.4",
+      "edition_verse_id": "ASV1901:EXO.39.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They made shoulder-pieces for it, joined together; at the two ends was it joined together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.5",
+      "edition_verse_id": "ASV1901:EXO.39.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the skilfully woven band, that was upon it, wherewith to gird it on, was of the same piece ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the work thereof; of gold, of blue, and purple, and scarlet, and fine twined linen; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.6",
+      "edition_verse_id": "ASV1901:EXO.39.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they wrought the onyx stones, inclosed in settings of gold, graven with the engravings of a signet, according to the names of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.7",
+      "edition_verse_id": "ASV1901:EXO.39.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he put them on the shoulder-pieces of the ephod, to be stones of memorial for the children of Israel; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.8",
+      "edition_verse_id": "ASV1901:EXO.39.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he made the breastplate, the work of the skilful workman, like the work of the ephod; of gold, of blue, and purple, and scarlet, and fine twined linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.9",
+      "edition_verse_id": "ASV1901:EXO.39.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "It was foursquare; they made the breastplate double: a span was the length thereof, and a span the breadth thereof, being double.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.10",
+      "edition_verse_id": "ASV1901:EXO.39.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they set in it four rows of stones. A row of sardius, topaz, and carbuncle was the first row;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.11",
+      "edition_verse_id": "ASV1901:EXO.39.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and the second row, an emerald, a sapphire, and a diamond;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.12",
+      "edition_verse_id": "ASV1901:EXO.39.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and the third row, a jacinth, an agate, and an amethyst;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.13",
+      "edition_verse_id": "ASV1901:EXO.39.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and the fourth row, a beryl, an onyx, and a jasper: they were inclosed in inclosings of gold in their settings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.14",
+      "edition_verse_id": "ASV1901:EXO.39.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the stones were according to the names of the children of Israel, twelve, according to their names; like the engravings of a signet, every one according to his name, for the twelve tribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.15",
+      "edition_verse_id": "ASV1901:EXO.39.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they made upon the breastplate chains like cords, of wreathen work of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.16",
+      "edition_verse_id": "ASV1901:EXO.39.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they made two settings of gold, and two gold rings, and put the two rings on the two ends of the breastplate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.17",
+      "edition_verse_id": "ASV1901:EXO.39.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they put the two wreathen chains of gold in the two rings at the ends of the breastplate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.18",
+      "edition_verse_id": "ASV1901:EXO.39.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " two ends of the two wreathen chains they put on the two settings, and put them on the shoulder-pieces of the ephod, in the forepart thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.19",
+      "edition_verse_id": "ASV1901:EXO.39.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they made two rings of gold, and put them upon the two ends of the breastplate, upon the edge thereof, which was toward the side of the ephod inward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.20",
+      "edition_verse_id": "ASV1901:EXO.39.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And they made two rings of gold, and put them on the two shoulder-pieces of the ephod underneath, in the forepart thereof, close by the coupling thereof, above the skilfully woven band of the ephod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.21",
+      "edition_verse_id": "ASV1901:EXO.39.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they did bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that it might be upon the skilfully woven band of the ephod, and that the breastplate might not be loosed from the ephod; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.22",
+      "edition_verse_id": "ASV1901:EXO.39.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he made the robe of the ephod of woven work, all of blue;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.23",
+      "edition_verse_id": "ASV1901:EXO.39.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and the hole of the robe in the midst thereof, as the hole of a coat of mail, with a binding round about the hole of it, that it should not be rent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.24",
+      "edition_verse_id": "ASV1901:EXO.39.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they made upon the skirts of the robe pomegranates of blue, and purple, and scarlet, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " twined ",
+          "kind": "text"
+        },
+        {
+          "text": "linen",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.25",
+      "edition_verse_id": "ASV1901:EXO.39.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they made bells of pure gold, and put the bells between the pomegranates upon the skirts of the robe round about, between the pomegranates;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.26",
+      "edition_verse_id": "ASV1901:EXO.39.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "a bell and a pomegranate, a bell and a pomegranate, upon the skirts of the robe round about, to minister in; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.27",
+      "edition_verse_id": "ASV1901:EXO.39.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they made the coats of fine linen of woven work for Aaron, and for his sons,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.28",
+      "edition_verse_id": "ASV1901:EXO.39.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and the mitre of fine linen, and the goodly head-tires of fine linen, and the linen breeches of fine twined linen,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.29",
+      "edition_verse_id": "ASV1901:EXO.39.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and the girdle of fine twined linen, and blue, and purple, and scarlet, the work of the embroiderer; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.30",
+      "edition_verse_id": "ASV1901:EXO.39.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like the engravings of a signet, HOLY TO JEHOVAH.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.31",
+      "edition_verse_id": "ASV1901:EXO.39.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they tied unto it a lace of blue, to fasten it upon the mitre above; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.32",
+      "edition_verse_id": "ASV1901:EXO.39.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Thus was finished all the work of the tabernacle of the tent of meeting: and the children of Israel did according to all that Jehovah commanded Moses; so did they.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.39.33",
+      "edition_verse_id": "ASV1901:EXO.39.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they brought the tabernacle unto Moses, the Tent, and all its furniture, its clasps, its boards, its bars, and its pillars, and its sockets;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.34",
+      "edition_verse_id": "ASV1901:EXO.39.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "and the covering of rams’ skins dyed red, and the covering of sealskins, and the veil of the screen;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.35",
+      "edition_verse_id": "ASV1901:EXO.39.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "the ark of the testimony, and the staves thereof, and the mercy-seat;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.36",
+      "edition_verse_id": "ASV1901:EXO.39.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "the table, all the vessels thereof, and the showbread;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.37",
+      "edition_verse_id": "ASV1901:EXO.39.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "the pure candlestick, the lamps thereof, even the lamps to be set in order, and all the vessels thereof, and the oil for the light;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.38",
+      "edition_verse_id": "ASV1901:EXO.39.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "and the golden altar, and the anointing oil, and the sweet incense, and the screen for the door of the Tent;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.39",
+      "edition_verse_id": "ASV1901:EXO.39.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "the brazen altar, and its grating of brass, its staves, and all its vessels, the laver and its base;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.40",
+      "edition_verse_id": "ASV1901:EXO.39.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "the hangings of the court, its pillars, and its sockets, and the screen for the gate of the court, the cords thereof, and the pins thereof, and all the instruments of the service of the tabernacle, for the tent of meeting;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.41",
+      "edition_verse_id": "ASV1901:EXO.39.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "the finely wrought garments for ministering in the holy place, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.42",
+      "edition_verse_id": "ASV1901:EXO.39.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "According to all that Jehovah commanded Moses, so the children of Israel did all the work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.39.43",
+      "edition_verse_id": "ASV1901:EXO.39.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And Moses saw all the work, and, behold, they had done it; as Jehovah had commanded, even so had they done it: and Moses blessed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

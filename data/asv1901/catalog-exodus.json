@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EXO",
+  "book_name": "Exodus",
+  "book_order": 2,
+  "canonical_ids": "EXO.{chapter}.{verse}",
+  "edition_ids": "ASV1901:EXO.{chapter}.{verse}",
+  "chapter_count": 40,
+  "verse_count": 1213,
+  "chapter_path_template": "exodus/chapters/{chapter:02d}.json",
+  "facsimile_index": "exodus/page-index.json",
+  "predecessor_book_code": "GEN",
+  "successor_book_code": "LEV",
+  "source_provenance": "books/exodus/SOURCE_INVENTORY.json",
+  "note": "Projection for durable multi-book ASV edition; no unverified Strong's mapping.",
+  "reader": "books/exodus/site/index.html"
+}

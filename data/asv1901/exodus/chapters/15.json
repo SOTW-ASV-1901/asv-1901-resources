@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EXO",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "EXO.15.1",
+      "edition_verse_id": "ASV1901:EXO.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then sang Moses and the children of Israel this song unto Jehovah, and spake, saying,\nI will sing unto Jehovah, for he hath triumphed gloriously:\nThe horse and his rider hath he thrown into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.2",
+      "edition_verse_id": "ASV1901:EXO.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah is my strength and song,\nAnd he is become my salvation:\nThis is my God, and I will praise him;\nMy father’s God, and I will exalt him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.3",
+      "edition_verse_id": "ASV1901:EXO.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jehovah is a man of war:\nJehovah is his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.4",
+      "edition_verse_id": "ASV1901:EXO.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Pharaoh’s chariots and his host hath he cast into the sea;\nAnd his chosen captains are sunk in the Red Sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.5",
+      "edition_verse_id": "ASV1901:EXO.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The deeps cover them:\nThey went down into the depths like a stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.6",
+      "edition_verse_id": "ASV1901:EXO.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thy right hand, O Jehovah, is glorious in power,\nThy right hand, O Jehovah, dasheth in pieces the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.7",
+      "edition_verse_id": "ASV1901:EXO.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And in the greatness of thine excellency thou overthrowest them that rise up against thee: Thou sendest forth thy wrath, it consumeth them as stubble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.8",
+      "edition_verse_id": "ASV1901:EXO.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And with the blast of thy nostrils the waters were piled up,\nThe floods stood upright as a heap;\nThe deeps were congealed in the heart of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.9",
+      "edition_verse_id": "ASV1901:EXO.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The enemy said, I will pursue, I will overtake, I will divide the spoil;\nMy desire shall be satisfied upon them;\nI will draw my sword, my hand shall destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.10",
+      "edition_verse_id": "ASV1901:EXO.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou didst blow with thy wind, the sea covered them:\nThey sank as lead in the mighty waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.11",
+      "edition_verse_id": "ASV1901:EXO.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Who is like unto thee, O Jehovah, among the gods?\nWho is like thee, glorious in holiness,\nFearful in praises, doing wonders?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.12",
+      "edition_verse_id": "ASV1901:EXO.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thou stretchedst out thy right hand,\nThe earth swallowed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.13",
+      "edition_verse_id": "ASV1901:EXO.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou in thy lovingkindness hast led the people that thou hast redeemed:\nThou hast guided them in thy strength to thy holy habitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.14",
+      "edition_verse_id": "ASV1901:EXO.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The peoples have heard, they tremble:\nPangs have taken hold on the inhabitants of Philistia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.15",
+      "edition_verse_id": "ASV1901:EXO.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then were the chiefs of Edom dismayed;\nThe mighty men of Moab, trembling taketh hold upon them:\nAll the inhabitants of Canaan are melted away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.16",
+      "edition_verse_id": "ASV1901:EXO.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Terror and dread falleth upon them;\nBy the greatness of thine arm they are as still as a stone;\nTill thy people pass over, O Jehovah,\nTill the people pass over that thou hast purchased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.17",
+      "edition_verse_id": "ASV1901:EXO.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thou wilt bring them in, and plant them in the mountain of thine inheritance,\nThe place, O Jehovah, which thou hast made for thee to dwell in,\nThe sanctuary, O Lord, which thy hands have established.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.18",
+      "edition_verse_id": "ASV1901:EXO.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Jehovah shall reign for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.19",
+      "edition_verse_id": "ASV1901:EXO.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the horses of Pharaoh went in with his chariots and with his horsemen into the sea, and Jehovah brought back the waters of the sea upon them; but the children of Israel walked on dry land in the midst of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.20",
+      "edition_verse_id": "ASV1901:EXO.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.21",
+      "edition_verse_id": "ASV1901:EXO.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Miriam answered them,\nSing ye to Jehovah, for he hath triumphed gloriously;\nThe horse and his rider hath he thrown into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.22",
+      "edition_verse_id": "ASV1901:EXO.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Moses led Israel onward from the Red Sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.23",
+      "edition_verse_id": "ASV1901:EXO.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.24",
+      "edition_verse_id": "ASV1901:EXO.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the people murmured against Moses, saying, What shall we drink?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.25",
+      "edition_verse_id": "ASV1901:EXO.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he cried unto Jehovah; and Jehovah showed him a tree, and he cast it into the waters, and the waters were made sweet. There he made for them a statute and an ordinance, and there he proved them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.26",
+      "edition_verse_id": "ASV1901:EXO.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and he said, If thou wilt diligently hearken to the voice of Jehovah thy God, and wilt do that which is right in his eyes, and wilt give ear to his commandments, and keep all his statutes, I will put none of the diseases upon thee, which I have put upon the Egyptians: for I am Jehovah that healeth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.27",
+      "edition_verse_id": "ASV1901:EXO.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And they came to Elim, where were twelve springs of water, and threescore and ten palm-trees: and they encamped there by the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

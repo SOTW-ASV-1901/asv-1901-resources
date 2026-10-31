@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EXO",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "EXO.35.1",
+      "edition_verse_id": "ASV1901:EXO.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Moses assembled all the congregation of the children of Israel, and said unto them, These are the words which Jehovah hath commanded, that ye should do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.35.2",
+      "edition_verse_id": "ASV1901:EXO.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Six days shall work be done; but on the seventh day there shall be to you a holy day, a sabbath of solemn rest to Jehovah: whosoever doeth any work therein shall be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.3",
+      "edition_verse_id": "ASV1901:EXO.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Ye shall kindle no fire throughout your habitations upon the sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.4",
+      "edition_verse_id": "ASV1901:EXO.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which Jehovah commanded, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.35.5",
+      "edition_verse_id": "ASV1901:EXO.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Take ye from among you an offering unto Jehovah; whosoever is of a willing heart, let him bring it, Jehovah’s offering: gold, and silver, and brass,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.6",
+      "edition_verse_id": "ASV1901:EXO.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and blue, and purple, and scarlet, and fine linen, and goats’ ",
+          "kind": "text"
+        },
+        {
+          "text": "hair",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.7",
+      "edition_verse_id": "ASV1901:EXO.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and rams’ skins dyed red, and sealskins, and acacia wood,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.8",
+      "edition_verse_id": "ASV1901:EXO.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and oil for the light, and spices for the anointing oil, and for the sweet incense,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.9",
+      "edition_verse_id": "ASV1901:EXO.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and onyx stones, and stones to be set, for the ephod, and for the breastplate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.10",
+      "edition_verse_id": "ASV1901:EXO.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And let every wise-hearted man among you come, and make all that Jehovah hath commanded:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.35.11",
+      "edition_verse_id": "ASV1901:EXO.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "the tabernacle, its tent, and its covering, its clasps, and its boards, its bars, its pillars, and its sockets;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.12",
+      "edition_verse_id": "ASV1901:EXO.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "the ark, and the staves thereof, the mercy-seat, and the veil of the screen;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.13",
+      "edition_verse_id": "ASV1901:EXO.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "the table, and its staves, and all its vessels, and the showbread;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.14",
+      "edition_verse_id": "ASV1901:EXO.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the candlestick also for the light, and its vessels, and its lamps, and the oil for the light;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.15",
+      "edition_verse_id": "ASV1901:EXO.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and the altar of incense, and its staves, and the anointing oil, and the sweet incense, and the screen for the door, at the door of the tabernacle;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.16",
+      "edition_verse_id": "ASV1901:EXO.35.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the altar of burnt-offering, with its grating of brass, its staves, and all its vessels, the laver and its base;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.17",
+      "edition_verse_id": "ASV1901:EXO.35.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the hangings of the court, the pillars thereof, and their sockets, and the screen for the gate of the court;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.18",
+      "edition_verse_id": "ASV1901:EXO.35.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the pins of the tabernacle, and the pins of the court, and their cords;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.19",
+      "edition_verse_id": "ASV1901:EXO.35.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "the finely wrought garments, for ministering in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.20",
+      "edition_verse_id": "ASV1901:EXO.35.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And all the congregation of the children of Israel departed from the presence of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.35.21",
+      "edition_verse_id": "ASV1901:EXO.35.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brought Jehovah’s offering, for the work of the tent of meeting, and for all the service thereof, and for the holy garments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.22",
+      "edition_verse_id": "ASV1901:EXO.35.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they came, both men and women, as many as were willing-hearted, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " brought brooches, and ear-rings, and signet-rings, and armlets, all jewels of gold; even every man that offered an offering of gold unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.23",
+      "edition_verse_id": "ASV1901:EXO.35.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ ",
+          "kind": "text"
+        },
+        {
+          "text": "hair",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and rams’ skins dyed red, and sealskins, brought them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.24",
+      "edition_verse_id": "ASV1901:EXO.35.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Every one that did offer an offering of silver and brass brought Jehovah’s offering; and every man, with whom was found acacia wood for any work of the service, brought it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.25",
+      "edition_verse_id": "ASV1901:EXO.35.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And all the women that were wise-hearted did spin with their hands, and brought that which they had spun, the blue, and the purple, the scarlet, and the fine linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.26",
+      "edition_verse_id": "ASV1901:EXO.35.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And all the women whose heart stirred them up in wisdom spun the goats’ ",
+          "kind": "text"
+        },
+        {
+          "text": "hair",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.27",
+      "edition_verse_id": "ASV1901:EXO.35.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the rulers brought the onyx stones, and the stones to be set, for the ephod, and for the breastplate;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.28",
+      "edition_verse_id": "ASV1901:EXO.35.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and the spice, and the oil; for the light, and for the anointing oil, and for the sweet incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.29",
+      "edition_verse_id": "ASV1901:EXO.35.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The children of Israel brought a freewill-offering unto Jehovah; every man and woman, whose heart made them willing to bring for all the work, which Jehovah had commanded to be made by Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.30",
+      "edition_verse_id": "ASV1901:EXO.35.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Moses said unto the children of Israel, See, Jehovah hath called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.35.31",
+      "edition_verse_id": "ASV1901:EXO.35.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and he hath filled him with the Spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.32",
+      "edition_verse_id": "ASV1901:EXO.35.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "and to devise skilful works, to work in gold, and in silver, and in brass,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.33",
+      "edition_verse_id": "ASV1901:EXO.35.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "and in cutting of stones for setting, and in carving of wood, to work in all manner of skilful workmanship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.34",
+      "edition_verse_id": "ASV1901:EXO.35.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he hath put in his heart that he may teach, both he, and Oholiab, the son of Ahisamach, of the tribe of Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.35.35",
+      "edition_verse_id": "ASV1901:EXO.35.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Them hath he filled with wisdom of heart, to work all manner of workmanship, of the engraver, and of the skilful workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any workmanship, and of those that devise skilful works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

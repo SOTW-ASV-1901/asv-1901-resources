@@ -1,0 +1,387 @@
+{
+  "EXO.3.14": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      79
+    ],
+    "primary_usx": "And God said unto Moses, I am that I am: and he said, Thus shalt thou say unto the children of Israel, I am hath sent me unto you.",
+    "comparison_usfm": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+    "resolution": "PRINT_SMALL_CAPS_NORMALIZED_TO_UPPERCASE_IN_DERIVED_EDITION",
+    "evidence": "Printed divine self-designation is set in small capitals; project uppercase typography in plain text.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.3.21": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      79
+    ],
+    "primary_usx": "And I will give this people favor in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:",
+    "comparison_usfm": "And I will give this people favor in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.3.22": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      79
+    ],
+    "primary_usx": "but every woman shall ask of her neighbor, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall despoil the Egyptians.",
+    "comparison_usfm": "But every woman shall ask of her neighbor, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall despoil the Egyptians.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.4.4": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      79
+    ],
+    "primary_usx": "And Jehovah said unto Moses, Put forth thy hand, and take it by the tail (and he put forth his hand, and laid hold of it, and it became a rod in his hand);",
+    "comparison_usfm": "And Jehovah said unto Moses, Put forth thy hand, and take it by the tail: (and he put forth his hand, and laid hold of it, and it became a rod in his hand);",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.4.21": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      80
+    ],
+    "primary_usx": "And Jehovah said unto Moses, When thou goest back into Egypt, see that thou do before Pharaoh all the wonders which I have put in thy hand: but I will harden his heart, and he will not let the people go.",
+    "comparison_usfm": "And Jehovah said unto Moses, When thou goest back into Egypt, see that thou do before Pharaoh all the wonders which I have put in thy hand: but I will harden his heart and he will not let the people go.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.5.11": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      81
+    ],
+    "primary_usx": "Go yourselves, get you straw where ye can find it; for nought of your work shall be diminished.",
+    "comparison_usfm": "Go yourselves, get you straw where ye can find it: for nought of your work shall be diminished.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.5.13": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      81
+    ],
+    "primary_usx": "And the taskmasters were urgent, saying, Fulfil your works, your daily tasks, as when there was straw.",
+    "comparison_usfm": "And the taskmasters were urgent saying, Fulfil your works, your daily tasks, as when there was straw.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.5.21": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      81
+    ],
+    "primary_usx": "and they said unto them, Jehovah look upon you, and judge; because ye have made our savor to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.",
+    "comparison_usfm": "and they said unto them, Jehovah look upon you, and judge: because ye have made our savor to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.8.15": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      84
+    ],
+    "primary_usx": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as Jehovah had spoken.",
+    "comparison_usfm": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them, as Jehovah had spoken.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.9.12": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      85
+    ],
+    "primary_usx": "And Jehovah hardened the heart of Pharaoh, and he hearkened not unto them; as Jehovah had spoken unto Moses.",
+    "comparison_usfm": "And Jehovah hardened the heart of Pharaoh, and he hearkened not unto them, as Jehovah had spoken unto Moses.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.9.35": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      86
+    ],
+    "primary_usx": "And the heart of Pharaoh was hardened, and he did not let the children of Israel go; as Jehovah had spoken by Moses.",
+    "comparison_usfm": "And the heart of Pharaoh was hardened, and he did not let the children of Israel go, as Jehovah had spoken by Moses.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.10.26": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      87
+    ],
+    "primary_usx": "Our cattle also shall go with us; there shall not a hoof be left behind; for thereof must we take to serve Jehovah our God; and we know not with what we must serve Jehovah, until we come thither.",
+    "comparison_usfm": "Our cattle also shall go with us; there shall not a hoof be left behind: for thereof must we take to serve Jehovah our God; and we know not with what we must serve Jehovah, until we come thither.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.14.4": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      90
+    ],
+    "primary_usx": "And I will harden Pharaoh’s heart, and he shall follow after them; and I will get me honor upon Pharaoh, and upon all his host; and the Egyptians shall know that I am Jehovah. And they did so.",
+    "comparison_usfm": "And I will harden Pharaoh’s heart, and he shall follow after them; and I will get me honor upon Pharaoh, and upon all his host: and the Egyptians shall know that I am Jehovah. And they did so.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.16.16": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      93
+    ],
+    "primary_usx": "This is the thing which Jehovah hath commanded. Gather ye of it every man according to his eating; an omer a head, according to the number of your persons, shall ye take it, every man for them that are in his tent.",
+    "comparison_usfm": "This is the thing which Jehovah hath commanded, Gather ye of it every man according to his eating; an omer a head, according to the number of your persons, shall ye take it, every man for them that are in his tent.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.17.14": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      94
+    ],
+    "primary_usx": "And Jehovah said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: that I will utterly blot out the remembrance of Amalek from under heaven.",
+    "comparison_usfm": "and Jehovah said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: that I will utterly blot out the remembrance of Amalek from under heaven.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.18.7": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      95
+    ],
+    "primary_usx": "And Moses went out to meet his father-in-law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent.",
+    "comparison_usfm": "And Moses went out to meet his father-in-law, and did obeisance, and kissed him: and they asked each other of their welfare; and they came into the tent.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.21.4": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      97
+    ],
+    "primary_usx": "If his master give him a wife, and she bear him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself.",
+    "comparison_usfm": "If his master give him a wife and she bear him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.21.27": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      98
+    ],
+    "primary_usx": "And if he smite out his man-servant’s tooth, or his maid-servant’s tooth; he shall let him go free for his tooth’s sake.",
+    "comparison_usfm": "And if he smite out his man-servant’s tooth, or his maid-servant’s tooth, he shall let him go free for his tooth’s sake.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.22.4": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      98
+    ],
+    "primary_usx": "If the theft be found in his hand alive, whether it be ox, or ass, or sheep; he shall pay double.",
+    "comparison_usfm": "If the theft be found in his hand alive, whether it be ox, or ass, or sheep, he shall pay double.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.22.13": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      99
+    ],
+    "primary_usx": "If it be torn in pieces, let him bring it for witness; he shall not make good that which was torn.",
+    "comparison_usfm": "If it be torn in pieces, let him bring it for witness: he shall not make good that which was torn.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.23.11": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      100
+    ],
+    "primary_usx": "but the seventh year thou shalt let it rest and lie fallow, that the poor of thy people may eat: and what they leave the beast of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard.",
+    "comparison_usfm": "but the seventh year thou shalt let it rest and lie fallow; that the poor of thy people may eat: and what they leave the beast of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.23.31": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      100
+    ],
+    "primary_usx": "And I will set thy border from the Red Sea even unto the sea of the Philistines, and from the wilderness unto the River: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.",
+    "comparison_usfm": "And I will set thy border from the Red Sea even unto the sea of the Philistines, and from the wilderness unto the River: for I will deliver the inhabitants of the land into your hand: and thou shalt drive them out before thee.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.24.14": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      101
+    ],
+    "primary_usx": "And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you; whosoever hath a cause, let him come near unto them.",
+    "comparison_usfm": "And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: whosoever hath a cause, let him come near unto them.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.26.26": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      103
+    ],
+    "primary_usx": "And thou shalt make bars of acacia wood; five for the boards of the one side of the tabernacle,",
+    "comparison_usfm": "And thou shalt make bars of acacia wood: five for the boards of the one side of the tabernacle,",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.26.37": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      103
+    ],
+    "primary_usx": "And thou shalt make for the screen five pillars of acacia, and overlay them with gold; their hooks shall be of gold: and thou shalt cast five sockets of brass for them.",
+    "comparison_usfm": "And thou shalt make for the screen five pillars of acacia, and overlay them with gold: their hooks shall be of gold: and thou shalt cast five sockets of brass for them.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.27.4": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      104
+    ],
+    "primary_usx": "And thou shalt make for it a grating of network of brass; and upon the net shalt thou make four brazen rings in the four corners thereof.",
+    "comparison_usfm": "And thou shalt make for it a grating of network of brass: and upon the net shalt thou make four brazen rings in the four corners thereof.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.28.36": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      106
+    ],
+    "primary_usx": "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, Holy to Jehovah.",
+    "comparison_usfm": "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, HOLY TO JEHOVAH.",
+    "resolution": "PRINT_SMALL_CAPS_NORMALIZED_TO_UPPERCASE_IN_DERIVED_EDITION",
+    "evidence": "Printed gold-plate inscription is in small capitals; project uppercase typography in plain text.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.29.40": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      107
+    ],
+    "primary_usx": "and with the one lamb a tenth part of an ephah of fine flour mingled with the fourth part of a hin of beaten oil; and the fourth part of a hin of wine for a drink-offering.",
+    "comparison_usfm": "and with the one lamb a tenth part of an ephah of fine flour mingled with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink-offering.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.30.13": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      108
+    ],
+    "primary_usx": "This they shall give, every one that passeth over unto them that are numbered: half a shekel after the shekel of the sanctuary (the shekel is twenty gerahs), half a shekel for an offering to Jehovah.",
+    "comparison_usfm": "This they shall give, every one that passeth over unto them that are numbered, half a shekel after the shekel of the sanctuary; (the shekel is twenty gerahs), half a shekel for an offering to Jehovah.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.31.15": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      109
+    ],
+    "primary_usx": "Six days shall work be done; but on the seventh day is a sabbath of solemn rest, holy to Jehovah; whosoever doeth any work on the sabbath day, he shall surely be put to death.",
+    "comparison_usfm": "Six days shall work be done, but on the seventh day is a sabbath of solemn rest, holy to Jehovah: whosoever doeth any work on the sabbath day, he shall surely be put to death.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.32.25": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      111
+    ],
+    "primary_usx": "And when Moses saw that the people were broken loose (for Aaron had let them loose for a derision among their enemies),",
+    "comparison_usfm": "And when Moses saw that the people were broken loose, (for Aaron had let them loose for a derision among their enemies,)",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.33.3": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      111
+    ],
+    "primary_usx": "unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou art a stiffnecked people; lest I consume thee in the way.",
+    "comparison_usfm": "unto a land flowing with milk and honey: for I will not go up in the midst of thee, for thou art a stiffnecked people, lest I consume thee in the way.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.34.13": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      112
+    ],
+    "primary_usx": "but ye shall break down their altars, and dash in pieces their pillars, and ye shall cut down their Asherim",
+    "comparison_usfm": "but ye shall break down their altars, and dash in pieces their pillars, and ye shall cut down their Asherim;",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.34.35": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      113
+    ],
+    "primary_usx": "And the children of Israel saw the face of Moses, that the skin of Moses’ face shone; and Moses put the veil upon his face again, until he went in to speak with him.",
+    "comparison_usfm": "And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the veil upon his face again, until he went in to speak with him.",
+    "resolution": "PRIMARY_USX_AGREES_WITH_1901_PRINT",
+    "evidence": "Original printed Scripture page checked at disputed punctuation/case; retain primary USX reading.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  },
+  "EXO.39.30": {
+    "original_print_checked": true,
+    "source_pdf_pages": [
+      121
+    ],
+    "primary_usx": "And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like the engravings of a signet, Holy to Jehovah.",
+    "comparison_usfm": "And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like the engravings of a signet, HOLY TO JEHOVAH.",
+    "resolution": "PRINT_SMALL_CAPS_NORMALIZED_TO_UPPERCASE_IN_DERIVED_EDITION",
+    "evidence": "Printed gold-plate inscription is in small capitals; project uppercase typography in plain text.",
+    "status": "RESOLVED_AGAINST_ORIGINAL_PRINT"
+  }
+}
