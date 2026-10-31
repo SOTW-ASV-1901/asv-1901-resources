@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOS",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "JOS.9.1",
+      "edition_verse_id": "ASV1901:JOS.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when all the kings that were beyond the Jordan, in the hill-country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.9.2",
+      "edition_verse_id": "ASV1901:JOS.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that they gathered themselves together, to fight with Joshua and with Israel, with one accord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.3",
+      "edition_verse_id": "ASV1901:JOS.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.9.4",
+      "edition_verse_id": "ASV1901:JOS.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "they also did work wilily, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine-skins, old and rent and bound up,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.5",
+      "edition_verse_id": "ASV1901:JOS.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and old and patched shoes upon their feet, and old garments upon them; and all the bread of their provision was dry and was become mouldy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.6",
+      "edition_verse_id": "ASV1901:JOS.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We are come from a far country: now therefore make ye a covenant with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.7",
+      "edition_verse_id": "ASV1901:JOS.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a covenant with you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.8",
+      "edition_verse_id": "ASV1901:JOS.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they said unto Joshua, We are thy servants. And Joshua said unto them, Who are ye? and from whence come ye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.9",
+      "edition_verse_id": "ASV1901:JOS.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they said unto him, From a very far country thy servants are come because of the name of Jehovah thy God: for we have heard the fame of him, and all that he did in Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.10",
+      "edition_verse_id": "ASV1901:JOS.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and all that he did to the two kings of the Amorites, that were beyond the Jordan, to Sihon king of Heshbon, and to Og king of Bashan, who was at Ashtaroth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.11",
+      "edition_verse_id": "ASV1901:JOS.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And our elders and all the inhabitants of our country spake to us, saying, Take provision in your hand for the journey, and go to meet them, and say unto them, We are your servants: and now make ye a covenant with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.12",
+      "edition_verse_id": "ASV1901:JOS.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and is become mouldy:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.13",
+      "edition_verse_id": "ASV1901:JOS.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and these wine-skins, which we filled, were new; and, behold, they are rent: and these our garments and our shoes are become old by reason of the very long journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.14",
+      "edition_verse_id": "ASV1901:JOS.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the men took of their provision, and asked not counsel at the mouth of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.15",
+      "edition_verse_id": "ASV1901:JOS.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Joshua made peace with them, and made a covenant with them, to let them live: and the princes of the congregation sware unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.16",
+      "edition_verse_id": "ASV1901:JOS.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And it came to pass at the end of three days after they had made a covenant with them, that they heard that they were their neighbors, and that they dwelt among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.9.17",
+      "edition_verse_id": "ASV1901:JOS.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kiriath-jearim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.18",
+      "edition_verse_id": "ASV1901:JOS.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the children of Israel smote them not, because the princes of the congregation had sworn unto them by Jehovah, the God of Israel. And all the congregation murmured against the princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.19",
+      "edition_verse_id": "ASV1901:JOS.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But all the princes said unto all the congregation, We have sworn unto them by Jehovah, the God of Israel: now therefore we may not touch them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.20",
+      "edition_verse_id": "ASV1901:JOS.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "This we will do to them, and let them live; lest wrath be upon us, because of the oath which we sware unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.21",
+      "edition_verse_id": "ASV1901:JOS.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the princes said unto them, Let them live: so they became hewers of wood and drawers of water unto all the congregation, as the princes had spoken unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.22",
+      "edition_verse_id": "ASV1901:JOS.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.9.23",
+      "edition_verse_id": "ASV1901:JOS.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now therefore ye are cursed, and there shall never fail to be of you bondmen, both hewers of wood and drawers of water for the house of my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.24",
+      "edition_verse_id": "ASV1901:JOS.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they answered Joshua, and said, Because it was certainly told thy servants, how that Jehovah thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you; therefore we were sore afraid for our lives because of you, and have done this thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.25",
+      "edition_verse_id": "ASV1901:JOS.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And now, behold, we are in thy hand: as it seemeth good and right unto thee to do unto us, do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.26",
+      "edition_verse_id": "ASV1901:JOS.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.9.27",
+      "edition_verse_id": "ASV1901:JOS.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of Jehovah, unto this day, in the place which he should choose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Comparison-only USFM witness
+The included USFM is used solely to compare the **English** verse wording and supplied-word formatting. Strong's tags and experimental word alignments are **not verified** and are not projected into canonical Joshua chapter JSON. Both digital witnesses may share an upstream editorial lineage; agreement alone does not demonstrate independent textual ancestry. Historical print is the final edition witness.

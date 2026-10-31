@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOS",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "JOS.14.1",
+      "edition_verse_id": "ASV1901:JOS.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And these are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the tribes of the children of Israel, distributed unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.2",
+      "edition_verse_id": "ASV1901:JOS.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "by the lot of their inheritance, as Jehovah commanded by Moses, for the nine tribes, and for the half-tribe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.3",
+      "edition_verse_id": "ASV1901:JOS.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan: but unto the Levites he gave no inheritance among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.4",
+      "edition_verse_id": "ASV1901:JOS.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the children of Joseph were two tribes, Manasseh and Ephraim: and they gave no portion unto the Levites in the land, save cities to dwell in, with the suburbs thereof for their cattle and for their substance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.5",
+      "edition_verse_id": "ASV1901:JOS.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As Jehovah commanded Moses, so the children of Israel did; and they divided the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.6",
+      "edition_verse_id": "ASV1901:JOS.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the children of Judah drew nigh unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenizzite said unto him, Thou knowest the thing that Jehovah spake unto Moses the man of God concerning me and concerning thee in Kadesh-barnea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.7",
+      "edition_verse_id": "ASV1901:JOS.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Forty years old was I when Moses the servant of Jehovah sent me from Kadesh-barnea to spy out the land; and I brought him word again as it was in my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.8",
+      "edition_verse_id": "ASV1901:JOS.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Nevertheless my brethren that went up with me made the heart of the people melt; but I wholly followed Jehovah my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.9",
+      "edition_verse_id": "ASV1901:JOS.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Moses sware on that day, saying, Surely the land whereon thy foot hath trodden shall be an inheritance to thee and to thy children for ever, because thou hast wholly followed Jehovah my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.10",
+      "edition_verse_id": "ASV1901:JOS.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And now, behold, Jehovah hath kept me alive, as he spake, these forty and five years, from the time that Jehovah spake this word unto Moses, while Israel walked in the wilderness: and now, lo, I am this day fourscore and five years old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.11",
+      "edition_verse_id": "ASV1901:JOS.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, and to go out and to come in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.12",
+      "edition_verse_id": "ASV1901:JOS.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now therefore give me this hill-country, whereof Jehovah spake in that day; for thou heardest in that day how the Anakim were there, and cities great and fortified: it may be that Jehovah will be with me, and I shall drive them out, as Jehovah spake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.13",
+      "edition_verse_id": "ASV1901:JOS.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Joshua blessed him; and he gave Hebron unto Caleb the son of Jephunneh for an inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.14",
+      "edition_verse_id": "ASV1901:JOS.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite unto this day; because that he wholly followed Jehovah, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.15",
+      "edition_verse_id": "ASV1901:JOS.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now the name of Hebron beforetime was Kiriath-arba; ",
+          "kind": "text"
+        },
+        {
+          "text": "which Arba was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the greatest man among the Anakim. And the land had rest from war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

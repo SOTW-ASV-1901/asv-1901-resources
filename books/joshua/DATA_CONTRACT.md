@@ -1,0 +1,9 @@
+# ASV 1901 Joshua data contract 1.0.0
+
+- `JOS.c.v` denotes a stable Scripture reference identity, while `ASV1901:JOS.c.v` denotes that edition's rendition. Neither identifier depends on GitHub URLs.
+- `data/asv1901/joshua/chapters/01.json` through `24.json` contain **658 ordered verses**. Each verse has a `spans` array with `kind: text` or `kind: supplied`. The **43 supplied-word italics** are structurally retained rather than reduced to display-only HTML. They are not independently verified Hebrew word alignments.
+- `data/asv1901/joshua/page-index.json` maps verses to whole original 1901 printed pages. **23 verses span two Scripture pages**. Original-source PDF pages 239–266 include 26 Scripture pages (printed pages 213–238) and 2 historical-map-related leaves (map page 245, blank verso 246). One continuous verse, JOS.7.13, crosses the map insertion from PDF page 244 to page 247.
+- Printed running-head verse references are separate from actual first physical-page verses. Pages sometimes begin with the continuation of the preceding verse. Multi-page verses are read in original source-PDF order, never by page heading or artificial text-position highlights.
+- Unaltered digital witness files and provenance appear under `books/joshua/sources/`, and verification inputs under `books/joshua/build-inputs/`. The original 135 MB scan is referenced by SHA-256 and retained outside the public book ZIP. Smaller PDFs preserve whole source pages without rasterization.
+- The comparison USFM contains unverified experimental Strong's tags. Do not ingest those as a canonical lexicon or word alignment. Future capabilities can connect to these stable verse IDs through separately validated contracts.
+- Schema version 1.0.0 is compatible with the preceding book releases; later schemas require versioned changes, not silent semantic edits.

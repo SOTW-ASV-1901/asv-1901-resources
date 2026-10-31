@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOS",
+  "book_name": "Joshua",
+  "book_order": 6,
+  "canonical_ids": "JOS.{chapter}.{verse}",
+  "edition_ids": "ASV1901:JOS.{chapter}.{verse}",
+  "chapter_count": 24,
+  "verse_count": 658,
+  "chapter_path_template": "joshua/chapters/{chapter:02d}.json",
+  "facsimile_index": "joshua/page-index.json",
+  "predecessor_book_code": "DEU",
+  "successor_book_code": "JDG",
+  "source_provenance": "books/joshua/SOURCE_INVENTORY.json",
+  "reader": "books/joshua/site/index.html",
+  "note": "Per-book catalog; not the eventual unified ASV 1901 discovery catalog. Strong's alignment unverified and excluded."
+}
