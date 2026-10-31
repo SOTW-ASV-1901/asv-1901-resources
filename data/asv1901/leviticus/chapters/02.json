@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LEV",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "LEV.2.1",
+      "edition_verse_id": "ASV1901:LEV.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when any one offereth an oblation of a meal-offering unto Jehovah, his oblation shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.2",
+      "edition_verse_id": "ASV1901:LEV.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and he shall bring it to Aaron’s sons the priests; and he shall take thereout his handful of the fine flour thereof, and of the oil thereof, with all the frankincense thereof. And the priest shall burn ",
+          "kind": "text"
+        },
+        {
+          "text": "it as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the memorial thereof upon the altar, an offering made by fire, of a sweet savor unto Jehovah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.3",
+      "edition_verse_id": "ASV1901:LEV.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and that which is left of the meal-offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of Jehovah made by fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.4",
+      "edition_verse_id": "ASV1901:LEV.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when thou offerest an oblation of a meal-offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.5",
+      "edition_verse_id": "ASV1901:LEV.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And if thy oblation be a meal-offering of the baking-pan, it shall be of fine flour unleavened, mingled with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.6",
+      "edition_verse_id": "ASV1901:LEV.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou shalt part it in pieces, and pour oil thereon: it is a meal-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.7",
+      "edition_verse_id": "ASV1901:LEV.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And if thy oblation be a meal-offering of the frying-pan, it shall be made of fine flour with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.8",
+      "edition_verse_id": "ASV1901:LEV.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And thou shalt bring the meal-offering that is made of these things unto Jehovah: and it shall be presented unto the priest, and he shall bring it unto the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.9",
+      "edition_verse_id": "ASV1901:LEV.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the priest shall take up from the meal-offering the memorial thereof, and shall burn it upon the altar, an offering made by fire, of a sweet savor unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.10",
+      "edition_verse_id": "ASV1901:LEV.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And that which is left of the meal-offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of Jehovah made by fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.11",
+      "edition_verse_id": "ASV1901:LEV.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "No meal-offering, which ye shall offer unto Jehovah, shall be made with leaven; for ye shall burn no leaven, nor any honey, as an offering made by fire unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.12",
+      "edition_verse_id": "ASV1901:LEV.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As an oblation of first-",
+          "kind": "text"
+        },
+        {
+          "text": "fruits",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye shall offer them unto Jehovah: but they shall not come up for a sweet savor on the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.13",
+      "edition_verse_id": "ASV1901:LEV.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And every oblation of thy meal-offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meal-offering: with all thine oblations thou shalt offer salt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.14",
+      "edition_verse_id": "ASV1901:LEV.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if thou offer a meal-offering of first-fruits unto Jehovah, thou shalt offer for the meal-offering of thy first-fruits grain in the ear parched with fire, bruised grain of the fresh ear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.15",
+      "edition_verse_id": "ASV1901:LEV.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meal-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.16",
+      "edition_verse_id": "ASV1901:LEV.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the priest shall burn the memorial of it, part of the bruised grain thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

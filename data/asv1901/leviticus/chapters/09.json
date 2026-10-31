@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LEV",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "LEV.9.1",
+      "edition_verse_id": "ASV1901:LEV.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.9.2",
+      "edition_verse_id": "ASV1901:LEV.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and he said unto Aaron, Take thee a calf of the herd for a sin-offering, and a ram for a burnt-offering, without blemish, and offer them before Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.3",
+      "edition_verse_id": "ASV1901:LEV.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And unto the children of Israel thou shalt speak, saying, Take ye a he-goat for a sin-offering; and a calf and a lamb, both a year old, without blemish, for a burnt-offering;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.4",
+      "edition_verse_id": "ASV1901:LEV.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and an ox and a ram for peace-offerings, to sacrifice before Jehovah; and a meal-offering mingled with oil: for to-day Jehovah appeareth unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.5",
+      "edition_verse_id": "ASV1901:LEV.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they brought that which Moses commanded before the tent of meeting: and all the congregation drew near and stood before Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.6",
+      "edition_verse_id": "ASV1901:LEV.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Moses said, This is the thing which Jehovah commanded that ye should do: and the glory of Jehovah shall appear unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.7",
+      "edition_verse_id": "ASV1901:LEV.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Moses said unto Aaron, Draw near unto the altar, and offer thy sin-offering, and thy burnt-offering, and make atonement for thyself, and for the people; and offer the oblation of the people, and make atonement for them; as Jehovah commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.8",
+      "edition_verse_id": "ASV1901:LEV.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So Aaron drew near unto the altar, and slew the calf of the sin-offering, which was for himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.9.9",
+      "edition_verse_id": "ASV1901:LEV.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the sons of Aaron presented the blood unto him; and he dipped his finger in the blood, and put it upon the horns of the altar, and poured out the blood at the base of the altar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.10",
+      "edition_verse_id": "ASV1901:LEV.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but the fat, and the kidneys, and the caul from the liver of the sin-offering, he burnt upon the altar; as Jehovah commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.11",
+      "edition_verse_id": "ASV1901:LEV.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the flesh and the skin he burnt with fire without the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.12",
+      "edition_verse_id": "ASV1901:LEV.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he slew the burnt-offering; and Aaron’s sons delivered unto him the blood, and he sprinkled it upon the altar round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.9.13",
+      "edition_verse_id": "ASV1901:LEV.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they delivered the burnt-offering unto him, piece by piece, and the head: and he burnt them upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.14",
+      "edition_verse_id": "ASV1901:LEV.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he washed the inwards and the legs, and burnt them upon the burnt-offering on the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.15",
+      "edition_verse_id": "ASV1901:LEV.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he presented the people’s oblation, and took the goat of the sin-offering which was for the people, and slew it, and offered it for sin, as the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.9.16",
+      "edition_verse_id": "ASV1901:LEV.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he presented the burnt-offering, and offered it according to the ordinance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.17",
+      "edition_verse_id": "ASV1901:LEV.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he presented the meal-offering, and filled his hand therefrom, and burnt it upon the altar, besides the burnt-offering of the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.18",
+      "edition_verse_id": "ASV1901:LEV.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He slew also the ox and the ram, the sacrifice of peace-offerings, which was for the people: and Aaron’s sons delivered unto him the blood, which he sprinkled upon the altar round about,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.9.19",
+      "edition_verse_id": "ASV1901:LEV.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and the fat of the ox and of the ram, the fat tail, and that which covereth ",
+          "kind": "text"
+        },
+        {
+          "text": "the inwards",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the kidneys, and the caul of the liver:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.20",
+      "edition_verse_id": "ASV1901:LEV.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and they put the fat upon the breasts, and he burnt the fat upon the altar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.21",
+      "edition_verse_id": "ASV1901:LEV.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and the breasts and the right thigh Aaron waved for a wave-offering before Jehovah; as Moses commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.22",
+      "edition_verse_id": "ASV1901:LEV.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Aaron lifted up his hands toward the people, and blessed them; and he came down from offering the sin-offering, and the burnt-offering, and the peace-offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.9.23",
+      "edition_verse_id": "ASV1901:LEV.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Moses and Aaron went into the tent of meeting, and came out, and blessed the people: and the glory of Jehovah appeared unto all the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.9.24",
+      "edition_verse_id": "ASV1901:LEV.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And there came forth fire from before Jehovah, and consumed upon the altar the burnt-offering and the fat: and when all the people saw it, they shouted, and fell on their faces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

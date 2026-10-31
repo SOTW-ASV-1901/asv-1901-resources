@@ -1,0 +1,628 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LEV",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "LEV.11.1",
+      "edition_verse_id": "ASV1901:LEV.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses and to Aaron, saying unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.2",
+      "edition_verse_id": "ASV1901:LEV.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto the children of Israel, saying, These are the living things which ye may eat among all the beasts that are on the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.3",
+      "edition_verse_id": "ASV1901:LEV.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Whatsoever parteth the hoof, and is clovenfooted, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " cheweth the cud, among the beasts, that may ye eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.4",
+      "edition_verse_id": "ASV1901:LEV.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nevertheless these shall ye not eat of them that chew the cud, or of them that part the hoof: the camel, because he cheweth the cud but parteth not the hoof, he is unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.5",
+      "edition_verse_id": "ASV1901:LEV.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the coney, because he cheweth the cud but parteth not the hoof, he is unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.6",
+      "edition_verse_id": "ASV1901:LEV.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the hare, because she cheweth the cud but parteth not the hoof, she is unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.7",
+      "edition_verse_id": "ASV1901:LEV.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the swine, because he parteth the hoof, and is clovenfooted, but cheweth not the cud, he is unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.8",
+      "edition_verse_id": "ASV1901:LEV.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Of their flesh ye shall not eat, and their carcasses ye shall not touch; they are unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.9",
+      "edition_verse_id": "ASV1901:LEV.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "These may ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, that may ye eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.10",
+      "edition_verse_id": "ASV1901:LEV.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of all the living creatures that are in the waters, they are an abomination unto you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.11",
+      "edition_verse_id": "ASV1901:LEV.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and they shall be an abomination unto you; ye shall not eat of their flesh, and their carcasses ye shall have in abomination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.12",
+      "edition_verse_id": "ASV1901:LEV.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Whatsoever hath no fins nor scales in the waters, that is an abomination unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.13",
+      "edition_verse_id": "ASV1901:LEV.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And these ye shall have in abomination among the birds; they shall not be eaten, they are an abomination: the eagle, and the gier-eagle, and the ospray,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.14",
+      "edition_verse_id": "ASV1901:LEV.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and the kite, and the falcon after its kind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.15",
+      "edition_verse_id": "ASV1901:LEV.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "every raven after its kind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.16",
+      "edition_verse_id": "ASV1901:LEV.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and the ostrich, and the night-hawk, and the sea-mew, and the hawk after its kind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.17",
+      "edition_verse_id": "ASV1901:LEV.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and the little owl, and the cormorant, and the great owl,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.18",
+      "edition_verse_id": "ASV1901:LEV.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and the horned owl, and the pelican, and the vulture,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.19",
+      "edition_verse_id": "ASV1901:LEV.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and the stork, the heron after its kind, and the hoopoe, and the bat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.20",
+      "edition_verse_id": "ASV1901:LEV.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "All winged creeping things that go upon all fours are an abomination unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.21",
+      "edition_verse_id": "ASV1901:LEV.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Yet these may ye eat of all winged creeping things that go upon all fours, which have legs above their feet, wherewith to leap upon the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.22",
+      "edition_verse_id": "ASV1901:LEV.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "even these of them ye may eat: the locust after its kind, and the bald locust after its kind, and the cricket after its kind, and the grasshopper after its kind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.23",
+      "edition_verse_id": "ASV1901:LEV.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But all winged creeping things, which have four feet, are an abomination unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.24",
+      "edition_verse_id": "ASV1901:LEV.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And by these ye shall become unclean: whosoever toucheth the carcass of them shall be unclean until the even;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.25",
+      "edition_verse_id": "ASV1901:LEV.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "and whosoever beareth ",
+          "kind": "text"
+        },
+        {
+          "text": "aught",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the carcass of them shall wash his clothes, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.26",
+      "edition_verse_id": "ASV1901:LEV.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Every beast which parteth the hoof, and is not clovenfooted, nor cheweth the cud, is unclean unto you: every one that toucheth them shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.27",
+      "edition_verse_id": "ASV1901:LEV.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And whatsoever goeth upon its paws, among all beasts that go on all fours, they are unclean unto you: whoso toucheth their carcass shall be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.28",
+      "edition_verse_id": "ASV1901:LEV.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he that beareth the carcass of them shall wash his clothes, and be unclean until the even: they are unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.29",
+      "edition_verse_id": "ASV1901:LEV.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And these are they which are unclean unto you among the creeping things that creep upon the earth: the weasel, and the mouse, and the great lizard after its kind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.30",
+      "edition_verse_id": "ASV1901:LEV.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and the gecko, and the land-crocodile, and the lizard, and the sand-lizard, and the chameleon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.31",
+      "edition_verse_id": "ASV1901:LEV.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "These are they which are unclean to you among all that creep: whosoever doth touch them, when they are dead, shall be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.32",
+      "edition_verse_id": "ASV1901:LEV.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherewith any work is done, it must be put into water, and it shall be unclean until the even; then shall it be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.33",
+      "edition_verse_id": "ASV1901:LEV.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean, and it ye shall break.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.34",
+      "edition_verse_id": "ASV1901:LEV.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "All food ",
+          "kind": "text"
+        },
+        {
+          "text": "therein",
+          "kind": "supplied"
+        },
+        {
+          "text": " which may be eaten, that on which water cometh, shall be unclean; and all drink that may be drunk in every ",
+          "kind": "text"
+        },
+        {
+          "text": "such",
+          "kind": "supplied"
+        },
+        {
+          "text": " vessel shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.35",
+      "edition_verse_id": "ASV1901:LEV.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And every thing whereupon ",
+          "kind": "text"
+        },
+        {
+          "text": "any part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of their carcass falleth shall be unclean; whether oven, or range for pots, it shall be broken in pieces: they are unclean, and shall be unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.36",
+      "edition_verse_id": "ASV1901:LEV.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Nevertheless a fountain or a pit wherein is a gathering of water shall be clean: but that which toucheth their carcass shall be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.37",
+      "edition_verse_id": "ASV1901:LEV.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And if ",
+          "kind": "text"
+        },
+        {
+          "text": "aught",
+          "kind": "supplied"
+        },
+        {
+          "text": " of their carcass fall upon any sowing seed which is to be sown, it is clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.38",
+      "edition_verse_id": "ASV1901:LEV.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But if water be put upon the seed, and ",
+          "kind": "text"
+        },
+        {
+          "text": "aught",
+          "kind": "supplied"
+        },
+        {
+          "text": " of their carcass fall thereon, it is unclean unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.39",
+      "edition_verse_id": "ASV1901:LEV.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And if any beast, of which ye may eat, die; he that toucheth the carcass thereof shall be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.40",
+      "edition_verse_id": "ASV1901:LEV.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And he that eateth of the carcass of it shall wash his clothes, and be unclean until the even: he also that beareth the carcass of it shall wash his clothes, and be unclean until the even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.41",
+      "edition_verse_id": "ASV1901:LEV.11.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And every creeping thing that creepeth upon the earth is an abomination; it shall not be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.42",
+      "edition_verse_id": "ASV1901:LEV.11.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Whatsoever goeth upon the belly, and whatsoever goeth upon all fours, or whatsoever hath many feet, even all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.43",
+      "edition_verse_id": "ASV1901:LEV.11.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.44",
+      "edition_verse_id": "ASV1901:LEV.11.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "For I am Jehovah your God: sanctify yourselves therefore, and be ye holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that moveth upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.45",
+      "edition_verse_id": "ASV1901:LEV.11.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "For I am Jehovah that brought you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.46",
+      "edition_verse_id": "ASV1901:LEV.11.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "This is the law of the beast, and of the bird, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.47",
+      "edition_verse_id": "ASV1901:LEV.11.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

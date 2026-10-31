@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LEV",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "LEV.20.1",
+      "edition_verse_id": "ASV1901:LEV.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.20.2",
+      "edition_verse_id": "ASV1901:LEV.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Moreover, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.3",
+      "edition_verse_id": "ASV1901:LEV.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I also will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.4",
+      "edition_verse_id": "ASV1901:LEV.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And if the people of the land do at all hide their eyes from that man, when he giveth of his seed unto Molech, and put him not to death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.5",
+      "edition_verse_id": "ASV1901:LEV.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "then I will set my face against that man, and against his family, and will cut him off, and all that play the harlot after him, to play the harlot with Molech, from among their people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.6",
+      "edition_verse_id": "ASV1901:LEV.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the soul that turneth unto them that have familiar spirits, and unto the wizards, to play the harlot after them, I will even set my face against that soul, and will cut him off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.20.7",
+      "edition_verse_id": "ASV1901:LEV.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Sanctify yourselves therefore, and be ye holy; for I am Jehovah your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.8",
+      "edition_verse_id": "ASV1901:LEV.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And ye shall keep my statutes, and do them: I am Jehovah who sanctifieth you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.9",
+      "edition_verse_id": "ASV1901:LEV.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For every one that curseth his father or his mother shall surely be put to death: he hath cursed his father or his mother; his blood shall be upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.10",
+      "edition_verse_id": "ASV1901:LEV.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the man that committeth adultery with another man’s wife, even he that committeth adultery with his neighbor’s wife, the adulterer and the adulteress shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.20.11",
+      "edition_verse_id": "ASV1901:LEV.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the man that lieth with his father’s wife hath uncovered his father’s nakedness: both of them shall surely be put to death; their blood shall be upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.12",
+      "edition_verse_id": "ASV1901:LEV.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if a man lie with his daughter-in-law, both of them shall surely be put to death: they have wrought confusion; their blood shall be upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.13",
+      "edition_verse_id": "ASV1901:LEV.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And if a man lie with mankind, as with womankind, both of them have committed abomination: they shall surely be put to death; their blood shall be upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.14",
+      "edition_verse_id": "ASV1901:LEV.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.15",
+      "edition_verse_id": "ASV1901:LEV.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.16",
+      "edition_verse_id": "ASV1901:LEV.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood shall be upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.17",
+      "edition_verse_id": "ASV1901:LEV.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And if a man shall take his sister, his father’s daughter, or his mother’s daughter, and see her nakedness, and she see his nakedness; it is a shameful thing; and they shall be cut off in the sight of the children of their people: he hath uncovered his sister’s nakedness; he shall bear his iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.20.18",
+      "edition_verse_id": "ASV1901:LEV.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he hath made naked her fountain, and she hath uncovered the fountain of her blood: and both of them shall be cut off from among their people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.19",
+      "edition_verse_id": "ASV1901:LEV.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And thou shalt not uncover the nakedness of thy mother’s sister, nor of thy father’s sister; for he hath made naked his near kin: they shall bear their iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.20",
+      "edition_verse_id": "ASV1901:LEV.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And if a man shall lie with his uncle’s wife, he hath uncovered his uncle’s nakedness: they shall bear their sin; they shall die childless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.21",
+      "edition_verse_id": "ASV1901:LEV.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And if a man shall take his brother’s wife, it is impurity: he hath uncovered his brother’s nakedness; they shall be childless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.22",
+      "edition_verse_id": "ASV1901:LEV.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Ye shall therefore keep all my statutes, and all mine ordinances, and do them; that the land, whither I bring you to dwell therein, vomit you not out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.20.23",
+      "edition_verse_id": "ASV1901:LEV.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And ye shall not walk in the customs of the nation, which I cast out before you: for they did all these things, and therefore I abhorred them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.24",
+      "edition_verse_id": "ASV1901:LEV.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land flowing with milk and honey: I am Jehovah your God, who hath separated you from the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.25",
+      "edition_verse_id": "ASV1901:LEV.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Ye shall therefore make a distinction between the clean beast and the unclean, and between the unclean fowl and the clean: and ye shall not make your souls abominable by beast, or by bird, or by anything wherewith the ground teemeth, which I have separated from you as unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.26",
+      "edition_verse_id": "ASV1901:LEV.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And ye shall be holy unto me: for I, Jehovah, am holy, and have set you apart from the peoples, that ye should be mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.20.27",
+      "edition_verse_id": "ASV1901:LEV.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "A man also or a woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones; their blood shall be upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

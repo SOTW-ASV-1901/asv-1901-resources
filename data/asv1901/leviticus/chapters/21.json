@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LEV",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "LEV.21.1",
+      "edition_verse_id": "ASV1901:LEV.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah said unto Moses, Speak unto the priests, the sons of Aaron, and say unto them, There shall none defile himself for the dead among his people;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.21.2",
+      "edition_verse_id": "ASV1901:LEV.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "except for his kin, that is near unto him, for his mother, and for his father, and for his son, and for his daughter, and for his brother,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.3",
+      "edition_verse_id": "ASV1901:LEV.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and for his sister a virgin, that is near unto him, that hath had no husband; for her may he defile himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.4",
+      "edition_verse_id": "ASV1901:LEV.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He shall not defile himself, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chief man among his people, to profane himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.5",
+      "edition_verse_id": "ASV1901:LEV.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.6",
+      "edition_verse_id": "ASV1901:LEV.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They shall be holy unto their God, and not profane the name of their God; for the offerings of Jehovah made by fire, the bread of their God, they do offer: therefore they shall be holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.7",
+      "edition_verse_id": "ASV1901:LEV.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They shall not take a woman that is a harlot, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.8",
+      "edition_verse_id": "ASV1901:LEV.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee; for I Jehovah, who sanctify you, am holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.9",
+      "edition_verse_id": "ASV1901:LEV.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the daughter of any priest, if she profane herself by playing the harlot, she profaneth her father: she shall be burnt with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.10",
+      "edition_verse_id": "ASV1901:LEV.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he that is the high priest among his brethren, upon whose head the anointing oil is poured, and that is consecrated to put on the garments, shall not let the hair of his head go loose, nor rend his clothes;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.21.11",
+      "edition_verse_id": "ASV1901:LEV.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "neither shall he go in to any dead body, nor defile himself for his father, or for his mother;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.12",
+      "edition_verse_id": "ASV1901:LEV.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.13",
+      "edition_verse_id": "ASV1901:LEV.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he shall take a wife in her virginity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.14",
+      "edition_verse_id": "ASV1901:LEV.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "A widow, or one divorced, or a profane woman, a harlot, these shall he not take: but a virgin of his own people shall he take to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.15",
+      "edition_verse_id": "ASV1901:LEV.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he shall not profane his seed among his people: for I am Jehovah who sanctifieth him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.16",
+      "edition_verse_id": "ASV1901:LEV.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.21.17",
+      "edition_verse_id": "ASV1901:LEV.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Speak unto Aaron, saying, Whosoever he be of thy seed throughout their generations that hath a blemish, let him not approach to offer the bread of his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.18",
+      "edition_verse_id": "ASV1901:LEV.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or anything superfluous,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.19",
+      "edition_verse_id": "ASV1901:LEV.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "or a man that is broken-footed, or broken-handed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.20",
+      "edition_verse_id": "ASV1901:LEV.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "or crook-backed, or a dwarf, or that hath a blemish in his eye, or is scurvy, or scabbed, or hath his stones broken;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.21",
+      "edition_verse_id": "ASV1901:LEV.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "no man of the seed of Aaron the priest, that hath a blemish, shall come nigh to offer the offerings of Jehovah made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.22",
+      "edition_verse_id": "ASV1901:LEV.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He shall eat the bread of his God, both of the most holy, and of the holy:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.23",
+      "edition_verse_id": "ASV1901:LEV.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "only he shall not go in unto the veil, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I am Jehovah who sanctifieth them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.21.24",
+      "edition_verse_id": "ASV1901:LEV.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So Moses spake unto Aaron, and to his sons, and unto all the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

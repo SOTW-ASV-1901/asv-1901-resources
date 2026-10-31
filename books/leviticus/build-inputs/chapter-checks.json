@@ -1,0 +1,276 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      123
+    ],
+    "first": "LEV.1.1",
+    "last": "LEV.1.17"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      123,
+      124
+    ],
+    "first": "LEV.2.1",
+    "last": "LEV.2.16"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      124,
+      125
+    ],
+    "first": "LEV.3.1",
+    "last": "LEV.3.17"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      125,
+      126
+    ],
+    "first": "LEV.4.1",
+    "last": "LEV.4.35"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      126,
+      127
+    ],
+    "first": "LEV.5.1",
+    "last": "LEV.5.19"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      127,
+      128
+    ],
+    "first": "LEV.6.1",
+    "last": "LEV.6.30"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      128,
+      129
+    ],
+    "first": "LEV.7.1",
+    "last": "LEV.7.38"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      129,
+      130,
+      131
+    ],
+    "first": "LEV.8.1",
+    "last": "LEV.8.36"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      131
+    ],
+    "first": "LEV.9.1",
+    "last": "LEV.9.24"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      131,
+      132
+    ],
+    "first": "LEV.10.1",
+    "last": "LEV.10.20"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      132,
+      133,
+      134
+    ],
+    "first": "LEV.11.1",
+    "last": "LEV.11.47"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      134
+    ],
+    "first": "LEV.12.1",
+    "last": "LEV.12.8"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      134,
+      135,
+      136
+    ],
+    "first": "LEV.13.1",
+    "last": "LEV.13.59"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      136,
+      137,
+      138
+    ],
+    "first": "LEV.14.1",
+    "last": "LEV.14.57"
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      138,
+      139,
+      140
+    ],
+    "first": "LEV.15.1",
+    "last": "LEV.15.33"
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      140,
+      141
+    ],
+    "first": "LEV.16.1",
+    "last": "LEV.16.34"
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      141,
+      142
+    ],
+    "first": "LEV.17.1",
+    "last": "LEV.17.16"
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      142,
+      143
+    ],
+    "first": "LEV.18.1",
+    "last": "LEV.18.30"
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      143,
+      144
+    ],
+    "first": "LEV.19.1",
+    "last": "LEV.19.37"
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      144,
+      145
+    ],
+    "first": "LEV.20.1",
+    "last": "LEV.20.27"
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      145,
+      146
+    ],
+    "first": "LEV.21.1",
+    "last": "LEV.21.24"
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      146,
+      147
+    ],
+    "first": "LEV.22.1",
+    "last": "LEV.22.33"
+  },
+  "23": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      147,
+      148
+    ],
+    "first": "LEV.23.1",
+    "last": "LEV.23.44"
+  },
+  "24": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      148,
+      149
+    ],
+    "first": "LEV.24.1",
+    "last": "LEV.24.23"
+  },
+  "25": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      149,
+      150,
+      151
+    ],
+    "first": "LEV.25.1",
+    "last": "LEV.25.55"
+  },
+  "26": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      151,
+      152,
+      153
+    ],
+    "first": "LEV.26.1",
+    "last": "LEV.26.46"
+  },
+  "27": {
+    "original_print_chapter_checked": true,
+    "method": "Original physical page openings, chapter boundaries and general chapter formatting compared with 1901 scan; no character-level proofread asserted",
+    "source_pdf_pages": [
+      153,
+      154
+    ],
+    "first": "LEV.27.1",
+    "last": "LEV.27.34"
+  }
+}

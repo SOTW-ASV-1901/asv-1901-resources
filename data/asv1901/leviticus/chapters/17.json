@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LEV",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "LEV.17.1",
+      "edition_verse_id": "ASV1901:LEV.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.2",
+      "edition_verse_id": "ASV1901:LEV.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them: This is the thing which Jehovah hath commanded, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.3",
+      "edition_verse_id": "ASV1901:LEV.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it without the camp,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.4",
+      "edition_verse_id": "ASV1901:LEV.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and hath not brought it unto the door of the tent of meeting, to offer it as an oblation unto Jehovah before the tabernacle of Jehovah: blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.5",
+      "edition_verse_id": "ASV1901:LEV.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "to the end that the children of Israel may bring their sacrifices, which they sacrifice in the open field, even that they may bring them unto Jehovah, unto the door of the tent of meeting, unto the priest, and sacrifice them for sacrifices of peace-offerings unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.6",
+      "edition_verse_id": "ASV1901:LEV.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the priest shall sprinkle the blood upon the altar of Jehovah at the door of the tent of meeting, and burn the fat for a sweet savor unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.7",
+      "edition_verse_id": "ASV1901:LEV.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they shall no more sacrifice their sacrifices unto the he-goats, after which they play the harlot. This shall be a statute for ever unto them throughout their generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.8",
+      "edition_verse_id": "ASV1901:LEV.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers that sojourn among them, that offereth a burnt-offering or sacrifice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.9",
+      "edition_verse_id": "ASV1901:LEV.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and bringeth it not unto the door of the tent of meeting, to sacrifice it unto Jehovah; that man shall be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.10",
+      "edition_verse_id": "ASV1901:LEV.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among them, that eateth any manner of blood, I will set my face against that soul that eateth blood, and will cut him off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.11",
+      "edition_verse_id": "ASV1901:LEV.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the life of the flesh is in the blood; and I have given it to you upon the altar to make atonement for your souls: for it is the blood that maketh atonement by reason of the life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.12",
+      "edition_verse_id": "ASV1901:LEV.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.13",
+      "edition_verse_id": "ASV1901:LEV.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And whatsoever man there be of the children of Israel, or of the strangers that sojourn among them, who taketh in hunting any beast or bird that may be eaten; he shall pour out the blood thereof, and cover it with dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.14",
+      "edition_verse_id": "ASV1901:LEV.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For as to the life of all flesh, the blood thereof is ",
+          "kind": "text"
+        },
+        {
+          "text": "all one",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh; for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.15",
+      "edition_verse_id": "ASV1901:LEV.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And every soul that eateth that which dieth of itself, or that which is torn of beasts, whether he be home-born or a sojourner, he shall wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.16",
+      "edition_verse_id": "ASV1901:LEV.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But if he wash them not, nor bathe his flesh, then he shall bear his iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

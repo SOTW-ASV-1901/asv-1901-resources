@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LEV",
+  "book_name": "Leviticus",
+  "book_order": 3,
+  "canonical_ids": "LEV.{chapter}.{verse}",
+  "edition_ids": "ASV1901:LEV.{chapter}.{verse}",
+  "chapter_count": 27,
+  "verse_count": 859,
+  "chapter_path_template": "leviticus/chapters/{chapter:02d}.json",
+  "facsimile_index": "leviticus/page-index.json",
+  "predecessor_book_code": "EXO",
+  "successor_book_code": "NUM",
+  "source_provenance": "books/leviticus/SOURCE_INVENTORY.json",
+  "reader": "books/leviticus/site/index.html",
+  "note": "Per-book metadata only; not a master ASV catalog. No unverified Strong's alignment."
+}
