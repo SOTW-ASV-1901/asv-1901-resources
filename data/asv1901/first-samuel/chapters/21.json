@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1SA",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "1SA.21.1",
+      "edition_verse_id": "ASV1901:1SA.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then came David to Nob to Ahimelech the priest: and Ahimelech came to meet David trembling, and said unto him, Why art thou alone, and no man with thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.2",
+      "edition_verse_id": "ASV1901:1SA.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know anything of the business whereabout I send thee, and what I have commanded thee: and I have appointed the young men to such and such a place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.3",
+      "edition_verse_id": "ASV1901:1SA.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now therefore what is under thy hand? give me five loaves of bread in my hand, or whatsoever there is present.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.4",
+      "edition_verse_id": "ASV1901:1SA.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the priest answered David, and said, There is no common bread under my hand, but there is holy bread; if only the young men have kept themselves from women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.5",
+      "edition_verse_id": "ASV1901:1SA.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days; when I came out, the vessels of the young men were holy, though it was but a common journey; how much more then to-day shall their vessels be holy?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.6",
+      "edition_verse_id": "ASV1901:1SA.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So the priest gave him holy ",
+          "kind": "text"
+        },
+        {
+          "text": "bread",
+          "kind": "supplied"
+        },
+        {
+          "text": "; for there was no bread there but the showbread, that was taken from before Jehovah, to put hot bread in the day when it was taken away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.7",
+      "edition_verse_id": "ASV1901:1SA.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now a certain man of the servants of Saul was there that day, detained before Jehovah; and his name was Doeg the Edomite, the chiefest of the herdsmen that belonged to Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.8",
+      "edition_verse_id": "ASV1901:1SA.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And David said unto Ahimelech, And is there not here under thy hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.9",
+      "edition_verse_id": "ASV1901:1SA.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the priest said, The sword of Goliath the Philistine, whom thou slewest in the vale of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it; for there is no other save that here. And David said, There is none like that; give it me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.10",
+      "edition_verse_id": "ASV1901:1SA.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.11",
+      "edition_verse_id": "ASV1901:1SA.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying,\nSaul hath slain his thousands,\nAnd David his ten thousands?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.12",
+      "edition_verse_id": "ASV1901:1SA.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.13",
+      "edition_verse_id": "ASV1901:1SA.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he changed his behavior before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.14",
+      "edition_verse_id": "ASV1901:1SA.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then said Achish unto his servants, Lo, ye see the man is mad; wherefore then have ye brought him to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.15",
+      "edition_verse_id": "ASV1901:1SA.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Do I lack madmen, that ye have brought this fellow to play the madman in my presence? shall this fellow come into my house?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

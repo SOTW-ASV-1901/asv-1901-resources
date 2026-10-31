@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1SA",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1SA.1.1",
+      "edition_verse_id": "ASV1901:1SA.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now there was a certain man of Ramathaim-zophim, of the hill-country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.2",
+      "edition_verse_id": "ASV1901:1SA.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.3",
+      "edition_verse_id": "ASV1901:1SA.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And this man went up out of his city from year to year to worship and to sacrifice unto Jehovah of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, priests unto Jehovah, were there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.4",
+      "edition_verse_id": "ASV1901:1SA.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when the day came that Elkanah sacrificed, he gave to Peninnah his wife, and to all her sons and her daughters, portions:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.5",
+      "edition_verse_id": "ASV1901:1SA.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "but unto Hannah he gave a double portion; for he loved Hannah, but Jehovah had shut up her womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.6",
+      "edition_verse_id": "ASV1901:1SA.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And her rival provoked her sore, to make her fret, because Jehovah had shut up her womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.7",
+      "edition_verse_id": "ASV1901:1SA.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " he did so year by year, when she went up to the house of Jehovah, so she provoked her; therefore she wept, and did not eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.8",
+      "edition_verse_id": "ASV1901:1SA.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Elkanah her husband said unto her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.9",
+      "edition_verse_id": "ASV1901:1SA.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest was sitting upon his seat by the door-post of the temple of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.10",
+      "edition_verse_id": "ASV1901:1SA.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And she was in bitterness of soul, and prayed unto Jehovah, and wept sore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.11",
+      "edition_verse_id": "ASV1901:1SA.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And she vowed a vow, and said, O Jehovah of hosts, if thou wilt indeed look on the affliction of thy handmaid, and remember me, and not forget thy handmaid, but wilt give unto thy handmaid a man-child, then I will give him unto Jehovah all the days of his life, and there shall no razor come upon his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.12",
+      "edition_verse_id": "ASV1901:1SA.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And it came to pass, as she continued praying before Jehovah, that Eli marked her mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.13",
+      "edition_verse_id": "ASV1901:1SA.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.14",
+      "edition_verse_id": "ASV1901:1SA.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.15",
+      "edition_verse_id": "ASV1901:1SA.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but I poured out my soul before Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.16",
+      "edition_verse_id": "ASV1901:1SA.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Count not thy handmaid for a wicked woman; for out of the abundance of my complaint and my provocation have I spoken hitherto.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.17",
+      "edition_verse_id": "ASV1901:1SA.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Eli answered and said, Go in peace; and the God of Israel grant thy petition that thou hast asked of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.18",
+      "edition_verse_id": "ASV1901:1SA.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And she said, Let thy handmaid find favor in thy sight. So the woman went her way, and did eat; and her countenance was no more ",
+          "kind": "text"
+        },
+        {
+          "text": "sad",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.19",
+      "edition_verse_id": "ASV1901:1SA.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they rose up in the morning early, and worshipped before Jehovah, and returned, and came to their house to Ramah. And Elkanah knew Hannah his wife; and Jehovah remembered her;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.20",
+      "edition_verse_id": "ASV1901:1SA.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and it came to pass, when the time was come about, that Hannah conceived, and bare a son; and she called his name Samuel, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Because I have asked him of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.21",
+      "edition_verse_id": "ASV1901:1SA.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the man Elkanah, and all his house, went up to offer unto Jehovah the yearly sacrifice, and his vow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.1.22",
+      "edition_verse_id": "ASV1901:1SA.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But Hannah went not up; for she said unto her husband, ",
+          "kind": "text"
+        },
+        {
+          "text": "I will not go up",
+          "kind": "supplied"
+        },
+        {
+          "text": " until the child be weaned; and then I will bring him, that he may appear before Jehovah, and there abide for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.23",
+      "edition_verse_id": "ASV1901:1SA.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only Jehovah establish his word. So the woman tarried and gave her son suck, until she weaned him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.24",
+      "edition_verse_id": "ASV1901:1SA.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when she had weaned him, she took him up with her, with three bullocks, and one ephah of meal, and a bottle of wine, and brought him unto the house of Jehovah in Shiloh: and the child was young.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.25",
+      "edition_verse_id": "ASV1901:1SA.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they slew the bullock, and brought the child to Eli.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.26",
+      "edition_verse_id": "ASV1901:1SA.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And she said, Oh, my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.27",
+      "edition_verse_id": "ASV1901:1SA.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For this child I prayed; and Jehovah hath given me my petition which I asked of him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.1.28",
+      "edition_verse_id": "ASV1901:1SA.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "therefore also I have granted him to Jehovah; as long as he liveth he is granted to Jehovah. And he worshipped Jehovah there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

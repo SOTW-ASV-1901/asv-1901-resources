@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1SA",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "1SA.20.1",
+      "edition_verse_id": "ASV1901:1SA.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.20.2",
+      "edition_verse_id": "ASV1901:1SA.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said unto him, Far from it; thou shalt not die: behold, my father doeth nothing either great or small, but that he discloseth it unto me; and why should my father hide this thing from me? it is not so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.3",
+      "edition_verse_id": "ASV1901:1SA.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And David sware moreover, and said, Thy father knoweth well that I have found favor in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as Jehovah liveth, and as thy soul liveth, there is but a step between me and death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.4",
+      "edition_verse_id": "ASV1901:1SA.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do it for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.5",
+      "edition_verse_id": "ASV1901:1SA.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And David said unto Jonathan, Behold, to-morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.6",
+      "edition_verse_id": "ASV1901:1SA.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If thy father miss me at all, then say, David earnestly asked leave of me that he might run to Beth-lehem his city; for it is the yearly sacrifice there for all the family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.7",
+      "edition_verse_id": "ASV1901:1SA.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If he say thus, It is well; thy servant shall have peace: but if he be wroth, then know that evil is determined by him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.8",
+      "edition_verse_id": "ASV1901:1SA.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore deal kindly with thy servant; for thou hast brought thy servant into a covenant of Jehovah with thee: but if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.9",
+      "edition_verse_id": "ASV1901:1SA.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jonathan said, Far be it from thee; for if I should at all know that evil were determined by my father to come upon thee, then would not I tell it thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.10",
+      "edition_verse_id": "ASV1901:1SA.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then said David to Jonathan, Who shall tell me if perchance thy father answer thee roughly?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.11",
+      "edition_verse_id": "ASV1901:1SA.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.12",
+      "edition_verse_id": "ASV1901:1SA.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Jonathan said unto David, Jehovah, the God of Israel, ",
+          "kind": "text"
+        },
+        {
+          "text": "be witness",
+          "kind": "supplied"
+        },
+        {
+          "text": ": when I have sounded my father about this time to-morrow, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " the third day, behold, if there be good toward David, shall I not then send unto thee, and disclose it unto thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.20.13",
+      "edition_verse_id": "ASV1901:1SA.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jehovah do so to Jonathan, and more also, should it please my father to do thee evil, if I disclose it not unto thee, and send thee away, that thou mayest go in peace: and Jehovah be with thee, as he hath been with my father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.14",
+      "edition_verse_id": "ASV1901:1SA.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt not only while yet I live show me the lovingkindness of Jehovah, that I die not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.15",
+      "edition_verse_id": "ASV1901:1SA.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "but also thou shalt not cut off thy kindness from my house for ever; no, not when Jehovah hath cut off the enemies of David every one from the face of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.16",
+      "edition_verse_id": "ASV1901:1SA.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So Jonathan made a covenant with the house of David, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", And Jehovah will require it at the hand of David’s enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.17",
+      "edition_verse_id": "ASV1901:1SA.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jonathan caused David to swear again, for the love that he had to him; for he loved him as he loved his own soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.20.18",
+      "edition_verse_id": "ASV1901:1SA.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Jonathan said unto him, To-morrow is the new moon: and thou wilt be missed, because thy seat will be empty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.19",
+      "edition_verse_id": "ASV1901:1SA.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when thou hast stayed three days, thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was in hand, and shalt remain by the stone Ezel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.20",
+      "edition_verse_id": "ASV1901:1SA.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And I will shoot three arrows on the side thereof, as though I shot at a mark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.21",
+      "edition_verse_id": "ASV1901:1SA.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And, behold, I will send the lad, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Go, find the arrows. If I say unto the lad, Behold, the arrows are on this side of thee; take them, and come; for there is peace to thee and no hurt, as Jehovah liveth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.22",
+      "edition_verse_id": "ASV1901:1SA.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But if I say thus unto the boy, Behold, the arrows are beyond thee; go thy way; for Jehovah hath sent thee away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.23",
+      "edition_verse_id": "ASV1901:1SA.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And as touching the matter which thou and I have spoken of, behold, Jehovah is between thee and me for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.24",
+      "edition_verse_id": "ASV1901:1SA.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So David hid himself in the field: and when the new moon was come, the king sat him down to eat food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.20.25",
+      "edition_verse_id": "ASV1901:1SA.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the king sat upon his seat, as at other times, even upon the seat by the wall; and Jonathan stood up, and Abner sat by Saul’s side: but David’s place was empty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.26",
+      "edition_verse_id": "ASV1901:1SA.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Nevertheless Saul spake not anything that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.27",
+      "edition_verse_id": "ASV1901:1SA.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And it came to pass on the morrow after the new moon, ",
+          "kind": "text"
+        },
+        {
+          "text": "which was",
+          "kind": "supplied"
+        },
+        {
+          "text": " the second ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to-day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.28",
+      "edition_verse_id": "ASV1901:1SA.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Jonathan answered Saul, David earnestly asked leave of me to go to Beth-lehem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.29",
+      "edition_verse_id": "ASV1901:1SA.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me ",
+          "kind": "text"
+        },
+        {
+          "text": "to be there",
+          "kind": "supplied"
+        },
+        {
+          "text": ": and now, if I have found favor in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he is not come unto the king’s table.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.30",
+      "edition_verse_id": "ASV1901:1SA.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of a perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own shame, and unto the shame of thy mother’s nakedness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.20.31",
+      "edition_verse_id": "ASV1901:1SA.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.32",
+      "edition_verse_id": "ASV1901:1SA.20.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Jonathan answered Saul his father, and said unto him, Wherefore should he be put to death? what hath he done?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.33",
+      "edition_verse_id": "ASV1901:1SA.20.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And Saul cast his spear at him to smite him; whereby Jonathan knew that it was determined of his father to put David to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.34",
+      "edition_verse_id": "ASV1901:1SA.20.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "So Jonathan arose from the table in fierce anger, and did eat no food the second day of the month; for he was grieved for David, because his father had done him shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.35",
+      "edition_verse_id": "ASV1901:1SA.20.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.20.36",
+      "edition_verse_id": "ASV1901:1SA.20.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And he said unto his lad, Run, find now the arrows which I shoot. And as the lad ran, he shot an arrow beyond him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.37",
+      "edition_verse_id": "ASV1901:1SA.20.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, Is not the arrow beyond thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.38",
+      "edition_verse_id": "ASV1901:1SA.20.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.39",
+      "edition_verse_id": "ASV1901:1SA.20.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But the lad knew not anything: only Jonathan and David knew the matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.40",
+      "edition_verse_id": "ASV1901:1SA.20.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Jonathan gave his weapons unto his lad, and said unto him, Go, carry them to the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.41",
+      "edition_verse_id": "ASV1901:1SA.20.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And as soon as the lad was gone, David arose out of ",
+          "kind": "text"
+        },
+        {
+          "text": "a place",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the South, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.20.42",
+      "edition_verse_id": "ASV1901:1SA.20.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of Jehovah, saying, Jehovah shall be between me and thee, and between my seed and thy seed, for ever. And he arose and departed: and Jonathan went into the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

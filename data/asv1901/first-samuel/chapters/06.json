@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1SA",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "1SA.6.1",
+      "edition_verse_id": "ASV1901:1SA.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the ark of Jehovah was in the country of the Philistines seven months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.6.2",
+      "edition_verse_id": "ASV1901:1SA.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the Philistines called for the priests and the diviners, saying, What shall we do with the ark of Jehovah? show us wherewith we shall send it to its place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.3",
+      "edition_verse_id": "ASV1901:1SA.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they said, If ye send away the ark of the God of Israel, send it not empty; but by all means return him a trespass-offering: then ye shall be healed, and it shall be known to you why his hand is not removed from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.4",
+      "edition_verse_id": "ASV1901:1SA.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then said they, What shall be the trespass-offering which we shall return to him? And they said, Five golden tumors, and five golden mice, ",
+          "kind": "text"
+        },
+        {
+          "text": "according to",
+          "kind": "supplied"
+        },
+        {
+          "text": " the number of the lords of the Philistines; for one plague was on you all, and on your lords.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.5",
+      "edition_verse_id": "ASV1901:1SA.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Wherefore ye shall make images of your tumors, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.6",
+      "edition_verse_id": "ASV1901:1SA.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? When he had wrought wonderfully among them, did they not let the people go, and they departed?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.7",
+      "edition_verse_id": "ASV1901:1SA.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now therefore take and prepare you a new cart, and two milch kine, on which there hath come no yoke; and tie the kine to the cart, and bring their calves home from them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.8",
+      "edition_verse_id": "ASV1901:1SA.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and take the ark of Jehovah, and lay it upon the cart; and put the jewels of gold, which ye return him for a trespass-offering, in a coffer by the side thereof; and send it away, that it may go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.9",
+      "edition_verse_id": "ASV1901:1SA.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And see; if it goeth up by the way of its own border to Beth-shemesh, then he hath done us this great evil: but if not, then we shall know that it is not his hand that smote us; it was a chance that happened to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.10",
+      "edition_verse_id": "ASV1901:1SA.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the men did so, and took two milch kine, and tied them to the cart, and shut up their calves at home;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.6.11",
+      "edition_verse_id": "ASV1901:1SA.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and they put the ark of Jehovah upon the cart, and the coffer with the mice of gold and the images of their tumors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.12",
+      "edition_verse_id": "ASV1901:1SA.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the kine took the straight way by the way to Beth-shemesh; they went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Beth-shemesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.13",
+      "edition_verse_id": "ASV1901:1SA.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they of Beth-shemesh were reaping their wheat harvest in the valley; and they lifted up their eyes, and saw the ark, and rejoiced to see it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.14",
+      "edition_verse_id": "ASV1901:1SA.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the cart came into the field of Joshua the Beth-shemite, and stood there, where there was a great stone: and they clave the wood of the cart, and offered up the kine for a burnt-offering unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.15",
+      "edition_verse_id": "ASV1901:1SA.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the Levites took down the ark of Jehovah, and the coffer that was with it, wherein the jewels of gold were, and put them on the great stone: and the men of Beth-shemesh offered burnt-offerings and sacrificed sacrifices the same day unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.16",
+      "edition_verse_id": "ASV1901:1SA.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when the five lords of the Philistines had seen it, they returned to Ekron the same day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.17",
+      "edition_verse_id": "ASV1901:1SA.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And these are the golden tumors which the Philistines returned for a trespass-offering unto Jehovah: for Ashdod one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.6.18",
+      "edition_verse_id": "ASV1901:1SA.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fortified cities and of country villages, even unto the great stone, whereon they set down the ark of Jehovah, ",
+          "kind": "text"
+        },
+        {
+          "text": "which stone remaineth",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto this day in the field of Joshua the Beth-shemite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.19",
+      "edition_verse_id": "ASV1901:1SA.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he smote of the men of Beth-shemesh, because they had looked into the ark of Jehovah, he smote of the people seventy men, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fifty thousand men; and the people mourned, because Jehovah had smitten the people with a great slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.6.20",
+      "edition_verse_id": "ASV1901:1SA.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the men of Beth-shemesh said, Who is able to stand before Jehovah, this holy God? and to whom shall he go up from us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.6.21",
+      "edition_verse_id": "ASV1901:1SA.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they sent messengers to the inhabitants of Kiriath-jearim, saying, The Philistines have brought back the ark of Jehovah; come ye down, and fetch it up to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

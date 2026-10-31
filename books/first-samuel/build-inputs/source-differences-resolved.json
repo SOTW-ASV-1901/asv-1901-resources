@@ -1,0 +1,19 @@
+{
+  "1SA.13.1": {
+    "original_print_checked": true,
+    "source_pdf_page": 313,
+    "comparison_source": "USFM omits editorial brackets from forty",
+    "primary_print_reading": "Saul was [forty] years old",
+    "decision": "retain_primary_as_printed",
+    "evidence": "Original printed 1901 edition PDF page 313 uses square brackets around the conjectural age; the marginal note explains the number is missing in the Hebrew text."
+  },
+  "1SA.14.49": {
+    "original_print_checked": true,
+    "source_pdf_page": 316,
+    "comparison_source": "USFM Malchishua without hyphen",
+    "primary_print_reading": "Malchi-shua",
+    "decision": "retain_primary_as_printed",
+    "evidence": "The printing of 1 Samuel 14:49 on original PDF page 316 has Malchi- at the end of a line and shua on the next line, which alone could be a line-break hyphen; original 1 Samuel 31:2 (PDF page 337) prints Malchi-shua within a single line, establishing the intended hyphenation.",
+    "supporting_source_pdf_page": 337
+  }
+}

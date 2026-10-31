@@ -1,0 +1,370 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 300,
+      "type": "scripture",
+      "printed_page": 270,
+      "running_head_first_verse": "1SA.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "1SA.1.1",
+      "last_verse": "1SA.1.23",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 301,
+      "type": "scripture",
+      "printed_page": 271,
+      "running_head_first_verse": "1SA.1.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.1.23",
+      "last_verse": "1SA.2.17",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 302,
+      "type": "scripture",
+      "printed_page": 272,
+      "running_head_first_verse": "1SA.2.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.2.17",
+      "last_verse": "1SA.3.5",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 303,
+      "type": "scripture",
+      "printed_page": 273,
+      "running_head_first_verse": "1SA.3.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.3.5",
+      "last_verse": "1SA.4.10",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 304,
+      "type": "scripture",
+      "printed_page": 274,
+      "running_head_first_verse": "1SA.4.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.4.10",
+      "last_verse": "1SA.5.11",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 305,
+      "type": "scripture",
+      "printed_page": 275,
+      "running_head_first_verse": "1SA.5.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.5.11",
+      "last_verse": "1SA.6.20",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 306,
+      "type": "scripture",
+      "printed_page": 276,
+      "running_head_first_verse": "1SA.6.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.6.20",
+      "last_verse": "1SA.8.9",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 307,
+      "type": "map",
+      "printed_page": null,
+      "historical_description": "Historical map: Canaan and environs; illustrating 1 Samuel 1:1\u20137:11"
+    },
+    {
+      "source_pdf_page": 308,
+      "type": "interleaf",
+      "printed_page": null,
+      "historical_description": "Original blank reverse of map facing printed page 276"
+    },
+    {
+      "source_pdf_page": 309,
+      "type": "scripture",
+      "printed_page": 277,
+      "running_head_first_verse": "1SA.8.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.8.9",
+      "last_verse": "1SA.9.13",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 310,
+      "type": "scripture",
+      "printed_page": 278,
+      "running_head_first_verse": "1SA.9.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.9.13",
+      "last_verse": "1SA.10.6",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 311,
+      "type": "scripture",
+      "printed_page": 279,
+      "running_head_first_verse": "1SA.10.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.10.6",
+      "last_verse": "1SA.11.4",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 312,
+      "type": "scripture",
+      "printed_page": 280,
+      "running_head_first_verse": "1SA.11.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.11.4",
+      "last_verse": "1SA.12.11",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 313,
+      "type": "scripture",
+      "printed_page": 281,
+      "running_head_first_verse": "1SA.12.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.12.11",
+      "last_verse": "1SA.13.11",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 314,
+      "type": "scripture",
+      "printed_page": 282,
+      "running_head_first_verse": "1SA.13.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.13.11",
+      "last_verse": "1SA.14.12",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 315,
+      "type": "scripture",
+      "printed_page": 283,
+      "running_head_first_verse": "1SA.14.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.14.12",
+      "last_verse": "1SA.14.34",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 316,
+      "type": "scripture",
+      "printed_page": 284,
+      "running_head_first_verse": "1SA.14.35",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.14.34",
+      "last_verse": "1SA.15.8",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 317,
+      "type": "scripture",
+      "printed_page": 285,
+      "running_head_first_verse": "1SA.15.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.15.8",
+      "last_verse": "1SA.15.34",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 318,
+      "type": "scripture",
+      "printed_page": 286,
+      "running_head_first_verse": "1SA.15.35",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.15.34",
+      "last_verse": "1SA.17.2",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 319,
+      "type": "scripture",
+      "printed_page": 287,
+      "running_head_first_verse": "1SA.17.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.17.2",
+      "last_verse": "1SA.17.28",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 320,
+      "type": "scripture",
+      "printed_page": 288,
+      "running_head_first_verse": "1SA.17.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.17.28",
+      "last_verse": "1SA.17.52",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 321,
+      "type": "scripture",
+      "printed_page": 289,
+      "running_head_first_verse": "1SA.17.53",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.17.52",
+      "last_verse": "1SA.18.21",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 322,
+      "type": "scripture",
+      "printed_page": 290,
+      "running_head_first_verse": "1SA.18.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.18.21",
+      "last_verse": "1SA.19.17",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 323,
+      "type": "scripture",
+      "printed_page": 291,
+      "running_head_first_verse": "1SA.19.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.19.17",
+      "last_verse": "1SA.20.18",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 324,
+      "type": "scripture",
+      "printed_page": 292,
+      "running_head_first_verse": "1SA.20.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.20.18",
+      "last_verse": "1SA.21.1",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 325,
+      "type": "scripture",
+      "printed_page": 293,
+      "running_head_first_verse": "1SA.21.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.21.1",
+      "last_verse": "1SA.22.8",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 326,
+      "type": "scripture",
+      "printed_page": 294,
+      "running_head_first_verse": "1SA.22.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.22.8",
+      "last_verse": "1SA.23.10",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 327,
+      "type": "map",
+      "printed_page": null,
+      "historical_description": "Historical map: Saul and David; illustrating 1 Samuel 8:1\u201331:13"
+    },
+    {
+      "source_pdf_page": 328,
+      "type": "interleaf",
+      "printed_page": null,
+      "historical_description": "Original blank reverse of Saul and David map facing printed page 294"
+    },
+    {
+      "source_pdf_page": 329,
+      "type": "scripture",
+      "printed_page": 295,
+      "running_head_first_verse": "1SA.23.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.23.10",
+      "last_verse": "1SA.24.6",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 330,
+      "type": "scripture",
+      "printed_page": 296,
+      "running_head_first_verse": "1SA.24.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.24.6",
+      "last_verse": "1SA.25.8",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 331,
+      "type": "scripture",
+      "printed_page": 297,
+      "running_head_first_verse": "1SA.25.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.25.8",
+      "last_verse": "1SA.25.30",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 332,
+      "type": "scripture",
+      "printed_page": 298,
+      "running_head_first_verse": "1SA.25.31",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "1SA.25.31",
+      "last_verse": "1SA.26.10",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 333,
+      "type": "scripture",
+      "printed_page": 299,
+      "running_head_first_verse": "1SA.26.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.26.10",
+      "last_verse": "1SA.27.7",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 334,
+      "type": "scripture",
+      "printed_page": 300,
+      "running_head_first_verse": "1SA.27.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.27.7",
+      "last_verse": "1SA.28.17",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 335,
+      "type": "scripture",
+      "printed_page": 301,
+      "running_head_first_verse": "1SA.28.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.28.17",
+      "last_verse": "1SA.30.3",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 336,
+      "type": "scripture",
+      "printed_page": 302,
+      "running_head_first_verse": "1SA.30.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.30.3",
+      "last_verse": "1SA.30.26",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    },
+    {
+      "source_pdf_page": 337,
+      "type": "scripture",
+      "printed_page": 303,
+      "running_head_first_verse": "1SA.30.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "1SA.30.26",
+      "last_verse": "1SA.31.13",
+      "evidence_method": "Original 1901 physical page opening checked visually against the preceding page and printed running head; first verse includes trailing text when present."
+    }
+  ]
+}

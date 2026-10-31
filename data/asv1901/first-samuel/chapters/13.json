@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1SA",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "1SA.13.1",
+      "edition_verse_id": "ASV1901:1SA.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Saul was [",
+          "kind": "text"
+        },
+        {
+          "text": "forty",
+          "kind": "supplied"
+        },
+        {
+          "text": "] years old when he began to reign; and when he had reigned two years over Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.2",
+      "edition_verse_id": "ASV1901:1SA.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Saul chose him three thousand men of Israel, whereof two thousand were with Saul in Michmash and in the mount of Beth-el, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.3",
+      "edition_verse_id": "ASV1901:1SA.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Jonathan smote the garrison of the Philistines that was in Geba; and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.4",
+      "edition_verse_id": "ASV1901:1SA.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And all Israel heard say that Saul had smitten the garrison of the Philistines, and also that Israel was had in abomination with the Philistines. And the people were gathered together after Saul to Gilgal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.5",
+      "edition_verse_id": "ASV1901:1SA.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the Philistines assembled themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which is on the sea-shore in multitude: and they came up, and encamped in Michmash, eastward of Beth-aven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.6",
+      "edition_verse_id": "ASV1901:1SA.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When the men of Israel saw that they were in a strait (for the people were distressed), then the people did hide themselves in caves, and in thickets, and in rocks, and in coverts, and in pits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.7",
+      "edition_verse_id": "ASV1901:1SA.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now some of the Hebrews had gone over the Jordan to the land of Gad and Gilead; but as for Saul, he was yet in Gilgal, and all the people followed him trembling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.8",
+      "edition_verse_id": "ASV1901:1SA.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he tarried seven days, according to the set time that Samuel ",
+          "kind": "text"
+        },
+        {
+          "text": "had appointed",
+          "kind": "supplied"
+        },
+        {
+          "text": ": but Samuel came not to Gilgal; and the people were scattered from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.9",
+      "edition_verse_id": "ASV1901:1SA.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Saul said, Bring hither the burnt-offering to me, and the peace-offerings. And he offered the burnt-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.10",
+      "edition_verse_id": "ASV1901:1SA.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And it came to pass that, as soon as he had made an end of offering the burnt-offering, behold, Samuel came; and Saul went out to meet him, that he might salute him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.11",
+      "edition_verse_id": "ASV1901:1SA.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Samuel said, What hast thou done? And Saul said, Because I saw that the people were scattered from me, and that thou camest not within the days appointed, and that the Philistines assembled themselves together at Michmash;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.12",
+      "edition_verse_id": "ASV1901:1SA.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "therefore said I, Now will the Philistines come down upon me to Gilgal, and I have not entreated the favor of Jehovah: I forced myself therefore, and offered the burnt-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.13",
+      "edition_verse_id": "ASV1901:1SA.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Samuel said to Saul, Thou hast done foolishly; thou hast not kept the commandment of Jehovah thy God, which he commanded thee: for now would Jehovah have established thy kingdom upon Israel for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.14",
+      "edition_verse_id": "ASV1901:1SA.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But now thy kingdom shall not continue: Jehovah hath sought him a man after his own heart, and Jehovah hath appointed him to be prince over his people, because thou hast not kept that which Jehovah commanded thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.15",
+      "edition_verse_id": "ASV1901:1SA.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin.And Saul numbered the people that were present with him, about six hundred men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.16",
+      "edition_verse_id": "ASV1901:1SA.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Saul, and Jonathan his son, and the people that were present with them, abode in Geba of Benjamin: but the Philistines encamped in Michmash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.17",
+      "edition_verse_id": "ASV1901:1SA.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way that leadeth to Ophrah, unto the land of Shual;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.18",
+      "edition_verse_id": "ASV1901:1SA.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and another company turned the way to Beth-horon; and another company turned the way of the border that looketh down upon the valley of Zeboim toward the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.19",
+      "edition_verse_id": "ASV1901:1SA.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now there was no smith found throughout all the land of Israel; for the Philistines said, Lest the Hebrews make them swords or spears:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.20",
+      "edition_verse_id": "ASV1901:1SA.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "but all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.21",
+      "edition_verse_id": "ASV1901:1SA.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to set the goads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.22",
+      "edition_verse_id": "ASV1901:1SA.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So it came to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people that were with Saul and Jonathan: but with Saul and with Jonathan his son was there found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.23",
+      "edition_verse_id": "ASV1901:1SA.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the garrison of the Philistines went out unto the pass of Michmash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
