@@ -1,0 +1,636 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2SA",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "2SA.22.1",
+      "edition_verse_id": "ASV1901:2SA.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And David spake unto Jehovah the words of this song in the day that Jehovah delivered him out of the hand of all his enemies, and out of the hand of Saul:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.2",
+      "edition_verse_id": "ASV1901:2SA.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and he said,\nJehovah is my rock, and my fortress, and my deliverer, even mine;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.3",
+      "edition_verse_id": "ASV1901:2SA.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "God, my rock, in him will I take refuge;\nMy shield, and the horn of my salvation, my high tower, and my refuge;\nMy saviour, thou savest me from violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.4",
+      "edition_verse_id": "ASV1901:2SA.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will call upon Jehovah, who is worthy to be praised:\nSo shall I be saved from mine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.5",
+      "edition_verse_id": "ASV1901:2SA.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For the waves of death compassed me;\nThe floods of ungodliness made me afraid:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.6",
+      "edition_verse_id": "ASV1901:2SA.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The cords of Sheol were round about me;\nThe snares of death came upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.7",
+      "edition_verse_id": "ASV1901:2SA.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In my distress I called upon Jehovah;\nYea, I called unto my God:\nAnd he heard my voice out of his temple,\nAnd my cry ",
+          "kind": "text"
+        },
+        {
+          "text": "came",
+          "kind": "supplied"
+        },
+        {
+          "text": " into his ears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.8",
+      "edition_verse_id": "ASV1901:2SA.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the earth shook and trembled,\nThe foundations of heaven quaked\nAnd were shaken, because he was wroth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.9",
+      "edition_verse_id": "ASV1901:2SA.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "There went up a smoke out of his nostrils,\nAnd fire out of his mouth devoured:\nCoals were kindled by it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.10",
+      "edition_verse_id": "ASV1901:2SA.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He bowed the heavens also, and came down;\nAnd thick darkness was under his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.11",
+      "edition_verse_id": "ASV1901:2SA.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he rode upon a cherub, and did fly;\nYea, he was seen upon the wings of the wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.12",
+      "edition_verse_id": "ASV1901:2SA.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he made darkness pavilions round about him,\nGathering of waters, thick clouds of the skies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.13",
+      "edition_verse_id": "ASV1901:2SA.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "At the brightness before him\nCoals of fire were kindled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.14",
+      "edition_verse_id": "ASV1901:2SA.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Jehovah thundered from heaven,\nAnd the Most High uttered his voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.15",
+      "edition_verse_id": "ASV1901:2SA.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he sent out arrows, and scattered them;\nLightning, and discomfited them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.16",
+      "edition_verse_id": "ASV1901:2SA.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the channels of the sea appeared,\nThe foundations of the world were laid bare,\nBy the rebuke of Jehovah,\nAt the blast of the breath of his nostrils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.17",
+      "edition_verse_id": "ASV1901:2SA.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He sent from on high, he took me;\nHe drew me out of many waters;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.18",
+      "edition_verse_id": "ASV1901:2SA.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He delivered me from my strong enemy,\nFrom them that hated me; for they were too mighty for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.19",
+      "edition_verse_id": "ASV1901:2SA.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They came upon me in the day of my calamity;\nBut Jehovah was my stay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.20",
+      "edition_verse_id": "ASV1901:2SA.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He brought me forth also into a large place;\nHe delivered me, because he delighted in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.21",
+      "edition_verse_id": "ASV1901:2SA.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jehovah rewarded me according to my righteousness;\nAccording to the cleanness of my hands hath he recompensed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.22",
+      "edition_verse_id": "ASV1901:2SA.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I have kept the ways of Jehovah,\nAnd have not wickedly departed from my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.23",
+      "edition_verse_id": "ASV1901:2SA.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For all his ordinances were before me;\nAnd as for his statutes, I did not depart from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.24",
+      "edition_verse_id": "ASV1901:2SA.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "I was also perfect toward him;\nAnd I kept myself from mine iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.25",
+      "edition_verse_id": "ASV1901:2SA.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Therefore hath Jehovah recompensed me according to my righteousness,\nAccording to my cleanness in his eyesight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.26",
+      "edition_verse_id": "ASV1901:2SA.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "With the merciful thou wilt show thyself merciful;\nWith the perfect man thou wilt show thyself perfect;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.27",
+      "edition_verse_id": "ASV1901:2SA.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "With the pure thou wilt show thyself pure;\nAnd with the perverse thou wilt show thyself froward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.28",
+      "edition_verse_id": "ASV1901:2SA.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the afflicted people thou wilt save;\nBut thine eyes are upon the haughty, that thou mayest bring them down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.29",
+      "edition_verse_id": "ASV1901:2SA.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For thou art my lamp, O Jehovah;\nAnd Jehovah will lighten my darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.30",
+      "edition_verse_id": "ASV1901:2SA.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For by thee I run upon a troop;\nBy my God do I leap over a wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.31",
+      "edition_verse_id": "ASV1901:2SA.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "As for God, his way is perfect:\nThe word of Jehovah is tried;\nHe is a shield unto all them that take refuge in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.32",
+      "edition_verse_id": "ASV1901:2SA.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For who is God, save Jehovah?\nAnd who is a rock, save our God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.33",
+      "edition_verse_id": "ASV1901:2SA.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "God is my strong fortress;\nAnd he guideth the perfect in his way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.34",
+      "edition_verse_id": "ASV1901:2SA.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He maketh his feet like hinds’ ",
+          "kind": "text"
+        },
+        {
+          "text": "feet",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nAnd setteth me upon my high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.35",
+      "edition_verse_id": "ASV1901:2SA.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "He teacheth my hands to war,\nSo that mine arms do bend a bow of brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.36",
+      "edition_verse_id": "ASV1901:2SA.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Thou hast also given me the shield of thy salvation;\nAnd thy gentleness hath made me great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.37",
+      "edition_verse_id": "ASV1901:2SA.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Thou hast enlarged my steps under me;\nAnd my feet have not slipped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.38",
+      "edition_verse_id": "ASV1901:2SA.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "I have pursued mine enemies, and destroyed them;\nNeither did I turn again till they were consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.39",
+      "edition_verse_id": "ASV1901:2SA.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And I have consumed them, and smitten them through, so that they cannot arise:\nYea, they are fallen under my feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.40",
+      "edition_verse_id": "ASV1901:2SA.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "For thou hast girded me with strength unto the battle;\nThou hast subdued under me those that rose up against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.41",
+      "edition_verse_id": "ASV1901:2SA.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Thou hast also made mine enemies turn their backs unto me,\nThat I might cut off them that hate me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.42",
+      "edition_verse_id": "ASV1901:2SA.22.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "They looked, but there was none to save;\nEven unto Jehovah, but he answered them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.43",
+      "edition_verse_id": "ASV1901:2SA.22.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Then did I beat them small as the dust of the earth,\nI did crush them as the mire of the streets, and did spread them abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.44",
+      "edition_verse_id": "ASV1901:2SA.22.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Thou also hast delivered me from the strivings of my people;\nThou hast kept me to be the head of the nations:\nA people whom I have not known shall serve me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.45",
+      "edition_verse_id": "ASV1901:2SA.22.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "The foreigners shall submit themselves unto me:\nAs soon as they hear of me, they shall obey me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.46",
+      "edition_verse_id": "ASV1901:2SA.22.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "The foreigners shall fade away,\nAnd shall come trembling out of their close places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.47",
+      "edition_verse_id": "ASV1901:2SA.22.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Jehovah liveth; And blessed be my rock;\nAnd exalted be God, the rock of my salvation,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.48",
+      "edition_verse_id": "ASV1901:2SA.22.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Even the God that executeth vengeance for me,\nAnd that bringeth down peoples under me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.49",
+      "edition_verse_id": "ASV1901:2SA.22.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And that bringeth me forth from mine enemies:\nYea, thou liftest me up above them that rise up against me;\nThou deliverest me from the violent man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.50",
+      "edition_verse_id": "ASV1901:2SA.22.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Therefore I will give thanks unto thee, O Jehovah, among the nations,\nAnd will sing praises unto thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.51",
+      "edition_verse_id": "ASV1901:2SA.22.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Great deliverance giveth he to his king,\nAnd showeth lovingkindness to his anointed,\nTo David and to his seed, for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2SA",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "2SA.12.1",
+      "edition_verse_id": "ASV1901:2SA.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.12.2",
+      "edition_verse_id": "ASV1901:2SA.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The rich man had exceeding many flocks and herds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.3",
+      "edition_verse_id": "ASV1901:2SA.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "but the poor man had nothing, save one little ewe lamb, which he had bought and nourished up: and it grew up together with him, and with his children; it did eat of his own morsel, and drank of his own cup, and lay in his bosom, and was unto him as a daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.4",
+      "edition_verse_id": "ASV1901:2SA.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him, but took the poor man’s lamb, and dressed it for the man that was come to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.5",
+      "edition_verse_id": "ASV1901:2SA.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And David’s anger was greatly kindled against the man; and he said to Nathan, As Jehovah liveth, the man that hath done this is worthy to die:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.6",
+      "edition_verse_id": "ASV1901:2SA.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and he shall restore the lamb fourfold, because he did this thing, and because he had no pity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.7",
+      "edition_verse_id": "ASV1901:2SA.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Nathan said to David, Thou art the man. Thus saith Jehovah, the God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.12.8",
+      "edition_verse_id": "ASV1901:2SA.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and I gave thee thy master’s house, and thy master’s wives into thy bosom, and gave thee the house of Israel and of Judah; and if that had been too little, I would have added unto thee such and such things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.9",
+      "edition_verse_id": "ASV1901:2SA.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Wherefore hast thou despised the word of Jehovah, to do that which is evil in his sight? thou hast smitten Uriah the Hittite with the sword, and hast taken his wife to be thy wife, and hast slain him with the sword of the children of Ammon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.10",
+      "edition_verse_id": "ASV1901:2SA.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now therefore the sword shall never depart from thy house, because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.11",
+      "edition_verse_id": "ASV1901:2SA.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah, Behold, I will raise up evil against thee out of thine own house; and I will take thy wives before thine eyes, and give them unto thy neighbor, and he shall lie with thy wives in the sight of this sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.12",
+      "edition_verse_id": "ASV1901:2SA.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For thou didst it secretly: but I will do this thing before all Israel, and before the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.13",
+      "edition_verse_id": "ASV1901:2SA.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And David said unto Nathan, I have sinned against Jehovah. And Nathan said unto David, Jehovah also hath put away thy sin; thou shalt not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.14",
+      "edition_verse_id": "ASV1901:2SA.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Howbeit, because by this deed thou hast given great occasion to the enemies of Jehovah to blaspheme, the child also that is born unto thee shall surely die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.15",
+      "edition_verse_id": "ASV1901:2SA.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Nathan departed unto his house.And Jehovah struck the child that Uriah’s wife bare unto David, and it was very sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.16",
+      "edition_verse_id": "ASV1901:2SA.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.12.17",
+      "edition_verse_id": "ASV1901:2SA.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the elders of his house arose, ",
+          "kind": "text"
+        },
+        {
+          "text": "and stood",
+          "kind": "supplied"
+        },
+        {
+          "text": " beside him, to raise him up from the earth: but he would not, neither did he eat bread with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.18",
+      "edition_verse_id": "ASV1901:2SA.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead; for they said, Behold, while the child was yet alive, we spake unto him, and he hearkened not unto our voice: how will he then vex himself, if we tell him that the child is dead!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.19",
+      "edition_verse_id": "ASV1901:2SA.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But when David saw that his servants were whispering together, David perceived that the child was dead; and David said unto his servants, Is the child dead? And they said, He is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.20",
+      "edition_verse_id": "ASV1901:2SA.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then David arose from the earth, and washed, and anointed himself, and changed his apparel; and he came into the house of Jehovah, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.21",
+      "edition_verse_id": "ASV1901:2SA.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then said his servants unto him, What thing is this that thou hast done? thou didst fast and weep for the child, while it was alive; but when the child was dead, thou didst rise and eat bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.22",
+      "edition_verse_id": "ASV1901:2SA.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he said, While the child was yet alive, I fasted and wept: for I said, Who knoweth whether Jehovah will not be gracious to me, that the child may live?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.23",
+      "edition_verse_id": "ASV1901:2SA.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he will not return to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.24",
+      "edition_verse_id": "ASV1901:2SA.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And David comforted Bath-sheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon. And Jehovah loved him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.12.25",
+      "edition_verse_id": "ASV1901:2SA.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "and he sent by the hand of Nathan the prophet; and he called his name Jedidiah, for Jehovah’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.26",
+      "edition_verse_id": "ASV1901:2SA.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Now Joab fought against Rabbah of the children of Ammon, and took the royal city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.12.27",
+      "edition_verse_id": "ASV1901:2SA.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Joab sent messengers to David, and said, I have fought against Rabbah; yea, I have taken the city of waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.28",
+      "edition_verse_id": "ASV1901:2SA.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now therefore gather the rest of the people together, and encamp against the city, and take it; lest I take the city, and it be called after my name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.29",
+      "edition_verse_id": "ASV1901:2SA.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And David gathered all the people together, and went to Rabbah, and fought against it, and took it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.30",
+      "edition_verse_id": "ASV1901:2SA.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And he took the crown of their king from off his head; and the weight thereof was a talent of gold, and ",
+          "kind": "text"
+        },
+        {
+          "text": "in it were",
+          "kind": "supplied"
+        },
+        {
+          "text": " precious stones; and it was set on David’s head. And he brought forth the spoil of the city, exceeding much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.12.31",
+      "edition_verse_id": "ASV1901:2SA.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. And David and all the people returned unto Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

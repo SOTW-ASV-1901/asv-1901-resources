@@ -1,0 +1,246 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      338,
+      339
+    ],
+    "first": "2SA.1.1",
+    "last": "2SA.1.27"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      339,
+      340
+    ],
+    "first": "2SA.2.1",
+    "last": "2SA.2.32"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      340,
+      341,
+      342
+    ],
+    "first": "2SA.3.1",
+    "last": "2SA.3.39"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      342
+    ],
+    "first": "2SA.4.1",
+    "last": "2SA.4.12"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      342,
+      343
+    ],
+    "first": "2SA.5.1",
+    "last": "2SA.5.25"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      343,
+      344
+    ],
+    "first": "2SA.6.1",
+    "last": "2SA.6.23"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      344,
+      345
+    ],
+    "first": "2SA.7.1",
+    "last": "2SA.7.29"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      345,
+      346
+    ],
+    "first": "2SA.8.1",
+    "last": "2SA.8.18"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      346
+    ],
+    "first": "2SA.9.1",
+    "last": "2SA.9.13"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      346,
+      347
+    ],
+    "first": "2SA.10.1",
+    "last": "2SA.10.19"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      347,
+      348
+    ],
+    "first": "2SA.11.1",
+    "last": "2SA.11.27"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      348,
+      349,
+      350
+    ],
+    "first": "2SA.12.1",
+    "last": "2SA.12.31"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      350,
+      351
+    ],
+    "first": "2SA.13.1",
+    "last": "2SA.13.39"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      351,
+      352,
+      353
+    ],
+    "first": "2SA.14.1",
+    "last": "2SA.14.33"
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      353,
+      354
+    ],
+    "first": "2SA.15.1",
+    "last": "2SA.15.37"
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      354,
+      355
+    ],
+    "first": "2SA.16.1",
+    "last": "2SA.16.23"
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      355,
+      356
+    ],
+    "first": "2SA.17.1",
+    "last": "2SA.17.29"
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      356,
+      357,
+      358
+    ],
+    "first": "2SA.18.1",
+    "last": "2SA.18.33"
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      358,
+      359,
+      360
+    ],
+    "first": "2SA.19.1",
+    "last": "2SA.19.43"
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      360,
+      361
+    ],
+    "first": "2SA.20.1",
+    "last": "2SA.20.26"
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      361,
+      362
+    ],
+    "first": "2SA.21.1",
+    "last": "2SA.21.22"
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      362,
+      363,
+      364
+    ],
+    "first": "2SA.22.1",
+    "last": "2SA.22.51"
+  },
+  "23": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      364,
+      365
+    ],
+    "first": "2SA.23.1",
+    "last": "2SA.23.39"
+  },
+  "24": {
+    "original_print_chapter_checked": true,
+    "method": "Checked original page starts, chapter coverage and transitions; this is not word-by-word visual certification",
+    "source_pdf_pages": [
+      365,
+      366
+    ],
+    "first": "2SA.24.1",
+    "last": "2SA.24.25"
+  }
+}
