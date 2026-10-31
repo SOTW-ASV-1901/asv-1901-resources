@@ -1,0 +1,600 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DEU",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "DEU.1.1",
+      "edition_verse_id": "ASV1901:DEU.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the words which Moses spake unto all Israel beyond the Jordan in the wilderness, in the Arabah over against Suph, between Paran, and Tophel, and Laban, and Hazeroth, and Di-zahab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.1.2",
+      "edition_verse_id": "ASV1901:DEU.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It is eleven days’ ",
+          "kind": "text"
+        },
+        {
+          "text": "journey",
+          "kind": "supplied"
+        },
+        {
+          "text": " from Horeb by the way of mount Seir unto Kadesh-barnea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.3",
+      "edition_verse_id": "ASV1901:DEU.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that Jehovah had given him in commandment unto them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.4",
+      "edition_verse_id": "ASV1901:DEU.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "after he had smitten Sihon the king of the Amorites, who dwelt in Heshbon, and Og the king of Bashan, who dwelt in Ashtaroth, at Edrei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.5",
+      "edition_verse_id": "ASV1901:DEU.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Beyond the Jordan, in the land of Moab, began Moses to declare this law, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.6",
+      "edition_verse_id": "ASV1901:DEU.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Jehovah our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mountain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.7",
+      "edition_verse_id": "ASV1901:DEU.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "turn you, and take your journey, and go to the hill-country of the Amorites, and unto all ",
+          "kind": "text"
+        },
+        {
+          "text": "the places",
+          "kind": "supplied"
+        },
+        {
+          "text": " nigh thereunto, in the Arabah, in the hill-country, and in the lowland, and in the South, and by the sea-shore, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.8",
+      "edition_verse_id": "ASV1901:DEU.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Behold, I have set the land before you: go in and possess the land which Jehovah sware unto your fathers, to Abraham, to Isaac, and to Jacob, to give unto them and to their seed after them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.9",
+      "edition_verse_id": "ASV1901:DEU.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And I spake unto you at that time, saying, I am not able to bear you myself alone:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.1.10",
+      "edition_verse_id": "ASV1901:DEU.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jehovah your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.11",
+      "edition_verse_id": "ASV1901:DEU.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jehovah, the God of your fathers, make you a thousand times as many as ye are, and bless you, as he hath promised you!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.12",
+      "edition_verse_id": "ASV1901:DEU.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "How can I myself alone bear your cumbrance, and your burden, and your strife?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.13",
+      "edition_verse_id": "ASV1901:DEU.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Take you wise men, and understanding, and known, according to your tribes, and I will make them heads over you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.14",
+      "edition_verse_id": "ASV1901:DEU.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And ye answered me, and said, The thing which thou hast spoken is good ",
+          "kind": "text"
+        },
+        {
+          "text": "for us",
+          "kind": "supplied"
+        },
+        {
+          "text": " to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.15",
+      "edition_verse_id": "ASV1901:DEU.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So I took the heads of your tribes, wise men, and known, and made them heads over you, captains of thousands, and captains of hundreds, and captains of fifties, and captains of tens, and officers, according to your tribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.16",
+      "edition_verse_id": "ASV1901:DEU.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I charged your judges at that time, saying, Hear ",
+          "kind": "text"
+        },
+        {
+          "text": "the causes",
+          "kind": "supplied"
+        },
+        {
+          "text": " between your brethren, and judge righteously between a man and his brother, and the sojourner that is with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.17",
+      "edition_verse_id": "ASV1901:DEU.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Ye shall not respect persons in judgment; ye shall hear the small and the great alike; ye shall not be afraid of the face of man; for the judgment is God’s: and the cause that is too hard for you ye shall bring unto me, and I will hear it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.18",
+      "edition_verse_id": "ASV1901:DEU.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And I commanded you at that time all the things which ye should do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.19",
+      "edition_verse_id": "ASV1901:DEU.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And we journeyed from Horeb, and went through all that great and terrible wilderness which ye saw, by the way to the hill-country of the Amorites, as Jehovah our God commanded us; and we came to Kadesh-barnea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.1.20",
+      "edition_verse_id": "ASV1901:DEU.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And I said unto you, Ye are come unto the hill-country of the Amorites, which Jehovah our God giveth unto us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.21",
+      "edition_verse_id": "ASV1901:DEU.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Behold, Jehovah thy God hath set the land before thee: go up, take possession, as Jehovah, the God of thy fathers, hath spoken unto thee; fear not, neither be dismayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.22",
+      "edition_verse_id": "ASV1901:DEU.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And ye came near unto me every one of you, and said, Let us send men before us, that they may search the land for us, and bring us word again of the way by which we must go up, and the cities unto which we shall come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.23",
+      "edition_verse_id": "ASV1901:DEU.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the thing pleased me well; and I took twelve men of you, one man for every tribe:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.24",
+      "edition_verse_id": "ASV1901:DEU.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and they turned and went up into the hill-country, and came unto the valley of Eshcol, and spied it out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.25",
+      "edition_verse_id": "ASV1901:DEU.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which Jehovah our God giveth unto us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.26",
+      "edition_verse_id": "ASV1901:DEU.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Yet ye would not go up, but rebelled against the commandment of Jehovah your God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.1.27",
+      "edition_verse_id": "ASV1901:DEU.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and ye murmured in your tents, and said, Because Jehovah hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.28",
+      "edition_verse_id": "ASV1901:DEU.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Whither are we going up? our brethren have made our heart to melt, saying, The people are greater and taller than we; the cities are great and fortified up to heaven; and moreover we have seen the sons of the Anakim there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.29",
+      "edition_verse_id": "ASV1901:DEU.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then I said unto you, Dread not, neither be afraid of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.30",
+      "edition_verse_id": "ASV1901:DEU.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Jehovah your God who goeth before you, he will fight for you, according to all that he did for you in Egypt before your eyes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.31",
+      "edition_verse_id": "ASV1901:DEU.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and in the wilderness, where thou hast seen how that Jehovah thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came unto this place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.32",
+      "edition_verse_id": "ASV1901:DEU.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Yet in this thing ye did not believe Jehovah your God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.33",
+      "edition_verse_id": "ASV1901:DEU.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "who went before you in the way, to seek you out a place to pitch your tents in, in fire by night, to show you by what way ye should go, and in the cloud by day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.34",
+      "edition_verse_id": "ASV1901:DEU.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Jehovah heard the voice of your words, and was wroth, and sware, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.1.35",
+      "edition_verse_id": "ASV1901:DEU.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Surely there shall not one of these men of this evil generation see the good land, which I sware to give unto your fathers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.36",
+      "edition_verse_id": "ASV1901:DEU.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "save Caleb the son of Jephunneh; he shall see it; and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.37",
+      "edition_verse_id": "ASV1901:DEU.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Also Jehovah was angry with me for your sakes, saying, Thou also shalt not go in thither:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.38",
+      "edition_verse_id": "ASV1901:DEU.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Joshua the son of Nun, who standeth before thee, he shall go in thither: encourage thou him; for he shall cause Israel to inherit it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.39",
+      "edition_verse_id": "ASV1901:DEU.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Moreover your little ones, that ye said should be a prey, and your children, that this day have no knowledge of good or evil, they shall go in thither, and unto them will I give it, and they shall possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.40",
+      "edition_verse_id": "ASV1901:DEU.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But as for you, turn you, and take your journey into the wilderness by the way to the Red Sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.41",
+      "edition_verse_id": "ASV1901:DEU.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Then ye answered and said unto me, We have sinned against Jehovah, we will go up and fight, according to all that Jehovah our God commanded us. And ye girded on every man his weapons of war, and were forward to go up into the hill-country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.1.42",
+      "edition_verse_id": "ASV1901:DEU.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.43",
+      "edition_verse_id": "ASV1901:DEU.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "So I spake unto you, and ye hearkened not; but ye rebelled against the commandment of Jehovah, and were presumptuous, and went up into the hill-country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.44",
+      "edition_verse_id": "ASV1901:DEU.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And the Amorites, that dwelt in that hill-country, came out against you, and chased you, as bees do, and beat you down in Seir, even unto Hormah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.45",
+      "edition_verse_id": "ASV1901:DEU.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And ye returned and wept before Jehovah; but Jehovah hearkened not to your voice, nor gave ear unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.1.46",
+      "edition_verse_id": "ASV1901:DEU.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "So ye abode in Kadesh many days, according unto the days that ye abode ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

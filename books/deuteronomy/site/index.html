@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Servants of the Way | ASV 1901 Deuteronomy</title>
+<style>
+:root{font-family:Georgia,serif;color:#192b32;background:#f7f5ef}*{box-sizing:border-box}body{margin:0}header{background:#132f37;color:#fcf8ec;padding:20px max(20px,calc((100vw - 1080px)/2))}header small{color:#c8d7d1;letter-spacing:.13em;font:600 11px Arial,sans-serif}h1{font-weight:normal;font-size:clamp(25px,4vw,40px);margin:6px 0}main{max-width:1120px;margin:24px auto;padding:0 16px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px}.panel{background:white;border:1px solid #d4d9d6;box-shadow:0 2px 16px #0b28350a;border-radius:12px;min-width:0;overflow:hidden}.toolbar{padding:16px;border-bottom:1px solid #e4e6e2;display:flex;gap:9px;align-items:center;flex-wrap:wrap}.toolbar h2{font:600 16px Arial,sans-serif;margin:0 auto 0 0}.label{font:11px Arial,sans-serif;color:#48616a}select,input,button{font:14px Arial,sans-serif;border:1px solid #a8b4b6;border-radius:6px;padding:10px;background:white;color:#173943}button{background:#1c515a;color:white;border-color:#1c515a;cursor:pointer}button:disabled{opacity:.4;cursor:not-allowed}.scripture{padding:16px 25px 30px;overflow:auto;max-height:75vh;font-size:17px;line-height:1.85}.scripture p{margin:.65em 0}.scripture [data-id]{white-space:pre-wrap}.scripture sup{font:600 10px Arial,sans-serif;color:#9b7342;margin-right:6px}.scripture em{font-style:italic}.scripture [data-id]{scroll-margin:80px}.scripture [data-id].selected{background:#f4ecca;outline:3px solid #f4ecca;border-radius:2px}.muted{color:#60777e;font:13px/1.5 Arial,sans-serif}.viewer{padding:14px}.viewer p{margin:5px 0 12px}.file{font:12px Arial,sans-serif;color:#557077;word-break:break-all}iframe{width:100%;height:62vh;border:1px solid #e0e4e4;border-radius:7px;background:#efefef}.pagebar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:12px 0}.pagebar span{font:12px Arial,sans-serif}a{color:#1e5367}#error{display:none;background:#fff0e7;border-bottom:1px solid #dfbba8;padding:12px;font:13px Arial,sans-serif}footer{max-width:1100px;margin:auto;padding:18px;color:#60757b;font:12px/1.6 Arial,sans-serif}@media(max-width:780px){main{grid-template-columns:1fr}.scripture{max-height:none}iframe{height:65vh}}
+</style></head>
+<body><header><small>SERVANTS OF THE WAY · BIBLE FOUNDATION</small><h1>American Standard Version · 1901</h1><div>Deuteronomy · Scripture with original-print comparison</div></header>
+<div id="error" role="alert"></div>
+<main><section class="panel"><div class="toolbar"><h2>Read Scripture</h2><label class="label" for="chapter">Chapter</label><select id="chapter"></select><label class="label" for="verse">Verse</label><select id="verse"></select><button id="compare">Compare original</button></div><article class="scripture" id="scripture" aria-live="polite"></article></section>
+<section class="panel"><div class="toolbar"><h2>Original printing</h2><span class="muted" id="pageNotice">Select Compare</span></div><div class="viewer"><p class="muted" id="rangeInfo">A verse may appear on two adjacent pages. When that happens, the earlier page opens first.</p><div class="pagebar"><button id="prev">← Previous page</button><span id="pagePosition"></span><button id="next">Next page →</button></div><iframe id="facsimile" title="Original ASV 1901 PDF page" loading="lazy"></iframe><p class="file" id="filename"></p><p><a id="openPdf" href="#" target="_blank" rel="noopener">Open original PDF in a new tab</a></p></div></section></main>
+<footer>Digital verse text and italic spans are separate from the historical facsimile. Source identity and edition provenance are recorded in the release manifest. Strong’s numbers from the comparison witness are not included as verified lexical mappings. The original pages are presented as evidence, not re-typeset reproductions.</footer>
+<script>
+const BASE='../../../data/asv1901/deuteronomy/';
+const chapterEl=document.getElementById('chapter'),verseEl=document.getElementById('verse'),scriptureEl=document.getElementById('scripture');
+const compareBtn=document.getElementById('compare'),err=document.getElementById('error');
+let pages=[],chapterData=null,pageSelection=[],selectionIndex=0,allPages=[],indexReady=false;
+const $=(id)=>document.getElementById(id);
+const refParts=(s)=>{const m=String(s).match(/(?:DEU\.|Deuteronomy\s+)(\d+)[.:](\d+)/i);return m?[Number(m[1]),Number(m[2])]:null};
+const compareRefs=(a,b)=>a[0]-b[0]||a[1]-b[1];
+function showError(msg){err.style.display='block';err.textContent=msg}
+function pageFor(ref){return pages.filter(p=>p.type==='scripture'&&compareRefs(refParts(p.first_verse),ref)<=0&&compareRefs(ref,refParts(p.last_verse))<=0).sort((a,b)=>a.source_pdf_page-b.source_pdf_page)}
+function updatePage(){
+ const p=pageSelection[selectionIndex];$('prev').disabled=!p||selectionIndex===0;$('next').disabled=!p||selectionIndex===pageSelection.length-1;
+ if(!p)return;
+ $('pageNotice').textContent='Source PDF page '+p.source_pdf_page;
+ $('pagePosition').textContent=`${selectionIndex+1} / ${pageSelection.length}`;
+ $('rangeInfo').textContent=p.type==='scripture'?`${p.first_verse} through ${p.last_verse}`:`Historical material: ${p.type}`;
+ $('filename').textContent=`${p.volume} · page ${p.volume_pdf_page} in this PDF`;
+ const u=encodeURI(BASE+'facsimile/'+p.volume)+'#page='+p.volume_pdf_page+'&view=FitH';$('facsimile').src=u;$('openPdf').href=u;
+}
+function choosePage(p){const pos=allPages.findIndex(a=>a.source_pdf_page===p.source_pdf_page);if(pos<0)return;pageSelection=allPages;selectionIndex=pos;updatePage()}
+function compare(){const ch=Number(chapterEl.value),v=Number(verseEl.value);const hits=pageFor([ch,v]);if(!hits.length){showError(`The page range for Deuteronomy ${ch}:${v} is not present. Comparison cannot be claimed.`);return}const p=hits[0];const index=allPages.findIndex(x=>x.source_pdf_page===p.source_pdf_page);pageSelection=hits.length>1?hits:allPages;selectionIndex=hits.length>1?0:index;updatePage(); $('facsimile').scrollIntoView({block:'nearest',behavior:'smooth'});}
+function setSelection(v){
+ const el=document.querySelector(`[data-id="DEU.${chapterEl.value}.${v}"]`);
+ document.querySelectorAll('.selected').forEach(x=>x.classList.remove('selected'));
+ if(el){el.classList.add('selected');el.scrollIntoView({block:'nearest'});}
+}
+function renderChapter(){
+ scriptureEl.innerHTML=''; const data=chapterData; if(!data)return;
+ for(const v of data.verses){
+  if(v.paragraph_start||!scriptureEl.lastElementChild){scriptureEl.appendChild(document.createElement('p'))}
+  const wrap=document.createElement('span');wrap.dataset.id=v.id;
+  const label=document.createElement('sup');label.textContent=v.verse;wrap.appendChild(label);
+  for(const part of v.spans){const node=document.createElement(part.kind==='supplied'?'em':'span');node.textContent=part.text;wrap.appendChild(node)}
+  wrap.append(' ');wrap.onclick=()=>{verseEl.value=v.verse;setSelection(v.verse)};
+  scriptureEl.lastElementChild.appendChild(wrap);
+ }
+ verseEl.replaceChildren(...data.verses.map(v=>{const o=document.createElement('option');o.value=v.verse;o.textContent=v.verse;return o}));
+ setSelection(verseEl.value);
+}
+async function chapterChange(){
+ compareBtn.disabled=!indexReady;const num=String(chapterEl.value).padStart(2,'0');
+ try{const res=await fetch(BASE+'chapters/'+num+'.json',{cache:'no-store'});if(!res.ok)throw Error('HTTP '+res.status);chapterData=await res.json();renderChapter()}
+ catch(e){chapterData=null;scriptureEl.textContent='Chapter data unavailable.';compareBtn.disabled=true;showError('Deuteronomy chapter source not installed: '+String(e));}
+}
+async function init(){
+ for(let i=1;i<=34;i++){const o=document.createElement('option');o.value=i;o.textContent=i;chapterEl.appendChild(o)}
+ chapterEl.onchange=chapterChange;verseEl.onchange=()=>setSelection(verseEl.value);compareBtn.onclick=compare;
+ $('prev').onclick=()=>{if(selectionIndex>0){selectionIndex--;updatePage()}};
+ $('next').onclick=()=>{if(selectionIndex<pageSelection.length-1){selectionIndex++;updatePage()}};
+ try{const r=await fetch(BASE+'page-index.json',{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);const index=await r.json();pages=index.pages;indexReady=true;allPages=pages.filter(p=>p.volume&&p.volume_pdf_page).sort((a,b)=>a.source_pdf_page-b.source_pdf_page)}
+ catch(e){compareBtn.disabled=true;showError('Verified facsimile page index unavailable; Compare is disabled. '+String(e))}
+ const query=new URLSearchParams(location.search).get('ref');const m=query&&query.match(/^DEU\.(\d+)\.(\d+)$/i); if(m&&+m[1]>=1&&+m[1]<=34){chapterEl.value=m[1]}
+ await chapterChange();
+ if(m&&chapterData&&+m[2]>=1&&+m[2]<=chapterData.verses.length){verseEl.value=m[2];setSelection(m[2]);compare()}
+}
+init();
+</script></body></html>

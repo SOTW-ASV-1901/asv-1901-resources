@@ -1,0 +1,748 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DEU",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "DEU.32.1",
+      "edition_verse_id": "ASV1901:DEU.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give ear, ye heavens, and I will speak;\nAnd let the earth hear the words of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.2",
+      "edition_verse_id": "ASV1901:DEU.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My doctrine shall drop as the rain;\nMy speech shall distil as the dew,\nAs the small rain upon the tender grass,\nAnd as the showers upon the herb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.3",
+      "edition_verse_id": "ASV1901:DEU.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I will proclaim the name of Jehovah:\nAscribe ye greatness unto our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.4",
+      "edition_verse_id": "ASV1901:DEU.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The Rock, his work is perfect;\nFor all his ways are justice:\nA God of faithfulness and without iniquity,\nJust and right is he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.5",
+      "edition_verse_id": "ASV1901:DEU.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They have dealt corruptly with him, ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not his children, ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " their blemish;",
+          "kind": "text"
+        },
+        {
+          "text": "They are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a perverse and crooked generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.6",
+      "edition_verse_id": "ASV1901:DEU.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Do ye thus requite Jehovah,\nO foolish people and unwise?\nIs not he thy father that hath bought thee?\nHe hath made thee, and established thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.7",
+      "edition_verse_id": "ASV1901:DEU.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember the days of old,\nConsider the years of many generations:\nAsk thy father, and he will show thee;\nThine elders, and they will tell thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.8",
+      "edition_verse_id": "ASV1901:DEU.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When the Most High gave to the nations their inheritance,\nWhen he separated the children of men,\nHe set the bounds of the peoples\nAccording to the number of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.9",
+      "edition_verse_id": "ASV1901:DEU.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For Jehovah’s portion is his people;\nJacob is the lot of his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.10",
+      "edition_verse_id": "ASV1901:DEU.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He found him in a desert land,\nAnd in the waste howling wilderness;\nHe compassed him about, he cared for him,\nHe kept him as the apple of his eye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.11",
+      "edition_verse_id": "ASV1901:DEU.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As an eagle that stirreth up her nest,\nThat fluttereth over her young,He spread abroad his wings, he took them,\nHe bare them on his pinions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.12",
+      "edition_verse_id": "ASV1901:DEU.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Jehovah alone did lead him,\nAnd there was no foreign god with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.13",
+      "edition_verse_id": "ASV1901:DEU.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He made him ride on the high places of the earth,\nAnd he did eat the increase of the field;\nAnd he made him to suck honey out of the rock,\nAnd oil out of the flinty rock;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.14",
+      "edition_verse_id": "ASV1901:DEU.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Butter of the herd, and milk of the flock,\nWith fat of lambs,\nAnd rams of the breed of Bashan, and goats,\nWith the finest of the wheat;\nAnd of the blood of the grape thou drankest wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.15",
+      "edition_verse_id": "ASV1901:DEU.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But Jeshurun waxed fat, and kicked:\nThou art waxed fat, thou art grown thick, thou art become sleek;\nThen he forsook God who made him,\nAnd lightly esteemed the Rock of his salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.16",
+      "edition_verse_id": "ASV1901:DEU.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They moved him to jealousy with strange ",
+          "kind": "text"
+        },
+        {
+          "text": "gods",
+          "kind": "supplied"
+        },
+        {
+          "text": ";\nWith abominations provoked they him to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.17",
+      "edition_verse_id": "ASV1901:DEU.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They sacrificed unto demons, ",
+          "kind": "text"
+        },
+        {
+          "text": "which were",
+          "kind": "supplied"
+        },
+        {
+          "text": " no God,\nTo gods that they knew not,\nTo new ",
+          "kind": "text"
+        },
+        {
+          "text": "gods",
+          "kind": "supplied"
+        },
+        {
+          "text": " that came up of late,\nWhich your fathers dreaded not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.18",
+      "edition_verse_id": "ASV1901:DEU.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Of the Rock that begat thee thou art unmindful,\nAnd hast forgotten God that gave thee birth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.19",
+      "edition_verse_id": "ASV1901:DEU.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Jehovah saw ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and abhorred ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nBecause of the provocation of his sons and his daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.20",
+      "edition_verse_id": "ASV1901:DEU.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he said, I will hide my face from them,\nI will see what their end shall be:\nFor they are a very perverse generation,\nChildren in whom is no faithfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.21",
+      "edition_verse_id": "ASV1901:DEU.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They have moved me to jealousy with that which is not God;\nThey have provoked me to anger with their vanities:\nAnd I will move them to jealousy with those that are not a people;\nI will provoke them to anger with a foolish nation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.22",
+      "edition_verse_id": "ASV1901:DEU.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For a fire is kindled in mine anger,\nAnd burneth unto the lowest Sheol,\nAnd devoureth the earth with its increase,\nAnd setteth on fire the foundations of the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.23",
+      "edition_verse_id": "ASV1901:DEU.32.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I will heap evils upon them;\nI will spend mine arrows upon them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.24",
+      "edition_verse_id": "ASV1901:DEU.32.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "They shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " wasted with hunger, and devoured with burning heat\nAnd bitter destruction;\nAnd the teeth of beasts will I send upon them,\nWith the poison of crawling things of the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.25",
+      "edition_verse_id": "ASV1901:DEU.32.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Without shall the sword bereave,\nAnd in the chambers terror;",
+          "kind": "text"
+        },
+        {
+          "text": "It shall destroy",
+          "kind": "supplied"
+        },
+        {
+          "text": " both young man and virgin,\nThe suckling with the man of gray hairs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.26",
+      "edition_verse_id": "ASV1901:DEU.32.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I said, I would scatter them afar,\nI would make the remembrance of them to cease from among men;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.27",
+      "edition_verse_id": "ASV1901:DEU.32.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Were it not that I feared the provocation of the enemy,\nLest their adversaries should judge amiss,\nLest they should say, Our hand is exalted,\nAnd Jehovah hath not done all this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.28",
+      "edition_verse_id": "ASV1901:DEU.32.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For they are a nation void of counsel,\nAnd there is no understanding in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.29",
+      "edition_verse_id": "ASV1901:DEU.32.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Oh that they were wise, that they understood this,\nThat they would consider their latter end!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.30",
+      "edition_verse_id": "ASV1901:DEU.32.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "How should one chase a thousand,\nAnd two put ten thousand to flight,\nExcept their Rock had sold them,\nAnd Jehovah had delivered them up?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.31",
+      "edition_verse_id": "ASV1901:DEU.32.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For their rock is not as our Rock,\nEven our enemies themselves being judges.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.32",
+      "edition_verse_id": "ASV1901:DEU.32.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For their vine is of the vine of Sodom,\nAnd of the fields of Gomorrah:\nTheir grapes are grapes of gall,\nTheir clusters are bitter:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.33",
+      "edition_verse_id": "ASV1901:DEU.32.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Their wine is the poison of serpents,\nAnd the cruel venom of asps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.34",
+      "edition_verse_id": "ASV1901:DEU.32.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Is not this laid up in store with me,\nSealed up among my treasures?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.35",
+      "edition_verse_id": "ASV1901:DEU.32.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Vengeance is mine, and recompense,\nAt the time when their foot shall slide:\nFor the day of their calamity is at hand,\nAnd the things that are to come upon them shall make haste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.36",
+      "edition_verse_id": "ASV1901:DEU.32.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "For Jehovah will judge his people,\nAnd repent himself for his servants;\nWhen he seeth that ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " power is gone,\nAnd there is none ",
+          "kind": "text"
+        },
+        {
+          "text": "remaining",
+          "kind": "supplied"
+        },
+        {
+          "text": ", shut up or left at large.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.37",
+      "edition_verse_id": "ASV1901:DEU.32.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he will say, Where are their gods,\nThe rock in which they took refuge;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.38",
+      "edition_verse_id": "ASV1901:DEU.32.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Which did eat the fat of their sacrifices,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " drank the wine of their drink-offering?\nLet them rise up and help you,\nLet them be your protection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.39",
+      "edition_verse_id": "ASV1901:DEU.32.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "See now that I, even I, am he,\nAnd there is no god with me:\nI kill, and I make alive;\nI wound, and I heal;\nAnd there is none that can deliver out of my hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.40",
+      "edition_verse_id": "ASV1901:DEU.32.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "For I lift up my hand to heaven,\nAnd say, As I live for ever,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.41",
+      "edition_verse_id": "ASV1901:DEU.32.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "If I whet my glittering sword,\nAnd my hand take hold on judgment;\nI will render vengeance to mine adversaries,\nAnd will recompense them that hate me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.42",
+      "edition_verse_id": "ASV1901:DEU.32.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "I will make mine arrows drunk with blood,\nAnd my sword shall devour flesh;\nWith the blood of the slain and the captives,From the head of the leaders of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.43",
+      "edition_verse_id": "ASV1901:DEU.32.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Rejoice, O ye nations, ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " his people:\nFor he will avenge the blood of his servants,\nAnd will render vengeance to his adversaries,\nAnd will make expiation for his land, for his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.44",
+      "edition_verse_id": "ASV1901:DEU.32.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.45",
+      "edition_verse_id": "ASV1901:DEU.32.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And Moses made an end of speaking all these words to all Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.46",
+      "edition_verse_id": "ASV1901:DEU.32.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "and he said unto them, Set your heart unto all the words which I testify unto you this day, which ye shall command your children to observe to do, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the words of this law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.47",
+      "edition_verse_id": "ASV1901:DEU.32.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days in the land, whither ye go over the Jordan to possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.48",
+      "edition_verse_id": "ASV1901:DEU.32.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto Moses that selfsame day, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.49",
+      "edition_verse_id": "ASV1901:DEU.32.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Get thee up into this mountain of Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.50",
+      "edition_verse_id": "ASV1901:DEU.32.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "and die in the mount whither thou goest up, and be gathered unto thy people, as Aaron thy brother died in mount Hor, and was gathered unto his people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.51",
+      "edition_verse_id": "ASV1901:DEU.32.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "because ye trespassed against me in the midst of the children of Israel at the waters of Meribah of Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.52",
+      "edition_verse_id": "ASV1901:DEU.32.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "For thou shalt see the land before thee; but thou shalt not go thither into the land which I give the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

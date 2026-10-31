@@ -1,0 +1,396 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 200,
+      "type": "scripture",
+      "printed_page": 174,
+      "running_head_first_verse": "DEU.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "DEU.1.1",
+      "last_verse": "DEU.1.22",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 201,
+      "type": "scripture",
+      "printed_page": 175,
+      "running_head_first_verse": "DEU.1.23",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.1.22",
+      "last_verse": "DEU.2.6",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 202,
+      "type": "scripture",
+      "printed_page": 176,
+      "running_head_first_verse": "DEU.2.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.2.6",
+      "last_verse": "DEU.2.34",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 203,
+      "type": "scripture",
+      "printed_page": 177,
+      "running_head_first_verse": "DEU.2.35",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.2.34",
+      "last_verse": "DEU.3.21",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 204,
+      "type": "scripture",
+      "printed_page": 178,
+      "running_head_first_verse": "DEU.3.22",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "DEU.3.22",
+      "last_verse": "DEU.4.19",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 205,
+      "type": "scripture",
+      "printed_page": 179,
+      "running_head_first_verse": "DEU.4.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.4.19",
+      "last_verse": "DEU.4.45",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 206,
+      "type": "scripture",
+      "printed_page": 180,
+      "running_head_first_verse": "DEU.4.46",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.4.45",
+      "last_verse": "DEU.5.24",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 207,
+      "type": "scripture",
+      "printed_page": 181,
+      "running_head_first_verse": "DEU.5.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.5.24",
+      "last_verse": "DEU.6.18",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 208,
+      "type": "scripture",
+      "printed_page": 182,
+      "running_head_first_verse": "DEU.6.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.6.18",
+      "last_verse": "DEU.7.18",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 209,
+      "type": "scripture",
+      "printed_page": 183,
+      "running_head_first_verse": "DEU.7.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.7.18",
+      "last_verse": "DEU.8.18",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 210,
+      "type": "scripture",
+      "printed_page": 184,
+      "running_head_first_verse": "DEU.8.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.8.18",
+      "last_verse": "DEU.9.21",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 211,
+      "type": "scripture",
+      "printed_page": 185,
+      "running_head_first_verse": "DEU.9.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.9.21",
+      "last_verse": "DEU.10.19",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 212,
+      "type": "scripture",
+      "printed_page": 186,
+      "running_head_first_verse": "DEU.10.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.10.19",
+      "last_verse": "DEU.11.24",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 213,
+      "type": "scripture",
+      "printed_page": 187,
+      "running_head_first_verse": "DEU.11.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.11.24",
+      "last_verse": "DEU.12.17",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 214,
+      "type": "scripture",
+      "printed_page": 188,
+      "running_head_first_verse": "DEU.12.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.12.17",
+      "last_verse": "DEU.13.7",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 215,
+      "type": "scripture",
+      "printed_page": 189,
+      "running_head_first_verse": "DEU.13.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.13.7",
+      "last_verse": "DEU.14.21",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 216,
+      "type": "scripture",
+      "printed_page": 190,
+      "running_head_first_verse": "DEU.14.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.14.21",
+      "last_verse": "DEU.15.16",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 217,
+      "type": "scripture",
+      "printed_page": 191,
+      "running_head_first_verse": "DEU.15.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.15.16",
+      "last_verse": "DEU.16.16",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 218,
+      "type": "scripture",
+      "printed_page": 192,
+      "running_head_first_verse": "DEU.16.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.16.16",
+      "last_verse": "DEU.17.16",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 219,
+      "type": "scripture",
+      "printed_page": 193,
+      "running_head_first_verse": "DEU.17.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.17.16",
+      "last_verse": "DEU.19.1",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 220,
+      "type": "scripture",
+      "printed_page": 194,
+      "running_head_first_verse": "DEU.19.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.19.1",
+      "last_verse": "DEU.20.6",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 221,
+      "type": "scripture",
+      "printed_page": 195,
+      "running_head_first_verse": "DEU.20.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.20.6",
+      "last_verse": "DEU.21.11",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 222,
+      "type": "scripture",
+      "printed_page": 196,
+      "running_head_first_verse": "DEU.21.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.21.11",
+      "last_verse": "DEU.22.14",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 223,
+      "type": "scripture",
+      "printed_page": 197,
+      "running_head_first_verse": "DEU.22.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.22.14",
+      "last_verse": "DEU.23.10",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 224,
+      "type": "scripture",
+      "printed_page": 198,
+      "running_head_first_verse": "DEU.23.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.23.10",
+      "last_verse": "DEU.24.10",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 225,
+      "type": "scripture",
+      "printed_page": 199,
+      "running_head_first_verse": "DEU.24.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.24.10",
+      "last_verse": "DEU.25.15",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 226,
+      "type": "scripture",
+      "printed_page": 200,
+      "running_head_first_verse": "DEU.25.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.25.15",
+      "last_verse": "DEU.26.19",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 227,
+      "type": "scripture",
+      "printed_page": 201,
+      "running_head_first_verse": "DEU.27.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.26.19",
+      "last_verse": "DEU.28.4",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 228,
+      "type": "scripture",
+      "printed_page": 202,
+      "running_head_first_verse": "DEU.28.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.28.4",
+      "last_verse": "DEU.28.31",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 229,
+      "type": "scripture",
+      "printed_page": 203,
+      "running_head_first_verse": "DEU.28.32",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.28.31",
+      "last_verse": "DEU.28.56",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 230,
+      "type": "scripture",
+      "printed_page": 204,
+      "running_head_first_verse": "DEU.28.57",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.28.56",
+      "last_verse": "DEU.29.13",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 231,
+      "type": "scripture",
+      "printed_page": 205,
+      "running_head_first_verse": "DEU.29.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.29.13",
+      "last_verse": "DEU.30.8",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 232,
+      "type": "scripture",
+      "printed_page": 206,
+      "running_head_first_verse": "DEU.30.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.30.8",
+      "last_verse": "DEU.31.13",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 233,
+      "type": "scripture",
+      "printed_page": 207,
+      "running_head_first_verse": "DEU.31.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.31.13",
+      "last_verse": "DEU.32.5",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 234,
+      "type": "scripture",
+      "printed_page": 208,
+      "running_head_first_verse": "DEU.32.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.32.5",
+      "last_verse": "DEU.32.24",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 235,
+      "type": "scripture",
+      "printed_page": 209,
+      "running_head_first_verse": "DEU.32.25",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "DEU.32.25",
+      "last_verse": "DEU.32.46",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 236,
+      "type": "scripture",
+      "printed_page": 210,
+      "running_head_first_verse": "DEU.32.47",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.32.46",
+      "last_verse": "DEU.33.16",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 237,
+      "type": "scripture",
+      "printed_page": 211,
+      "running_head_first_verse": "DEU.33.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.33.16",
+      "last_verse": "DEU.34.7",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    },
+    {
+      "source_pdf_page": 238,
+      "type": "scripture",
+      "printed_page": 212,
+      "running_head_first_verse": "DEU.34.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DEU.34.7",
+      "last_verse": "DEU.34.12",
+      "evidence_method": "Source PDF page physical opening visually checked against first new verse in printed running head; verse continuations preserved; no verse-to-pixel coordinates."
+    }
+  ]
+}

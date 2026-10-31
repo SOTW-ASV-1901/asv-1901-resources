@@ -1,0 +1,26 @@
+{
+  "DEU.3.19": {
+    "original_print_checked": true,
+    "primary_usx_text": "But your wives, and your little ones, and your cattle, (I know that ye have much cattle), shall abide in your cities which I have given you,",
+    "comparison_usfm_text": "But your wives, and your little ones, and your cattle (I know that ye have much cattle), shall abide in your cities which I have given you,",
+    "source_pdf_page": 203,
+    "source_print_resolution": "Use no comma after cattle before parenthesis in printed verse 3:19",
+    "correction_to_derived_data": {
+      "from": "cattle, (I know",
+      "to": "cattle (I know"
+    },
+    "original_source_bytes_unchanged": true
+  },
+  "DEU.28.58": {
+    "original_print_checked": true,
+    "primary_usx_text": "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, Jehovah thy God;",
+    "comparison_usfm_text": "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, JEHOVAH THY GOD;",
+    "source_pdf_page": 230,
+    "source_print_resolution": "Original printed edition uses small capital JEHOVAH THY GOD in verse 28:58; preserve capitalized lettering in derived verse text",
+    "correction_to_derived_data": {
+      "from": "Jehovah thy God",
+      "to": "JEHOVAH THY GOD"
+    },
+    "original_source_bytes_unchanged": true
+  }
+}

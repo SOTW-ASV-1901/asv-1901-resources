@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DEU",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "DEU.5.1",
+      "edition_verse_id": "ASV1901:DEU.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Moses called unto all Israel, and said unto them, Hear, O Israel, the statutes and the ordinances which I speak in your ears this day, that ye may learn them, and observe to do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.2",
+      "edition_verse_id": "ASV1901:DEU.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah our God made a covenant with us in Horeb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.3",
+      "edition_verse_id": "ASV1901:DEU.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jehovah made not this covenant with our fathers, but with us, even us, who are all of us here alive this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.4",
+      "edition_verse_id": "ASV1901:DEU.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jehovah spake with you face to face in the mount out of the midst of the fire",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.5",
+      "edition_verse_id": "ASV1901:DEU.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "(I stood between Jehovah and you at that time, to show you the word of Jehovah: for ye were afraid because of the fire, and went not up into the mount), saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.6",
+      "edition_verse_id": "ASV1901:DEU.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.7",
+      "edition_verse_id": "ASV1901:DEU.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou shalt have no other gods before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.8",
+      "edition_verse_id": "ASV1901:DEU.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou shalt not make unto thee a graven image, ",
+          "kind": "text"
+        },
+        {
+          "text": "nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " any likeness ",
+          "kind": "text"
+        },
+        {
+          "text": "of anything",
+          "kind": "supplied"
+        },
+        {
+          "text": " that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.9",
+      "edition_verse_id": "ASV1901:DEU.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "thou shalt not bow down thyself unto them, nor serve them; for I, Jehovah, thy God, am a jealous God, visiting the iniquity of the fathers upon the children, and upon the third and upon the fourth generation of them that hate me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.10",
+      "edition_verse_id": "ASV1901:DEU.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and showing lovingkindness unto thousands of them that love me and keep my commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.11",
+      "edition_verse_id": "ASV1901:DEU.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou shalt not take the name of Jehovah thy God in vain: for Jehovah will not hold him guiltless that taketh his name in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.12",
+      "edition_verse_id": "ASV1901:DEU.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Observe the sabbath day, to keep it holy, as Jehovah thy God commanded thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.13",
+      "edition_verse_id": "ASV1901:DEU.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Six days shalt thou labor, and do all thy work;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.14",
+      "edition_verse_id": "ASV1901:DEU.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "but the seventh day is a sabbath unto Jehovah thy God: ",
+          "kind": "text"
+        },
+        {
+          "text": "in it",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy man-servant and thy maid-servant may rest as well as thou.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.15",
+      "edition_verse_id": "ASV1901:DEU.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And thou shalt remember that thou wast a servant in the land of Egypt, and Jehovah thy God brought thee out thence by a mighty hand and by an outstretched arm: therefore Jehovah thy God commanded thee to keep the sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.16",
+      "edition_verse_id": "ASV1901:DEU.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Honor thy father and thy mother, as Jehovah thy God commanded thee; that thy days may be long, and that it may go well with thee, in the land which Jehovah thy God giveth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.17",
+      "edition_verse_id": "ASV1901:DEU.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thou shalt not kill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.18",
+      "edition_verse_id": "ASV1901:DEU.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Neither shalt thou commit adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.19",
+      "edition_verse_id": "ASV1901:DEU.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Neither shalt thou steal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.20",
+      "edition_verse_id": "ASV1901:DEU.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Neither shalt thou bear false witness against thy neighbor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.21",
+      "edition_verse_id": "ASV1901:DEU.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Neither shalt thou covet thy neighbor’s wife; neither shalt thou desire thy neighbor’s house, his field, or his man-servant, or his maid-servant, his ox, or his ass, or anything that is thy neighbor’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.22",
+      "edition_verse_id": "ASV1901:DEU.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "These words Jehovah spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them upon two tables of stone, and gave them unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.23",
+      "edition_verse_id": "ASV1901:DEU.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it came to pass, when ye heard the voice out of the midst of the darkness, while the mountain was burning with fire, that ye came near unto me, even all the heads of your tribes, and your elders;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.24",
+      "edition_verse_id": "ASV1901:DEU.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and ye said, Behold, Jehovah our God hath showed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth speak with man, and he liveth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.25",
+      "edition_verse_id": "ASV1901:DEU.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of Jehovah our God any more, then we shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.26",
+      "edition_verse_id": "ASV1901:DEU.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.27",
+      "edition_verse_id": "ASV1901:DEU.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Go thou near, and hear all that Jehovah our God shall say: and speak thou unto us all that Jehovah our God shall speak unto thee; and we will hear it, and do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.28",
+      "edition_verse_id": "ASV1901:DEU.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Jehovah heard the voice of your words, when ye spake unto me; and Jehovah said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.5.29",
+      "edition_verse_id": "ASV1901:DEU.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Oh that there were such a heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.30",
+      "edition_verse_id": "ASV1901:DEU.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Go say to them, Return ye to your tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.31",
+      "edition_verse_id": "ASV1901:DEU.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But as for thee, stand thou here by me, and I will speak unto thee all the commandment, and the statutes, and the ordinances, which thou shalt teach them, that they may do them in the land which I give them to possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.32",
+      "edition_verse_id": "ASV1901:DEU.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Ye shall observe to do therefore as Jehovah your God hath commanded you: ye shall not turn aside to the right hand or to the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.5.33",
+      "edition_verse_id": "ASV1901:DEU.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Ye shall walk in all the way which Jehovah your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

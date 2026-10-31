@@ -1,0 +1,408 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DEU",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "DEU.11.1",
+      "edition_verse_id": "ASV1901:DEU.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Therefore thou shalt love Jehovah thy God, and keep his charge, and his statutes, and his ordinances, and his commandments, alway.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.2",
+      "edition_verse_id": "ASV1901:DEU.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And know ye this day: for ",
+          "kind": "text"
+        },
+        {
+          "text": "I speak",
+          "kind": "supplied"
+        },
+        {
+          "text": " not with your children that have not known, and that have not seen the chastisement of Jehovah your God, his greatness, his mighty hand, and his outstretched arm,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.3",
+      "edition_verse_id": "ASV1901:DEU.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and his signs, and his works, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.4",
+      "edition_verse_id": "ASV1901:DEU.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and what he did unto the army of Egypt, unto their horses, and to their chariots; how he made the water of the Red Sea to overflow them as they pursued after you, and how Jehovah hath destroyed them unto this day;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.5",
+      "edition_verse_id": "ASV1901:DEU.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and what he did unto you in the wilderness, until ye came unto this place;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.6",
+      "edition_verse_id": "ASV1901:DEU.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben; how the earth opened its mouth, and swallowed them up, and their households, and their tents, and every living thing that followed them, in the midst of all Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.7",
+      "edition_verse_id": "ASV1901:DEU.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "but your eyes have seen all the great work of Jehovah which he did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.8",
+      "edition_verse_id": "ASV1901:DEU.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore shall ye keep all the commandment which I command thee this day, that ye may be strong, and go in and possess the land, whither ye go over to possess it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.9",
+      "edition_verse_id": "ASV1901:DEU.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and that ye may prolong your days in the land, which Jehovah sware unto your fathers to give unto them and to their seed, a land flowing with milk and honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.10",
+      "edition_verse_id": "ASV1901:DEU.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.11",
+      "edition_verse_id": "ASV1901:DEU.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "but the land, whither ye go over to possess it, is a land of hills and valleys, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " drinketh water of the rain of heaven,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.12",
+      "edition_verse_id": "ASV1901:DEU.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "a land which Jehovah thy God careth for: the eyes of Jehovah thy God are always upon it, from the beginning of the year even unto the end of the year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.13",
+      "edition_verse_id": "ASV1901:DEU.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love Jehovah your God, and to serve him with all your heart and with all your soul,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.14",
+      "edition_verse_id": "ASV1901:DEU.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "that I will give the rain of your land in its season, the former rain and the latter rain, that thou mayest gather in thy grain, and thy new wine, and thine oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.15",
+      "edition_verse_id": "ASV1901:DEU.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will give grass in thy fields for thy cattle, and thou shalt eat and be full.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.16",
+      "edition_verse_id": "ASV1901:DEU.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Take heed to yourselves, lest your heart be deceived, and ye turn aside, and serve other gods, and worship them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.17",
+      "edition_verse_id": "ASV1901:DEU.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and the anger of Jehovah be kindled against you, and he shut up the heavens, so that there shall be no rain, and the land shall not yield its fruit; and ye perish quickly from off the good land which Jehovah giveth you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.18",
+      "edition_verse_id": "ASV1901:DEU.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Therefore shall ye lay up these my words in your heart and in your soul; and ye shall bind them for a sign upon your hand, and they shall be for frontlets between your eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.19",
+      "edition_verse_id": "ASV1901:DEU.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And ye shall teach them your children, talking of them, when thou sittest in thy house, and when thou walkest by the way, and when thou liest down, and when thou risest up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.20",
+      "edition_verse_id": "ASV1901:DEU.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And thou shalt write them upon the door-posts of thy house, and upon thy gates;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.21",
+      "edition_verse_id": "ASV1901:DEU.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "that your days may be multiplied, and the days of your children, in the land which Jehovah sware unto your fathers to give them, as the days of the heavens above the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.22",
+      "edition_verse_id": "ASV1901:DEU.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For if ye shall diligently keep all this commandment which I command you, to do it, to love Jehovah your God, to walk in all his ways, and to cleave unto him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.23",
+      "edition_verse_id": "ASV1901:DEU.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "then will Jehovah drive out all these nations from before you, and ye shall dispossess nations greater and mightier than yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.24",
+      "edition_verse_id": "ASV1901:DEU.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Every place whereon the sole of your foot shall tread shall be yours: from the wilderness, and Lebanon, from the river, the river Euphrates, even unto the hinder sea shall be your border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.25",
+      "edition_verse_id": "ASV1901:DEU.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "There shall no man be able to stand before you: Jehovah your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath spoken unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.26",
+      "edition_verse_id": "ASV1901:DEU.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Behold, I set before you this day a blessing and a curse:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.27",
+      "edition_verse_id": "ASV1901:DEU.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "the blessing, if ye shall hearken unto the commandments of Jehovah your God, which I command you this day;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.28",
+      "edition_verse_id": "ASV1901:DEU.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and the curse, if ye shall not hearken unto the commandments of Jehovah your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.29",
+      "edition_verse_id": "ASV1901:DEU.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And it shall come to pass, when Jehovah thy God shall bring thee into the land whither thou goest to possess it, that thou shalt set the blessing upon mount Gerizim, and the curse upon mount Ebal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.30",
+      "edition_verse_id": "ASV1901:DEU.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Are they not beyond the Jordan, behind the way of the going down of the sun, in the land of the Canaanites that dwell in the Arabah, over against Gilgal, beside the oaks of Moreh?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.31",
+      "edition_verse_id": "ASV1901:DEU.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For ye are to pass over the Jordan to go in to possess the land which Jehovah your God giveth you, and ye shall possess it, and dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.32",
+      "edition_verse_id": "ASV1901:DEU.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And ye shall observe to do all the statutes and the ordinances which I set before you this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

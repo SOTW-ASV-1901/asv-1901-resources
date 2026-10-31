@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DEU",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "DEU.18.1",
+      "edition_verse_id": "ASV1901:DEU.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The priests the Levites, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the tribe of Levi, shall have no portion nor inheritance with Israel: they shall eat the offerings of Jehovah made by fire, and his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.2",
+      "edition_verse_id": "ASV1901:DEU.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they shall have no inheritance among their brethren: Jehovah is their inheritance, as he hath spoken unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.3",
+      "edition_verse_id": "ASV1901:DEU.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And this shall be the priests’ due from the people, from them that offer a sacrifice, whether it be ox or sheep, that they shall give unto the priest the shoulder, and the two cheeks, and the maw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.4",
+      "edition_verse_id": "ASV1901:DEU.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The first-fruits of thy grain, of thy new wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.5",
+      "edition_verse_id": "ASV1901:DEU.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For Jehovah thy God hath chosen him out of all thy tribes, to stand to minister in the name of Jehovah, him and his sons for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.6",
+      "edition_verse_id": "ASV1901:DEU.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And if a Levite come from any of thy gates out of all Israel, where he sojourneth, and come with all the desire of his soul unto the place which Jehovah shall choose;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.7",
+      "edition_verse_id": "ASV1901:DEU.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "then he shall minister in the name of Jehovah his God, as all his brethren the Levites do, who stand there before Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.8",
+      "edition_verse_id": "ASV1901:DEU.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They shall have like portions to eat, besides that which cometh of the sale of his patrimony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.9",
+      "edition_verse_id": "ASV1901:DEU.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When thou art come into the land which Jehovah thy God giveth thee, thou shalt not learn to do after the abominations of those nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.10",
+      "edition_verse_id": "ASV1901:DEU.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There shall not be found with thee any one that maketh his son or his daughter to pass through the fire, one that useth divination, one that practiseth augury, or an enchanter, or a sorcerer,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.11",
+      "edition_verse_id": "ASV1901:DEU.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "or a charmer, or a consulter with a familiar spirit, or a wizard, or a necromancer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.12",
+      "edition_verse_id": "ASV1901:DEU.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For whosoever doeth these things is an abomination unto Jehovah: and because of these abominations Jehovah thy God doth drive them out from before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.13",
+      "edition_verse_id": "ASV1901:DEU.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou shalt be perfect with Jehovah thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.14",
+      "edition_verse_id": "ASV1901:DEU.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For these nations, that thou shalt dispossess, hearken unto them that practise augury, and unto diviners; but as for thee, Jehovah thy God hath not suffered thee so to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.15",
+      "edition_verse_id": "ASV1901:DEU.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Jehovah thy God will raise up unto thee a prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.16",
+      "edition_verse_id": "ASV1901:DEU.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "according to all that thou desiredst of Jehovah thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of Jehovah my God, neither let me see this great fire any more, that I die not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.17",
+      "edition_verse_id": "ASV1901:DEU.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, They have well said that which they have spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.18",
+      "edition_verse_id": "ASV1901:DEU.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will raise them up a prophet from among their brethren, like unto thee; and I will put my words in his mouth, and he shall speak unto them all that I shall command him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.19",
+      "edition_verse_id": "ASV1901:DEU.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.20",
+      "edition_verse_id": "ASV1901:DEU.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the prophet, that shall speak a word presumptuously in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, that same prophet shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.18.21",
+      "edition_verse_id": "ASV1901:DEU.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And if thou say in thy heart, How shall we know the word which Jehovah hath not spoken?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.18.22",
+      "edition_verse_id": "ASV1901:DEU.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "when a prophet speaketh in the name of Jehovah, if the thing follow not, nor come to pass, that is the thing which Jehovah hath not spoken: the prophet hath spoken it presumptuously, thou shalt not be afraid of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
