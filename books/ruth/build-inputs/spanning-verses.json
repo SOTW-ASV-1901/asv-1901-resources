@@ -1,0 +1,18 @@
+{
+  "source_pdf_page_numbering": "one-based",
+  "verse_page_pairs": {
+    "RUT.1.22": [
+      294,
+      297
+    ],
+    "RUT.2.22": [
+      297,
+      298
+    ],
+    "RUT.4.5": [
+      298,
+      299
+    ]
+  },
+  "method": "Original 1901 printed page boundary inspection; correct order includes map interleaf 295\u2013296."
+}

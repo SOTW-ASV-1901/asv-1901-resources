@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "RUT",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 294,
+      "type": "scripture",
+      "printed_page": 266,
+      "running_head_first_verse": "RUT.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "RUT.1.1",
+      "last_verse": "RUT.1.22",
+      "evidence_method": "Visual examination: entire Ruth 1 starts here; verse 1:22 continues after map insert",
+      "volume": "asv1901-ruth-pages-294-299.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 295,
+      "type": "map",
+      "printed_page": null,
+      "historical_description": "Original historical map: Canaan and environs (allotments of tribes); inserted facing printed page 266",
+      "volume": "asv1901-ruth-pages-294-299.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 296,
+      "type": "interleaf",
+      "printed_page": null,
+      "historical_description": "Original blank reverse of historical map insert",
+      "volume": "asv1901-ruth-pages-294-299.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 297,
+      "type": "scripture",
+      "printed_page": 267,
+      "running_head_first_verse": "RUT.2.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "RUT.1.22",
+      "last_verse": "RUT.2.22",
+      "evidence_method": "Original begins by finishing Ruth 1:22, then 2:1; final Ruth 2:22 continues on next page",
+      "volume": "asv1901-ruth-pages-294-299.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 298,
+      "type": "scripture",
+      "printed_page": 268,
+      "running_head_first_verse": "RUT.2.23",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "RUT.2.22",
+      "last_verse": "RUT.4.5",
+      "evidence_method": "Original begins by finishing Ruth 2:22 and ends during Ruth 4:5",
+      "volume": "asv1901-ruth-pages-294-299.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 299,
+      "type": "scripture",
+      "printed_page": 269,
+      "running_head_first_verse": "RUT.4.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "RUT.4.5",
+      "last_verse": "RUT.4.22",
+      "evidence_method": "Original begins by finishing Ruth 4:5 and ends with Ruth 4:22",
+      "volume": "asv1901-ruth-pages-294-299.pdf",
+      "volume_pdf_page": 6
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-ruth-pages-294-299.pdf",
+      "first_source_pdf_page": 294,
+      "last_source_pdf_page": 299,
+      "bytes": 447947,
+      "sha256": "49f4595737119783f32204271f9ab059f8996a938e9471f66ee7f2c439a1317f"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

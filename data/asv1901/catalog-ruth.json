@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "RUT",
+  "book_name": "Ruth",
+  "book_order": 8,
+  "canonical_ids": "RUT.{chapter}.{verse}",
+  "edition_ids": "ASV1901:RUT.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 85,
+  "chapter_path_template": "ruth/chapters/{chapter:02d}.json",
+  "facsimile_index": "ruth/page-index.json",
+  "predecessor_book_code": "JDG",
+  "successor_book_code": "1SA",
+  "source_provenance": "books/ruth/SOURCE_INVENTORY.json",
+  "reader": "books/ruth/site/index.html",
+  "note": "Independent single-book catalog; later consolidated edition catalog handled separately. Strong's alignments not verified."
+}
