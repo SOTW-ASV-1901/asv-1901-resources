@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1KI",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "1KI.6.1",
+      "edition_verse_id": "ASV1901:1KI.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Ziv, which is the second month, that he began to build the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.6.2",
+      "edition_verse_id": "ASV1901:1KI.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the house which king Solomon built for Jehovah, the length thereof was threescore cubits, and the breadth thereof twenty ",
+          "kind": "text"
+        },
+        {
+          "text": "cubits",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the height thereof thirty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.3",
+      "edition_verse_id": "ASV1901:1KI.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the porch before the temple of the house, twenty cubits was the length thereof, according to the breadth of the house; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " ten cubits was the breadth thereof before the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.4",
+      "edition_verse_id": "ASV1901:1KI.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And for the house he made windows of fixed lattice-work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.5",
+      "edition_verse_id": "ASV1901:1KI.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And against the wall of the house he built stories round about, against the walls of the house round about, both of the temple and of the oracle; and he made side-chambers round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.6",
+      "edition_verse_id": "ASV1901:1KI.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The nethermost story was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad; for on the outside he made offsets ",
+          "kind": "text"
+        },
+        {
+          "text": "in the wall",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the house round about, that ",
+          "kind": "text"
+        },
+        {
+          "text": "the beams",
+          "kind": "supplied"
+        },
+        {
+          "text": " should not have hold in the walls of the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.7",
+      "edition_verse_id": "ASV1901:1KI.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the house, when it was in building, was built of stone made ready at the quarry; and there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.8",
+      "edition_verse_id": "ASV1901:1KI.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The door for the middle side-chambers was in the right side of the house: and they went up by winding stairs into the middle ",
+          "kind": "text"
+        },
+        {
+          "text": "story",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and out of the middle into the third.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.9",
+      "edition_verse_id": "ASV1901:1KI.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So he built the house, and finished it; and he covered the house with beams and planks of cedar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.10",
+      "edition_verse_id": "ASV1901:1KI.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he built the stories against all the house, each five cubits high: and they rested on the house with timber of cedar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.11",
+      "edition_verse_id": "ASV1901:1KI.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the word of Jehovah came to Solomon, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.6.12",
+      "edition_verse_id": "ASV1901:1KI.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Concerning this house which thou art building, if thou wilt walk in my statutes, and execute mine ordinances, and keep all my commandments to walk in them; then will I establish my word with thee, which I spake unto David thy father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.13",
+      "edition_verse_id": "ASV1901:1KI.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I will dwell among the children of Israel, and will not forsake my people Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.14",
+      "edition_verse_id": "ASV1901:1KI.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Solomon built the house, and finished it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.6.15",
+      "edition_verse_id": "ASV1901:1KI.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he built the walls of the house within with boards of cedar: from the floor of the house unto the walls of the ceiling, he covered them on the inside with wood; and he covered the floor of the house with boards of fir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.16",
+      "edition_verse_id": "ASV1901:1KI.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he built twenty cubits on the hinder part of the house with boards of cedar from the floor unto the walls ",
+          "kind": "text"
+        },
+        {
+          "text": "of the ceiling",
+          "kind": "supplied"
+        },
+        {
+          "text": ": he built ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " for it within, for an oracle, even for the most holy place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.17",
+      "edition_verse_id": "ASV1901:1KI.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the house, that is, the temple before ",
+          "kind": "text"
+        },
+        {
+          "text": "the oracle",
+          "kind": "supplied"
+        },
+        {
+          "text": ", was forty cubits ",
+          "kind": "text"
+        },
+        {
+          "text": "long",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.18",
+      "edition_verse_id": "ASV1901:1KI.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And there was cedar on the house within, carved with knops and open flowers: all was cedar; there was no stone seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.19",
+      "edition_verse_id": "ASV1901:1KI.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he prepared an oracle in the midst of the house within, to set there the ark of the covenant of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.20",
+      "edition_verse_id": "ASV1901:1KI.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And within the oracle was ",
+          "kind": "text"
+        },
+        {
+          "text": "a space of",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty cubits in length, and twenty cubits in breadth, and twenty cubits in the height thereof; and he overlaid it with pure gold: and he covered the altar with cedar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.21",
+      "edition_verse_id": "ASV1901:1KI.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So Solomon overlaid the house within with pure gold: and he drew chains of gold across before the oracle; and he overlaid it with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.22",
+      "edition_verse_id": "ASV1901:1KI.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the whole house he overlaid with gold, until all the house was finished: also the whole altar that belonged to the oracle he overlaid with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.23",
+      "edition_verse_id": "ASV1901:1KI.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And in the oracle he made two cherubim of olive-wood, each ten cubits high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.6.24",
+      "edition_verse_id": "ASV1901:1KI.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.25",
+      "edition_verse_id": "ASV1901:1KI.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the other cherub was ten cubits: both the cherubim were of one measure and one form.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.26",
+      "edition_verse_id": "ASV1901:1KI.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The height of the one cherub was ten cubits, and so was it of the other cherub.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.27",
+      "edition_verse_id": "ASV1901:1KI.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he set the cherubim within the inner house; and the wings of the cherubim were stretched forth, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.28",
+      "edition_verse_id": "ASV1901:1KI.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he overlaid the cherubim with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.29",
+      "edition_verse_id": "ASV1901:1KI.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he carved all the walls of the house round about with carved figures of cherubim and palm-trees and open flowers, within and without.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.6.30",
+      "edition_verse_id": "ASV1901:1KI.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the floor of the house he overlaid with gold, within and without.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.31",
+      "edition_verse_id": "ASV1901:1KI.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And for the entrance of the oracle he made doors of olive-wood: the lintel ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " door-posts were a fifth part ",
+          "kind": "text"
+        },
+        {
+          "text": "of the wall",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.32",
+      "edition_verse_id": "ASV1901:1KI.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "So ",
+          "kind": "text"
+        },
+        {
+          "text": "he made",
+          "kind": "supplied"
+        },
+        {
+          "text": " two doors of olive-wood; and he carved upon them carvings of cherubim and palm-trees and open flowers, and overlaid them with gold; and he spread the gold upon the cherubim, and upon the palm-trees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.33",
+      "edition_verse_id": "ASV1901:1KI.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So also made he for the entrance of the temple door-posts of olive-wood, out of a fourth part ",
+          "kind": "text"
+        },
+        {
+          "text": "of the wall",
+          "kind": "supplied"
+        },
+        {
+          "text": ";",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.34",
+      "edition_verse_id": "ASV1901:1KI.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "and two doors of fir-wood: the two leaves of the one door were folding, and the two leaves of the other door were folding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.35",
+      "edition_verse_id": "ASV1901:1KI.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And he carved ",
+          "kind": "text"
+        },
+        {
+          "text": "thereon",
+          "kind": "supplied"
+        },
+        {
+          "text": " cherubim and palm-trees and open flowers; and he overlaid them with gold fitted upon the graven work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.36",
+      "edition_verse_id": "ASV1901:1KI.6.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And he built the inner court with three courses of hewn stone, and a course of cedar beams.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.6.37",
+      "edition_verse_id": "ASV1901:1KI.6.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "In the fourth year was the foundation of the house of Jehovah laid, in the month Ziv.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.6.38",
+      "edition_verse_id": "ASV1901:1KI.6.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And in the eleventh year, in the month Bul, which is the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

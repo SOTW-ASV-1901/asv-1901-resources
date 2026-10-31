@@ -1,0 +1,396 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1KI",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "1KI.14.1",
+      "edition_verse_id": "ASV1901:1KI.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At that time Abijah the son of Jeroboam fell sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.14.2",
+      "edition_verse_id": "ASV1901:1KI.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, who spake concerning me that I should be king over this people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.3",
+      "edition_verse_id": "ASV1901:1KI.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And take with thee ten loaves, and cakes, and a cruse of honey, and go to him: he will tell thee what shall become of the child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.4",
+      "edition_verse_id": "ASV1901:1KI.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. Now Ahijah could not see; for his eyes were set by reason of his age.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.5",
+      "edition_verse_id": "ASV1901:1KI.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jehovah said unto Ahijah, Behold, the wife of Jeroboam cometh to inquire of thee concerning her son; for he is sick: thus and thus shalt thou say unto her; for it will be, when she cometh in, that she will feign herself to be another woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.6",
+      "edition_verse_id": "ASV1901:1KI.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.14.7",
+      "edition_verse_id": "ASV1901:1KI.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Go, tell Jeroboam, Thus saith Jehovah, the God of Israel: Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.8",
+      "edition_verse_id": "ASV1901:1KI.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and rent the kingdom away from the house of David, and gave it thee; and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.9",
+      "edition_verse_id": "ASV1901:1KI.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "but hast done evil above all that were before thee, and hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.10",
+      "edition_verse_id": "ASV1901:1KI.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam every man-child, him that is shut up and him that is left at large in Israel, and will utterly sweep away the house of Jeroboam, as a man sweepeth away dung, till it be all gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.11",
+      "edition_verse_id": "ASV1901:1KI.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the birds of the heavens eat: for Jehovah hath spoken it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.12",
+      "edition_verse_id": "ASV1901:1KI.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Arise thou therefore, get thee to thy house: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " when thy feet enter into the city, the child shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.13",
+      "edition_verse_id": "ASV1901:1KI.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And all Israel shall mourn for him, and bury him; for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward Jehovah, the God of Israel, in the house of Jeroboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.14",
+      "edition_verse_id": "ASV1901:1KI.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Moreover Jehovah will raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.15",
+      "edition_verse_id": "ASV1901:1KI.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For Jehovah will smite Israel, as a reed is shaken in the water; and he will root up Israel out of this good land which he gave to their fathers, and will scatter them beyond the River, because they have made their Asherim, provoking Jehovah to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.16",
+      "edition_verse_id": "ASV1901:1KI.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he will give Israel up because of the sins of Jeroboam, which he hath sinned, and wherewith he hath made Israel to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.17",
+      "edition_verse_id": "ASV1901:1KI.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jeroboam’s wife arose, and departed, and came to Tirzah: ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " as she came to the threshold of the house, the child died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.14.18",
+      "edition_verse_id": "ASV1901:1KI.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And all Israel buried him, and mourned for him, according to the word of Jehovah, which he spake by his servant Ahijah the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.19",
+      "edition_verse_id": "ASV1901:1KI.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.14.20",
+      "edition_verse_id": "ASV1901:1KI.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.21",
+      "edition_verse_id": "ASV1901:1KI.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which Jehovah had chosen out of all the tribes of Israel, to put his name there: and his mother’s name was Naamah the Ammonitess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.14.22",
+      "edition_verse_id": "ASV1901:1KI.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Judah did that which was evil in the sight of Jehovah, and they provoked him to jealousy with their sins which they committed, above all that their fathers had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.23",
+      "edition_verse_id": "ASV1901:1KI.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For they also built them high places, and pillars, and Asherim, on every high hill, and under every green tree;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.24",
+      "edition_verse_id": "ASV1901:1KI.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and there were also sodomites in the land: they did according to all the abominations of the nations which Jehovah drove out before the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.25",
+      "edition_verse_id": "ASV1901:1KI.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.14.26",
+      "edition_verse_id": "ASV1901:1KI.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and he took away the treasures of the house of Jehovah, and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.27",
+      "edition_verse_id": "ASV1901:1KI.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And king Rehoboam made in their stead shields of brass, and committed them to the hands of the captains of the guard, who kept the door of the king’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.28",
+      "edition_verse_id": "ASV1901:1KI.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And it was so, that, as oft as the king went into the house of Jehovah, the guard bare them, and brought them back into the guard-chamber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.29",
+      "edition_verse_id": "ASV1901:1KI.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.14.30",
+      "edition_verse_id": "ASV1901:1KI.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And there was war between Rehoboam and Jeroboam continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.14.31",
+      "edition_verse_id": "ASV1901:1KI.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David: and his mother’s name was Naamah the Ammonitess. And Abijam his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

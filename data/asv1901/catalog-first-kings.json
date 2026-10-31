@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1KI",
+  "book_name": "1 Kings",
+  "book_order": 11,
+  "canonical_ids": "1KI.{chapter}.{verse}",
+  "edition_ids": "ASV1901:1KI.{chapter}.{verse}",
+  "chapter_count": 22,
+  "verse_count": 816,
+  "chapter_path_template": "first-kings/chapters/{chapter:02d}.json",
+  "facsimile_index": "first-kings/page-index.json",
+  "predecessor_book_code": "2SA",
+  "successor_book_code": "2KI",
+  "source_provenance": "books/first-kings/SOURCE_INVENTORY.json",
+  "reader": "books/first-kings/site/index.html",
+  "note": "Book-level discovery data; no master edition catalog or Strong’s word alignment asserted."
+}

@@ -1,0 +1,232 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      367,
+      368,
+      369
+    ],
+    "first": "1KI.1.1",
+    "last": "1KI.1.53"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      369,
+      370,
+      371
+    ],
+    "first": "1KI.2.1",
+    "last": "1KI.2.46"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      371,
+      372
+    ],
+    "first": "1KI.3.1",
+    "last": "1KI.3.28"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      372,
+      373
+    ],
+    "first": "1KI.4.1",
+    "last": "1KI.4.34"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      373
+    ],
+    "first": "1KI.5.1",
+    "last": "1KI.5.18"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      373,
+      374,
+      375
+    ],
+    "first": "1KI.6.1",
+    "last": "1KI.6.38"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      375,
+      376,
+      377
+    ],
+    "first": "1KI.7.1",
+    "last": "1KI.7.51"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      377,
+      378,
+      379,
+      380
+    ],
+    "first": "1KI.8.1",
+    "last": "1KI.8.66"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      380,
+      381
+    ],
+    "first": "1KI.9.1",
+    "last": "1KI.9.28"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      381,
+      382
+    ],
+    "first": "1KI.10.1",
+    "last": "1KI.10.29"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      382,
+      383,
+      384
+    ],
+    "first": "1KI.11.1",
+    "last": "1KI.11.43"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      384,
+      385
+    ],
+    "first": "1KI.12.1",
+    "last": "1KI.12.33"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      385,
+      386,
+      387
+    ],
+    "first": "1KI.13.1",
+    "last": "1KI.13.34"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      387,
+      388
+    ],
+    "first": "1KI.14.1",
+    "last": "1KI.14.31"
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      388,
+      389
+    ],
+    "first": "1KI.15.1",
+    "last": "1KI.15.34"
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      389,
+      390
+    ],
+    "first": "1KI.16.1",
+    "last": "1KI.16.34"
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      390,
+      391
+    ],
+    "first": "1KI.17.1",
+    "last": "1KI.17.24"
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      391,
+      392,
+      393
+    ],
+    "first": "1KI.18.1",
+    "last": "1KI.18.46"
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      393,
+      394
+    ],
+    "first": "1KI.19.1",
+    "last": "1KI.19.21"
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      394,
+      395,
+      396
+    ],
+    "first": "1KI.20.1",
+    "last": "1KI.20.43"
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      396,
+      397
+    ],
+    "first": "1KI.21.1",
+    "last": "1KI.21.29"
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Original source page openings and chapter coverage inspected against historical scan; not character-by-character proofing",
+    "source_pdf_pages": [
+      397,
+      398,
+      399
+    ],
+    "first": "1KI.22.1",
+    "last": "1KI.22.53"
+  }
+}

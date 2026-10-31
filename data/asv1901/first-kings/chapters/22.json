@@ -1,0 +1,668 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1KI",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "1KI.22.1",
+      "edition_verse_id": "ASV1901:1KI.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And they continued three years without war between Syria and Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.2",
+      "edition_verse_id": "ASV1901:1KI.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.3",
+      "edition_verse_id": "ASV1901:1KI.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the king of Israel said unto his servants, Know ye that Ramoth-gilead is ours, and we are still, and take it not out of the hand of the king of Syria?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.4",
+      "edition_verse_id": "ASV1901:1KI.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth-gilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.5",
+      "edition_verse_id": "ASV1901:1KI.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jehoshaphat said unto the king of Israel, Inquire first, I pray thee, for the word of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.6",
+      "edition_verse_id": "ASV1901:1KI.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for the Lord will deliver it into the hand of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.7",
+      "edition_verse_id": "ASV1901:1KI.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But Jehoshaphat said, Is there not here a prophet of Jehovah besides, that we may inquire of him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.8",
+      "edition_verse_id": "ASV1901:1KI.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the king of Israel said unto Jehoshaphat, There is yet one man by whom we may inquire of Jehovah, Micaiah the son of Imlah: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.9",
+      "edition_verse_id": "ASV1901:1KI.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the king of Israel called an officer, and said, Fetch quickly Micaiah the son of Imlah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.10",
+      "edition_verse_id": "ASV1901:1KI.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now the king of Israel and Jehoshaphat the king of Judah were sitting each on his throne, arrayed in their robes, in an open place at the entrance of the gate of Samaria; and all the prophets were prophesying before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.11",
+      "edition_verse_id": "ASV1901:1KI.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Zedekiah the son of Chenaanah made him horns of iron, and said, Thus saith Jehovah, With these shalt thou push the Syrians, until they be consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.12",
+      "edition_verse_id": "ASV1901:1KI.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper; for Jehovah will deliver it into the hand of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.13",
+      "edition_verse_id": "ASV1901:1KI.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the messenger that went to call Micaiah spake unto him, saying, Behold now, the words of the prophets ",
+          "kind": "text"
+        },
+        {
+          "text": "declare",
+          "kind": "supplied"
+        },
+        {
+          "text": " good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak thou good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.14",
+      "edition_verse_id": "ASV1901:1KI.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Micaiah said, As Jehovah liveth, what Jehovah saith unto me, that will I speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.15",
+      "edition_verse_id": "ASV1901:1KI.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And when he was come to the king, the king said unto him, Micaiah, shall we go to Ramoth-gilead to battle, or shall we forbear? And he answered him, Go up and prosper; and Jehovah will deliver it into the hand of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.16",
+      "edition_verse_id": "ASV1901:1KI.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the king said unto him, How many times shall I adjure thee that thou speak unto me nothing but the truth in the name of Jehovah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.17",
+      "edition_verse_id": "ASV1901:1KI.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he said, I saw all Israel scattered upon the mountains, as sheep that have no shepherd: and Jehovah said, These have no master; let them return every man to his house in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.18",
+      "edition_verse_id": "ASV1901:1KI.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the king of Israel said to Jehoshaphat, Did I not tell thee that he would not prophesy good concerning me, but evil?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.19",
+      "edition_verse_id": "ASV1901:1KI.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "Micaiah",
+          "kind": "supplied"
+        },
+        {
+          "text": " said, Therefore hear thou the word of Jehovah: I saw Jehovah sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.20",
+      "edition_verse_id": "ASV1901:1KI.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Jehovah said, Who shall entice Ahab, that he may go up and fall at Ramoth-gilead? And one said on this manner; and another said on that manner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.21",
+      "edition_verse_id": "ASV1901:1KI.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And there came forth a spirit, and stood before Jehovah, and said, I will entice him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.22",
+      "edition_verse_id": "ASV1901:1KI.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Jehovah said unto him, Wherewith? And he said, I will go forth, and will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt entice him, and shalt prevail also: go forth, and do so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.23",
+      "edition_verse_id": "ASV1901:1KI.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now therefore, behold, Jehovah hath put a lying spirit in the mouth of all these thy prophets; and Jehovah hath spoken evil concerning thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.24",
+      "edition_verse_id": "ASV1901:1KI.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then Zedekiah the son of Chenaanah came near, and smote Micaiah on the cheek, and said, Which way went the Spirit of Jehovah from me to speak unto thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.25",
+      "edition_verse_id": "ASV1901:1KI.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Micaiah said, Behold, thou shalt see on that day, when thou shalt go into an inner chamber to hide thyself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.26",
+      "edition_verse_id": "ASV1901:1KI.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king’s son;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.27",
+      "edition_verse_id": "ASV1901:1KI.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.28",
+      "edition_verse_id": "ASV1901:1KI.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Micaiah said, If thou return at all in peace, Jehovah hath not spoken by me. And he said, Hear, ye peoples, all of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.29",
+      "edition_verse_id": "ASV1901:1KI.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.30",
+      "edition_verse_id": "ASV1901:1KI.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and go into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.31",
+      "edition_verse_id": "ASV1901:1KI.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Now the king of Syria had commanded the thirty and two captains of his chariots, saying, Fight neither with small nor great, save only with the king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.32",
+      "edition_verse_id": "ASV1901:1KI.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel; and they turned aside to fight against him: and Jehoshaphat cried out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.33",
+      "edition_verse_id": "ASV1901:1KI.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And it came to pass, when the captains of the chariots saw that it was not the king of Israel, that they turned back from pursuing him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.34",
+      "edition_verse_id": "ASV1901:1KI.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And a certain man drew his bow at a venture, and smote the king of Israel between the joints of the armor: wherefore he said unto the driver of his chariot, Turn thy hand, and carry me out of the host; for I am sore wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.35",
+      "edition_verse_id": "ASV1901:1KI.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even; and the blood ran out of the wound into the bottom of the chariot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.36",
+      "edition_verse_id": "ASV1901:1KI.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And there went a cry throughout the host about the going down of the sun, saying, Every man to his city, and every man to his country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.37",
+      "edition_verse_id": "ASV1901:1KI.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "So the king died, and was brought to Samaria; and they buried the king in Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.38",
+      "edition_verse_id": "ASV1901:1KI.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And they washed the chariot by the pool of Samaria; and the dogs licked up his blood (now the harlots washed themselves ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": "); according unto the word of Jehovah which he spake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.39",
+      "edition_verse_id": "ASV1901:1KI.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he built, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.40",
+      "edition_verse_id": "ASV1901:1KI.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.41",
+      "edition_verse_id": "ASV1901:1KI.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.42",
+      "edition_verse_id": "ASV1901:1KI.22.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.43",
+      "edition_verse_id": "ASV1901:1KI.22.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he walked in all the way of Asa his father; he turned not aside from it, doing that which was right in the eyes of Jehovah: howbeit the high places were not taken away; the people still sacrificed and burnt incense in the high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.44",
+      "edition_verse_id": "ASV1901:1KI.22.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Jehoshaphat made peace with the king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.45",
+      "edition_verse_id": "ASV1901:1KI.22.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Now the rest of the acts of Jehoshaphat, and his might that he showed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.46",
+      "edition_verse_id": "ASV1901:1KI.22.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And the remnant of the sodomites, that remained in the days of his father Asa, he put away out of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.47",
+      "edition_verse_id": "ASV1901:1KI.22.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And there was no king in Edom: a deputy was king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.48",
+      "edition_verse_id": "ASV1901:1KI.22.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Jehoshaphat made ships of Tarshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion-geber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.49",
+      "edition_verse_id": "ASV1901:1KI.22.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.50",
+      "edition_verse_id": "ASV1901:1KI.22.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father; And Jehoram his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.51",
+      "edition_verse_id": "ASV1901:1KI.22.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Ahaziah the son of Ahab began to reign over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.52",
+      "edition_verse_id": "ASV1901:1KI.22.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And he did that which was evil in the sight of Jehovah, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, wherein he made Israel to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.53",
+      "edition_verse_id": "ASV1901:1KI.22.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And he served Baal, and worshipped him, and provoked to anger Jehovah, the God of Israel, according to all that his father had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1KI",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "1KI.18.1",
+      "edition_verse_id": "ASV1901:1KI.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass after many days, that the word of Jehovah came to Elijah, in the third year, saying, Go, show thyself unto Ahab; and I will send rain upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.18.2",
+      "edition_verse_id": "ASV1901:1KI.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Elijah went to show himself unto Ahab. And the famine was sore in Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.3",
+      "edition_verse_id": "ASV1901:1KI.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Ahab called Obadiah, who was over the household. (Now Obadiah feared Jehovah greatly:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.4",
+      "edition_verse_id": "ASV1901:1KI.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "for it was so, when Jezebel cut off the prophets of Jehovah, that Obadiah took a hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.5",
+      "edition_verse_id": "ASV1901:1KI.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Ahab said unto Obadiah, Go through the land, unto all the fountains of water, and unto all the brooks: peradventure we may find grass and save the horses and mules alive, that we lose not all the beasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.6",
+      "edition_verse_id": "ASV1901:1KI.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.7",
+      "edition_verse_id": "ASV1901:1KI.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, Is it thou, my lord Elijah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.18.8",
+      "edition_verse_id": "ASV1901:1KI.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he answered him, It is I: go, tell thy lord, Behold, Elijah ",
+          "kind": "text"
+        },
+        {
+          "text": "is here",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.9",
+      "edition_verse_id": "ASV1901:1KI.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he said, Wherein have I sinned, that thou wouldest deliver thy servant into the hand of Ahab, to slay me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.10",
+      "edition_verse_id": "ASV1901:1KI.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As Jehovah thy God liveth, there is no nation or kingdom, whither my lord hath not sent to seek thee: and when they said, He is not here, he took an oath of the kingdom and nation, that they found thee not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.11",
+      "edition_verse_id": "ASV1901:1KI.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now thou sayest, Go, tell thy lord, Behold, Elijah ",
+          "kind": "text"
+        },
+        {
+          "text": "is here",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.12",
+      "edition_verse_id": "ASV1901:1KI.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And it will come to pass, as soon as I am gone from thee, that the Spirit of Jehovah will carry thee whither I know not; and so when I come and tell Ahab, and he cannot find thee, he will slay me: but I thy servant fear Jehovah from my youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.13",
+      "edition_verse_id": "ASV1901:1KI.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Was it not told my lord what I did when Jezebel slew the prophets of Jehovah, how I hid a hundred men of Jehovah’s prophets by fifty in a cave, and fed them with bread and water?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.14",
+      "edition_verse_id": "ASV1901:1KI.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And now thou sayest, Go, tell thy lord, Behold, Elijah ",
+          "kind": "text"
+        },
+        {
+          "text": "is here",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and he will slay me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.15",
+      "edition_verse_id": "ASV1901:1KI.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Elijah said, As Jehovah of hosts liveth, before whom I stand, I will surely show myself unto him to-day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.16",
+      "edition_verse_id": "ASV1901:1KI.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So Obadiah went to meet Ahab, and told him; and Ahab went to meet Elijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.18.17",
+      "edition_verse_id": "ASV1901:1KI.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it came to pass, when Ahab saw Elijah, that Ahab said unto him, Is it thou, thou troubler of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.18",
+      "edition_verse_id": "ASV1901:1KI.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he answered, I have not troubled Israel; but thou, and thy father’s house, in that ye have forsaken the commandments of Jehovah, and thou hast followed the Baalim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.19",
+      "edition_verse_id": "ASV1901:1KI.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now therefore send, and gather to me all Israel unto mount Carmel, and the prophets of Baal four hundred and fifty, and the prophets of the Asherah four hundred, that eat at Jezebel’s table.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.20",
+      "edition_verse_id": "ASV1901:1KI.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Ahab sent unto all the children of Israel, and gathered the prophets together unto mount Carmel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.18.21",
+      "edition_verse_id": "ASV1901:1KI.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Elijah came near unto all the people, and said, How long go ye limping between the two sides? if Jehovah be God, follow him; but if Baal, then follow him. And the people answered him not a word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.22",
+      "edition_verse_id": "ASV1901:1KI.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then said Elijah unto the people, I, even I only, am left a prophet of Jehovah; but Baal’s prophets are four hundred and fifty men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.23",
+      "edition_verse_id": "ASV1901:1KI.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay it on the wood, and put no fire under; and I will dress the other bullock, and lay it on the wood, and put no fire under.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.24",
+      "edition_verse_id": "ASV1901:1KI.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And call ye on the name of your god, and I will call on the name of Jehovah; and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.25",
+      "edition_verse_id": "ASV1901:1KI.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Elijah said unto the prophets of Baal, Choose you one bullock for yourselves, and dress it first; for ye are many; and call on the name of your god, but put no fire under.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.18.26",
+      "edition_verse_id": "ASV1901:1KI.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they took the bullock which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But there was no voice, nor any that answered. And they leaped about the altar which was made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.27",
+      "edition_verse_id": "ASV1901:1KI.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And it came to pass at noon, that Elijah mocked them, and said, Cry aloud; for he is a god: either he is musing, or he is gone aside, or he is on a journey, or peradventure he sleepeth and must be awaked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.28",
+      "edition_verse_id": "ASV1901:1KI.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they cried aloud, and cut themselves after their manner with knives and lances, till the blood gushed out upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.29",
+      "edition_verse_id": "ASV1901:1KI.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And it was so, when midday was past, that they prophesied until the time of the offering of the ",
+          "kind": "text"
+        },
+        {
+          "text": "evening",
+          "kind": "supplied"
+        },
+        {
+          "text": " oblation; but there was neither voice, nor any to answer, nor any that regarded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.30",
+      "edition_verse_id": "ASV1901:1KI.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Elijah said unto all the people, Come near unto me; and all the people came near unto him. And he repaired the altar of Jehovah that was thrown down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.18.31",
+      "edition_verse_id": "ASV1901:1KI.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, unto whom the word of Jehovah came, saying, Israel shall be thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.32",
+      "edition_verse_id": "ASV1901:1KI.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And with the stones he built an altar in the name of Jehovah; and he made a trench about the altar, as great as would contain two measures of seed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.33",
+      "edition_verse_id": "ASV1901:1KI.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he put the wood in order, and cut the bullock in pieces, and laid it on the wood. And he said, Fill four jars with water, and pour it on the burnt-offering, and on the wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.34",
+      "edition_verse_id": "ASV1901:1KI.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he said, Do it the second time; and they did it the second time. And he said, Do it the third time; and they did it the third time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.35",
+      "edition_verse_id": "ASV1901:1KI.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the water ran round about the altar; and he filled the trench also with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.36",
+      "edition_verse_id": "ASV1901:1KI.18.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And it came to pass at the time of the offering of the ",
+          "kind": "text"
+        },
+        {
+          "text": "evening",
+          "kind": "supplied"
+        },
+        {
+          "text": " oblation, that Elijah the prophet came near, and said, O Jehovah, the God of Abraham, of Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.37",
+      "edition_verse_id": "ASV1901:1KI.18.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Hear me, O Jehovah, hear me, that this people may know that thou, Jehovah, art God, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou hast turned their heart back again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.38",
+      "edition_verse_id": "ASV1901:1KI.18.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Then the fire of Jehovah fell, and consumed the burnt-offering, and the wood, and the stones, and the dust, and licked up the water that was in the trench.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.39",
+      "edition_verse_id": "ASV1901:1KI.18.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And when all the people saw it, they fell on their faces: and they said, Jehovah, he is God; Jehovah, he is God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.40",
+      "edition_verse_id": "ASV1901:1KI.18.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them; and Elijah brought them down to the brook Kishon, and slew them there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.41",
+      "edition_verse_id": "ASV1901:1KI.18.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Elijah said unto Ahab, Get thee up, eat and drink; for there is the sound of abundance of rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.18.42",
+      "edition_verse_id": "ASV1901:1KI.18.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "So Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and he bowed himself down upon the earth, and put his face between his knees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.43",
+      "edition_verse_id": "ASV1901:1KI.18.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he said to his servant, Go up now, look toward the sea. And he went up, and looked, and said, There is nothing. And he said, Go again seven times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.44",
+      "edition_verse_id": "ASV1901:1KI.18.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And it came to pass at the seventh time, that he said, Behold, there ariseth a cloud out of the sea, as small as a man’s hand. And he said, Go up, say unto Ahab, Make ready ",
+          "kind": "text"
+        },
+        {
+          "text": "thy chariot",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and get thee down, that the rain stop thee not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.45",
+      "edition_verse_id": "ASV1901:1KI.18.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And it came to pass in a little while, that the heavens grew black with clouds and wind, and there was a great rain. And Ahab rode, and went to Jezreel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.18.46",
+      "edition_verse_id": "ASV1901:1KI.18.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "and the hand of Jehovah was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

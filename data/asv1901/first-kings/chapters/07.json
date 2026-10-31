@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1KI",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "1KI.7.1",
+      "edition_verse_id": "ASV1901:1KI.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Solomon was building his own house thirteen years, and he finished all his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.2",
+      "edition_verse_id": "ASV1901:1KI.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For he built the house of the forest of Lebanon; the length thereof was a hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.3",
+      "edition_verse_id": "ASV1901:1KI.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it was covered with cedar above over the forty and five beams, that were upon the pillars; fifteen in a row.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.4",
+      "edition_verse_id": "ASV1901:1KI.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And there were beams in three rows, and window was over against window in three ranks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.5",
+      "edition_verse_id": "ASV1901:1KI.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And all the doors and posts were made square with beams: and window was over against window in three ranks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.6",
+      "edition_verse_id": "ASV1901:1KI.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he made the porch of pillars; the length thereof was fifty cubits, and the breadth thereof thirty cubits; and a porch before them; and pillars and a threshold before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.7",
+      "edition_verse_id": "ASV1901:1KI.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he made the porch of the throne where he was to judge, even the porch of judgment: and it was covered with cedar from floor to floor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.8",
+      "edition_verse_id": "ASV1901:1KI.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And his house where he was to dwell, the other court within the porch, was of the like work. He made also a house for Pharaoh’s daughter (whom Solomon had taken to wife), like unto this porch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.9",
+      "edition_verse_id": "ASV1901:1KI.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "All these were of costly stones, even of hewn stone, according to measure, sawed with saws, within and without, even from the foundation unto the coping, and so on the outside unto the great court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.10",
+      "edition_verse_id": "ASV1901:1KI.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the foundation was of costly stones, even great stones, stones of ten cubits, and stones of eight cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.11",
+      "edition_verse_id": "ASV1901:1KI.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And above were costly stones, even hewn stone, according to measure, and cedar-wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.12",
+      "edition_verse_id": "ASV1901:1KI.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the great court round about had three courses of hewn stone, and a course of cedar beams; like as the inner court of the house of Jehovah, and the porch of the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.13",
+      "edition_verse_id": "ASV1901:1KI.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And king Solomon sent and fetched Hiram out of Tyre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.14",
+      "edition_verse_id": "ASV1901:1KI.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He was the son of a widow of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass; and he was filled with wisdom and understanding and skill, to work all works in brass. And he came to king Solomon, and wrought all his work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.15",
+      "edition_verse_id": "ASV1901:1KI.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For he fashioned the two pillars of brass, eighteen cubits high apiece: and a line of twelve cubits compassed either of them about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.16",
+      "edition_verse_id": "ASV1901:1KI.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he made two capitals of molten brass, to set upon the tops of the pillars: the height of the one capital was five cubits, and the height of the other capital was five cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.17",
+      "edition_verse_id": "ASV1901:1KI.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "There were nets of checker-work, and wreaths of chain-work, for the capitals which were upon the top of the pillars; seven for the one capital, and seven for the other capital.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.18",
+      "edition_verse_id": "ASV1901:1KI.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So he made the pillars; and there were two rows round about upon the one network, to cover the capitals that were upon the top of the pillars: and so did he for the other capital.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.19",
+      "edition_verse_id": "ASV1901:1KI.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the capitals that were upon the top of the pillars in the porch were of lily-work, four cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.20",
+      "edition_verse_id": "ASV1901:1KI.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And there were capitals above also upon the two pillars, close by the belly which was beside the network: and the pomegranates were two hundred, in rows round about upon the other capital.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.21",
+      "edition_verse_id": "ASV1901:1KI.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he set up the pillars at the porch of the temple: and he set up the right pillar, and called the name thereof Jachin; and he set up the left pillar, and called the name thereof Boaz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.22",
+      "edition_verse_id": "ASV1901:1KI.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And upon the top of the pillars was lily-work: so was the work of the pillars finished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.23",
+      "edition_verse_id": "ASV1901:1KI.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he made the molten sea of ten cubits from brim to brim, round in compass, and the height thereof was five cubits; and a line of thirty cubits compassed it round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.24",
+      "edition_verse_id": "ASV1901:1KI.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And under the brim of it round about there were knops which did compass it, for ten cubits, compassing the sea round about: the knops were in two rows, cast when it was cast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.25",
+      "edition_verse_id": "ASV1901:1KI.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east; and the sea was set upon them above, and all their hinder parts were inward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.26",
+      "edition_verse_id": "ASV1901:1KI.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And it was a handbreadth thick: and the brim thereof was wrought like the brim of a cup, like the flower of a lily: it held two thousand baths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.27",
+      "edition_verse_id": "ASV1901:1KI.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he made the ten bases of brass; four cubits was the length of one base, and four cubits the breadth thereof, and three cubits the height of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.28",
+      "edition_verse_id": "ASV1901:1KI.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the work of the bases was on this manner: they had panels; and there were panels between the ledges;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.29",
+      "edition_verse_id": "ASV1901:1KI.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and on the panels that were between the ledges were lions, oxen, and cherubim; and upon the ledges there was a pedestal above; and beneath the lions and oxen were wreaths of hanging work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.30",
+      "edition_verse_id": "ASV1901:1KI.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And every base had four brazen wheels, and axles of brass; and the four feet thereof had undersetters: beneath the laver were the undersetters molten, with wreaths at the side of each.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.31",
+      "edition_verse_id": "ASV1901:1KI.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the mouth of it within the capital and above was a cubit: and the mouth thereof was round after the work of a pedestal, a cubit and a half; and also upon the mouth of it were gravings, and their panels were foursquare, not round.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.32",
+      "edition_verse_id": "ASV1901:1KI.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the four wheels were underneath the panels; and the axletrees of the wheels were in the base: and the height of a wheel was a cubit and half a cubit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.33",
+      "edition_verse_id": "ASV1901:1KI.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the work of the wheels was like the work of a chariot wheel: their axletrees, and their felloes, and their spokes, and their naves, were all molten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.34",
+      "edition_verse_id": "ASV1901:1KI.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And there were four undersetters at the four corners of each base: the undersetters thereof were of the base itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.35",
+      "edition_verse_id": "ASV1901:1KI.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And in the top of the base was there a round compass half a cubit high; and on the top of the base the stays thereof and the panels thereof were of the same.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.36",
+      "edition_verse_id": "ASV1901:1KI.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And on the plates of the stays thereof, and on the panels thereof, he graved cherubim, lions, and palm-trees, according to the space of each, with wreaths round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.37",
+      "edition_verse_id": "ASV1901:1KI.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "After this manner he made the ten bases: all of them had one casting, one measure, and one form.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.38",
+      "edition_verse_id": "ASV1901:1KI.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And he made ten lavers of brass: one laver contained forty baths; and every laver was four cubits; and upon every one of the ten bases one laver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.39",
+      "edition_verse_id": "ASV1901:1KI.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And he set the bases, five on the right side of the house, and five on the left side of the house: and he set the sea on the right side of the house eastward, toward the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.40",
+      "edition_verse_id": "ASV1901:1KI.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Hiram made the lavers, and the shovels, and the basins. So Hiram made an end of doing all the work that he wrought for king Solomon in the house of Jehovah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.41",
+      "edition_verse_id": "ASV1901:1KI.7.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "the two pillars, and the two bowls of the capitals that were on the top of the pillars; and the two networks to cover the two bowls of the capitals that were on the top of the pillars;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.42",
+      "edition_verse_id": "ASV1901:1KI.7.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "and the four hundred pomegranates for the two networks; two rows of pomegranates for each network, to cover the two bowls of the capitals that were upon the pillars;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.43",
+      "edition_verse_id": "ASV1901:1KI.7.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "and the ten bases, and the ten lavers on the bases;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.44",
+      "edition_verse_id": "ASV1901:1KI.7.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "and the one sea, and the twelve oxen under the sea;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.45",
+      "edition_verse_id": "ASV1901:1KI.7.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "and the pots, and the shovels, and the basins: even all these vessels, which Hiram made for king Solomon, in the house of Jehovah, were of burnished brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.46",
+      "edition_verse_id": "ASV1901:1KI.7.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "In the plain of the Jordan did the king cast them, in the clay ground between Succoth and Zarethan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.47",
+      "edition_verse_id": "ASV1901:1KI.7.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And Solomon left all the vessels ",
+          "kind": "text"
+        },
+        {
+          "text": "unweighed",
+          "kind": "supplied"
+        },
+        {
+          "text": ", because they were exceeding many: the weight of the brass could not be found out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.48",
+      "edition_verse_id": "ASV1901:1KI.7.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And Solomon made all the vessels that were in the house of Jehovah: the golden altar, and the table whereupon the showbread was, of gold;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.7.49",
+      "edition_verse_id": "ASV1901:1KI.7.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "and the candlesticks, five on the right side, and five on the left, before the oracle, of pure gold; and the flowers, and the lamps, and the tongs, of gold;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.50",
+      "edition_verse_id": "ASV1901:1KI.7.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "and the cups, and the snuffers, and the basins, and the spoons, and the firepans, of pure gold; and the hinges, both for the doors of the inner house, the most holy place, and for the doors of the house, ",
+          "kind": "text"
+        },
+        {
+          "text": "to wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of the temple, of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.7.51",
+      "edition_verse_id": "ASV1901:1KI.7.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Thus all the work that king Solomon wrought in the house of Jehovah was finished. And Solomon brought in the things which David his father had dedicated, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the silver, and the gold, and the vessels, and put them in the treasuries of the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
