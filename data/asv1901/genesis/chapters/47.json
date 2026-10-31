@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GEN",
+  "chapter": 47,
+  "verses": [
+    {
+      "id": "GEN.47.1",
+      "edition_verse_id": "ASV1901:GEN.47.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Joseph went in and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.2",
+      "edition_verse_id": "ASV1901:GEN.47.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And from among his brethren he took five men, and presented them unto Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.3",
+      "edition_verse_id": "ASV1901:GEN.47.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and our fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.4",
+      "edition_verse_id": "ASV1901:GEN.47.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they said unto Pharaoh, To sojourn in the land are we come; for there is no pasture for thy servants’ flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.5",
+      "edition_verse_id": "ASV1901:GEN.47.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.6",
+      "edition_verse_id": "ASV1901:GEN.47.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "the land of Egypt is before thee; in the best of the land make thy father and thy brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any able men among them, then make them rulers over my cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.7",
+      "edition_verse_id": "ASV1901:GEN.47.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.8",
+      "edition_verse_id": "ASV1901:GEN.47.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Pharaoh said unto Jacob, How many are the days of the years of thy life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.9",
+      "edition_verse_id": "ASV1901:GEN.47.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jacob said unto Pharaoh, The days of the years of my pilgrimage are a hundred and thirty years: few and evil have been the days of the years of my life, and they have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.10",
+      "edition_verse_id": "ASV1901:GEN.47.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Jacob blessed Pharaoh, and went out from the presence of Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.11",
+      "edition_verse_id": "ASV1901:GEN.47.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.12",
+      "edition_verse_id": "ASV1901:GEN.47.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.13",
+      "edition_verse_id": "ASV1901:GEN.47.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and the land of Canaan fainted by reason of the famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.14",
+      "edition_verse_id": "ASV1901:GEN.47.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the grain which they bought: and Joseph brought the money into Pharaoh’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.15",
+      "edition_verse_id": "ASV1901:GEN.47.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And when the money was all spent in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " money faileth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.16",
+      "edition_verse_id": "ASV1901:GEN.47.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.17",
+      "edition_verse_id": "ASV1901:GEN.47.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they brought their cattle unto Joseph; and Joseph gave them bread in exchange for the horses, and for the flocks, and for the herds, and for the asses: and he fed them with bread in exchange for all their cattle for that year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.18",
+      "edition_verse_id": "ASV1901:GEN.47.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And when that year was ended, they came unto him the second year, and said unto him, We will not hide from my lord, how that our money is all spent; and the herds of cattle are my lord’s; there is nought left in the sight of my lord, but our bodies, and our lands:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.19",
+      "edition_verse_id": "ASV1901:GEN.47.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "wherefore should we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, and that the land be not desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.20",
+      "edition_verse_id": "ASV1901:GEN.47.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine was sore upon them: and the land became Pharaoh’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.21",
+      "edition_verse_id": "ASV1901:GEN.47.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And as for the people, he removed them to the cities from one end of the border of Egypt even to the other end thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.22",
+      "edition_verse_id": "ASV1901:GEN.47.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Only the land of the priests bought he not: for the priests had a portion from Pharaoh, and did eat their portion which Pharaoh gave them; wherefore they sold not their land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.23",
+      "edition_verse_id": "ASV1901:GEN.47.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.24",
+      "edition_verse_id": "ASV1901:GEN.47.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it shall come to pass at the ingatherings, that ye shall give a fifth unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.25",
+      "edition_verse_id": "ASV1901:GEN.47.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they said, Thou hast saved our lives: let us find favor in the sight of my lord, and we will be Pharaoh’s servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.26",
+      "edition_verse_id": "ASV1901:GEN.47.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Joseph made it a statute concerning the land of Egypt unto this day, that Pharaoh should have the fifth; only the land of the priests alone became not Pharaoh’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.27",
+      "edition_verse_id": "ASV1901:GEN.47.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Israel dwelt in the land of Egypt, in the land of Goshen; and they gat them possessions therein, and were fruitful, and multiplied exceedingly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.28",
+      "edition_verse_id": "ASV1901:GEN.47.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Jacob lived in the land of Egypt seventeen years: so the days of Jacob, the years of his life, were a hundred forty and seven years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.29",
+      "edition_verse_id": "ASV1901:GEN.47.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the time drew near that Israel must die: and he called his son Joseph, and said unto him, If now I have found favor in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me: bury me not, I pray thee, in Egypt;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.30",
+      "edition_verse_id": "ASV1901:GEN.47.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "but when I sleep with my fathers, thou shalt carry me out of Egypt, and bury me in their burying-place. And he said, I will do as thou hast said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.31",
+      "edition_verse_id": "ASV1901:GEN.47.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he said, Swear unto me: and he sware unto him. And Israel bowed himself upon the bed’s head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      17,
+      18
+    ],
+    "digital_verse_count_verified": 31,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      18,
+      21
+    ],
+    "digital_verse_count_verified": 25,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      21
+    ],
+    "digital_verse_count_verified": 24,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      21,
+      22
+    ],
+    "digital_verse_count_verified": 26,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      22,
+      23
+    ],
+    "digital_verse_count_verified": 32,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      23,
+      24
+    ],
+    "digital_verse_count_verified": 22,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      24,
+      25
+    ],
+    "digital_verse_count_verified": 24,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      25
+    ],
+    "digital_verse_count_verified": 22,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      25,
+      26
+    ],
+    "digital_verse_count_verified": 29,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      26,
+      29
+    ],
+    "digital_verse_count_verified": 32,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      29,
+      30
+    ],
+    "digital_verse_count_verified": 32,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      30,
+      31
+    ],
+    "digital_verse_count_verified": 20,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      31
+    ],
+    "digital_verse_count_verified": 18,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      31,
+      32
+    ],
+    "digital_verse_count_verified": 24,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      32,
+      33
+    ],
+    "digital_verse_count_verified": 21,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      33
+    ],
+    "digital_verse_count_verified": 16,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      33,
+      34
+    ],
+    "digital_verse_count_verified": 27,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      34,
+      35
+    ],
+    "digital_verse_count_verified": 33,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      35,
+      36,
+      39
+    ],
+    "digital_verse_count_verified": 38,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      39
+    ],
+    "digital_verse_count_verified": 18,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      39,
+      40
+    ],
+    "digital_verse_count_verified": 34,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      40,
+      41
+    ],
+    "digital_verse_count_verified": 24,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "23": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      41,
+      42
+    ],
+    "digital_verse_count_verified": 20,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "24": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      42,
+      43,
+      44
+    ],
+    "digital_verse_count_verified": 67,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "25": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      44,
+      45
+    ],
+    "digital_verse_count_verified": 34,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "26": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      45,
+      46,
+      47
+    ],
+    "digital_verse_count_verified": 35,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "27": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      47,
+      48
+    ],
+    "digital_verse_count_verified": 46,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "28": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      48,
+      49
+    ],
+    "digital_verse_count_verified": 22,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "29": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      49,
+      50
+    ],
+    "digital_verse_count_verified": 35,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "30": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      50,
+      51
+    ],
+    "digital_verse_count_verified": 43,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "31": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      52,
+      53
+    ],
+    "digital_verse_count_verified": 55,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "32": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      53,
+      54
+    ],
+    "digital_verse_count_verified": 32,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "33": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      54,
+      55
+    ],
+    "digital_verse_count_verified": 20,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "34": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      55,
+      56
+    ],
+    "digital_verse_count_verified": 31,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "35": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      56,
+      57
+    ],
+    "digital_verse_count_verified": 29,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "36": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      57,
+      58
+    ],
+    "digital_verse_count_verified": 43,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "37": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      58,
+      61,
+      62
+    ],
+    "digital_verse_count_verified": 36,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "38": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      62,
+      63
+    ],
+    "digital_verse_count_verified": 30,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "39": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      63
+    ],
+    "digital_verse_count_verified": 23,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "40": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      63,
+      64
+    ],
+    "digital_verse_count_verified": 23,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "41": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      64,
+      65,
+      66
+    ],
+    "digital_verse_count_verified": 57,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "42": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      66,
+      67
+    ],
+    "digital_verse_count_verified": 38,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "43": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      67,
+      68,
+      69
+    ],
+    "digital_verse_count_verified": 34,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "44": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      69,
+      70
+    ],
+    "digital_verse_count_verified": 34,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "45": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      70,
+      71
+    ],
+    "digital_verse_count_verified": 28,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "46": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      71,
+      72
+    ],
+    "digital_verse_count_verified": 34,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "47": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      72,
+      73
+    ],
+    "digital_verse_count_verified": 31,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "48": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      73,
+      74
+    ],
+    "digital_verse_count_verified": 22,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "49": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      74,
+      75
+    ],
+    "digital_verse_count_verified": 33,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  },
+  "50": {
+    "original_print_chapter_checked": true,
+    "method": "Source PDF running head and first main-text words reconciled across every Scripture page (including split verses and map interleaves); not a character-level proofread",
+    "original_scan_pdf_pages": [
+      75,
+      76
+    ],
+    "digital_verse_count_verified": 26,
+    "historical_heading_evidence": "GENESIS found in searchable text layer of each Scripture-bearing page; visual checks performed for six source variants"
+  }
+}

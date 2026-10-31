@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GEN",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "GEN.6.1",
+      "edition_verse_id": "ASV1901:GEN.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when men began to multiply on the face of the ground, and daughters were born unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.2",
+      "edition_verse_id": "ASV1901:GEN.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that the sons of God saw the daughters of men that they were fair; and they took them wives of all that they chose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.3",
+      "edition_verse_id": "ASV1901:GEN.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Jehovah said, My Spirit shall not strive with man for ever, for that he also is flesh: yet shall his days be a hundred and twenty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.4",
+      "edition_verse_id": "ASV1901:GEN.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The Nephilim were in the earth in those days, and also after that, when the sons of God came in unto the daughters of men, and they bare children to them: the same were the mighty men that were of old, the men of renown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.5",
+      "edition_verse_id": "ASV1901:GEN.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jehovah saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.6",
+      "edition_verse_id": "ASV1901:GEN.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And it repented Jehovah that he had made man on the earth, and it grieved him at his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.7",
+      "edition_verse_id": "ASV1901:GEN.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Jehovah said, I will destroy man whom I have created from the face of the ground; both man, and beast, and creeping things, and birds of the heavens; for it repenteth me that I have made them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.8",
+      "edition_verse_id": "ASV1901:GEN.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Noah found favor in the eyes of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.9",
+      "edition_verse_id": "ASV1901:GEN.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "These are the generations of Noah. Noah was a righteous man, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " perfect in his generations: Noah walked with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.10",
+      "edition_verse_id": "ASV1901:GEN.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Noah begat three sons, Shem, Ham, and Japheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.11",
+      "edition_verse_id": "ASV1901:GEN.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the earth was corrupt before God, and the earth was filled with violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.12",
+      "edition_verse_id": "ASV1901:GEN.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And God saw the earth, and, behold, it was corrupt; for all flesh had corrupted their way upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.13",
+      "edition_verse_id": "ASV1901:GEN.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.6.14",
+      "edition_verse_id": "ASV1901:GEN.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.15",
+      "edition_verse_id": "ASV1901:GEN.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And this is how thou shalt make it: the length of the ark three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.16",
+      "edition_verse_id": "ASV1901:GEN.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A light shalt thou make to the ark, and to a cubit shalt thou finish it upward; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.17",
+      "edition_verse_id": "ASV1901:GEN.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I, behold, I do bring the flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; everything that is in the earth shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.18",
+      "edition_verse_id": "ASV1901:GEN.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But I will establish my covenant with thee; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.19",
+      "edition_verse_id": "ASV1901:GEN.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.20",
+      "edition_verse_id": "ASV1901:GEN.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Of the birds after their kind, and of the cattle after their kind, of every creeping thing of the ground after its kind, two of every sort shall come unto thee, to keep them alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.21",
+      "edition_verse_id": "ASV1901:GEN.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And take thou unto thee of all food that is eaten, and gather it to thee; and it shall be for food for thee, and for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.6.22",
+      "edition_verse_id": "ASV1901:GEN.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thus did Noah; according to all that God commanded him, so did he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GEN",
+  "chapter": 49,
+  "verses": [
+    {
+      "id": "GEN.49.1",
+      "edition_verse_id": "ASV1901:GEN.49.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jacob called unto his sons, and said: Gather yourselves together, that I may tell you that which shall befall you in the latter days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.2",
+      "edition_verse_id": "ASV1901:GEN.49.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Assemble yourselves, and hear, ye sons of Jacob;\nAnd hearken unto Israel your father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.3",
+      "edition_verse_id": "ASV1901:GEN.49.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Reuben, thou art my first-born, my might, and the beginning of my strength;\nThe pre-eminence of dignity, and the pre-eminence of power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.4",
+      "edition_verse_id": "ASV1901:GEN.49.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Boiling over as water, thou shalt not have the pre-eminence;\nBecause thou wentest up to thy father’s bed;\nThen defiledst thou it: he went up to my couch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.5",
+      "edition_verse_id": "ASV1901:GEN.49.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Simeon and Levi are brethren;\nWeapons of violence are their swords.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.6",
+      "edition_verse_id": "ASV1901:GEN.49.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O my soul, come not thou into their council;\nUnto their assembly, my glory, be not thou united;\nFor in their anger they slew a man,\nAnd in their self-will they hocked an ox.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.7",
+      "edition_verse_id": "ASV1901:GEN.49.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Cursed be their anger, for it was fierce;\nAnd their wrath, for it was cruel:\nI will divide them in Jacob,\nAnd scatter them in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.8",
+      "edition_verse_id": "ASV1901:GEN.49.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Judah, thee shall thy brethren praise:\nThy hand shall be on the neck of thine enemies;\nThy father’s sons shall bow down before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.9",
+      "edition_verse_id": "ASV1901:GEN.49.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Judah is a lion’s whelp;\nFrom the prey, my son, thou art gone up:\nHe stooped down, he couched as a lion,\nAnd as a lioness; who shall rouse him up?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.10",
+      "edition_verse_id": "ASV1901:GEN.49.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The sceptre shall not depart from Judah,\nNor the ruler’s staff from between his feet,Until Shiloh come;\nAnd unto him shall the obedience of the peoples be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.11",
+      "edition_verse_id": "ASV1901:GEN.49.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Binding his foal unto the vine,\nAnd his ass’s colt unto the choice vine;\nHe hath washed his garments in wine,\nAnd his vesture in the blood of grapes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.12",
+      "edition_verse_id": "ASV1901:GEN.49.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His eyes shall be red with wine,\nAnd his teeth white with milk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.13",
+      "edition_verse_id": "ASV1901:GEN.49.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Zebulun shall dwell at the haven of the sea;\nAnd he shall be for a haven of ships;\nAnd his border shall be upon Sidon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.14",
+      "edition_verse_id": "ASV1901:GEN.49.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Issachar is a strong ass,\nCouching down between the sheepfolds:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.15",
+      "edition_verse_id": "ASV1901:GEN.49.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he saw a resting-place that it was good,\nAnd the land that it was pleasant;\nAnd he bowed his shoulder to bear,\nAnd became a servant under taskwork.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.16",
+      "edition_verse_id": "ASV1901:GEN.49.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Dan shall judge his people,\nAs one of the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.17",
+      "edition_verse_id": "ASV1901:GEN.49.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Dan shall be a serpent in the way,\nAn adder in the path,\nThat biteth the horse’s heels,\nSo that his rider falleth backward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.18",
+      "edition_verse_id": "ASV1901:GEN.49.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I have waited for thy salvation, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.19",
+      "edition_verse_id": "ASV1901:GEN.49.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Gad, a troop shall press upon him;\nBut he shall press upon their heel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.20",
+      "edition_verse_id": "ASV1901:GEN.49.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Out of Asher his bread shall be fat,\nAnd he shall yield royal dainties.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.21",
+      "edition_verse_id": "ASV1901:GEN.49.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Naphtali is a hind let loose:\nHe giveth goodly words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.22",
+      "edition_verse_id": "ASV1901:GEN.49.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Joseph is a fruitful bough,\nA fruitful bough by a fountain;\nHis branches run over the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.23",
+      "edition_verse_id": "ASV1901:GEN.49.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The archers have sorely grieved him,\nAnd shot at him, and persecuted him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.24",
+      "edition_verse_id": "ASV1901:GEN.49.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But his bow abode in strength,\nAnd the arms of his hands were made strong,\nBy the hands of the Mighty One of Jacob(From thence is the shepherd, the stone of Israel),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.25",
+      "edition_verse_id": "ASV1901:GEN.49.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Even by the God of thy father, who shall help thee,\nAnd by the Almighty, who shall bless thee,\nWith blessings of heaven above,\nBlessings of the deep that coucheth beneath,\nBlessings of the breasts, and of the womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.26",
+      "edition_verse_id": "ASV1901:GEN.49.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The blessings of thy father\nHave prevailed above the blessings of my progenitors\nUnto the utmost bound of the everlasting hills:\nThey shall be on the head of Joseph,\nAnd on the crown of the head of him that was separate from his brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.27",
+      "edition_verse_id": "ASV1901:GEN.49.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Benjamin is a wolf that raveneth:\nIn the morning he shall devour the prey,\nAnd at even he shall divide the spoil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.28",
+      "edition_verse_id": "ASV1901:GEN.49.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "All these are the twelve tribes of Israel: and this is it that their father spake unto them and blessed them; every one according to his blessing he blessed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.29",
+      "edition_verse_id": "ASV1901:GEN.49.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.30",
+      "edition_verse_id": "ASV1901:GEN.49.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite for a possession of a burying-place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.31",
+      "edition_verse_id": "ASV1901:GEN.49.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.32",
+      "edition_verse_id": "ASV1901:GEN.49.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "the field and the cave that is therein, which was purchased from the children of Heth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.33",
+      "edition_verse_id": "ASV1901:GEN.49.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when Jacob made an end of charging his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

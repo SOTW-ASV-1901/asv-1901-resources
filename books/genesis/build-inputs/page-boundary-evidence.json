@@ -1,0 +1,424 @@
+{
+  "edition": "ASV1901",
+  "book": "GEN",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "notes": "Historic running heads typically show the first newly numbered verse, not the continuation from preceding physical Scripture page. Text-layer snippets assist audit; ambiguity is checked against the actual scan, with no verse-to-pixel mapping.",
+  "scripture_page_evidence": [
+    {
+      "source_pdf_page": 17,
+      "printed_page": 1,
+      "running_head_first_verse": "GEN.1.1",
+      "actual_first_verse": "GEN.1.1",
+      "page_begins_with_prior_verse_continuation": false,
+      "top_body_text_excerpt_from_source_pdf": "1\" In the beginning * God \"created the heavens and the earth. 2 And the earth was '' waste and void ; and \" darkness"
+    },
+    {
+      "source_pdf_page": 18,
+      "printed_page": 2,
+      "running_head_first_verse": "GEN.1.27",
+      "actual_first_verse": "GEN.1.26",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "God said, Let \"us make *man in our image, after our likeness : and let them have ''dominion over the fish of the sea, and over the birds"
+    },
+    {
+      "source_pdf_page": 21,
+      "printed_page": 3,
+      "running_head_first_verse": "GEN.2.23",
+      "actual_first_verse": "GEN.2.23",
+      "page_begins_with_prior_verse_continuation": false,
+      "top_body_text_excerpt_from_source_pdf": "23 And thb man said, \"This is now bone of my bones, and flesh of my flesh : she shall be called ^ Woman, because she was taken out of ^ Man."
+    },
+    {
+      "source_pdf_page": 22,
+      "printed_page": 4,
+      "running_head_first_verse": "GEN.4.2",
+      "actual_first_verse": "GEN.4.1",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "a man with the help of Jehovah. 2 And again she bare his brother Abel. And \" Abel was * a keeper of sheep, but Cain was a tiller of the"
+    },
+    {
+      "source_pdf_page": 23,
+      "printed_page": 5,
+      "running_head_first_verse": "GEN.5.5",
+      "actual_first_verse": "GEN.5.4",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "begat sons and daughters. 5 And all the days that Adam lived were nine hundred and thirty years : and he died."
+    },
+    {
+      "source_pdf_page": 24,
+      "printed_page": 6,
+      "running_head_first_verse": "GEN.6.12",
+      "actual_first_verse": "GEN.6.11",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "lence. 12 And God saw the earth, and, behold, it was corrupt ; for \"all flesh had corrupted their way upon the earth."
+    },
+    {
+      "source_pdf_page": 25,
+      "printed_page": 7,
+      "running_head_first_verse": "GEN.7.22",
+      "actual_first_verse": "GEN.7.21",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "died that moved upon the earth, both birds, and cattle, and beasts, and every ^creeping thin^ that creepeth upon the earth, and every"
+    },
+    {
+      "source_pdf_page": 26,
+      "printed_page": 8,
+      "running_head_first_verse": "GEN.9.4",
+      "actual_first_verse": "GEN.9.3",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "the green herb have I given you all. 4 But flesh with the life thereof, tvhich is \" the blood thereof, shall ye not eat. 5 And surely"
+    },
+    {
+      "source_pdf_page": 29,
+      "printed_page": 9,
+      "running_head_first_verse": "GEN.10.9",
+      "actual_first_verse": "GEN.10.8",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "in the earth. 9 He was a mighty hunter before Jehovah : wherefore it is said, Like Nimrod a mighty hunter before Jehovah. 10 And"
+    },
+    {
+      "source_pdf_page": 30,
+      "printed_page": 10,
+      "running_head_first_verse": "GEN.11.16",
+      "actual_first_verse": "GEN.11.15",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "lived aftei' he begat Eber four hun- dred and three years, and begat sons and daughters. 16 And Eber hved four and"
+    },
+    {
+      "source_pdf_page": 31,
+      "printed_page": 11,
+      "running_head_first_verse": "GEN.12.17",
+      "actual_first_verse": "GEN.12.16",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "and men-sei'vants, and maid-ser- vants, and she-asses, and camels. 17 And Jehovah \"plagued Pha- raoh and his house with great"
+    },
+    {
+      "source_pdf_page": 32,
+      "printed_page": 12,
+      "running_head_first_verse": "GEN.14.9",
+      "actual_first_verse": "GEN.14.8",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar) ; and they set the"
+    },
+    {
+      "source_pdf_page": 33,
+      "printed_page": 13,
+      "running_head_first_verse": "GEN.15.14",
+      "actual_first_verse": "GEN.15.13",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "he said unto Abram, Know of a surety that \" thy seed shall be sojournei's in a land that is not theirs, and * shall serve them ; and"
+    },
+    {
+      "source_pdf_page": 34,
+      "printed_page": 14,
+      "running_head_first_verse": "GEN.17.7",
+      "actual_first_verse": "GEN.17.6",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "nations of thee, and \"kings shall come out of thee. 7 And I will establish my covenant between me and thee and thy seed after thee"
+    },
+    {
+      "source_pdf_page": 35,
+      "printed_page": 15,
+      "running_head_first_verse": "GEN.18.9",
+      "actual_first_verse": "GEN.18.8",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "and milk, and the calf which he had dressed, and set it before them (continuation of GEN.18.8)"
+    },
+    {
+      "source_pdf_page": 36,
+      "printed_page": 16,
+      "running_head_first_verse": "GEN.19.4",
+      "actual_first_verse": "GEN.19.3",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "them a feast, and did bake unleav- ened bread, and they did eat. 4 But before they lay down, \" the men of the city, even the men of Sodom,"
+    },
+    {
+      "source_pdf_page": 39,
+      "printed_page": 17,
+      "running_head_first_verse": "GEN.19.31",
+      "actual_first_verse": "GEN.19.30",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "dwelt in a cave, he and his two daughters. 31 And the first-born said unto the younger, Our father is old, and there is not a man in"
+    },
+    {
+      "source_pdf_page": 40,
+      "printed_page": 18,
+      "running_head_first_verse": "GEN.21.3",
+      "actual_first_verse": "GEN.21.2",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "had spoken to him. 3 And Abra- ham called the name of his son that was born unto him, whom Sarah bare to him, \"Isaac. I And"
+    },
+    {
+      "source_pdf_page": 41,
+      "printed_page": 19,
+      "running_head_first_verse": "GEN.22.2",
+      "actual_first_verse": "GEN.22.1",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "\" Abraham ; and he said, Here am I. 2 And he said, Take now '' thy son, thine only son, whom thou lov- est, even Isaac, and get thee into"
+    },
+    {
+      "source_pdf_page": 42,
+      "printed_page": 20,
+      "running_head_first_verse": "GEN.23.9",
+      "actual_first_verse": "GEN.23.8",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "with them, saying. If it be your mind that I should bury my dead out of my sight, hear me, and en- treat for me to \"Ephron the son"
+    },
+    {
+      "source_pdf_page": 43,
+      "printed_page": 21,
+      "running_head_first_verse": "GEN.24.15",
+      "actual_first_verse": "GEN.24.14",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "Let down thy pitcher, I pray thee, that I may drink ; and she shall say, Drink, and I will give thy camels drink also : let the same be"
+    },
+    {
+      "source_pdf_page": 44,
+      "printed_page": 22,
+      "running_head_first_verse": "GEN.24.44",
+      "actual_first_verse": "GEN.24.43",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "the maiden that cometh forth to draw, to whom I shall say, \"Give me, I pi'ay thee, a little water from thy pitcher to drink ; 44 and she"
+    },
+    {
+      "source_pdf_page": 45,
+      "printed_page": 23,
+      "running_head_first_verse": "GEN.25.8",
+      "actual_first_verse": "GEN.25.7",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "Abraham's life which lie lived, \"a hundred thi'eescore and fifteen years. 8 And Abraham gave up the ghost, and died '' in a good old"
+    },
+    {
+      "source_pdf_page": 46,
+      "printed_page": 24,
+      "running_head_first_verse": "GEN.26.5",
+      "actual_first_verse": "GEN.26.4",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "unto thy seed all these lands ; and \"in thy seed shall all the nations of the earth ^ be blessed ; 5 be- cause that Abraham obeyed my"
+    },
+    {
+      "source_pdf_page": 47,
+      "printed_page": 25,
+      "running_head_first_verse": "GEN.26.35",
+      "actual_first_verse": "GEN.26.34",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "years old \"he took to wife Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite: 35 and ''they"
+    },
+    {
+      "source_pdf_page": 48,
+      "printed_page": 26,
+      "running_head_first_verse": "GEN.27.31",
+      "actual_first_verse": "GEN.27.30",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "ing. 31 And he also made savory food, and brought it unto his father ; and he said uuto his father, \"Let my father arise, and"
+    },
+    {
+      "source_pdf_page": 49,
+      "printed_page": 27,
+      "running_head_first_verse": "GEN.28.11",
+      "actual_first_verse": "GEN.28.10",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "\"Haran. 11 And he lighted upon ^ a '' certain place, and tarried there all night, because the sun was set ; and he took one of the stones of the"
+    },
+    {
+      "source_pdf_page": 50,
+      "printed_page": 28,
+      "running_head_first_verse": "GEN.29.18",
+      "actual_first_verse": "GEN.29.17",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "tender ; but Rachel was \" beautiful and well-favored. 18 And Jacob * loved Rachel ; and he said, \" I will serve thee seven years for Rachel thy"
+    },
+    {
+      "source_pdf_page": 51,
+      "printed_page": 29,
+      "running_head_first_verse": "GEN.30.16",
+      "actual_first_verse": "GEN.30.15",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "hast taken away my husband 1 and wouldest thou take away my son's mandrakes also 1 And Rachel said, Therefore he shall lie with thee"
+    },
+    {
+      "source_pdf_page": 52,
+      "printed_page": 30,
+      "running_head_first_verse": "GEN.31.1",
+      "actual_first_verse": "GEN.31.1",
+      "page_begins_with_prior_verse_continuation": false,
+      "top_body_text_excerpt_from_source_pdf": "O _L Laban's sons, saying, Jacob hath taken away all that was our father's ; and of that which was our father's hath he gotten all this"
+    },
+    {
+      "source_pdf_page": 53,
+      "printed_page": 31,
+      "running_head_first_verse": "GEN.31.32",
+      "actual_first_verse": "GEN.31.31",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "me by force. 32 \"With whomso- ever thou lindest thy gods, he shall not live : before our lorethren discern thou what is thine with"
+    },
+    {
+      "source_pdf_page": 54,
+      "printed_page": 32,
+      "running_head_first_verse": "GEN.32.5",
+      "actual_first_verse": "GEN.32.4",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "unto my lord Esau : Thus saith thy servant Jacob, I have sojourned with Laban, and \"stayed until now : 5 and * I have oxen, and"
+    },
+    {
+      "source_pdf_page": 55,
+      "printed_page": 33,
+      "running_head_first_verse": "GEN.33.2",
+      "actual_first_verse": "GEN.33.1",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "htm four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids. 2 And he put"
+    },
+    {
+      "source_pdf_page": 56,
+      "printed_page": 34,
+      "running_head_first_verse": "GEN.34.13",
+      "actual_first_verse": "GEN.34.12",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "uever so much dowry and gift, and £ will give according as ye shall say unto me : but give me the damsel to wife. 1 3 And the sons of .Jacob"
+    },
+    {
+      "source_pdf_page": 57,
+      "printed_page": 35,
+      "running_head_first_verse": "GEN.35.11",
+      "actual_first_verse": "GEN.35.10",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "\" God said unto him, Thy name is Jacob : thy name shall not be called any more Jacob, but Israel shall be thy name : and he called his name"
+    },
+    {
+      "source_pdf_page": 58,
+      "printed_page": 36,
+      "running_head_first_verse": "GEN.36.16",
+      "actual_first_verse": "GEN.36.15",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "chief Kenaz, 16 chief Korah, chief Gatam, chief Amalek : these are the chiefs that came of EHphaz in the land of Edom ; these are the"
+    },
+    {
+      "source_pdf_page": 61,
+      "printed_page": 37,
+      "running_head_first_verse": "GEN.37.8",
+      "actual_first_verse": "GEN.37.7",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "lo, my sheaf arose, and also stood upright ; and, behold, your sheaves came round about, and \"made obeisance to my sheaf. 8 And his"
+    },
+    {
+      "source_pdf_page": 62,
+      "printed_page": 38,
+      "running_head_first_verse": "GEN.37.36",
+      "actual_first_verse": "GEN.37.36",
+      "page_begins_with_prior_verse_continuation": false,
+      "top_body_text_excerpt_from_source_pdf": "36 And the ^ Midianites \"sold him into Egypt unto Potiphar, an officer of Pharaoh's, the '■^captain of the guard."
+    },
+    {
+      "source_pdf_page": 63,
+      "printed_page": 39,
+      "running_head_first_verse": "GEN.38.29",
+      "actual_first_verse": "GEN.38.28",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "when she travailed, that one put out a hand : and the midwife took and bound upon his hand a scarlet thread, saying, This came out first."
+    },
+    {
+      "source_pdf_page": 64,
+      "printed_page": 40,
+      "running_head_first_verse": "GEN.40.3",
+      "actual_first_verse": "GEN.40.2",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "and against the chief of the bakers. 3 And he put them in ward in the house of the \" captain of the guard, into the prison, the place where"
+    },
+    {
+      "source_pdf_page": 65,
+      "printed_page": 41,
+      "running_head_first_verse": "GEN.41.9",
+      "actual_first_verse": "GEN.41.9",
+      "page_begins_with_prior_verse_continuation": false,
+      "top_body_text_excerpt_from_source_pdf": "9 Then spake the chief butler unto Pharaoh, saying, I / do re- member \" my faults this daj^ : 10 Pharaoh was wroth with his"
+    },
+    {
+      "source_pdf_page": 66,
+      "printed_page": 42,
+      "running_head_first_verse": "GEN.41.41",
+      "actual_first_verse": "GEN.41.40",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "throne will I be greater than thou. 41 And Pharaoh said unto Joseph, See, I have set thee \" over all the land of Egypt. 42 And Pharaoh"
+    },
+    {
+      "source_pdf_page": 67,
+      "printed_page": 43,
+      "running_head_first_verse": "GEN.42.16",
+      "actual_first_verse": "GEN.42.15",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "shall be proved : by the life of Pha- raoh ye shall not go forth hence, except your youngest brother come hither. 16 Send one of you, and"
+    },
+    {
+      "source_pdf_page": 68,
+      "printed_page": 44,
+      "running_head_first_verse": "GEN.43.8",
+      "actual_first_verse": "GEN.43.7",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "concerning our kindred, saying, \" Is your father yet alive 1 have ye another brother 1 and we told him according to the tenor of these"
+    },
+    {
+      "source_pdf_page": 69,
+      "printed_page": 45,
+      "running_head_first_verse": "GEN.44.1",
+      "actual_first_verse": "GEN.43.34",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "' he took and sent messes unto tliem from before him : \" but Benjamin's mess was five times so much as any of theirs. And they drank, and"
+    },
+    {
+      "source_pdf_page": 70,
+      "printed_page": 46,
+      "running_head_first_verse": "GEN.44.32",
+      "actual_first_verse": "GEN.44.31",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "that the lad is not with us, that he will die : and thy servants will \" bring down the gray hairs of thy servant our father with sorrow to"
+    },
+    {
+      "source_pdf_page": 71,
+      "printed_page": 47,
+      "running_head_first_verse": "GEN.45.27",
+      "actual_first_verse": "GEN.45.27",
+      "page_begins_with_prior_verse_continuation": false,
+      "top_body_text_excerpt_from_source_pdf": "27 And they told him all the words of Joseph, which he had said unto them : and when he saw the \" wag- ons which Joseph had sent to carry"
+    },
+    {
+      "source_pdf_page": 72,
+      "printed_page": 48,
+      "running_head_first_verse": "GEN.46.30",
+      "actual_first_verse": "GEN.46.29",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "and fell on his neck, and \" wept on his neck a good while. 30 And Israel said unto Joseph, Now let me die, since I have seen thy face,"
+    },
+    {
+      "source_pdf_page": 73,
+      "printed_page": 49,
+      "running_head_first_verse": "GEN.47.20",
+      "actual_first_verse": "GEN.47.19",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "seed, that we may live, and not die, and that the land be not desolate. 20 So Joseph bought all the land"
+    },
+    {
+      "source_pdf_page": 74,
+      "printed_page": 50,
+      "running_head_first_verse": "GEN.48.15",
+      "actual_first_verse": "GEN.48.14",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "im's head, who was the younger, and his left hand upon Manasseh's head, ^ guiding his hands wittingly ; \"for Manasseh was the first-born."
+    },
+    {
+      "source_pdf_page": 75,
+      "printed_page": 51,
+      "running_head_first_verse": "GEN.49.15",
+      "actual_first_verse": "GEN.49.15",
+      "page_begins_with_prior_verse_continuation": false,
+      "top_body_text_excerpt_from_source_pdf": "15 And he saw ^a resting-place that it was good, And the land that it was pleas- ant ;"
+    },
+    {
+      "source_pdf_page": 76,
+      "printed_page": 52,
+      "running_head_first_verse": "GEN.50.7",
+      "actual_first_verse": "GEN.50.6",
+      "page_begins_with_prior_verse_continuation": true,
+      "top_body_text_excerpt_from_source_pdf": "as he made thee swear. 7 And Joseph went up to bui-y his father ; and with him went up all the ser- vants of Pharaoh, the elders of his"
+    }
+  ]
+}

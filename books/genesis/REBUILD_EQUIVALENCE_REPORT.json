@@ -1,0 +1,15 @@
+{
+  "status": "REBUILD_EQUIVALENCE_PASS",
+  "chapters": "50/50 byte-identical to the earlier Genesis release package",
+  "verse_page_index": "60/60 page records identical",
+  "facsimile_pages": "Three rebuilt PDF volumes have identical document bytes except generated PDF /ID metadata",
+  "facsimile_release_hashes": "Original packaged PDF file hashes unchanged; regenerated copies intentionally not packaged",
+  "source_text_and_markup": "Original 50 Genesis chapter files unchanged from prior release",
+  "source_scope": "Structural repeatability and PDF content equivalence, not an independent word-by-word printed-text audit",
+  "pdf_volumes_checked": [
+    "asv1901-genesis-pages-017-040.pdf",
+    "asv1901-genesis-pages-041-064.pdf",
+    "asv1901-genesis-pages-065-076.pdf"
+  ],
+  "json_schema_validation": "All 50 chapters and page index PASS"
+}

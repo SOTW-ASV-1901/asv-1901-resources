@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GEN",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "GEN.40.1",
+      "edition_verse_id": "ASV1901:GEN.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass after these things, that the butler of the king of Egypt and his baker offended their lord the king of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.40.2",
+      "edition_verse_id": "ASV1901:GEN.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Pharaoh was wroth against his two officers, against the chief of the butlers, and against the chief of the bakers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.3",
+      "edition_verse_id": "ASV1901:GEN.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.4",
+      "edition_verse_id": "ASV1901:GEN.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the captain of the guard charged Joseph with them, and he ministered unto them: and they continued a season in ward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.5",
+      "edition_verse_id": "ASV1901:GEN.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they dreamed a dream both of them, each man his dream, in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, who were bound in the prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.6",
+      "edition_verse_id": "ASV1901:GEN.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Joseph came in unto them in the morning, and saw them, and, behold, they were sad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.7",
+      "edition_verse_id": "ASV1901:GEN.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he asked Pharaoh’s officers that were with him in ward in his master’s house, saying, Wherefore look ye so sad to-day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.8",
+      "edition_verse_id": "ASV1901:GEN.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they said unto him, We have dreamed a dream, and there is none that can interpret it. And Joseph said unto them, Do not interpretations belong to God? tell it me, I pray you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.9",
+      "edition_verse_id": "ASV1901:GEN.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.40.10",
+      "edition_verse_id": "ASV1901:GEN.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and in the vine were three branches: and it was as though it budded, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " its blossoms shot forth; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the clusters thereof brought forth ripe grapes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.11",
+      "edition_verse_id": "ASV1901:GEN.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and Pharaoh’s cup was in my hand; and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.12",
+      "edition_verse_id": "ASV1901:GEN.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Joseph said unto him, This is the interpretation of it: the three branches are three days;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.13",
+      "edition_verse_id": "ASV1901:GEN.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "within yet three days shall Pharaoh lift up thy head, and restore thee unto thine office: and thou shalt give Pharaoh’s cup into his hand, after the former manner when thou wast his butler.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.14",
+      "edition_verse_id": "ASV1901:GEN.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But have me in thy remembrance when it shall be well with thee, and show kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.15",
+      "edition_verse_id": "ASV1901:GEN.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "for indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.16",
+      "edition_verse_id": "ASV1901:GEN.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, three baskets of white bread were on my head:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.40.17",
+      "edition_verse_id": "ASV1901:GEN.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and in the uppermost basket there was of all manner of baked food for Pharaoh; and the birds did eat them out of the basket upon my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.18",
+      "edition_verse_id": "ASV1901:GEN.40.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Joseph answered and said, This is the interpretation thereof: the three baskets are three days;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.19",
+      "edition_verse_id": "ASV1901:GEN.40.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "within yet three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.20",
+      "edition_verse_id": "ASV1901:GEN.40.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And it came to pass the third day, which was Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and the head of the chief baker among his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.21",
+      "edition_verse_id": "ASV1901:GEN.40.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.22",
+      "edition_verse_id": "ASV1901:GEN.40.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "but he hanged the chief baker: as Joseph had interpreted to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.40.23",
+      "edition_verse_id": "ASV1901:GEN.40.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Yet did not the chief butler remember Joseph, but forgat him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GEN",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "GEN.27.1",
+      "edition_verse_id": "ASV1901:GEN.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder son, and said unto him, My son: and he said unto him, Here am I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.2",
+      "edition_verse_id": "ASV1901:GEN.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said, Behold now, I am old, I know not the day of my death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.3",
+      "edition_verse_id": "ASV1901:GEN.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me venison;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.4",
+      "edition_verse_id": "ASV1901:GEN.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and make me savory food, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.5",
+      "edition_verse_id": "ASV1901:GEN.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.6",
+      "edition_verse_id": "ASV1901:GEN.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.7",
+      "edition_verse_id": "ASV1901:GEN.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Bring me venison, and make me savory food, that I may eat, and bless thee before Jehovah before my death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.8",
+      "edition_verse_id": "ASV1901:GEN.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now therefore, my son, obey my voice according to that which I command thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.9",
+      "edition_verse_id": "ASV1901:GEN.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savory food for thy father, such as he loveth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.10",
+      "edition_verse_id": "ASV1901:GEN.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and thou shalt bring it to thy father, that he may eat, so that he may bless thee before his death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.11",
+      "edition_verse_id": "ASV1901:GEN.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.12",
+      "edition_verse_id": "ASV1901:GEN.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.13",
+      "edition_verse_id": "ASV1901:GEN.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And his mother said unto him, Upon me be thy curse, my son; only obey my voice, and go fetch me them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.14",
+      "edition_verse_id": "ASV1901:GEN.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he went, and fetched, and brought them to his mother: and his mother made savory food, such as his father loved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.15",
+      "edition_verse_id": "ASV1901:GEN.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Rebekah took the goodly garments of Esau her elder son, which were with her in the house, and put them upon Jacob her younger son;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.16",
+      "edition_verse_id": "ASV1901:GEN.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.17",
+      "edition_verse_id": "ASV1901:GEN.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and she gave the savory food and the bread, which she had prepared, into the hand of her son Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.18",
+      "edition_verse_id": "ASV1901:GEN.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.19",
+      "edition_verse_id": "ASV1901:GEN.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Jacob said unto his father, I am Esau thy first-born; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.20",
+      "edition_verse_id": "ASV1901:GEN.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because Jehovah thy God sent me good speed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.21",
+      "edition_verse_id": "ASV1901:GEN.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.22",
+      "edition_verse_id": "ASV1901:GEN.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.23",
+      "edition_verse_id": "ASV1901:GEN.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.24",
+      "edition_verse_id": "ASV1901:GEN.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he said, Art thou my very son Esau? And he said, I am.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.25",
+      "edition_verse_id": "ASV1901:GEN.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.26",
+      "edition_verse_id": "ASV1901:GEN.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And his father Isaac said unto him, Come near now, and kiss me, my son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.27",
+      "edition_verse_id": "ASV1901:GEN.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said,\nSee, the smell of my son\nIs as the smell of a field which Jehovah hath blessed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.28",
+      "edition_verse_id": "ASV1901:GEN.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And God give thee of the dew of heaven,\nAnd of the fatness of the earth,\nAnd plenty of grain and new wine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.29",
+      "edition_verse_id": "ASV1901:GEN.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Let peoples serve thee,\nAnd nations bow down to thee:\nBe lord over thy brethren,\nAnd let thy mother’s sons bow down to thee:\nCursed be every one that curseth thee,\nAnd blessed be every one that blesseth thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.30",
+      "edition_verse_id": "ASV1901:GEN.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.31",
+      "edition_verse_id": "ASV1901:GEN.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he also made savory food, and brought it unto his father; and he said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.32",
+      "edition_verse_id": "ASV1901:GEN.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy first-born, Esau.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.33",
+      "edition_verse_id": "ASV1901:GEN.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And Isaac trembled very exceedingly, and said, Who then is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall be blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.34",
+      "edition_verse_id": "ASV1901:GEN.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When Esau heard the words of his father, he cried with an exceeding great and bitter cry, and said unto his father, Bless me, even me also, O my father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.35",
+      "edition_verse_id": "ASV1901:GEN.27.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And he said, Thy brother came with guile, and hath taken away thy blessing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.36",
+      "edition_verse_id": "ASV1901:GEN.27.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.37",
+      "edition_verse_id": "ASV1901:GEN.27.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with grain and new wine have I sustained him: and what then shall I do for thee, my son?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.38",
+      "edition_verse_id": "ASV1901:GEN.27.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.39",
+      "edition_verse_id": "ASV1901:GEN.27.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And Isaac his father answered and said unto him,\nBehold, of the fatness of the earth shall be thy dwelling,\nAnd of the dew of heaven from above;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.40",
+      "edition_verse_id": "ASV1901:GEN.27.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And by thy sword shalt thou live, and thou shalt serve thy brother;\nAnd it shall come to pass, when thou shalt break loose,\nThat thou shalt shake his yoke from off thy neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.41",
+      "edition_verse_id": "ASV1901:GEN.27.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.42",
+      "edition_verse_id": "ASV1901:GEN.27.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And the words of Esau her elder son were told to Rebekah; and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, ",
+          "kind": "text"
+        },
+        {
+          "text": "purposing",
+          "kind": "supplied"
+        },
+        {
+          "text": " to kill thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.43",
+      "edition_verse_id": "ASV1901:GEN.27.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.44",
+      "edition_verse_id": "ASV1901:GEN.27.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "and tarry with him a few days, until thy brother’s fury turn away;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.45",
+      "edition_verse_id": "ASV1901:GEN.27.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be bereaved of you both in one day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.46",
+      "edition_verse_id": "ASV1901:GEN.27.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these, of the daughters of the land, what good shall my life do me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

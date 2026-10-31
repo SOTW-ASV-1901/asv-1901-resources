@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GEN",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "GEN.26.1",
+      "edition_verse_id": "ASV1901:GEN.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And there was a famine in the land, besides the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines, unto Gerar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.2",
+      "edition_verse_id": "ASV1901:GEN.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Jehovah appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.3",
+      "edition_verse_id": "ASV1901:GEN.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these lands, and I will establish the oath which I sware unto Abraham thy father;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.4",
+      "edition_verse_id": "ASV1901:GEN.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and I will multiply thy seed as the stars of heaven, and will give unto thy seed all these lands; and in thy seed shall all the nations of the earth be blessed;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.5",
+      "edition_verse_id": "ASV1901:GEN.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.6",
+      "edition_verse_id": "ASV1901:GEN.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Isaac dwelt in Gerar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.7",
+      "edition_verse_id": "ASV1901:GEN.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, My wife; lest, ",
+          "kind": "text"
+        },
+        {
+          "text": "said he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the men of the place should kill me for Rebekah; because she was fair to look upon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.8",
+      "edition_verse_id": "ASV1901:GEN.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.9",
+      "edition_verse_id": "ASV1901:GEN.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die because of her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.10",
+      "edition_verse_id": "ASV1901:GEN.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Abimelech said, What is this thou hast done unto us? one of the people might easily have lain with thy wife, and thou wouldest have brought guiltiness upon us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.11",
+      "edition_verse_id": "ASV1901:GEN.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Abimelech charged all the people, saying, He that toucheth this man or his wife shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.12",
+      "edition_verse_id": "ASV1901:GEN.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Isaac sowed in that land, and found in the same year a hundredfold: and Jehovah blessed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.13",
+      "edition_verse_id": "ASV1901:GEN.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the man waxed great, and grew more and more until he became very great:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.14",
+      "edition_verse_id": "ASV1901:GEN.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and he had possessions of flocks, and possessions of herds, and a great household: and the Philistines envied him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.15",
+      "edition_verse_id": "ASV1901:GEN.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped, and filled with earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.16",
+      "edition_verse_id": "ASV1901:GEN.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.17",
+      "edition_verse_id": "ASV1901:GEN.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Isaac departed thence, and encamped in the valley of Gerar, and dwelt there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.18",
+      "edition_verse_id": "ASV1901:GEN.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.19",
+      "edition_verse_id": "ASV1901:GEN.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Isaac’s servants digged in the valley, and found there a well of springing water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.20",
+      "edition_verse_id": "ASV1901:GEN.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the herdsmen of Gerar strove with Isaac’s herdsmen, saying, The water is ours: and he called the name of the well Esek, because they contended with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.21",
+      "edition_verse_id": "ASV1901:GEN.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they digged another well, and they strove for that also: and he called the name of it Sitnah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.22",
+      "edition_verse_id": "ASV1901:GEN.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now Jehovah hath made room for us, and we shall be fruitful in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.23",
+      "edition_verse_id": "ASV1901:GEN.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he went up from thence to Beer-sheba.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.24",
+      "edition_verse_id": "ASV1901:GEN.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Jehovah appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.25",
+      "edition_verse_id": "ASV1901:GEN.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he builded an altar there, and called upon the name of Jehovah, and pitched his tent there: and there Isaac’s servants digged a well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.26",
+      "edition_verse_id": "ASV1901:GEN.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then Abimelech went to him from Gerar, and Ahuzzath his friend, and Phicol the captain of his host.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.27",
+      "edition_verse_id": "ASV1901:GEN.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Isaac said unto them, Wherefore are ye come unto me, seeing ye hate me, and have sent me away from you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.28",
+      "edition_verse_id": "ASV1901:GEN.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they said, We saw plainly that Jehovah was with thee: and we said, Let there now be an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.29",
+      "edition_verse_id": "ASV1901:GEN.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "that thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.30",
+      "edition_verse_id": "ASV1901:GEN.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And he made them a feast, and they did eat and drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.31",
+      "edition_verse_id": "ASV1901:GEN.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.32",
+      "edition_verse_id": "ASV1901:GEN.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And it came to pass the same day, that Isaac’s servants came, and told him concerning the well which they had digged, and said unto him, We have found water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.33",
+      "edition_verse_id": "ASV1901:GEN.26.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he called it Shibah: therefore the name of the city is Beer-sheba unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.34",
+      "edition_verse_id": "ASV1901:GEN.26.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And when Esau was forty years old he took to wife Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.35",
+      "edition_verse_id": "ASV1901:GEN.26.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "and they were a grief of mind unto Isaac and to Rebekah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

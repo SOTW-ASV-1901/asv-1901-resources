@@ -1,0 +1,64 @@
+{
+  "status": "PASSED_WITH_DISCLOSED_SOURCE_CHECK_SCOPE",
+  "edition": "ASV1901",
+  "book": "GEN",
+  "chapters_present": 50,
+  "verses_present": 1533,
+  "scripture_page_count": 52,
+  "map_page_count": 4,
+  "interleaf_page_count": 4,
+  "original_pdf_pages_extracted": 60,
+  "pdf_volumes": 3,
+  "italics_spans_primary": 60,
+  "italics_spans_second_witness": 60,
+  "italics_span_disagreements": 0,
+  "substantive_witness_differences": 6,
+  "substantive_witness_differences_checked_against_original_print": 6,
+  "verse_page_range_coverage": "1533/1533",
+  "pdf_pixel_equivalence_sample_count": 10,
+  "pdf_pixel_equivalence_samples": [
+    17,
+    18,
+    19,
+    27,
+    44,
+    49,
+    61,
+    65,
+    75,
+    76
+  ],
+  "chapter_data_schema": "PASS",
+  "page_index_schema": "PASS",
+  "local_http_resource_checks": "PASS",
+  "reader_javascript_syntax": "PASS",
+  "automated_chromium_browser_check": "UNAVAILABLE_DUE_TO_BROWSER_ADMINISTRATOR_BLOCK",
+  "scan_comparison_method": "Chapter-level printed page and verse boundary inspection plus manual visual checks of all six substantive transcription differences; not every printed character checked",
+  "third_sword_archive": "RECEIVED_NOT_USED_FOR_TEXT_COMPARISON",
+  "strongs_word_alignment": "NOT_VERIFIED_NOT_RELEASED_AS_CANONICAL",
+  "verses_on_two_source_pages": 45,
+  "page_boundaries_rechecked": 52,
+  "map_interleaved_two_page_verses": {
+    "GEN.10.8": [
+      26,
+      29
+    ],
+    "GEN.19.30": [
+      36,
+      39
+    ],
+    "GEN.37.7": [
+      58,
+      61
+    ]
+  },
+  "page_start_method": "Reconciled first actual printed main-body verse with running head on every Scripture page; historic maps may separate continuation pages",
+  "repair_scope": "Historical page index and Compare navigation only; 50 Scripture chapter JSON and three facsimile PDFs unchanged byte-for-byte",
+  "rebuild_equivalence": "PASS_CHAPTERS_AND_PAGE_INDEX_PDF_IDS_DIFFER_ONLY",
+  "page_boundary_audit": "PASS_52_PAGES_AND_45_TWO_PAGE_VERSES",
+  "source_pdf_visual_spot_checks_for_map_interleaves": [
+    "GEN.10.8",
+    "GEN.19.30",
+    "GEN.37.7"
+  ]
+}
