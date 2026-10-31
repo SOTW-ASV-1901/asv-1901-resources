@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JDG",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "JDG.15.1",
+      "edition_verse_id": "ASV1901:JDG.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But it came to pass after a while, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.15.2",
+      "edition_verse_id": "ASV1901:JDG.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: is not her younger sister fairer than she? take her, I pray thee, instead of her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.3",
+      "edition_verse_id": "ASV1901:JDG.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Samson said unto them, This time shall I be blameless in regard of the Philistines, when I do them a mischief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.4",
+      "edition_verse_id": "ASV1901:JDG.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Samson went and caught three hundred foxes, and took firebrands, and turned tail to tail, and put a firebrand in the midst between every two tails.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.5",
+      "edition_verse_id": "ASV1901:JDG.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when he had set the brands on fire, he let them go into the standing grain of the Philistines, and burnt up both the shocks and the standing grain, and also the oliveyards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.6",
+      "edition_verse_id": "ASV1901:JDG.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the Philistines said, Who hath done this? And they said, Samson, the son-in-law of the Timnite, because he hath taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.7",
+      "edition_verse_id": "ASV1901:JDG.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Samson said unto them, If ye do after this manner, surely I will be avenged of you, and after that I will cease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.8",
+      "edition_verse_id": "ASV1901:JDG.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the cleft of the rock of Etam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.9",
+      "edition_verse_id": "ASV1901:JDG.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the Philistines went up, and encamped in Judah, and spread themselves in Lehi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.15.10",
+      "edition_verse_id": "ASV1901:JDG.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the men of Judah said, Why are ye come up against us? And they said, To bind Samson are we come up, to do to him as he hath done to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.11",
+      "edition_verse_id": "ASV1901:JDG.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then three thousand men of Judah went down to the cleft of the rock of Etam, and said to Samson, Knowest thou not that the Philistines are rulers over us? what then is this that thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.12",
+      "edition_verse_id": "ASV1901:JDG.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.13",
+      "edition_verse_id": "ASV1901:JDG.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new ropes, and brought him up from the rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.14",
+      "edition_verse_id": "ASV1901:JDG.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When he came unto Lehi, the Philistines shouted as they met him: and the Spirit of Jehovah came mightily upon him, and the ropes that were upon his arms became as flax that was burnt with fire, and his bands dropped from off his hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.15.15",
+      "edition_verse_id": "ASV1901:JDG.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he found a fresh jawbone of an ass, and put forth his hand, and took it, and smote a thousand men therewith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.16",
+      "edition_verse_id": "ASV1901:JDG.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Samson said,\nWith the jawbone of an ass, heaps upon heaps,\nWith the jawbone of an ass have I smitten a thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.17",
+      "edition_verse_id": "ASV1901:JDG.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand; and that place was called Ramath-lehi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.15.18",
+      "edition_verse_id": "ASV1901:JDG.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he was sore athirst, and called on Jehovah, and said, Thou hast given this great deliverance by the hand of thy servant; and now shall I die for thirst, and fall into the hand of the uncircumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.19",
+      "edition_verse_id": "ASV1901:JDG.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But God clave the hollow place that is in Lehi, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore the name thereof was called En-hakkore, which is in Lehi, unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.15.20",
+      "edition_verse_id": "ASV1901:JDG.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he judged Israel in the days of the Philistines twenty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

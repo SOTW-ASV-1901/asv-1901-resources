@@ -1,0 +1,276 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 267,
+      "type": "scripture",
+      "printed_page": 239,
+      "running_head_first_verse": "JDG.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JDG.1.1",
+      "last_verse": "JDG.1.22",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 268,
+      "type": "scripture",
+      "printed_page": 240,
+      "running_head_first_verse": "JDG.1.23",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.1.22",
+      "last_verse": "JDG.2.12",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 269,
+      "type": "scripture",
+      "printed_page": 241,
+      "running_head_first_verse": "JDG.2.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.2.12",
+      "last_verse": "JDG.3.13",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 270,
+      "type": "scripture",
+      "printed_page": 242,
+      "running_head_first_verse": "JDG.3.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.3.13",
+      "last_verse": "JDG.4.9",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 271,
+      "type": "scripture",
+      "printed_page": 243,
+      "running_head_first_verse": "JDG.4.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.4.9",
+      "last_verse": "JDG.5.8",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 272,
+      "type": "scripture",
+      "printed_page": 244,
+      "running_head_first_verse": "JDG.5.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.5.8",
+      "last_verse": "JDG.5.27",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 273,
+      "type": "scripture",
+      "printed_page": 245,
+      "running_head_first_verse": "JDG.5.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.5.27",
+      "last_verse": "JDG.6.19",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 274,
+      "type": "scripture",
+      "printed_page": 246,
+      "running_head_first_verse": "JDG.6.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.6.19",
+      "last_verse": "JDG.7.1",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 275,
+      "type": "scripture",
+      "printed_page": 247,
+      "running_head_first_verse": "JDG.7.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.7.1",
+      "last_verse": "JDG.7.21",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 276,
+      "type": "scripture",
+      "printed_page": 248,
+      "running_head_first_verse": "JDG.7.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.7.21",
+      "last_verse": "JDG.8.20",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 277,
+      "type": "scripture",
+      "printed_page": 249,
+      "running_head_first_verse": "JDG.8.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.8.20",
+      "last_verse": "JDG.9.11",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 278,
+      "type": "scripture",
+      "printed_page": 250,
+      "running_head_first_verse": "JDG.9.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.9.11",
+      "last_verse": "JDG.9.37",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 279,
+      "type": "scripture",
+      "printed_page": 251,
+      "running_head_first_verse": "JDG.9.38",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.9.37",
+      "last_verse": "JDG.10.6",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 280,
+      "type": "scripture",
+      "printed_page": 252,
+      "running_head_first_verse": "JDG.10.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.10.6",
+      "last_verse": "JDG.11.15",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 281,
+      "type": "scripture",
+      "printed_page": 253,
+      "running_head_first_verse": "JDG.11.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.11.15",
+      "last_verse": "JDG.11.37",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 282,
+      "type": "scripture",
+      "printed_page": 254,
+      "running_head_first_verse": "JDG.11.38",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.11.37",
+      "last_verse": "JDG.13.8",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 283,
+      "type": "scripture",
+      "printed_page": 255,
+      "running_head_first_verse": "JDG.13.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.13.8",
+      "last_verse": "JDG.14.9",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 284,
+      "type": "scripture",
+      "printed_page": 256,
+      "running_head_first_verse": "JDG.14.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.14.9",
+      "last_verse": "JDG.15.11",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 285,
+      "type": "scripture",
+      "printed_page": 257,
+      "running_head_first_verse": "JDG.15.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.15.11",
+      "last_verse": "JDG.16.12",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 286,
+      "type": "scripture",
+      "printed_page": 258,
+      "running_head_first_verse": "JDG.16.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.16.12",
+      "last_verse": "JDG.17.2",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 287,
+      "type": "scripture",
+      "printed_page": 259,
+      "running_head_first_verse": "JDG.17.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.17.2",
+      "last_verse": "JDG.18.13",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 288,
+      "type": "scripture",
+      "printed_page": 260,
+      "running_head_first_verse": "JDG.18.14",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JDG.18.14",
+      "last_verse": "JDG.19.5",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 289,
+      "type": "scripture",
+      "printed_page": 261,
+      "running_head_first_verse": "JDG.19.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.19.5",
+      "last_verse": "JDG.19.27",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 290,
+      "type": "scripture",
+      "printed_page": 262,
+      "running_head_first_verse": "JDG.19.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.19.27",
+      "last_verse": "JDG.20.22",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 291,
+      "type": "scripture",
+      "printed_page": 263,
+      "running_head_first_verse": "JDG.20.23",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.20.22",
+      "last_verse": "JDG.20.45",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 292,
+      "type": "scripture",
+      "printed_page": 264,
+      "running_head_first_verse": "JDG.20.46",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.20.45",
+      "last_verse": "JDG.21.22",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    },
+    {
+      "source_pdf_page": 293,
+      "type": "scripture",
+      "printed_page": 265,
+      "running_head_first_verse": "JDG.21.23",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JDG.21.22",
+      "last_verse": "JDG.21.25",
+      "evidence_method": "Original 1901 physical page opening visually inspected; running head recorded separately; first actual verse corrected for continuation if present."
+    }
+  ]
+}

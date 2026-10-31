@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JDG",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "JDG.8.1",
+      "edition_verse_id": "ASV1901:JDG.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with Midian? And they did chide with him sharply.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.2",
+      "edition_verse_id": "ASV1901:JDG.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said unto them, What have I now done in comparison with you? Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.3",
+      "edition_verse_id": "ASV1901:JDG.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "God hath delivered into your hand the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison with you? Then their anger was abated toward him, when he had said that.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.4",
+      "edition_verse_id": "ASV1901:JDG.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Gideon came to the Jordan, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " passed over, he, and the three hundred men that were with him, faint, yet pursuing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.5",
+      "edition_verse_id": "ASV1901:JDG.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they are faint, and I am pursuing after Zebah and Zalmunna, the kings of Midian.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.6",
+      "edition_verse_id": "ASV1901:JDG.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in thy hand, that we should give bread unto thine army?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.7",
+      "edition_verse_id": "ASV1901:JDG.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Gideon said, Therefore when Jehovah hath delivered Zebah and Zalmunna into my hand, then I will tear your flesh with the thorns of the wilderness and with briers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.8",
+      "edition_verse_id": "ASV1901:JDG.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he went up thence to Penuel, and spake unto them in like manner; and the men of Penuel answered him as the men of Succoth had answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.9",
+      "edition_verse_id": "ASV1901:JDG.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he spake also unto the men of Penuel, saying, When I come again in peace, I will break down this tower.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.10",
+      "edition_verse_id": "ASV1901:JDG.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now Zebah and Zalmunna were in Karkor, and their hosts with them, about fifteen thousand men, all that were left of all the host of the children of the east; for there fell a hundred and twenty thousand men that drew sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.11",
+      "edition_verse_id": "ASV1901:JDG.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host; for the host was secure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.12",
+      "edition_verse_id": "ASV1901:JDG.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Zebah and Zalmunna fled; and he pursued after them; and he took the two kings of Midian, Zebah and Zalmunna, and discomfited all the host.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.13",
+      "edition_verse_id": "ASV1901:JDG.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Gideon the son of Joash returned from the battle from the ascent of Heres.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.14",
+      "edition_verse_id": "ASV1901:JDG.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he caught a young man of the men of Succoth, and inquired of him: and he described for him the princes of Succoth, and the elders thereof, seventy and seven men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.15",
+      "edition_verse_id": "ASV1901:JDG.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, concerning whom ye did taunt me, saying, Are the hands of Zebah and Zalmunna now in thy hand, that we should give bread unto thy men that are weary?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.16",
+      "edition_verse_id": "ASV1901:JDG.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.17",
+      "edition_verse_id": "ASV1901:JDG.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he brake down the tower of Penuel, and slew the men of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.18",
+      "edition_verse_id": "ASV1901:JDG.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the children of a king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.19",
+      "edition_verse_id": "ASV1901:JDG.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he said, They were my brethren, the sons of my mother: as Jehovah liveth, if ye had saved them alive, I would not slay you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.20",
+      "edition_verse_id": "ASV1901:JDG.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he said unto Jether his first-born, Up, and slay them. But the youth drew not his sword; for he feared, because he was yet a youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.21",
+      "edition_verse_id": "ASV1901:JDG.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Zebah and Zalmunna said, Rise thou, and fall upon us; for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took the crescents that were on their camels’ necks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.22",
+      "edition_verse_id": "ASV1901:JDG.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son’s son also; for thou hast saved us out of the hand of Midian.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.23",
+      "edition_verse_id": "ASV1901:JDG.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Gideon said unto them, I will not rule over you, neither shall my son rule over you: Jehovah shall rule over you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.24",
+      "edition_verse_id": "ASV1901:JDG.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Gideon said unto them, I would make a request of you, that ye would give me every man the ear-rings of his spoil. (For they had golden ear-rings, because they were Ishmaelites.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.25",
+      "edition_verse_id": "ASV1901:JDG.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they answered, We will willingly give them. And they spread a garment, and did cast therein every man the ear-rings of his spoil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.26",
+      "edition_verse_id": "ASV1901:JDG.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the weight of the golden ear-rings that he requested was a thousand and seven hundred ",
+          "kind": "text"
+        },
+        {
+          "text": "shekels",
+          "kind": "supplied"
+        },
+        {
+          "text": " of gold; besides the crescents, and the pendants, and the purple raiment that was on the kings of Midian, and besides the chains that were about their camels’ necks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.27",
+      "edition_verse_id": "ASV1901:JDG.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Gideon made an ephod thereof, and put it in his city, even in Ophrah: and all Israel played the harlot after it there; and it became a snare unto Gideon, and to his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.28",
+      "edition_verse_id": "ASV1901:JDG.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So Midian was subdued before the children of Israel, and they lifted up their heads no more. And the land had rest forty years in the days of Gideon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.29",
+      "edition_verse_id": "ASV1901:JDG.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Jerubbaal the son of Joash went and dwelt in his own house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.30",
+      "edition_verse_id": "ASV1901:JDG.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Gideon had threescore and ten sons of his body begotten; for he had many wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.31",
+      "edition_verse_id": "ASV1901:JDG.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And his concubine that was in Shechem, she also bare him a son, and he called his name Abimelech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.32",
+      "edition_verse_id": "ASV1901:JDG.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.33",
+      "edition_verse_id": "ASV1901:JDG.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and played the harlot after the Baalim, and made Baal-berith their god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.34",
+      "edition_verse_id": "ASV1901:JDG.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the children of Israel remembered not Jehovah their God, who had delivered them out of the hand of all their enemies on every side;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.35",
+      "edition_verse_id": "ASV1901:JDG.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "neither showed they kindness to the house of Jerubbaal, ",
+          "kind": "text"
+        },
+        {
+          "text": "who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Gideon, according to all the goodness which he had showed unto Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

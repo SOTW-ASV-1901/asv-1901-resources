@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JDG",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JDG.2.1",
+      "edition_verse_id": "ASV1901:JDG.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the angel of Jehovah came up from Gilgal to Bochim. And he said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.2",
+      "edition_verse_id": "ASV1901:JDG.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and ye shall make no covenant with the inhabitants of this land; ye shall break down their altars. But ye have not hearkened unto my voice: why have ye done this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.3",
+      "edition_verse_id": "ASV1901:JDG.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Wherefore I also said, I will not drive them out from before you; but they shall be ",
+          "kind": "text"
+        },
+        {
+          "text": "as thorns",
+          "kind": "supplied"
+        },
+        {
+          "text": " in your sides, and their gods shall be a snare unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.4",
+      "edition_verse_id": "ASV1901:JDG.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And it came to pass, when the angel of Jehovah spake these words unto all the children of Israel, that the people lifted up their voice, and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.5",
+      "edition_verse_id": "ASV1901:JDG.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they called the name of that place Bochim: and they sacrificed there unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.6",
+      "edition_verse_id": "ASV1901:JDG.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now when Joshua had sent the people away, the children of Israel went every man unto his inheritance to possess the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.7",
+      "edition_verse_id": "ASV1901:JDG.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the people served Jehovah all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great work of Jehovah that he had wrought for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.8",
+      "edition_verse_id": "ASV1901:JDG.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Joshua the son of Nun, the servant of Jehovah, died, being a hundred and ten years old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.9",
+      "edition_verse_id": "ASV1901:JDG.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they buried him in the border of his inheritance in Timnath-heres, in the hill-country of Ephraim, on the north of the mountain of Gaash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.10",
+      "edition_verse_id": "ASV1901:JDG.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And also all that generation were gathered unto their fathers: and there arose another generation after them, that knew not Jehovah, nor yet the work which he had wrought for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.11",
+      "edition_verse_id": "ASV1901:JDG.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the children of Israel did that which was evil in the sight of Jehovah, and served the Baalim;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.12",
+      "edition_verse_id": "ASV1901:JDG.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and they forsook Jehovah, the God of their fathers, who brought them out of the land of Egypt, and followed other gods, of the gods of the peoples that were round about them, and bowed themselves down unto them: and they provoked Jehovah to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.13",
+      "edition_verse_id": "ASV1901:JDG.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they forsook Jehovah, and served Baal and the Ashtaroth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.14",
+      "edition_verse_id": "ASV1901:JDG.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the anger of Jehovah was kindled against Israel, and he delivered them into the hands of spoilers that despoiled them; and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.15",
+      "edition_verse_id": "ASV1901:JDG.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Whithersoever they went out, the hand of Jehovah was against them for evil, as Jehovah had spoken, and as Jehovah had sworn unto them: and they were sore distressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.16",
+      "edition_verse_id": "ASV1901:JDG.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Jehovah raised up judges, who saved them out of the hand of those that despoiled them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.17",
+      "edition_verse_id": "ASV1901:JDG.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And yet they hearkened not unto their judges; for they played the harlot after other gods, and bowed themselves down unto them: they turned aside quickly out of the way wherein their fathers walked, obeying the commandments of Jehovah; ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " they did not so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.18",
+      "edition_verse_id": "ASV1901:JDG.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And when Jehovah raised them up judges, then Jehovah was with the judge, and saved them out of the hand of their enemies all the days of the judge: for it repented Jehovah because of their groaning by reason of them that oppressed them and vexed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.19",
+      "edition_verse_id": "ASV1901:JDG.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But it came to pass, when the judge was dead, that they turned back, and dealt more corruptly than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their doings, nor from their stubborn way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.20",
+      "edition_verse_id": "ASV1901:JDG.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the anger of Jehovah was kindled against Israel; and he said, Because this nation have transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.21",
+      "edition_verse_id": "ASV1901:JDG.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I also will not henceforth drive out any from before them of the nations that Joshua left when he died;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.22",
+      "edition_verse_id": "ASV1901:JDG.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "that by them I may prove Israel, whether they will keep the way of Jehovah to walk therein, as their fathers did keep it, or not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.23",
+      "edition_verse_id": "ASV1901:JDG.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So Jehovah left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

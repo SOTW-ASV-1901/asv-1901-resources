@@ -1,0 +1,648 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JDG",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "JDG.20.1",
+      "edition_verse_id": "ASV1901:JDG.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beer-sheba, with the land of Gilead, unto Jehovah at Mizpah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.2",
+      "edition_verse_id": "ASV1901:JDG.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the chiefs of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen that drew sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.3",
+      "edition_verse_id": "ASV1901:JDG.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "(Now the children of Benjamin heard that the children of Israel were gone up to Mizpah.) And the children of Israel said, Tell us, how was this wickedness brought to pass?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.4",
+      "edition_verse_id": "ASV1901:JDG.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the Levite, the husband of the woman that was murdered, answered and said, I came into Gibeah that belongeth to Benjamin, I and my concubine, to lodge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.5",
+      "edition_verse_id": "ASV1901:JDG.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the men of Gibeah rose against me, and beset the house round about me by night; me they thought to have slain, and my concubine they forced, and she is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.6",
+      "edition_verse_id": "ASV1901:JDG.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I took my concubine, and cut her in pieces, and sent her throughout all the country of the inheritance of Israel; for they have committed lewdness and folly in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.7",
+      "edition_verse_id": "ASV1901:JDG.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, ye children of Israel, all of you, give here your advice and counsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.8",
+      "edition_verse_id": "ASV1901:JDG.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And all the people arose as one man, saying, We will not any of us go to his tent, neither will we any of us turn unto his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.9",
+      "edition_verse_id": "ASV1901:JDG.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But now this is the thing which we will do to Gibeah: ",
+          "kind": "text"
+        },
+        {
+          "text": "we will go up",
+          "kind": "supplied"
+        },
+        {
+          "text": " against it by lot;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.10",
+      "edition_verse_id": "ASV1901:JDG.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and we will take ten men of a hundred throughout all the tribes of Israel, and a hundred of a thousand, and a thousand out of ten thousand, to fetch victuals for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have wrought in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.11",
+      "edition_verse_id": "ASV1901:JDG.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So all the men of Israel were gathered against the city, knit together as one man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.12",
+      "edition_verse_id": "ASV1901:JDG.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness is this that is come to pass among you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.13",
+      "edition_verse_id": "ASV1901:JDG.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now therefore deliver up the men, the base fellows, that are in Gibeah, that we may put them to death, and put away evil from Israel. But Benjamin would not hearken to the voice of their brethren the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.14",
+      "edition_verse_id": "ASV1901:JDG.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.15",
+      "edition_verse_id": "ASV1901:JDG.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the children of Benjamin were numbered on that day out of the cities twenty and six thousand men that drew sword, besides the inhabitants of Gibeah, who were numbered seven hundred chosen men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.16",
+      "edition_verse_id": "ASV1901:JDG.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Among all this people there were seven hundred chosen men lefthanded; every one could sling stones at a hair-breadth, and not miss.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.17",
+      "edition_verse_id": "ASV1901:JDG.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the men of Israel, besides Benjamin, were numbered four hundred thousand men that drew sword: all these were men of war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.18",
+      "edition_verse_id": "ASV1901:JDG.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the children of Israel arose, and went up to Beth-el, and asked counsel of God; and they said, Who shall go up for us first to battle against the children of Benjamin? And Jehovah said, Judah ",
+          "kind": "text"
+        },
+        {
+          "text": "shall go up",
+          "kind": "supplied"
+        },
+        {
+          "text": " first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.19",
+      "edition_verse_id": "ASV1901:JDG.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the children of Israel rose up in the morning, and encamped against Gibeah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.20",
+      "edition_verse_id": "ASV1901:JDG.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the men of Israel went out to battle against Benjamin; and the men of Israel set the battle in array against them at Gibeah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.21",
+      "edition_verse_id": "ASV1901:JDG.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites on that day twenty and two thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.22",
+      "edition_verse_id": "ASV1901:JDG.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the people, the men of Israel, encouraged themselves, and set the battle again in array in the place where they set themselves in array the first day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.23",
+      "edition_verse_id": "ASV1901:JDG.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the children of Israel went up and wept before Jehovah until even; and they asked of Jehovah, saying, Shall I again draw nigh to battle against the children of Benjamin my brother? And Jehovah said, Go up against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.24",
+      "edition_verse_id": "ASV1901:JDG.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the children of Israel came near against the children of Benjamin the second day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.25",
+      "edition_verse_id": "ASV1901:JDG.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Benjamin went forth against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men; all these drew the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.26",
+      "edition_verse_id": "ASV1901:JDG.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then all the children of Israel, and all the people, went up, and came unto Beth-el, and wept, and sat there before Jehovah, and fasted that day until even; and they offered burnt-offerings and peace-offerings before Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.27",
+      "edition_verse_id": "ASV1901:JDG.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the children of Israel asked of Jehovah (for the ark of the covenant of God was there in those days,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.28",
+      "edition_verse_id": "ASV1901:JDG.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days), saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And Jehovah said, Go up; for to-morrow I will deliver him into thy hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.29",
+      "edition_verse_id": "ASV1901:JDG.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Israel set liers-in-wait against Gibeah round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.30",
+      "edition_verse_id": "ASV1901:JDG.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the children of Israel went up against the children of Benjamin on the third day, and set themselves in array against Gibeah, as at other times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.31",
+      "edition_verse_id": "ASV1901:JDG.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the children of Benjamin went out against the people, and were drawn away from the city; and they began to smite and kill of the people, as at other times, in the highways, of which one goeth up to Beth-el, and the other to Gibeah, in the field, about thirty men of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.32",
+      "edition_verse_id": "ASV1901:JDG.20.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the children of Benjamin said, They are smitten down before us, as at the first. But the children of Israel said, Let us flee, and draw them away from the city unto the highways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.33",
+      "edition_verse_id": "ASV1901:JDG.20.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And all the men of Israel rose up out of their place, and set themselves in array at Baal-tamar: and the liers-in-wait of Israel brake forth out of their place, even out of Maareh-geba.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.34",
+      "edition_verse_id": "ASV1901:JDG.20.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And there came over against Gibeah ten thousand chosen men out of all Israel, and the battle was sore; but they knew not that evil was close upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.35",
+      "edition_verse_id": "ASV1901:JDG.20.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And Jehovah smote Benjamin before Israel; and the children of Israel destroyed of Benjamin that day twenty and five thousand and a hundred men: all these drew the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.36",
+      "edition_verse_id": "ASV1901:JDG.20.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "So the children of Benjamin saw that they were smitten; for the men of Israel gave place to Benjamin, because they trusted unto the liers-in-wait whom they had set against Gibeah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.20.37",
+      "edition_verse_id": "ASV1901:JDG.20.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the liers-in-wait hasted, and rushed upon Gibeah; and the liers-in-wait drew themselves along, and smote all the city with the edge of the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.38",
+      "edition_verse_id": "ASV1901:JDG.20.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Now the appointed sign between the men of Israel and the liers-in-wait was, that they should make a great cloud of smoke rise up out of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.39",
+      "edition_verse_id": "ASV1901:JDG.20.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the men of Israel turned in the battle, and Benjamin began to smite and kill of the men of Israel about thirty persons; for they said, Surely they are smitten down before us, as in the first battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.40",
+      "edition_verse_id": "ASV1901:JDG.20.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But when the cloud began to arise up out of the city in a pillar of smoke, the Benjamites looked behind them; and, behold, the whole of the city went up ",
+          "kind": "text"
+        },
+        {
+          "text": "in smoke",
+          "kind": "supplied"
+        },
+        {
+          "text": " to heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.41",
+      "edition_verse_id": "ASV1901:JDG.20.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And the men of Israel turned, and the men of Benjamin were dismayed; for they saw that evil was come upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.42",
+      "edition_verse_id": "ASV1901:JDG.20.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Therefore they turned their backs before the men of Israel unto the way of the wilderness; but the battle followed hard after them; and they that came out of the cities destroyed them in the midst thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.43",
+      "edition_verse_id": "ASV1901:JDG.20.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "They inclosed the Benjamites round about, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " chased them, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " trod them down at ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " resting-place, as far as over against Gibeah toward the sunrising.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.44",
+      "edition_verse_id": "ASV1901:JDG.20.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And there fell of Benjamin eighteen thousand men; all these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.45",
+      "edition_verse_id": "ASV1901:JDG.20.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men, and followed hard after them unto Gidom, and smote of them two thousand men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.46",
+      "edition_verse_id": "ASV1901:JDG.20.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "So that all who fell that day of Benjamin were twenty and five thousand men that drew the sword; all these ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.47",
+      "edition_verse_id": "ASV1901:JDG.20.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "But six hundred men turned and fled toward the wilderness unto the rock of Rimmon, and abode in the rock of Rimmon four months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.20.48",
+      "edition_verse_id": "ASV1901:JDG.20.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And the men of Israel turned again upon the children of Benjamin, and smote them with the edge of the sword, both the entire city, and the cattle, and all that they found: moreover all the cities which they found they set on fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JDG",
+  "book_name": "Judges",
+  "book_order": 7,
+  "canonical_ids": "JDG.{chapter}.{verse}",
+  "edition_ids": "ASV1901:JDG.{chapter}.{verse}",
+  "chapter_count": 21,
+  "verse_count": 618,
+  "chapter_path_template": "judges/chapters/{chapter:02d}.json",
+  "facsimile_index": "judges/page-index.json",
+  "predecessor_book_code": "JOS",
+  "successor_book_code": "RUT",
+  "source_provenance": "books/judges/SOURCE_INVENTORY.json",
+  "reader": "books/judges/site/index.html",
+  "note": "Per-book catalog; unified cross-foundation catalog is separate. Strong's tagging not verified."
+}
