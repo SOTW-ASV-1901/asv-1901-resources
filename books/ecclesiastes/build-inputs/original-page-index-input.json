@@ -1,0 +1,96 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 702,
+      "type": "scripture",
+      "printed_page": 660,
+      "running_head_first_verse": "ECC.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ECC.1.1",
+      "last_verse": "ECC.2.7",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 703,
+      "type": "scripture",
+      "printed_page": 661,
+      "running_head_first_verse": "ECC.2.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ECC.2.7",
+      "last_verse": "ECC.3.8",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 704,
+      "type": "scripture",
+      "printed_page": 662,
+      "running_head_first_verse": "ECC.3.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ECC.3.8",
+      "last_verse": "ECC.4.16",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 705,
+      "type": "scripture",
+      "printed_page": 663,
+      "running_head_first_verse": "ECC.5.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ECC.4.16",
+      "last_verse": "ECC.6.8",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 706,
+      "type": "scripture",
+      "printed_page": 664,
+      "running_head_first_verse": "ECC.6.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ECC.6.8",
+      "last_verse": "ECC.7.27",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 707,
+      "type": "scripture",
+      "printed_page": 665,
+      "running_head_first_verse": "ECC.7.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ECC.7.27",
+      "last_verse": "ECC.9.4",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 708,
+      "type": "scripture",
+      "printed_page": 666,
+      "running_head_first_verse": "ECC.9.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ECC.9.4",
+      "last_verse": "ECC.10.17",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 709,
+      "type": "scripture",
+      "printed_page": 667,
+      "running_head_first_verse": "ECC.10.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ECC.10.17",
+      "last_verse": "ECC.12.12",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    },
+    {
+      "source_pdf_page": 710,
+      "type": "scripture",
+      "printed_page": 668,
+      "running_head_first_verse": "ECC.12.13",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ECC.12.13",
+      "last_verse": "ECC.12.14",
+      "evidence_method": "Visually inspected opening and closing text of original 1901 source page, checked chapter transitions, and identified continuing verses independently of the printed running head; not exhaustive character-level collation."
+    }
+  ]
+}

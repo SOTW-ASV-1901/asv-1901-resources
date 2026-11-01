@@ -1,0 +1,118 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      702
+    ],
+    "first": "ECC.1.1",
+    "last": "ECC.1.18"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      702,
+      703
+    ],
+    "first": "ECC.2.1",
+    "last": "ECC.2.26"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      703,
+      704
+    ],
+    "first": "ECC.3.1",
+    "last": "ECC.3.22"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      704,
+      705
+    ],
+    "first": "ECC.4.1",
+    "last": "ECC.4.16"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      705
+    ],
+    "first": "ECC.5.1",
+    "last": "ECC.5.20"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      705,
+      706
+    ],
+    "first": "ECC.6.1",
+    "last": "ECC.6.12"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      706,
+      707
+    ],
+    "first": "ECC.7.1",
+    "last": "ECC.7.29"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      707
+    ],
+    "first": "ECC.8.1",
+    "last": "ECC.8.17"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      707,
+      708
+    ],
+    "first": "ECC.9.1",
+    "last": "ECC.9.18"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      708,
+      709
+    ],
+    "first": "ECC.10.1",
+    "last": "ECC.10.20"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      709
+    ],
+    "first": "ECC.11.1",
+    "last": "ECC.11.10"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original printing chapter start/end and page-boundary text inspected; exact verse positions checked at page transitions; not character-by-character collation.",
+    "source_pdf_pages": [
+      709,
+      710
+    ],
+    "first": "ECC.12.1",
+    "last": "ECC.12.14"
+  }
+}

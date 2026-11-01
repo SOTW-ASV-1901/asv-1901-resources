@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ECC",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "ECC.6.1",
+      "edition_verse_id": "ASV1901:ECC.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "There is an evil which I have seen under the sun, and it is heavy upon men:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.6.2",
+      "edition_verse_id": "ASV1901:ECC.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "a man to whom God giveth riches, wealth, and honor, so that he lacketh nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but an alien eateth it; this is vanity, and it is an evil disease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.3",
+      "edition_verse_id": "ASV1901:ECC.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If a man beget a hundred children, and live many years, so that the days of his years are many, but his soul be not filled with good, and moreover he have no burial; I say, that an untimely birth is better than he:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.4",
+      "edition_verse_id": "ASV1901:ECC.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "for it cometh in vanity, and departeth in darkness, and the name thereof is covered with darkness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.5",
+      "edition_verse_id": "ASV1901:ECC.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "moreover it hath not seen the sun nor known it; this hath rest rather than the other:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.6",
+      "edition_verse_id": "ASV1901:ECC.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "yea, though he live a thousand years twice told, and yet enjoy no good, do not all go to one place?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.7",
+      "edition_verse_id": "ASV1901:ECC.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the labor of man is for his mouth, and yet the appetite is not filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.8",
+      "edition_verse_id": "ASV1901:ECC.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For what advantage hath the wise more than the fool? ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " what hath the poor man, that knoweth how to walk before the living?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.9",
+      "edition_verse_id": "ASV1901:ECC.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Better is the sight of the eyes than the wandering of the desire: this also is vanity and a striving after wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.10",
+      "edition_verse_id": "ASV1901:ECC.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Whatsoever hath been, the name thereof was given long ago; and it is known what man is; neither can he contend with him that is mightier than he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.11",
+      "edition_verse_id": "ASV1901:ECC.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Seeing there are many things that increase vanity, what is man the better?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.6.12",
+      "edition_verse_id": "ASV1901:ECC.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For who knoweth what is good for man in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

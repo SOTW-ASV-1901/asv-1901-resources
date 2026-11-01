@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ECC",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "ECC.12.1",
+      "edition_verse_id": "ASV1901:ECC.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Remember also thy Creator in the days of thy youth, before the evil days come, and the years draw nigh, when thou shalt say, I have no pleasure in them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.12.2",
+      "edition_verse_id": "ASV1901:ECC.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "before the sun, and the light, and the moon, and the stars, are darkened, and the clouds return after the rain;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.3",
+      "edition_verse_id": "ASV1901:ECC.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows shall be darkened,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.4",
+      "edition_verse_id": "ASV1901:ECC.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and the doors shall be shut in the street; when the sound of the grinding is low, and one shall rise up at the voice of a bird, and all the daughters of music shall be brought low;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.5",
+      "edition_verse_id": "ASV1901:ECC.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "yea, they shall be afraid of ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " high, and terrors ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the way; and the almond-tree shall blossom, and the grasshopper shall be a burden, and desire shall fail; because man goeth to his everlasting home, and the mourners go about the streets:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.6",
+      "edition_verse_id": "ASV1901:ECC.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "before the silver cord is loosed, or the golden bowl is broken, or the pitcher is broken at the fountain, or the wheel broken at the cistern,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.7",
+      "edition_verse_id": "ASV1901:ECC.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and the dust returneth to the earth as it was, and the spirit returneth unto God who gave it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.8",
+      "edition_verse_id": "ASV1901:ECC.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Vanity of vanities, saith the Preacher; all is vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.9",
+      "edition_verse_id": "ASV1901:ECC.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And further, because the Preacher was wise, he still taught the people knowledge; yea, he pondered, and sought out, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " set in order many proverbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.10",
+      "edition_verse_id": "ASV1901:ECC.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The Preacher sought to find out acceptable words, and that which was written uprightly, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " words of truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.11",
+      "edition_verse_id": "ASV1901:ECC.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The words of the wise are as goads; and as nails well fastened are ",
+          "kind": "text"
+        },
+        {
+          "text": "the words of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the masters of assemblies, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " are given from one shepherd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.12",
+      "edition_verse_id": "ASV1901:ECC.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.13",
+      "edition_verse_id": "ASV1901:ECC.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "This is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the end of the matter; all hath been heard: Fear God, and keep his commandments; for this is the whole ",
+          "kind": "text"
+        },
+        {
+          "text": "duty",
+          "kind": "supplied"
+        },
+        {
+          "text": " of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.12.14",
+      "edition_verse_id": "ASV1901:ECC.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For God will bring every work into judgment, with every hidden thing, whether it be good, or whether it be evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
