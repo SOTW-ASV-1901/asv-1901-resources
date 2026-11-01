@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LAM",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "LAM.2.1",
+      "edition_verse_id": "ASV1901:LAM.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How hath the Lord covered the daughter of Zion with a cloud in his anger!\nHe hath cast down from heaven unto the earth the beauty of Israel,\nAnd hath not remembered his footstool in the day of his anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.2",
+      "edition_verse_id": "ASV1901:LAM.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The Lord hath swallowed up all the habitations of Jacob, and hath not pitied:\nHe hath thrown down in his wrath the strongholds of the daughter of Judah;\nHe hath brought them down to the ground; he hath profaned the kingdom and the princes thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.3",
+      "edition_verse_id": "ASV1901:LAM.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He hath cut off in fierce anger all the horn of Israel;\nHe hath drawn back his right hand from before the enemy:\nAnd he hath burned up Jacob like a flaming fire, which devoureth round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.4",
+      "edition_verse_id": "ASV1901:LAM.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He hath bent his bow like an enemy, he hath stood with his right hand as an adversary,\nAnd hath slain all that were pleasant to the eye:In the tent of the daughter of Zion he hath poured out his wrath like fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.5",
+      "edition_verse_id": "ASV1901:LAM.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The Lord is become as an enemy, he hath swallowed up Israel;\nHe hath swallowed up all her palaces, he hath destroyed his strongholds;\nAnd he hath multiplied in the daughter of Judah mourning and lamentation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.6",
+      "edition_verse_id": "ASV1901:LAM.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he hath violently taken away his tabernacle, as if it were of a garden; he hath destroyed his place of assembly:\nJehovah hath caused solemn assembly and sabbath to be forgotten in Zion,\nAnd hath despised in the indignation of his anger the king and the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.7",
+      "edition_verse_id": "ASV1901:LAM.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The Lord hath cast off his altar, he hath abhorred his sanctuary;\nHe hath given up into the hand of the enemy the walls of her palaces:\nThey have made a noise in the house of Jehovah, as in the day of a solemn assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.8",
+      "edition_verse_id": "ASV1901:LAM.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jehovah hath purposed to destroy the wall of the daughter of Zion;\nHe hath stretched out the line, he hath not withdrawn his hand from destroying;\nAnd he hath made the rampart and wall to lament; they languish together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.9",
+      "edition_verse_id": "ASV1901:LAM.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Her gates are sunk into the ground; he hath destroyed and broken her bars:\nHer king and her princes are among the nations where the law is not;\nYea, her prophets find no vision from Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.10",
+      "edition_verse_id": "ASV1901:LAM.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The elders of the daughter of Zion sit upon the ground, they keep silence;\nThey have cast up dust upon their heads; they have girded themselves with sackcloth:\nThe virgins of Jerusalem hang down their heads to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.11",
+      "edition_verse_id": "ASV1901:LAM.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Mine eyes do fail with tears, my heart is troubled;\nMy liver is poured upon the earth, because of the destruction of the daughter of my people,\nBecause the young children and the sucklings swoon in the streets of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.12",
+      "edition_verse_id": "ASV1901:LAM.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They say to their mothers, Where is grain and wine?\nWhen they swoon as the wounded in the streets of the city,\nWhen their soul is poured out into their mothers’ bosom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.13",
+      "edition_verse_id": "ASV1901:LAM.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "What shall I testify unto thee? what shall I liken to thee, O daughter of Jerusalem?\nWhat shall I compare to thee, that I may comfort thee, O virgin daughter of Zion?\nFor thy breach is great like the sea: who can heal thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.14",
+      "edition_verse_id": "ASV1901:LAM.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thy prophets have seen for thee false and foolish visions;\nAnd they have not uncovered thine iniquity, to bring back thy captivity,\nBut have seen for thee false oracles and causes of banishment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.15",
+      "edition_verse_id": "ASV1901:LAM.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "All that pass by clap their hands at thee;\nThey hiss and wag their head at the daughter of Jerusalem, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nIs this the city that men called The perfection of beauty, The joy of the whole earth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.16",
+      "edition_verse_id": "ASV1901:LAM.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "All thine enemies have opened their mouth wide against thee;\nThey hiss and gnash the teeth; they say, We have swallowed her up;\nCertainly this is the day that we looked for; we have found, we have seen it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.17",
+      "edition_verse_id": "ASV1901:LAM.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Jehovah hath done that which he purposed; he hath fulfilled his word that he commanded in the days of old;\nHe hath thrown down, and hath not pitied:\nAnd he hath caused the enemy to rejoice over thee; he hath exalted the horn of thine adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.18",
+      "edition_verse_id": "ASV1901:LAM.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Their heart cried unto the Lord:\nO wall of the daughter of Zion, let tears run down like a river day and night;\nGive thyself no respite; let not the apple of thine eye cease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.19",
+      "edition_verse_id": "ASV1901:LAM.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Arise, cry out in the night, at the beginning of the watches;\nPour out thy heart like water before the face of the Lord:\nLift up thy hands toward him for the life of thy young children, that faint for hunger at the head of every street.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.20",
+      "edition_verse_id": "ASV1901:LAM.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "See, O Jehovah, and behold to whom thou hast done thus!\nShall the women eat their fruit, the children that are dandled in the hands?\nShall the priest and the prophet be slain in the sanctuary of the Lord?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.21",
+      "edition_verse_id": "ASV1901:LAM.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The youth and the old man lie on the ground in the streets;\nMy virgins and my young men are fallen by the sword:\nThou hast slain them in the day of thine anger; thou hast slaughtered, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " not pitied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.2.22",
+      "edition_verse_id": "ASV1901:LAM.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thou hast called, as in the day of a solemn assembly, my terrors on every side;\nAnd there was none that escaped or remained in the day of Jehovah’s anger:\nThose that I have dandled and brought up hath mine enemy consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

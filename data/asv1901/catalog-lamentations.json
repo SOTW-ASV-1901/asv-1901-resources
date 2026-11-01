@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LAM",
+  "book_name": "Lamentations",
+  "book_order": 25,
+  "canonical_ids": "LAM.{chapter}.{verse}",
+  "edition_ids": "ASV1901:LAM.{chapter}.{verse}",
+  "chapter_count": 5,
+  "verse_count": 154,
+  "chapter_path_template": "lamentations/chapters/{chapter:02d}.json",
+  "facsimile_index": "lamentations/page-index.json",
+  "predecessor_book_code": "JER",
+  "successor_book_code": "EZK",
+  "source_provenance": "books/lamentations/SOURCE_INVENTORY.json",
+  "reader": "books/lamentations/site/index.html",
+  "note": "Book-level catalog. No global catalog or unverified lexical alignment is bundled."
+}

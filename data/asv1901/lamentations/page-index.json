@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LAM",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 833,
+      "type": "scripture",
+      "printed_page": 791,
+      "running_head_first_verse": "LAM.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "LAM.1.1",
+      "last_verse": "LAM.1.13",
+      "evidence_method": "Original 1901 whole-page facsimile physically inspected at upper and lower page boundaries, chapter transitions, and mid-verse continuations. This is not exhaustive character-by-character collation.",
+      "volume": "asv1901-lamentations-pages-833-839.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 834,
+      "type": "scripture",
+      "printed_page": 792,
+      "running_head_first_verse": "LAM.1.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "LAM.1.13",
+      "last_verse": "LAM.2.5",
+      "evidence_method": "Original 1901 whole-page facsimile physically inspected at upper and lower page boundaries, chapter transitions, and mid-verse continuations. This is not exhaustive character-by-character collation.",
+      "volume": "asv1901-lamentations-pages-833-839.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 835,
+      "type": "scripture",
+      "printed_page": 793,
+      "running_head_first_verse": "LAM.2.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "LAM.2.5",
+      "last_verse": "LAM.2.18",
+      "evidence_method": "Original 1901 whole-page facsimile physically inspected at upper and lower page boundaries, chapter transitions, and mid-verse continuations. This is not exhaustive character-by-character collation.",
+      "volume": "asv1901-lamentations-pages-833-839.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 836,
+      "type": "scripture",
+      "printed_page": 794,
+      "running_head_first_verse": "LAM.2.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "LAM.2.18",
+      "last_verse": "LAM.3.27",
+      "evidence_method": "Original 1901 whole-page facsimile physically inspected at upper and lower page boundaries, chapter transitions, and mid-verse continuations. This is not exhaustive character-by-character collation.",
+      "volume": "asv1901-lamentations-pages-833-839.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 837,
+      "type": "scripture",
+      "printed_page": 795,
+      "running_head_first_verse": "LAM.3.28",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "LAM.3.28",
+      "last_verse": "LAM.3.66",
+      "evidence_method": "Original 1901 whole-page facsimile physically inspected at upper and lower page boundaries, chapter transitions, and mid-verse continuations. This is not exhaustive character-by-character collation.",
+      "volume": "asv1901-lamentations-pages-833-839.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 838,
+      "type": "scripture",
+      "printed_page": 796,
+      "running_head_first_verse": "LAM.4.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "LAM.4.1",
+      "last_verse": "LAM.4.21",
+      "evidence_method": "Original 1901 whole-page facsimile physically inspected at upper and lower page boundaries, chapter transitions, and mid-verse continuations. This is not exhaustive character-by-character collation.",
+      "volume": "asv1901-lamentations-pages-833-839.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 839,
+      "type": "scripture",
+      "printed_page": 797,
+      "running_head_first_verse": "LAM.4.22",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "LAM.4.22",
+      "last_verse": "LAM.5.22",
+      "evidence_method": "Original 1901 whole-page facsimile physically inspected at upper and lower page boundaries, chapter transitions, and mid-verse continuations. This is not exhaustive character-by-character collation.",
+      "volume": "asv1901-lamentations-pages-833-839.pdf",
+      "volume_pdf_page": 7
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-lamentations-pages-833-839.pdf",
+      "first_source_pdf_page": 833,
+      "last_source_pdf_page": 839,
+      "bytes": 695943,
+      "sha256": "f3ec8f65dd9068e98a9b5b57cb7fea52979eebc9bc32a70b26de7352e3e4c22e"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

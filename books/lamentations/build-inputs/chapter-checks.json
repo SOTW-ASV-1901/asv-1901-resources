@@ -1,0 +1,52 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 page images inspected for actual chapter start/end and all page breaks; no exhaustive character-level proofreading.",
+    "source_pdf_pages": [
+      833,
+      834
+    ],
+    "first": "LAM.1.1",
+    "last": "LAM.1.22"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 page images inspected for actual chapter start/end and all page breaks; no exhaustive character-level proofreading.",
+    "source_pdf_pages": [
+      834,
+      835,
+      836
+    ],
+    "first": "LAM.2.1",
+    "last": "LAM.2.22"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 page images inspected for actual chapter start/end and all page breaks; no exhaustive character-level proofreading.",
+    "source_pdf_pages": [
+      836,
+      837
+    ],
+    "first": "LAM.3.1",
+    "last": "LAM.3.66"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 page images inspected for actual chapter start/end and all page breaks; no exhaustive character-level proofreading.",
+    "source_pdf_pages": [
+      838,
+      839
+    ],
+    "first": "LAM.4.1",
+    "last": "LAM.4.22"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 page images inspected for actual chapter start/end and all page breaks; no exhaustive character-level proofreading.",
+    "source_pdf_pages": [
+      839
+    ],
+    "first": "LAM.5.1",
+    "last": "LAM.5.22"
+  }
+}

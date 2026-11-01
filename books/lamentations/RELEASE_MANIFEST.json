@@ -1,0 +1,42 @@
+{
+  "status": "VALIDATED_RELEASE_WITH_STATED_SCOPE",
+  "edition": "ASV1901",
+  "book": "LAM",
+  "chapter_count": 5,
+  "verse_count": 154,
+  "source_hashes": {
+    "primary_usx": "bba525b644c828c8e7c5dfd912dfded9d4673b396321db6a3c3124556f3fc6e8",
+    "comparison_usfm": "adff015c4bf65c61c05466d1c1ed4d21842635f1c01b4b88f93bf058fe44118f",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/lamentations/DATA_CONTRACT.md": "f06a985317af5c2776e10417dd8a10804a21a967761fd91149a166902055b387",
+    "books/lamentations/INSTALLATION_NOTES.md": "bf384affa3e977af069fe2f56cd00b284eef1371d4a4cbffef6962920edfbac7",
+    "books/lamentations/README.md": "3afa498264c0dec84384bc6a71eb35d3c54789ff05bf510786d98e7c6012ee98",
+    "books/lamentations/SOURCE_INVENTORY.json": "705c95dbad2ae3d917b9faba26f73ea4f37aa0cbaee413823f93cbad6f64a85f",
+    "books/lamentations/UPLOAD_PACKAGE_AUDIT.md": "a7718b33ec735a267a4077e64dacf7525b9aef0cab8f5b3ab87dae0b7dfde391",
+    "books/lamentations/VALIDATION_REPORT.json": "95034a66554270162fdca1acd02b4ae2e594d8466a5e8daa42fd402c07504c4d",
+    "books/lamentations/VALIDATION_REPORT.md": "f42753c85edc0c425cf251de2ab943ff82c3f0a0f88d12b4e64b7f8bfecc696a",
+    "books/lamentations/build-inputs/chapter-checks.json": "d758b96072f8aa4c9b101062e68a40f558fe7ea5ea6822eb29bd22ffe5438604",
+    "books/lamentations/build-inputs/original-page-index-input.json": "fbed208ca9a8791abc3c3fe2555ae4793e6c5a4bd1377983fd05de8a482c1c0c",
+    "books/lamentations/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/lamentations/build-inputs/spanning-verses.json": "3733aadd0a85fdff8b1a19e2ffc0482df7588bfa0330bc65f6065b2f457d2dc1",
+    "books/lamentations/index.html": "6d3b5c9f647ae17e2d14abf801974389d6ba13689617d4593b57f99e9e728ecd",
+    "books/lamentations/schemas/asv1901-lamentations-chapter.schema.json": "4b94afca5390e317614da457f74ae08d5138d75521e2840db90f0c75163d2044",
+    "books/lamentations/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/lamentations/scripts/build_lamentations.py": "7a03ce5eeb94a43f877e16e27b009ac8e70326038817b7dee6577c502726349a",
+    "books/lamentations/scripts/validate_release.py": "b264ab7ef156dcaa957d28c5a55e3d5ef5193575da98fe64f83935fbfda1a158",
+    "books/lamentations/site/index.html": "5a27d3bc71a59e2eeb7b11e4054487db443f6a1abe965dc0b236a51a837d31d3",
+    "books/lamentations/sources/asv1901-english-only/25-LAM.usx": "bba525b644c828c8e7c5dfd912dfded9d4673b396321db6a3c3124556f3fc6e8",
+    "books/lamentations/sources/comparison-only/26-LAMeng-asv.usfm": "adff015c4bf65c61c05466d1c1ed4d21842635f1c01b4b88f93bf058fe44118f",
+    "data/asv1901/catalog-lamentations.json": "c119a5a87c1f421cf0b8ed95bdfe24491fde5a7a178934ab86efc02e29131b12",
+    "data/asv1901/lamentations/chapter-checks.json": "d758b96072f8aa4c9b101062e68a40f558fe7ea5ea6822eb29bd22ffe5438604",
+    "data/asv1901/lamentations/chapters/01.json": "13754c71ce4f99f30d8c1e3657e9859ac695e58af20ff7001823c1dc15e9d81f",
+    "data/asv1901/lamentations/chapters/02.json": "e666f5fd44964e846b22c821eba22b1f18144b135fa358cd14954522b3af668d",
+    "data/asv1901/lamentations/chapters/03.json": "83e6a30455fd7d8f12bffbee4a34fafeaf4ed8917b5cf497769066daad63c366",
+    "data/asv1901/lamentations/chapters/04.json": "803eef6ff6dd8a133af958912341e05530639223eca0dcb83c4c723f108962f8",
+    "data/asv1901/lamentations/chapters/05.json": "220b225fb80fe8622457860ca9c2b8a3e70419110f59d852de7d9409a4a0554c",
+    "data/asv1901/lamentations/facsimile/asv1901-lamentations-pages-833-839.pdf": "f3ec8f65dd9068e98a9b5b57cb7fea52979eebc9bc32a70b26de7352e3e4c22e",
+    "data/asv1901/lamentations/page-index.json": "ae7798526878d7be9fdc862f383664924f47708db2cb745a59a9b4eaaa35139a"
+  }
+}

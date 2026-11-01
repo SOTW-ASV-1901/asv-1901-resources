@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LAM",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "LAM.5.1",
+      "edition_verse_id": "ASV1901:LAM.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Remember, O Jehovah, what is come upon us:\nBehold, and see our reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.2",
+      "edition_verse_id": "ASV1901:LAM.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Our inheritance is turned unto strangers,\nOur houses unto aliens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.3",
+      "edition_verse_id": "ASV1901:LAM.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "We are orphans and fatherless;\nOur mothers are as widows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.4",
+      "edition_verse_id": "ASV1901:LAM.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We have drunken our water for money;\nOur wood is sold unto us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.5",
+      "edition_verse_id": "ASV1901:LAM.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Our pursuers are upon our necks:\nWe are weary, and have no rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.6",
+      "edition_verse_id": "ASV1901:LAM.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We have given the hand to the Egyptians,\nAnd to the Assyrians, to be satisfied with bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.7",
+      "edition_verse_id": "ASV1901:LAM.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Our fathers sinned, and are not;\nAnd we have borne their iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.8",
+      "edition_verse_id": "ASV1901:LAM.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Servants rule over us:\nThere is none to deliver us out of their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.9",
+      "edition_verse_id": "ASV1901:LAM.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "We get our bread at the peril of our lives,\nBecause of the sword of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.10",
+      "edition_verse_id": "ASV1901:LAM.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Our skin is black like an oven,\nBecause of the burning heat of famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.11",
+      "edition_verse_id": "ASV1901:LAM.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They ravished the women in Zion,\nThe virgins in the cities of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.12",
+      "edition_verse_id": "ASV1901:LAM.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Princes were hanged up by their hand:\nThe faces of elders were not honored.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.13",
+      "edition_verse_id": "ASV1901:LAM.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The young men bare the mill;\nAnd the children stumbled under the wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.14",
+      "edition_verse_id": "ASV1901:LAM.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The elders have ceased from the gate,\nThe young men from their music.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.15",
+      "edition_verse_id": "ASV1901:LAM.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The joy of our heart is ceased;\nOur dance is turned into mourning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.16",
+      "edition_verse_id": "ASV1901:LAM.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The crown is fallen from our head:\nWoe unto us! for we have sinned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.17",
+      "edition_verse_id": "ASV1901:LAM.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For this our heart is faint;\nFor these things our eyes are dim;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.18",
+      "edition_verse_id": "ASV1901:LAM.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the mountain of Zion, which is desolate:\nThe foxes walk upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.19",
+      "edition_verse_id": "ASV1901:LAM.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou, O Jehovah, abidest for ever;\nThy throne is from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.20",
+      "edition_verse_id": "ASV1901:LAM.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Wherefore dost thou forget us for ever,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " forsake us so long time?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.21",
+      "edition_verse_id": "ASV1901:LAM.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Turn thou us unto thee, O Jehovah, and we shall be turned;\nRenew our days as of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.22",
+      "edition_verse_id": "ASV1901:LAM.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But thou hast utterly rejected us;\nThou art very wroth against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
