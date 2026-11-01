@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 84,
+  "verses": [
+    {
+      "id": "PSA.84.1",
+      "edition_verse_id": "ASV1901:PSA.84.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How amiable are thy tabernacles,\nO Jehovah of hosts!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.2",
+      "edition_verse_id": "ASV1901:PSA.84.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My soul longeth, yea, even fainteth for the courts of Jehovah;\nMy heart and my flesh cry out unto the living God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.3",
+      "edition_verse_id": "ASV1901:PSA.84.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Yea, the sparrow hath found her a house,\nAnd the swallow a nest for herself, where she may lay her young,\nEven thine altars, O Jehovah of hosts,\nMy King, and my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.4",
+      "edition_verse_id": "ASV1901:PSA.84.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed are they that dwell in thy house:\nThey will be still praising thee. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.5",
+      "edition_verse_id": "ASV1901:PSA.84.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Blessed is the man whose strength is in thee;\nIn whose heart are the highways ",
+          "kind": "text"
+        },
+        {
+          "text": "to Zion",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.6",
+      "edition_verse_id": "ASV1901:PSA.84.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Passing through the valley of Weeping they make it a place of springs;\nYea, the early rain covereth it with blessings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.7",
+      "edition_verse_id": "ASV1901:PSA.84.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They go from strength to strength;\nEvery one of them appeareth before God in Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.8",
+      "edition_verse_id": "ASV1901:PSA.84.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O Jehovah God of hosts, hear my prayer;\nGive ear, O God of Jacob. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.9",
+      "edition_verse_id": "ASV1901:PSA.84.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Behold, O God our shield,\nAnd look upon the face of thine anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.10",
+      "edition_verse_id": "ASV1901:PSA.84.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For a day in thy courts is better than a thousand.\nI had rather be a doorkeeper in the house of my God,\nThan to dwell in the tents of wickedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.11",
+      "edition_verse_id": "ASV1901:PSA.84.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For Jehovah God is a sun and a shield:\nJehovah will give grace and glory;\nNo good thing will he withhold from them that walk uprightly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.84.12",
+      "edition_verse_id": "ASV1901:PSA.84.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "O Jehovah of hosts,\nBlessed is the man that trusteth in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Longing for the Temple worship.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to the Gittith. A Psalm of the sons of Korah.",
+      "before_verse": 1
+    }
+  ]
+}

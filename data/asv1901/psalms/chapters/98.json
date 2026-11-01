@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 98,
+  "verses": [
+    {
+      "id": "PSA.98.1",
+      "edition_verse_id": "ASV1901:PSA.98.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Oh sing unto Jehovah a new song;\nFor he hath done marvellous things:\nHis right hand, and his holy arm, hath wrought salvation for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.2",
+      "edition_verse_id": "ASV1901:PSA.98.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah hath made known his salvation:\nHis righteousness hath he openly showed in the sight of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.3",
+      "edition_verse_id": "ASV1901:PSA.98.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He hath remembered his lovingkindness and his faithfulness toward the house of Israel:\nAll the ends of the earth have seen the salvation of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.4",
+      "edition_verse_id": "ASV1901:PSA.98.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Make a joyful noise unto Jehovah, all the earth:\nBreak forth and sing for joy, yea, sing praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.5",
+      "edition_verse_id": "ASV1901:PSA.98.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Sing praises unto Jehovah with the harp;\nWith the harp and the voice of melody.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.6",
+      "edition_verse_id": "ASV1901:PSA.98.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "With trumpets and sound of cornet\nMake a joyful noise before the King, Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.7",
+      "edition_verse_id": "ASV1901:PSA.98.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let the sea roar, and the fulness thereof;\nThe world, and they that dwell therein;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.8",
+      "edition_verse_id": "ASV1901:PSA.98.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let the floods clap their hands;\nLet the hills sing for joy together",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.9",
+      "edition_verse_id": "ASV1901:PSA.98.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Before Jehovah; for he cometh to judge the earth:\nHe will judge the world with righteousness,\nAnd the peoples with equity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "A call to praise Jehovah for his righteousness.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm.",
+      "before_verse": 1
+    }
+  ]
+}

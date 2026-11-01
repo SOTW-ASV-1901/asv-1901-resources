@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 110,
+  "verses": [
+    {
+      "id": "PSA.110.1",
+      "edition_verse_id": "ASV1901:PSA.110.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jehovah saith unto my Lord, Sit thou at my right hand,\nUntil I make thine enemies thy footstool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.110.2",
+      "edition_verse_id": "ASV1901:PSA.110.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah will send forth the rod of thy strength out of Zion:\nRule thou in the midst of thine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.110.3",
+      "edition_verse_id": "ASV1901:PSA.110.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thy people offer themselves willingly\nIn the day of thy power, in holy array:\nOut of the womb of the morningThou hast the dew of thy youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.110.4",
+      "edition_verse_id": "ASV1901:PSA.110.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jehovah hath sworn, and will not repent:\nThou art a priest for ever\nAfter the order of Melchizedek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.110.5",
+      "edition_verse_id": "ASV1901:PSA.110.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The Lord at thy right handWill strike through kings in the day of his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.110.6",
+      "edition_verse_id": "ASV1901:PSA.110.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He will judge among the nations,He will fill ",
+          "kind": "text"
+        },
+        {
+          "text": "the places",
+          "kind": "supplied"
+        },
+        {
+          "text": " with dead bodies;\nHe will strike through the head in many countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.110.7",
+      "edition_verse_id": "ASV1901:PSA.110.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He will drink of the brook in the way:\nTherefore will he lift up the head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah gives dominion to the king.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

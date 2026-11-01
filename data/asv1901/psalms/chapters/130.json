@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 130,
+  "verses": [
+    {
+      "id": "PSA.130.1",
+      "edition_verse_id": "ASV1901:PSA.130.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Out of the depths have I cried unto thee, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.2",
+      "edition_verse_id": "ASV1901:PSA.130.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Lord, hear my voice:\nLet thine ears be attentive\nTo the voice of my supplications.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.3",
+      "edition_verse_id": "ASV1901:PSA.130.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If thou, Jehovah, shouldest mark iniquities,\nO Lord, who could stand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.4",
+      "edition_verse_id": "ASV1901:PSA.130.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But there is forgiveness with thee,\nThat thou mayest be feared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.5",
+      "edition_verse_id": "ASV1901:PSA.130.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I wait for Jehovah, my soul doth wait,\nAnd in his word do I hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.6",
+      "edition_verse_id": "ASV1901:PSA.130.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My soul ",
+          "kind": "text"
+        },
+        {
+          "text": "waiteth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the Lord\nMore than watchmen ",
+          "kind": "text"
+        },
+        {
+          "text": "wait",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the morning;",
+          "kind": "text"
+        },
+        {
+          "text": "Yea, more than",
+          "kind": "supplied"
+        },
+        {
+          "text": " watchmen for the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.7",
+      "edition_verse_id": "ASV1901:PSA.130.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "O Israel, hope in Jehovah;\nFor with Jehovah there is lovingkindness,\nAnd with him is plenteous redemption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.8",
+      "edition_verse_id": "ASV1901:PSA.130.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he will redeem Israel\nFrom all his iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Hope in the Lord’s forgiving love.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song of Ascents.",
+      "before_verse": 1
+    }
+  ]
+}

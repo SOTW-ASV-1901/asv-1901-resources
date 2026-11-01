@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 148,
+  "verses": [
+    {
+      "id": "PSA.148.1",
+      "edition_verse_id": "ASV1901:PSA.148.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye Jehovah.\nPraise ye Jehovah from the heavens:\nPraise him in the heights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.2",
+      "edition_verse_id": "ASV1901:PSA.148.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Praise ye him, all his angels:\nPraise ye him, all his host.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.3",
+      "edition_verse_id": "ASV1901:PSA.148.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Praise ye him, sun and moon:\nPraise him, all ye stars of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.4",
+      "edition_verse_id": "ASV1901:PSA.148.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Praise him, ye heavens of heavens,\nAnd ye waters that are above the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.5",
+      "edition_verse_id": "ASV1901:PSA.148.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let them praise the name of Jehovah;\nFor he commanded, and they were created.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.6",
+      "edition_verse_id": "ASV1901:PSA.148.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He hath also established them for ever and ever:\nHe hath made a decree which shall not pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.7",
+      "edition_verse_id": "ASV1901:PSA.148.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Praise Jehovah from the earth,\nYe sea-monsters, and all deeps;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.8",
+      "edition_verse_id": "ASV1901:PSA.148.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Fire and hail, snow and vapor;\nStormy wind, fulfilling his word;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.9",
+      "edition_verse_id": "ASV1901:PSA.148.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Mountains and all hills;\nFruitful trees and all cedars;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.10",
+      "edition_verse_id": "ASV1901:PSA.148.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Beasts and all cattle;\nCreeping things and flying birds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.11",
+      "edition_verse_id": "ASV1901:PSA.148.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Kings of the earth and all peoples;\nPrinces and all judges of the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.12",
+      "edition_verse_id": "ASV1901:PSA.148.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Both young men and virgins;\nOld men and children:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.13",
+      "edition_verse_id": "ASV1901:PSA.148.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Let them praise the name of Jehovah;\nFor his name alone is exalted;\nHis glory is above the earth and the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.14",
+      "edition_verse_id": "ASV1901:PSA.148.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he hath lifted up the horn of his people,\nThe praise of all his saints;\nEven of the children of Israel, a people near unto him.Praise ye Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The whole Creation invoked to praise Jehovah.",
+      "before_verse": 1
+    }
+  ]
+}

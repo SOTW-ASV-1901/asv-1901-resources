@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 129,
+  "verses": [
+    {
+      "id": "PSA.129.1",
+      "edition_verse_id": "ASV1901:PSA.129.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Many a time have they afflicted me from my youth up,\nLet Israel now say,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.2",
+      "edition_verse_id": "ASV1901:PSA.129.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Many a time have they afflicted me from my youth up:\nYet they have not prevailed against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.3",
+      "edition_verse_id": "ASV1901:PSA.129.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The plowers plowed upon my back;\nThey made long their furrows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.4",
+      "edition_verse_id": "ASV1901:PSA.129.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jehovah is righteous:\nHe hath cut asunder the cords of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.5",
+      "edition_verse_id": "ASV1901:PSA.129.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let them be put to shame and turned backward,\nAll they that hate Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.6",
+      "edition_verse_id": "ASV1901:PSA.129.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let them be as the grass upon the housetops,\nWhich withereth before it groweth up;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.7",
+      "edition_verse_id": "ASV1901:PSA.129.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wherewith the reaper filleth not his hand,\nNor he that bindeth sheaves, his bosom:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.8",
+      "edition_verse_id": "ASV1901:PSA.129.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Neither do they that go by say,\nThe blessing of Jehovah be upon you;\nWe bless you in the name of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for the overthrow of Zion’s enemies.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song of Ascents.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 97,
+  "verses": [
+    {
+      "id": "PSA.97.1",
+      "edition_verse_id": "ASV1901:PSA.97.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jehovah reigneth; let the earth rejoice;\nLet the multitude of isles be glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.2",
+      "edition_verse_id": "ASV1901:PSA.97.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Clouds and darkness are round about him:\nRighteousness and justice are the foundation of his throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.3",
+      "edition_verse_id": "ASV1901:PSA.97.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A fire goeth before him,\nAnd burneth up his adversaries round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.4",
+      "edition_verse_id": "ASV1901:PSA.97.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "His lightnings lightened the world:\nThe earth saw, and trembled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.5",
+      "edition_verse_id": "ASV1901:PSA.97.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The mountains melted like wax at the presence of Jehovah,\nAt the presence of the Lord of the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.6",
+      "edition_verse_id": "ASV1901:PSA.97.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The heavens declare his righteousness,\nAnd all the peoples have seen his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.7",
+      "edition_verse_id": "ASV1901:PSA.97.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let all them be put to shame that serve graven images,\nThat boast themselves of idols:\nWorship him, all ye gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.8",
+      "edition_verse_id": "ASV1901:PSA.97.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Zion heard and was glad,\nAnd the daughters of Judah rejoiced,\nBecause of thy judgments, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.9",
+      "edition_verse_id": "ASV1901:PSA.97.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For thou, Jehovah, art most high above all the earth:\nThou art exalted far above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.10",
+      "edition_verse_id": "ASV1901:PSA.97.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "O ye that love Jehovah, hate evil:\nHe preserveth the souls of his saints;\nHe delivereth them out of the hand of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.11",
+      "edition_verse_id": "ASV1901:PSA.97.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Light is sown for the righteous,\nAnd gladness for the upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.12",
+      "edition_verse_id": "ASV1901:PSA.97.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Be glad in Jehovah, ye righteous;\nAnd give thanks to his holy memorial ",
+          "kind": "text"
+        },
+        {
+          "text": "name",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah’s power and dominion.",
+      "before_verse": 1
+    }
+  ]
+}

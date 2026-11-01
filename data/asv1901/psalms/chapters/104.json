@@ -1,0 +1,451 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 104,
+  "verses": [
+    {
+      "id": "PSA.104.1",
+      "edition_verse_id": "ASV1901:PSA.104.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Bless Jehovah, O my soul.\nO Jehovah my God, thou art very great;\nThou art clothed with honor and majesty:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.2",
+      "edition_verse_id": "ASV1901:PSA.104.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Who coverest thyself with light as with a garment;\nWho stretchest out the heavens like a curtain;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.3",
+      "edition_verse_id": "ASV1901:PSA.104.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who layeth the beams of his chambers in the waters;\nWho maketh the clouds his chariot;\nWho walketh upon the wings of the wind;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.4",
+      "edition_verse_id": "ASV1901:PSA.104.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who maketh winds his messengers;\nFlames of fire his ministers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.5",
+      "edition_verse_id": "ASV1901:PSA.104.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who laid the foundations of the earth,\nThat it should not be moved for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.6",
+      "edition_verse_id": "ASV1901:PSA.104.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou coveredst it with the deep as with a vesture;\nThe waters stood above the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.7",
+      "edition_verse_id": "ASV1901:PSA.104.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "At thy rebuke they fled;\nAt the voice of thy thunder they hasted away",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.8",
+      "edition_verse_id": "ASV1901:PSA.104.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "(The mountains rose, the valleys sank down)\nUnto the place which thou hadst founded for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.9",
+      "edition_verse_id": "ASV1901:PSA.104.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou hast set a bound that they may not pass over;\nThat they turn not again to cover the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.10",
+      "edition_verse_id": "ASV1901:PSA.104.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He sendeth forth springs into the valleys;\nThey run among the mountains;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.11",
+      "edition_verse_id": "ASV1901:PSA.104.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They give drink to every beast of the field;\nThe wild asses quench their thirst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.12",
+      "edition_verse_id": "ASV1901:PSA.104.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "By them the birds of the heavens have their habitation;\nThey sing among the branches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.13",
+      "edition_verse_id": "ASV1901:PSA.104.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He watereth the mountains from his chambers:\nThe earth is filled with the fruit of thy works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.14",
+      "edition_verse_id": "ASV1901:PSA.104.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He causeth the grass to grow for the cattle,\nAnd herb for the service of man;\nThat he may bring forth food out of the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.15",
+      "edition_verse_id": "ASV1901:PSA.104.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And wine that maketh glad the heart of man,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " oil to make his face to shine,\nAnd bread that strengtheneth man’s heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.16",
+      "edition_verse_id": "ASV1901:PSA.104.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The trees of Jehovah are filled ",
+          "kind": "text"
+        },
+        {
+          "text": "with moisture",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nThe cedars of Lebanon, which he hath planted;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.17",
+      "edition_verse_id": "ASV1901:PSA.104.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Where the birds make their nests:\nAs for the stork, the fir-trees are her house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.18",
+      "edition_verse_id": "ASV1901:PSA.104.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The high mountains are for the wild goats;\nThe rocks are a refuge for the conies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.19",
+      "edition_verse_id": "ASV1901:PSA.104.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He appointed the moon for seasons:\nThe sun knoweth his going down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.20",
+      "edition_verse_id": "ASV1901:PSA.104.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thou makest darkness, and it is night,\nWherein all the beasts of the forest creep forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.21",
+      "edition_verse_id": "ASV1901:PSA.104.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The young lions roar after their prey,\nAnd seek their food from God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.22",
+      "edition_verse_id": "ASV1901:PSA.104.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The sun ariseth, they get them away,\nAnd lay them down in their dens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.23",
+      "edition_verse_id": "ASV1901:PSA.104.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Man goeth forth unto his work\nAnd to his labor until the evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.24",
+      "edition_verse_id": "ASV1901:PSA.104.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "O Jehovah, how manifold are thy works!\nIn wisdom hast thou made them all:\nThe earth is full of thy riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.25",
+      "edition_verse_id": "ASV1901:PSA.104.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Yonder is the sea, great and wide,\nWherein are things creeping innumerable,\nBoth small and great beasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.26",
+      "edition_verse_id": "ASV1901:PSA.104.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "There go the ships;\nThere is leviathan, whom thou hast formed to play therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.27",
+      "edition_verse_id": "ASV1901:PSA.104.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "These wait all for thee,\nThat thou mayest give them their food in due season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.28",
+      "edition_verse_id": "ASV1901:PSA.104.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thou givest unto them, they gather;\nThou openest thy hand, they are satisfied with good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.29",
+      "edition_verse_id": "ASV1901:PSA.104.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Thou hidest thy face, they are troubled;\nThou takest away their breath, they die,\nAnd return to their dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.30",
+      "edition_verse_id": "ASV1901:PSA.104.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Thou sendest forth thy Spirit, they are created;\nAnd thou renewest the face of the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.31",
+      "edition_verse_id": "ASV1901:PSA.104.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Let the glory of Jehovah endure for ever;\nLet Jehovah rejoice in his works:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.32",
+      "edition_verse_id": "ASV1901:PSA.104.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Who looketh on the earth, and it trembleth;\nHe toucheth the mountains, and they smoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.33",
+      "edition_verse_id": "ASV1901:PSA.104.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "I will sing unto Jehovah as long as I live:\nI will sing praise to my God while I have any being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.34",
+      "edition_verse_id": "ASV1901:PSA.104.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let my meditation be sweet unto him:\nI will rejoice in Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.104.35",
+      "edition_verse_id": "ASV1901:PSA.104.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Let sinners be consumed out of the earth.\nAnd let the wicked be no more.\nBless Jehovah, O my soul.Praise ye Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah’s care over all his works.",
+      "before_verse": 1
+    }
+  ]
+}

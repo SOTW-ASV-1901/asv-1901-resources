@@ -1,0 +1,684 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 89,
+  "verses": [
+    {
+      "id": "PSA.89.1",
+      "edition_verse_id": "ASV1901:PSA.89.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will sing of the lovingkindness of Jehovah for ever:\nWith my mouth will I make known thy faithfulness to all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.2",
+      "edition_verse_id": "ASV1901:PSA.89.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For I have said, Mercy shall be built up for ever;\nThy faithfulness wilt thou establish in the very heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.3",
+      "edition_verse_id": "ASV1901:PSA.89.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have made a covenant with my chosen,\nI have sworn unto David my servant:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.4",
+      "edition_verse_id": "ASV1901:PSA.89.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thy seed will I establish for ever,\nAnd build up thy throne to all generations. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.5",
+      "edition_verse_id": "ASV1901:PSA.89.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the heavens shall praise thy wonders, O Jehovah;\nThy faithfulness also in the assembly of the holy ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.6",
+      "edition_verse_id": "ASV1901:PSA.89.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For who in the skies can be compared unto Jehovah?\nWho among the sons of the mighty is like unto Jehovah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.7",
+      "edition_verse_id": "ASV1901:PSA.89.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A God very terrible in the council of the holy ones,\nAnd to be feared above all them that are round about him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.8",
+      "edition_verse_id": "ASV1901:PSA.89.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O Jehovah God of hosts,\nWho is a mighty one, like unto thee, O Jehovah?\nAnd thy faithfulness is round about thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.9",
+      "edition_verse_id": "ASV1901:PSA.89.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou rulest the pride of the sea:\nWhen the waves thereof arise, thou stillest them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.10",
+      "edition_verse_id": "ASV1901:PSA.89.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou hast broken Rahab in pieces, as one that is slain;\nThou hast scattered thine enemies with the arm of thy strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.11",
+      "edition_verse_id": "ASV1901:PSA.89.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The heavens are thine, the earth also is thine:\nThe world and the fulness thereof, thou hast founded them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.12",
+      "edition_verse_id": "ASV1901:PSA.89.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The north and the south, thou hast created them:\nTabor and Hermon rejoice in thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.13",
+      "edition_verse_id": "ASV1901:PSA.89.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou hast a mighty arm;\nStrong is thy hand, and high is thy right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.14",
+      "edition_verse_id": "ASV1901:PSA.89.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Righteousness and justice are the foundation of thy throne:\nLovingkindness and truth go before thy face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.15",
+      "edition_verse_id": "ASV1901:PSA.89.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Blessed is the people that know the joyful sound:\nThey walk, O Jehovah, in the light of thy countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.16",
+      "edition_verse_id": "ASV1901:PSA.89.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In thy name do they rejoice all the day;\nAnd in thy righteousness are they exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.17",
+      "edition_verse_id": "ASV1901:PSA.89.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For thou art the glory of their strength;\nAnd in thy favor our horn shall be exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.18",
+      "edition_verse_id": "ASV1901:PSA.89.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For our shield belongeth unto Jehovah;And our king to the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.19",
+      "edition_verse_id": "ASV1901:PSA.89.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then thou spakest in vision to thy saints,\nAnd saidst, I have laid help upon one that is mighty;\nI have exalted one chosen out of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.20",
+      "edition_verse_id": "ASV1901:PSA.89.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I have found David my servant;\nWith my holy oil have I anointed him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.21",
+      "edition_verse_id": "ASV1901:PSA.89.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "With whom my hand shall be established;\nMine arm also shall strengthen him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.22",
+      "edition_verse_id": "ASV1901:PSA.89.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The enemy shall not exact from him,\nNor the son of wickedness afflict him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.23",
+      "edition_verse_id": "ASV1901:PSA.89.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will beat down his adversaries before him,\nAnd smite them that hate him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.24",
+      "edition_verse_id": "ASV1901:PSA.89.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But my faithfulness and my lovingkindness shall be with him;\nAnd in my name shall his horn be exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.25",
+      "edition_verse_id": "ASV1901:PSA.89.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I will set his hand also on the sea,\nAnd his right hand on the rivers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.26",
+      "edition_verse_id": "ASV1901:PSA.89.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He shall cry unto me, Thou art my Father,\nMy God, and the rock of my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.27",
+      "edition_verse_id": "ASV1901:PSA.89.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I also will make him ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " first-born,\nThe highest of the kings of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.28",
+      "edition_verse_id": "ASV1901:PSA.89.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "My lovingkindness will I keep for him for evermore;\nAnd my covenant shall stand fast with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.29",
+      "edition_verse_id": "ASV1901:PSA.89.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "His seed also will I make to endure for ever,\nAnd his throne as the days of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.30",
+      "edition_verse_id": "ASV1901:PSA.89.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If his children forsake my law,\nAnd walk not in mine ordinances;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.31",
+      "edition_verse_id": "ASV1901:PSA.89.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "If they break my statutes,\nAnd keep not my commandments;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.32",
+      "edition_verse_id": "ASV1901:PSA.89.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then will I visit their transgression with the rod,\nAnd their iniquity with stripes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.33",
+      "edition_verse_id": "ASV1901:PSA.89.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But my lovingkindness will I not utterly take from him,\nNor suffer my faithfulness to fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.34",
+      "edition_verse_id": "ASV1901:PSA.89.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "My covenant will I not break,\nNor alter the thing that is gone out of my lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.35",
+      "edition_verse_id": "ASV1901:PSA.89.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Once have I sworn by my holiness:\nI will not lie unto David:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.36",
+      "edition_verse_id": "ASV1901:PSA.89.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "His seed shall endure for ever,\nAnd his throne as the sun before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.37",
+      "edition_verse_id": "ASV1901:PSA.89.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "It shall be established for ever as the moon,And ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the faithful witness in the sky. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.38",
+      "edition_verse_id": "ASV1901:PSA.89.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But thou hast cast off and rejected,\nThou hast been wroth with thine anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.39",
+      "edition_verse_id": "ASV1901:PSA.89.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Thou hast abhorred the covenant of thy servant:\nThou hast profaned his crown ",
+          "kind": "text"
+        },
+        {
+          "text": "by casting it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.40",
+      "edition_verse_id": "ASV1901:PSA.89.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Thou hast broken down all his hedges;\nThou hast brought his strongholds to ruin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.41",
+      "edition_verse_id": "ASV1901:PSA.89.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "All that pass by the way rob him:\nHe is become a reproach to his neighbors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.42",
+      "edition_verse_id": "ASV1901:PSA.89.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Thou hast exalted the right hand of his adversaries;\nThou hast made all his enemies to rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.43",
+      "edition_verse_id": "ASV1901:PSA.89.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Yea, thou turnest back the edge of his sword,\nAnd hast not made him to stand in the battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.44",
+      "edition_verse_id": "ASV1901:PSA.89.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Thou hast made his brightness to cease,\nAnd cast his throne down to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.45",
+      "edition_verse_id": "ASV1901:PSA.89.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "The days of his youth hast thou shortened:\nThou hast covered him with shame. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.46",
+      "edition_verse_id": "ASV1901:PSA.89.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "How long, O Jehovah? wilt thou hide thyself for ever?",
+          "kind": "text"
+        },
+        {
+          "text": "How long",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall thy wrath burn like fire?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.47",
+      "edition_verse_id": "ASV1901:PSA.89.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Oh remember how short my time is:\nFor what vanity hast thou created all the children of men!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.48",
+      "edition_verse_id": "ASV1901:PSA.89.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "What man is he that shall live and not see death,\nThat shall deliver his soul from the power of Sheol? [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.49",
+      "edition_verse_id": "ASV1901:PSA.89.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Lord, where are thy former lovingkindnesses,\nWhich thou swarest unto David in thy faithfulness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.50",
+      "edition_verse_id": "ASV1901:PSA.89.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Remember, Lord, the reproach of thy servants;\nHow I do bear in my bosom ",
+          "kind": "text"
+        },
+        {
+          "text": "the reproach of",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the mighty peoples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.51",
+      "edition_verse_id": "ASV1901:PSA.89.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Wherewith thine enemies have reproached, O Jehovah,\nWherewith they have reproached the footsteps of thine anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.52",
+      "edition_verse_id": "ASV1901:PSA.89.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Blessed be Jehovah for evermore.\nAmen, and Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah’s covenant with David, and Israel’s afflictions.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "Maschil of Ethan the Ezrahite.",
+      "before_verse": 1
+    }
+  ]
+}

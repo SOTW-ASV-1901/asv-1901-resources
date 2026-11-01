@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 142,
+  "verses": [
+    {
+      "id": "PSA.142.1",
+      "edition_verse_id": "ASV1901:PSA.142.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I cry with my voice unto Jehovah;\nWith my voice unto Jehovah do I make supplication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.142.2",
+      "edition_verse_id": "ASV1901:PSA.142.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I pour out my complaint before him;\nI show before him my trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.142.3",
+      "edition_verse_id": "ASV1901:PSA.142.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When my spirit was overwhelmed within me,\nThou knewest my path.\nIn the way wherein I walk\nHave they hidden a snare for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.142.4",
+      "edition_verse_id": "ASV1901:PSA.142.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Look on ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " right hand, and see;\nFor there is no man that knoweth me:\nRefuge hath failed me;\nNo man careth for my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.142.5",
+      "edition_verse_id": "ASV1901:PSA.142.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I cried unto thee, O Jehovah;\nI said, Thou art my refuge,\nMy portion in the land of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.142.6",
+      "edition_verse_id": "ASV1901:PSA.142.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Attend unto my cry;\nFor I am brought very low:\nDeliver me from my persecutors;\nFor they are stronger than I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.142.7",
+      "edition_verse_id": "ASV1901:PSA.142.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Bring my soul out of prison,\nThat I may give thanks unto thy name:\nThe righteous shall compass me about;\nFor thou wilt deal bountifully with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for help in trouble.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "Maschil of David, when he was in the cave; a Prayer.",
+      "before_verse": 1
+    }
+  ]
+}

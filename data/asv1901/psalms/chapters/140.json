@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 140,
+  "verses": [
+    {
+      "id": "PSA.140.1",
+      "edition_verse_id": "ASV1901:PSA.140.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Deliver me, O Jehovah, from the evil man;\nPreserve me from the violent man:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.2",
+      "edition_verse_id": "ASV1901:PSA.140.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Who devise mischiefs in their heart;\nContinually do they gather themselves together for war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.3",
+      "edition_verse_id": "ASV1901:PSA.140.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They have sharpened their tongue like a serpent;\nAdders’ poison is under their lips. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.4",
+      "edition_verse_id": "ASV1901:PSA.140.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Keep me, O Jehovah, from the hands of the wicked;\nPreserve me from the violent man:\nWho have purposed to thrust aside my steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.5",
+      "edition_verse_id": "ASV1901:PSA.140.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The proud have hid a snare for me, and cords;\nThey have spread a net by the wayside;\nThey have set gins for me. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.6",
+      "edition_verse_id": "ASV1901:PSA.140.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I said unto Jehovah, Thou art my God:\nGive ear unto the voice of my supplications, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.7",
+      "edition_verse_id": "ASV1901:PSA.140.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "O Jehovah the Lord, the strength of my salvation,\nThou hast covered my head in the day of battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.8",
+      "edition_verse_id": "ASV1901:PSA.140.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Grant not, O Jehovah, the desires of the wicked;\nFurther not his evil device, ",
+          "kind": "text"
+        },
+        {
+          "text": "lest",
+          "kind": "supplied"
+        },
+        {
+          "text": " they exalt themselves. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.9",
+      "edition_verse_id": "ASV1901:PSA.140.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As for the head of those that compass me about,\nLet the mischief of their own lips cover them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.10",
+      "edition_verse_id": "ASV1901:PSA.140.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let burning coals fall upon them:\nLet them be cast into the fire,\nInto deep pits, whence they shall not rise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.11",
+      "edition_verse_id": "ASV1901:PSA.140.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "An evil speaker shall not be established in the earth:\nEvil shall hunt the violent man to overthrow him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.12",
+      "edition_verse_id": "ASV1901:PSA.140.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I know that Jehovah will maintain the cause of the afflicted,\nAnd justice for the needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.13",
+      "edition_verse_id": "ASV1901:PSA.140.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Surely the righteous shall give thanks unto thy name:\nThe upright shall dwell in thy presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for protection against persecutors.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 150,
+  "verses": [
+    {
+      "id": "PSA.150.1",
+      "edition_verse_id": "ASV1901:PSA.150.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye Jehovah.\nPraise God in his sanctuary:\nPraise him in the firmament of his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.150.2",
+      "edition_verse_id": "ASV1901:PSA.150.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Praise him for his mighty acts:\nPraise him according to his excellent greatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.150.3",
+      "edition_verse_id": "ASV1901:PSA.150.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Praise him with trumpet sound:\nPraise him with psaltery and harp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.150.4",
+      "edition_verse_id": "ASV1901:PSA.150.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Praise him with timbrel and dance:\nPraise him with stringed instruments and pipe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.150.5",
+      "edition_verse_id": "ASV1901:PSA.150.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Praise him with loud cymbals:\nPraise him with high sounding cymbals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.150.6",
+      "edition_verse_id": "ASV1901:PSA.150.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let everything that hath breath praise Jehovah.Praise ye Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Call to praise God with musical instruments.",
+      "before_verse": 1
+    }
+  ]
+}

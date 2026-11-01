@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 108,
+  "verses": [
+    {
+      "id": "PSA.108.1",
+      "edition_verse_id": "ASV1901:PSA.108.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My heart is fixed, O God;\nI will sing, yea, I will sing praises, even with my glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.2",
+      "edition_verse_id": "ASV1901:PSA.108.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Awake, psaltery and harp:\nI myself will awake right early.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.3",
+      "edition_verse_id": "ASV1901:PSA.108.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will give thanks unto thee, O Jehovah, among the peoples;\nAnd I will sing praises unto thee among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.4",
+      "edition_verse_id": "ASV1901:PSA.108.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thy lovingkindness is great above the heavens;\nAnd thy truth ",
+          "kind": "text"
+        },
+        {
+          "text": "reacheth",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the skies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.5",
+      "edition_verse_id": "ASV1901:PSA.108.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Be thou exalted, O God, above the heavens,\nAnd thy glory above all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.6",
+      "edition_verse_id": "ASV1901:PSA.108.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "That thy beloved may be delivered,\nSave with thy right hand, and answer us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.7",
+      "edition_verse_id": "ASV1901:PSA.108.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "God hath spoken in his holiness: I will exult;\nI will divide Shechem, and mete out the valley of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.8",
+      "edition_verse_id": "ASV1901:PSA.108.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Gilead is mine; Manasseh is mine;\nEphraim also is the defence of my head;\nJudah is my sceptre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.9",
+      "edition_verse_id": "ASV1901:PSA.108.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Moab is my washpot;Upon Edom will I cast my shoe;\nOver Philistia will I shout.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.10",
+      "edition_verse_id": "ASV1901:PSA.108.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who will bring me into the fortified city?\nWho hath led me unto Edom?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.11",
+      "edition_verse_id": "ASV1901:PSA.108.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Hast not thou cast us off, O God?\nAnd thou goest not forth, O God, with our hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.12",
+      "edition_verse_id": "ASV1901:PSA.108.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Give us help against the adversary;\nFor vain is the help of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.13",
+      "edition_verse_id": "ASV1901:PSA.108.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Through God we shall do valiantly:\nFor he it is that will tread down our adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "God praised, and supplicated to give victory.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song, a Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

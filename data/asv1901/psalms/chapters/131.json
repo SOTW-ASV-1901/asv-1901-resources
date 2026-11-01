@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 131,
+  "verses": [
+    {
+      "id": "PSA.131.1",
+      "edition_verse_id": "ASV1901:PSA.131.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jehovah, my heart is not haughty, nor mine eyes lofty;\nNeither do I exercise myself in great matters,\nOr in things too wonderful for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.131.2",
+      "edition_verse_id": "ASV1901:PSA.131.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Surely I have stilled and quieted my soul;\nLike a weaned child with his mother,\nLike a weaned child is my soul within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.131.3",
+      "edition_verse_id": "ASV1901:PSA.131.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O Israel, hope in Jehovah\nFrom this time forth and for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Childlike trust in Jehovah.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song of Ascents; of David.",
+      "before_verse": 1
+    }
+  ]
+}

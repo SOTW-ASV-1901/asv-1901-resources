@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 82,
+  "verses": [
+    {
+      "id": "PSA.82.1",
+      "edition_verse_id": "ASV1901:PSA.82.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "God standeth in the congregation of God;\nHe judgeth among the gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.2",
+      "edition_verse_id": "ASV1901:PSA.82.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How long will ye judge unjustly,\nAnd respect the persons of the wicked? [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.3",
+      "edition_verse_id": "ASV1901:PSA.82.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Judge the poor and fatherless:\nDo justice to the afflicted and destitute.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.4",
+      "edition_verse_id": "ASV1901:PSA.82.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Rescue the poor and needy:\nDeliver them out of the hand of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.5",
+      "edition_verse_id": "ASV1901:PSA.82.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They know not, neither do they understand;\nThey walk to and fro in darkness:\nAll the foundations of the earth are shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.6",
+      "edition_verse_id": "ASV1901:PSA.82.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I said, Ye are gods,\nAnd all of you sons of the Most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.7",
+      "edition_verse_id": "ASV1901:PSA.82.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Nevertheless ye shall die like men,\nAnd fall like one of the princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.8",
+      "edition_verse_id": "ASV1901:PSA.82.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Arise, O God, judge the earth;\nFor thou shalt inherit all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Unjust judgments rebuked.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of Asaph.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 101,
+  "verses": [
+    {
+      "id": "PSA.101.1",
+      "edition_verse_id": "ASV1901:PSA.101.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will sing of lovingkindness and justice:\nUnto thee, O Jehovah, will I sing praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.2",
+      "edition_verse_id": "ASV1901:PSA.101.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will behave myself wisely in a perfect way:\nOh when wilt thou come unto me?\nI will walk within my house with a perfect heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.3",
+      "edition_verse_id": "ASV1901:PSA.101.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will set no base thing before mine eyes:\nI hate the work of them that turn aside;\nIt shall not cleave unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.4",
+      "edition_verse_id": "ASV1901:PSA.101.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "A perverse heart shall depart from me:\nI will know no evil thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.5",
+      "edition_verse_id": "ASV1901:PSA.101.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Whoso privily slandereth his neighbor, him will I destroy:\nHim that hath a high look and a proud heart will I not suffer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.6",
+      "edition_verse_id": "ASV1901:PSA.101.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me:\nHe that walketh in a perfect way, he shall minister unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.7",
+      "edition_verse_id": "ASV1901:PSA.101.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He that worketh deceit shall not dwell within my house:\nHe that speaketh falsehood shall not be established before mine eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.8",
+      "edition_verse_id": "ASV1901:PSA.101.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Morning by morning will I destroy all the wicked of the land;\nTo cut off all the workers of iniquity from the city of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The psalmist’s profession of uprightness.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

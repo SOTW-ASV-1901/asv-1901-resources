@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 114,
+  "verses": [
+    {
+      "id": "PSA.114.1",
+      "edition_verse_id": "ASV1901:PSA.114.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Israel went forth out of Egypt,\nThe house of Jacob from a people of strange language;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.2",
+      "edition_verse_id": "ASV1901:PSA.114.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Judah became his sanctuary,\nIsrael his dominion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.3",
+      "edition_verse_id": "ASV1901:PSA.114.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sea saw it, and fled;\nThe Jordan was driven back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.4",
+      "edition_verse_id": "ASV1901:PSA.114.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The mountains skipped like rams,\nThe little hills like lambs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.5",
+      "edition_verse_id": "ASV1901:PSA.114.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "What aileth thee, O thou sea, that thou fleest?\nThou Jordan, that thou turnest back?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.6",
+      "edition_verse_id": "ASV1901:PSA.114.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye mountains, that ye skip like rams;\nYe little hills, like lambs?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.7",
+      "edition_verse_id": "ASV1901:PSA.114.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Tremble, thou earth, at the presence of the Lord,\nAt the presence of the God of Jacob,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.8",
+      "edition_verse_id": "ASV1901:PSA.114.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who turned the rock into a pool of water,\nThe flint into a fountain of waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "God’s deliverance of Israel from Egypt.",
+      "before_verse": 1
+    }
+  ]
+}

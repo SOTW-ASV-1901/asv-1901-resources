@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 87,
+  "verses": [
+    {
+      "id": "PSA.87.1",
+      "edition_verse_id": "ASV1901:PSA.87.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "His foundation is in the holy mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.87.2",
+      "edition_verse_id": "ASV1901:PSA.87.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah loveth the gates of Zion\nMore than all the dwellings of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.87.3",
+      "edition_verse_id": "ASV1901:PSA.87.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Glorious things are spoken of thee, O city of God. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.87.4",
+      "edition_verse_id": "ASV1901:PSA.87.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will make mention of Rahab and Babylon as among them that know me:\nBehold, Philistia, and Tyre, with Ethiopia:\nThis one was born there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.87.5",
+      "edition_verse_id": "ASV1901:PSA.87.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Yea, of Zion it shall be said, This one and that one was born in her;\nAnd the Most High himself will establish her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.87.6",
+      "edition_verse_id": "ASV1901:PSA.87.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Jehovah will count, when he writeth up the peoples,\nThis one was born there. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.87.7",
+      "edition_verse_id": "ASV1901:PSA.87.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They that sing as well as they that dance ",
+          "kind": "text"
+        },
+        {
+          "text": "shall say",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nAll my fountains are in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The privileges of citizenship in Zion.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of the sons of Korah; a Song.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 125,
+  "verses": [
+    {
+      "id": "PSA.125.1",
+      "edition_verse_id": "ASV1901:PSA.125.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "They that trust in Jehovah\nAre as mount Zion, which cannot be moved, but abideth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.125.2",
+      "edition_verse_id": "ASV1901:PSA.125.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As the mountains are round about Jerusalem,\nSo Jehovah is round about his people\nFrom this time forth and for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.125.3",
+      "edition_verse_id": "ASV1901:PSA.125.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the sceptre of wickedness shall not rest upon the lot of the righteous;\nThat the righteous put not forth their hands unto iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.125.4",
+      "edition_verse_id": "ASV1901:PSA.125.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do good, O Jehovah, unto those that are good,\nAnd to them that are upright in their hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.125.5",
+      "edition_verse_id": "ASV1901:PSA.125.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But as for such as turn aside unto their crooked ways,\nJehovah will lead them forth with the workers of iniquity.\nPeace be upon Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah round about his people.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song of Ascents.",
+      "before_verse": 1
+    }
+  ]
+}

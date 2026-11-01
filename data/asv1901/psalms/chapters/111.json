@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 111,
+  "verses": [
+    {
+      "id": "PSA.111.1",
+      "edition_verse_id": "ASV1901:PSA.111.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye Jehovah.\nI will give thanks unto Jehovah with my whole heart,\nIn the council of the upright, and in the congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.2",
+      "edition_verse_id": "ASV1901:PSA.111.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The works of Jehovah are great,\nSought out of all them that have pleasure therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.3",
+      "edition_verse_id": "ASV1901:PSA.111.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "His work is honor and majesty;\nAnd his righteousness endureth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.4",
+      "edition_verse_id": "ASV1901:PSA.111.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He hath made his wonderful works to be remembered:\nJehovah is gracious and merciful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.5",
+      "edition_verse_id": "ASV1901:PSA.111.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He hath given food unto them that fear him:\nHe will ever be mindful of his covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.6",
+      "edition_verse_id": "ASV1901:PSA.111.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He hath showed his people the power of his works,\nIn giving them the heritage of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.7",
+      "edition_verse_id": "ASV1901:PSA.111.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The works of his hands are truth and justice;\nAll his precepts are sure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.8",
+      "edition_verse_id": "ASV1901:PSA.111.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are established for ever and ever;\nThey are done in truth and uprightness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.9",
+      "edition_verse_id": "ASV1901:PSA.111.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He hath sent redemption unto his people;\nHe hath commanded his covenant for ever:\nHoly and reverend is his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.10",
+      "edition_verse_id": "ASV1901:PSA.111.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The fear of Jehovah is the beginning of wisdom;A good understanding have all they that do ",
+          "kind": "text"
+        },
+        {
+          "text": "his commandments",
+          "kind": "supplied"
+        },
+        {
+          "text": ":\nHis praise endureth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah praised for his goodness.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 85,
+  "verses": [
+    {
+      "id": "PSA.85.1",
+      "edition_verse_id": "ASV1901:PSA.85.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jehovah, thou hast been favorable unto thy land;\nThou hast brought back the captivity of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.2",
+      "edition_verse_id": "ASV1901:PSA.85.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou hast forgiven the iniquity of thy people;\nThou hast covered all their sin. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.3",
+      "edition_verse_id": "ASV1901:PSA.85.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou hast taken away all thy wrath;\nThou hast turned ",
+          "kind": "text"
+        },
+        {
+          "text": "thyself",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the fierceness of thine anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.4",
+      "edition_verse_id": "ASV1901:PSA.85.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Turn us, O God of our salvation,\nAnd cause thine indignation toward us to cease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.5",
+      "edition_verse_id": "ASV1901:PSA.85.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Wilt thou be angry with us for ever?\nWilt thou draw out thine anger to all generations?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.6",
+      "edition_verse_id": "ASV1901:PSA.85.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Wilt thou not quicken us again,\nThat thy people may rejoice in thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.7",
+      "edition_verse_id": "ASV1901:PSA.85.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Show us thy lovingkindness, O Jehovah,\nAnd grant us thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.8",
+      "edition_verse_id": "ASV1901:PSA.85.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will hear what God Jehovah will speak;\nFor he will speak peace unto his people, and to his saints:\nBut let them not turn again to folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.9",
+      "edition_verse_id": "ASV1901:PSA.85.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely his salvation is nigh them that fear him,\nThat glory may dwell in our land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.10",
+      "edition_verse_id": "ASV1901:PSA.85.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Mercy and truth are met together;\nRighteousness and peace have kissed each other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.11",
+      "edition_verse_id": "ASV1901:PSA.85.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Truth springeth out of the earth;\nAnd righteousness hath looked down from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.12",
+      "edition_verse_id": "ASV1901:PSA.85.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Yea, Jehovah will give that which is good;\nAnd our land shall yield its increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.13",
+      "edition_verse_id": "ASV1901:PSA.85.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Righteousness shall go before him,\nAnd shall make his footsteps a way ",
+          "kind": "text"
+        },
+        {
+          "text": "to walk in",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for God’s mercy upon the nation.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of the sons of Korah.",
+      "before_verse": 1
+    }
+  ]
+}

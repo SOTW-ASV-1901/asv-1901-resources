@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 137,
+  "verses": [
+    {
+      "id": "PSA.137.1",
+      "edition_verse_id": "ASV1901:PSA.137.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "By the rivers of Babylon,\nThere we sat down, yea, we wept,\nWhen we remembered Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.2",
+      "edition_verse_id": "ASV1901:PSA.137.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Upon the willows in the midst thereof\nWe hanged up our harps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.3",
+      "edition_verse_id": "ASV1901:PSA.137.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For there they that led us captive required of us songs,\nAnd they that wasted us ",
+          "kind": "text"
+        },
+        {
+          "text": "required of us",
+          "kind": "supplied"
+        },
+        {
+          "text": " mirth, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nSing us one of the songs of Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.4",
+      "edition_verse_id": "ASV1901:PSA.137.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How shall we sing Jehovah’s song\nIn a foreign land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.5",
+      "edition_verse_id": "ASV1901:PSA.137.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If I forget thee, O Jerusalem,\nLet my right hand forget ",
+          "kind": "text"
+        },
+        {
+          "text": "her skill",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.6",
+      "edition_verse_id": "ASV1901:PSA.137.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let my tongue cleave to the roof of my mouth,\nIf I remember thee not;\nIf I prefer not Jerusalem\nAbove my chief joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.7",
+      "edition_verse_id": "ASV1901:PSA.137.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember, O Jehovah, against the children of Edom\nThe day of Jerusalem;\nWho said, Rase it, rase it,\nEven to the foundation thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.8",
+      "edition_verse_id": "ASV1901:PSA.137.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O daughter of Babylon, that art to be destroyed,\nHappy shall he be, that rewardeth thee\nAs thou hast served us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.9",
+      "edition_verse_id": "ASV1901:PSA.137.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Happy shall he be, that taketh and dasheth thy little ones\nAgainst the rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Sorrows of the exiles in Babylon.",
+      "before_verse": 1
+    }
+  ]
+}

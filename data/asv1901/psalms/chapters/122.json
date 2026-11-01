@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 122,
+  "verses": [
+    {
+      "id": "PSA.122.1",
+      "edition_verse_id": "ASV1901:PSA.122.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I was glad when they said unto me,\nLet us go unto the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.2",
+      "edition_verse_id": "ASV1901:PSA.122.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Our feet are standing\nWithin thy gates, O Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.3",
+      "edition_verse_id": "ASV1901:PSA.122.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jerusalem, that art builded\nAs a city that is compact together;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.4",
+      "edition_verse_id": "ASV1901:PSA.122.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Whither the tribes go up, even the tribes of Jehovah,",
+          "kind": "text"
+        },
+        {
+          "text": "For",
+          "kind": "supplied"
+        },
+        {
+          "text": " an ordinance for Israel,\nTo give thanks unto the name of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.5",
+      "edition_verse_id": "ASV1901:PSA.122.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For there are set thrones for judgment,\nThe thrones of the house of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.6",
+      "edition_verse_id": "ASV1901:PSA.122.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Pray for the peace of Jerusalem:They shall prosper that love thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.7",
+      "edition_verse_id": "ASV1901:PSA.122.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Peace be within thy walls,\nAnd prosperity within thy palaces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.8",
+      "edition_verse_id": "ASV1901:PSA.122.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For my brethren and companions’ sakes,\nI will now say, Peace be within thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.9",
+      "edition_verse_id": "ASV1901:PSA.122.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For the sake of the house of Jehovah our God\nI will seek thy good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for the peace of Jerusalem.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song of Ascents; of David.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 146,
+  "verses": [
+    {
+      "id": "PSA.146.1",
+      "edition_verse_id": "ASV1901:PSA.146.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye Jehovah.\nPraise Jehovah, O my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.2",
+      "edition_verse_id": "ASV1901:PSA.146.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "While I live will I praise Jehovah:\nI will sing praises unto my God while I have any being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.3",
+      "edition_verse_id": "ASV1901:PSA.146.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Put not your trust in princes,\nNor in the son of man, in whom there is no help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.4",
+      "edition_verse_id": "ASV1901:PSA.146.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "His breath goeth forth, he returneth to his earth;\nIn that very day his thoughts perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.5",
+      "edition_verse_id": "ASV1901:PSA.146.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Happy is he that hath the God of Jacob for his help,\nWhose hope is in Jehovah his God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.6",
+      "edition_verse_id": "ASV1901:PSA.146.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Who made heaven and earth,\nThe sea, and all that in them is;\nWho keepeth truth for ever;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.7",
+      "edition_verse_id": "ASV1901:PSA.146.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Who executeth justice for the oppressed;\nWho giveth food to the hungry.\nJehovah looseth the prisoners;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.8",
+      "edition_verse_id": "ASV1901:PSA.146.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jehovah openeth ",
+          "kind": "text"
+        },
+        {
+          "text": "the eyes of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the blind;\nJehovah raiseth up them that are bowed down;\nJehovah loveth the righteous;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.9",
+      "edition_verse_id": "ASV1901:PSA.146.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Jehovah preserveth the sojourners;\nHe upholdeth the fatherless and widow;\nBut the way of the wicked he turneth upside down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.146.10",
+      "edition_verse_id": "ASV1901:PSA.146.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jehovah will reign for ever,\nThy God, O Zion, unto all generations.Praise ye Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Praise to Jehovah the abundant Helper.",
+      "before_verse": 1
+    }
+  ]
+}

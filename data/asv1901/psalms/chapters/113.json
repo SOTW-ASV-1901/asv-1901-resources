@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 113,
+  "verses": [
+    {
+      "id": "PSA.113.1",
+      "edition_verse_id": "ASV1901:PSA.113.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise ye Jehovah.\nPraise, O ye servants of Jehovah,\nPraise the name of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.2",
+      "edition_verse_id": "ASV1901:PSA.113.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed be the name of Jehovah\nFrom this time forth and for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.3",
+      "edition_verse_id": "ASV1901:PSA.113.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "From the rising of the sun unto the going down of the same\nJehovah’s name is to be praised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.4",
+      "edition_verse_id": "ASV1901:PSA.113.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jehovah is high above all nations,\nAnd his glory above the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.5",
+      "edition_verse_id": "ASV1901:PSA.113.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who is like unto Jehovah our God,\nThat hath his seat on high,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.6",
+      "edition_verse_id": "ASV1901:PSA.113.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "That humbleth himself to behold",
+          "kind": "text"
+        },
+        {
+          "text": "The things that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in heaven and in the earth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.7",
+      "edition_verse_id": "ASV1901:PSA.113.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He raiseth up the poor out of the dust,\nAnd lifteth up the needy from the dunghill;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.8",
+      "edition_verse_id": "ASV1901:PSA.113.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "That he may set him with princes,\nEven with the princes of his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.9",
+      "edition_verse_id": "ASV1901:PSA.113.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He maketh the barren woman to keep house,",
+          "kind": "text"
+        },
+        {
+          "text": "And to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a joyful mother of children.Praise ye Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah praised for exalting the humble.",
+      "before_verse": 1
+    }
+  ]
+}

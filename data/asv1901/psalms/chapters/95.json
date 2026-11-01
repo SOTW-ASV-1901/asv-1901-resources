@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 95,
+  "verses": [
+    {
+      "id": "PSA.95.1",
+      "edition_verse_id": "ASV1901:PSA.95.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Oh come, let us sing unto Jehovah;\nLet us make a joyful noise to the rock of our salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.2",
+      "edition_verse_id": "ASV1901:PSA.95.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let us come before his presence with thanksgiving;\nLet us make a joyful noise unto him with psalms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.3",
+      "edition_verse_id": "ASV1901:PSA.95.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Jehovah is a great God,\nAnd a great King above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.4",
+      "edition_verse_id": "ASV1901:PSA.95.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In his hand are the deep places of the earth;\nThe heights of the mountains are his also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.5",
+      "edition_verse_id": "ASV1901:PSA.95.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sea is his, and he made it;\nAnd his hands formed the dry land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.6",
+      "edition_verse_id": "ASV1901:PSA.95.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Oh come, let us worship and bow down;\nLet us kneel before Jehovah our Maker:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.7",
+      "edition_verse_id": "ASV1901:PSA.95.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For he is our God,\nAnd we are the people of his pasture, and the sheep of his hand.\nTo-day, oh that ye would hear his voice!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.8",
+      "edition_verse_id": "ASV1901:PSA.95.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Harden not your heart, as at Meribah,\nAs in the day of Massah in the wilderness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.9",
+      "edition_verse_id": "ASV1901:PSA.95.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When your fathers tempted me,\nProved me, and saw my work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.10",
+      "edition_verse_id": "ASV1901:PSA.95.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Forty years long was I grieved with ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " generation,\nAnd said, It is a people that do err in their heart,\nAnd they have not known my ways:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.11",
+      "edition_verse_id": "ASV1901:PSA.95.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Wherefore I sware in my wrath,\nThat they should not enter into my rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Praise to Jehovah, and warning against unbelief.",
+      "before_verse": 1
+    }
+  ]
+}

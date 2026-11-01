@@ -1,0 +1,2413 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 119,
+  "verses": [
+    {
+      "id": "PSA.119.1",
+      "edition_verse_id": "ASV1901:PSA.119.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed are they that are perfect in the way,\nWho walk in the law of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.2",
+      "edition_verse_id": "ASV1901:PSA.119.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed are they that keep his testimonies,\nThat seek him with the whole heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.3",
+      "edition_verse_id": "ASV1901:PSA.119.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Yea, they do no unrighteousness;\nThey walk in his ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.4",
+      "edition_verse_id": "ASV1901:PSA.119.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou hast commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy precepts,\nThat we should observe them diligently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.5",
+      "edition_verse_id": "ASV1901:PSA.119.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Oh that my ways were established\nTo observe thy statutes!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.6",
+      "edition_verse_id": "ASV1901:PSA.119.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then shall I not be put to shame,\nWhen I have respect unto all thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.7",
+      "edition_verse_id": "ASV1901:PSA.119.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will give thanks unto thee with uprightness of heart,\nWhen I learn thy righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.8",
+      "edition_verse_id": "ASV1901:PSA.119.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will observe thy statutes:\nOh forsake me not utterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.9",
+      "edition_verse_id": "ASV1901:PSA.119.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Wherewith shall a young man cleanse his way?\nBy taking heed ",
+          "kind": "text"
+        },
+        {
+          "text": "thereto",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.10",
+      "edition_verse_id": "ASV1901:PSA.119.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "With my whole heart have I sought thee:\nOh let me not wander from thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.11",
+      "edition_verse_id": "ASV1901:PSA.119.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thy word have I laid up in my heart,\nThat I might not sin against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.12",
+      "edition_verse_id": "ASV1901:PSA.119.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Blessed art thou, O Jehovah:\nTeach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.13",
+      "edition_verse_id": "ASV1901:PSA.119.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "With my lips have I declared\nAll the ordinances of thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.14",
+      "edition_verse_id": "ASV1901:PSA.119.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have rejoiced in the way of thy testimonies,\nAs much as in all riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.15",
+      "edition_verse_id": "ASV1901:PSA.119.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will meditate on thy precepts,\nAnd have respect unto thy ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.16",
+      "edition_verse_id": "ASV1901:PSA.119.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will delight myself in thy statutes:\nI will not forget thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.17",
+      "edition_verse_id": "ASV1901:PSA.119.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Deal bountifully with thy servant, that I may live;\nSo will I observe thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.18",
+      "edition_verse_id": "ASV1901:PSA.119.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Open thou mine eyes, that I may behold\nWondrous things out of thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.19",
+      "edition_verse_id": "ASV1901:PSA.119.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I am a sojourner in the earth:\nHide not thy commandments from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.20",
+      "edition_verse_id": "ASV1901:PSA.119.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My soul breaketh for the longing\nThat it hath unto thine ordinances at all times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.21",
+      "edition_verse_id": "ASV1901:PSA.119.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou hast rebuked the proud that are cursed,\nThat do wander from thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.22",
+      "edition_verse_id": "ASV1901:PSA.119.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Take away from me reproach and contempt;\nFor I have kept thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.23",
+      "edition_verse_id": "ASV1901:PSA.119.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Princes also sat and talked against me;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy servant did meditate on thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.24",
+      "edition_verse_id": "ASV1901:PSA.119.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Thy testimonies also are my delight",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " my counsellors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.25",
+      "edition_verse_id": "ASV1901:PSA.119.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "My soul cleaveth unto the dust:\nQuicken thou me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.26",
+      "edition_verse_id": "ASV1901:PSA.119.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I declared my ways, and thou answeredst me:\nTeach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.27",
+      "edition_verse_id": "ASV1901:PSA.119.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Make me to understand the way of thy precepts:\nSo shall I meditate on thy wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.28",
+      "edition_verse_id": "ASV1901:PSA.119.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "My soul melteth for heaviness:\nStrengthen thou me according unto thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.29",
+      "edition_verse_id": "ASV1901:PSA.119.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Remove from me the way of falsehood;\nAnd grant me thy law graciously.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.30",
+      "edition_verse_id": "ASV1901:PSA.119.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I have chosen the way of faithfulness:\nThine ordinances have I set ",
+          "kind": "text"
+        },
+        {
+          "text": "before me",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.31",
+      "edition_verse_id": "ASV1901:PSA.119.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "I cleave unto thy testimonies:\nO Jehovah, put me not to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.32",
+      "edition_verse_id": "ASV1901:PSA.119.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I will run the way of thy commandments,\nWhen thou shalt enlarge my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.33",
+      "edition_verse_id": "ASV1901:PSA.119.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Teach me, O Jehovah, the way of thy statutes;\nAnd I shall keep it unto the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.34",
+      "edition_verse_id": "ASV1901:PSA.119.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Give me understanding, and I shall keep thy law;\nYea, I shall observe it with my whole heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.35",
+      "edition_verse_id": "ASV1901:PSA.119.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Make me to go in the path of thy commandments;\nFor therein do I delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.36",
+      "edition_verse_id": "ASV1901:PSA.119.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Incline my heart unto thy testimonies,\nAnd not to covetousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.37",
+      "edition_verse_id": "ASV1901:PSA.119.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Turn away mine eyes from beholding vanity,\nAnd quicken me in thy ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.38",
+      "edition_verse_id": "ASV1901:PSA.119.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Confirm unto thy servant thy word,Which ",
+          "kind": "text"
+        },
+        {
+          "text": "is in order",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the fear of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.39",
+      "edition_verse_id": "ASV1901:PSA.119.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Turn away my reproach whereof I am afraid;\nFor thine ordinances are good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.40",
+      "edition_verse_id": "ASV1901:PSA.119.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Behold, I have longed after thy precepts:\nQuicken me in thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.41",
+      "edition_verse_id": "ASV1901:PSA.119.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Let thy lovingkindnesses also come unto me, O Jehovah,\nEven thy salvation, according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.42",
+      "edition_verse_id": "ASV1901:PSA.119.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "So shall I have an answer for him that reproacheth me;\nFor I trust in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.43",
+      "edition_verse_id": "ASV1901:PSA.119.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And take not the word of truth utterly out of my mouth;\nFor I have hoped in thine ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.44",
+      "edition_verse_id": "ASV1901:PSA.119.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "So shall I observe thy law continually\nFor ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.45",
+      "edition_verse_id": "ASV1901:PSA.119.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And I shall walk at liberty;\nFor I have sought thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.46",
+      "edition_verse_id": "ASV1901:PSA.119.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "I will also speak of thy testimonies before kings,\nAnd shall not be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.47",
+      "edition_verse_id": "ASV1901:PSA.119.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And I will delight myself in thy commandments,\nWhich I have loved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.48",
+      "edition_verse_id": "ASV1901:PSA.119.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "I will lift up my hands also unto thy commandments, which I have loved;\nAnd I will meditate on thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.49",
+      "edition_verse_id": "ASV1901:PSA.119.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Remember the word unto thy servant,Because thou hast made me to hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.50",
+      "edition_verse_id": "ASV1901:PSA.119.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "This is my comfort in my affliction;For thy word hath quickened me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.51",
+      "edition_verse_id": "ASV1901:PSA.119.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "The proud have had me greatly in derision:",
+          "kind": "text"
+        },
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " have I not swerved from thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.52",
+      "edition_verse_id": "ASV1901:PSA.119.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "I have remembered thine ordinances of old, O Jehovah,\nAnd have comforted myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.53",
+      "edition_verse_id": "ASV1901:PSA.119.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Hot indignation hath taken hold upon me,\nBecause of the wicked that forsake thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.54",
+      "edition_verse_id": "ASV1901:PSA.119.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Thy statutes have been my songs\nIn the house of my pilgrimage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.55",
+      "edition_verse_id": "ASV1901:PSA.119.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "I have remembered thy name, O Jehovah, in the night,\nAnd have observed thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.56",
+      "edition_verse_id": "ASV1901:PSA.119.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "This I have had,Because I have kept thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.57",
+      "edition_verse_id": "ASV1901:PSA.119.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Jehovah is my portion:\nI have said that I would observe thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.58",
+      "edition_verse_id": "ASV1901:PSA.119.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "I entreated thy favor with my whole heart:\nBe merciful unto me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.59",
+      "edition_verse_id": "ASV1901:PSA.119.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "I thought on my ways,\nAnd turned my feet unto thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.60",
+      "edition_verse_id": "ASV1901:PSA.119.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "I made haste, and delayed not,\nTo observe thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.61",
+      "edition_verse_id": "ASV1901:PSA.119.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "The cords of the wicked have wrapped me round;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " I have not forgotten thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.62",
+      "edition_verse_id": "ASV1901:PSA.119.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "At midnight I will rise to give thanks unto thee\nBecause of thy righteous ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.63",
+      "edition_verse_id": "ASV1901:PSA.119.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "I am a companion of all them that fear thee,\nAnd of them that observe thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.64",
+      "edition_verse_id": "ASV1901:PSA.119.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "The earth, O Jehovah, is full of thy lovingkindness:\nTeach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.65",
+      "edition_verse_id": "ASV1901:PSA.119.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Thou hast dealt well with thy servant,\nO Jehovah, according unto thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.66",
+      "edition_verse_id": "ASV1901:PSA.119.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "Teach me good judgment and knowledge;\nFor I have believed in thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.67",
+      "edition_verse_id": "ASV1901:PSA.119.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Before I was afflicted I went astray;\nBut now I observe thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.68",
+      "edition_verse_id": "ASV1901:PSA.119.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "Thou art good, and doest good;\nTeach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.69",
+      "edition_verse_id": "ASV1901:PSA.119.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "The proud have forged a lie against me:\nWith my whole heart will I keep thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.70",
+      "edition_verse_id": "ASV1901:PSA.119.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "Their heart is as fat as grease;\nBut I delight in thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.71",
+      "edition_verse_id": "ASV1901:PSA.119.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "It is good for me that I have been afflicted;\nThat I may learn thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.72",
+      "edition_verse_id": "ASV1901:PSA.119.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "The law of thy mouth is better unto me\nThan thousands of gold and silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.73",
+      "edition_verse_id": "ASV1901:PSA.119.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "Thy hands have made me and fashioned me:\nGive me understanding, that I may learn thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.74",
+      "edition_verse_id": "ASV1901:PSA.119.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "They that fear thee shall see me and be glad,\nBecause I have hoped in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.75",
+      "edition_verse_id": "ASV1901:PSA.119.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "I know, O Jehovah, that thy judgments are righteous,\nAnd that in faithfulness thou hast afflicted me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.76",
+      "edition_verse_id": "ASV1901:PSA.119.76",
+      "verse": 76,
+      "spans": [
+        {
+          "text": "Let, I pray thee, thy lovingkindness be for my comfort,\nAccording to thy word unto thy servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.77",
+      "edition_verse_id": "ASV1901:PSA.119.77",
+      "verse": 77,
+      "spans": [
+        {
+          "text": "Let thy tender mercies come unto me, that I may live;\nFor thy law is my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.78",
+      "edition_verse_id": "ASV1901:PSA.119.78",
+      "verse": 78,
+      "spans": [
+        {
+          "text": "Let the proud be put to shame;\nfor they have overthrown me wrongfully:",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will meditate on thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.79",
+      "edition_verse_id": "ASV1901:PSA.119.79",
+      "verse": 79,
+      "spans": [
+        {
+          "text": "Let those that fear thee turn unto me;And they shall know thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.80",
+      "edition_verse_id": "ASV1901:PSA.119.80",
+      "verse": 80,
+      "spans": [
+        {
+          "text": "Let my heart be perfect in thy statutes,\nThat I be not put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.81",
+      "edition_verse_id": "ASV1901:PSA.119.81",
+      "verse": 81,
+      "spans": [
+        {
+          "text": "My soul fainteth for thy salvation;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " I hope in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.82",
+      "edition_verse_id": "ASV1901:PSA.119.82",
+      "verse": 82,
+      "spans": [
+        {
+          "text": "Mine eyes fail for thy word,\nWhile I say, When wilt thou comfort me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.83",
+      "edition_verse_id": "ASV1901:PSA.119.83",
+      "verse": 83,
+      "spans": [
+        {
+          "text": "For I am become like a wine-skin in the smoke;\nYet do I not forget thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.84",
+      "edition_verse_id": "ASV1901:PSA.119.84",
+      "verse": 84,
+      "spans": [
+        {
+          "text": "How many are the days of thy servant?\nWhen wilt thou execute judgment on them that persecute me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.85",
+      "edition_verse_id": "ASV1901:PSA.119.85",
+      "verse": 85,
+      "spans": [
+        {
+          "text": "The proud have digged pits for me,\nWho are not according to thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.86",
+      "edition_verse_id": "ASV1901:PSA.119.86",
+      "verse": 86,
+      "spans": [
+        {
+          "text": "All thy commandments are faithful:\nThey persecute me wrongfully; help thou me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.87",
+      "edition_verse_id": "ASV1901:PSA.119.87",
+      "verse": 87,
+      "spans": [
+        {
+          "text": "They had almost consumed me upon earth;\nBut I forsook not thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.88",
+      "edition_verse_id": "ASV1901:PSA.119.88",
+      "verse": 88,
+      "spans": [
+        {
+          "text": "Quicken me after thy lovingkindness;\nSo shall I observe the testimony of thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.89",
+      "edition_verse_id": "ASV1901:PSA.119.89",
+      "verse": 89,
+      "spans": [
+        {
+          "text": "For ever, O Jehovah,\nThy word is settled in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.90",
+      "edition_verse_id": "ASV1901:PSA.119.90",
+      "verse": 90,
+      "spans": [
+        {
+          "text": "Thy faithfulness is unto all generations:\nThou hast established the earth, and it abideth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.91",
+      "edition_verse_id": "ASV1901:PSA.119.91",
+      "verse": 91,
+      "spans": [
+        {
+          "text": "They abide this day according to thine ordinances;\nFor all things are thy servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.92",
+      "edition_verse_id": "ASV1901:PSA.119.92",
+      "verse": 92,
+      "spans": [
+        {
+          "text": "Unless thy law had been my delight,\nI should then have perished in mine affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.93",
+      "edition_verse_id": "ASV1901:PSA.119.93",
+      "verse": 93,
+      "spans": [
+        {
+          "text": "I will never forget thy precepts;\nFor with them thou hast quickened me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.94",
+      "edition_verse_id": "ASV1901:PSA.119.94",
+      "verse": 94,
+      "spans": [
+        {
+          "text": "I am thine, save me;\nFor I have sought thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.95",
+      "edition_verse_id": "ASV1901:PSA.119.95",
+      "verse": 95,
+      "spans": [
+        {
+          "text": "The wicked have waited for me, to destroy me;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " I will consider thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.96",
+      "edition_verse_id": "ASV1901:PSA.119.96",
+      "verse": 96,
+      "spans": [
+        {
+          "text": "I have seen an end of all perfection;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy commandment is exceeding broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.97",
+      "edition_verse_id": "ASV1901:PSA.119.97",
+      "verse": 97,
+      "spans": [
+        {
+          "text": "Oh how love I thy law!\nIt is my meditation all the day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.98",
+      "edition_verse_id": "ASV1901:PSA.119.98",
+      "verse": 98,
+      "spans": [
+        {
+          "text": "Thy commandments make me wiser than mine enemies;\nFor they are ever with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.99",
+      "edition_verse_id": "ASV1901:PSA.119.99",
+      "verse": 99,
+      "spans": [
+        {
+          "text": "I have more understanding than all my teachers;\nFor thy testimonies are my meditation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.100",
+      "edition_verse_id": "ASV1901:PSA.119.100",
+      "verse": 100,
+      "spans": [
+        {
+          "text": "I understand more than the aged,\nBecause I have kept thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.101",
+      "edition_verse_id": "ASV1901:PSA.119.101",
+      "verse": 101,
+      "spans": [
+        {
+          "text": "I have refrained my feet from every evil way,\nThat I might observe thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.102",
+      "edition_verse_id": "ASV1901:PSA.119.102",
+      "verse": 102,
+      "spans": [
+        {
+          "text": "I have not turned aside from thine ordinances;\nFor thou hast taught me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.103",
+      "edition_verse_id": "ASV1901:PSA.119.103",
+      "verse": 103,
+      "spans": [
+        {
+          "text": "How sweet are thy words unto my taste!",
+          "kind": "text"
+        },
+        {
+          "text": "Yea, sweeter",
+          "kind": "supplied"
+        },
+        {
+          "text": " than honey to my mouth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.104",
+      "edition_verse_id": "ASV1901:PSA.119.104",
+      "verse": 104,
+      "spans": [
+        {
+          "text": "Through thy precepts I get understanding:\nTherefore I hate every false way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.105",
+      "edition_verse_id": "ASV1901:PSA.119.105",
+      "verse": 105,
+      "spans": [
+        {
+          "text": "Thy word is a lamp unto my feet,\nAnd light unto my path.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.106",
+      "edition_verse_id": "ASV1901:PSA.119.106",
+      "verse": 106,
+      "spans": [
+        {
+          "text": "I have sworn, and have confirmed it,\nThat I will observe thy righteous ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.107",
+      "edition_verse_id": "ASV1901:PSA.119.107",
+      "verse": 107,
+      "spans": [
+        {
+          "text": "I am afflicted very much:\nQuicken me, O Jehovah, according unto thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.108",
+      "edition_verse_id": "ASV1901:PSA.119.108",
+      "verse": 108,
+      "spans": [
+        {
+          "text": "Accept, I beseech thee, the freewill-offerings of my mouth, O Jehovah,\nAnd teach me thine ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.109",
+      "edition_verse_id": "ASV1901:PSA.119.109",
+      "verse": 109,
+      "spans": [
+        {
+          "text": "My soul is continually in my hand;\nYet do I not forget thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.110",
+      "edition_verse_id": "ASV1901:PSA.119.110",
+      "verse": 110,
+      "spans": [
+        {
+          "text": "The wicked have laid a snare for me;\nYet have I not gone astray from thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.111",
+      "edition_verse_id": "ASV1901:PSA.119.111",
+      "verse": 111,
+      "spans": [
+        {
+          "text": "Thy testimonies have I taken as a heritage for ever;\nFor they are the rejoicing of my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.112",
+      "edition_verse_id": "ASV1901:PSA.119.112",
+      "verse": 112,
+      "spans": [
+        {
+          "text": "I have inclined my heart to perform thy statutes\nFor ever, even unto the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.113",
+      "edition_verse_id": "ASV1901:PSA.119.113",
+      "verse": 113,
+      "spans": [
+        {
+          "text": "I hate them that are of a double mind;\nBut thy law do I love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.114",
+      "edition_verse_id": "ASV1901:PSA.119.114",
+      "verse": 114,
+      "spans": [
+        {
+          "text": "Thou art my hiding-place and my shield:\nI hope in thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.115",
+      "edition_verse_id": "ASV1901:PSA.119.115",
+      "verse": 115,
+      "spans": [
+        {
+          "text": "Depart from me, ye evil-doers,\nThat I may keep the commandments of my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.116",
+      "edition_verse_id": "ASV1901:PSA.119.116",
+      "verse": 116,
+      "spans": [
+        {
+          "text": "Uphold me according unto thy word, that I may live;\nAnd let me not be ashamed of my hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.117",
+      "edition_verse_id": "ASV1901:PSA.119.117",
+      "verse": 117,
+      "spans": [
+        {
+          "text": "Hold thou me up, and I shall be safe,\nAnd shall have respect unto thy statutes continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.118",
+      "edition_verse_id": "ASV1901:PSA.119.118",
+      "verse": 118,
+      "spans": [
+        {
+          "text": "Thou hast set at nought all them that err from thy statutes;\nFor their deceit is falsehood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.119",
+      "edition_verse_id": "ASV1901:PSA.119.119",
+      "verse": 119,
+      "spans": [
+        {
+          "text": "Thou puttest away all the wicked of the earth like dross:\nTherefore I love thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.120",
+      "edition_verse_id": "ASV1901:PSA.119.120",
+      "verse": 120,
+      "spans": [
+        {
+          "text": "My flesh trembleth for fear of thee;\nAnd I am afraid of thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.121",
+      "edition_verse_id": "ASV1901:PSA.119.121",
+      "verse": 121,
+      "spans": [
+        {
+          "text": "I have done justice and righteousness:\nLeave me not to mine oppressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.122",
+      "edition_verse_id": "ASV1901:PSA.119.122",
+      "verse": 122,
+      "spans": [
+        {
+          "text": "Be surety for thy servant for good:\nLet not the proud oppress me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.123",
+      "edition_verse_id": "ASV1901:PSA.119.123",
+      "verse": 123,
+      "spans": [
+        {
+          "text": "Mine eyes fail for thy salvation,\nAnd for thy righteous word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.124",
+      "edition_verse_id": "ASV1901:PSA.119.124",
+      "verse": 124,
+      "spans": [
+        {
+          "text": "Deal with thy servant according unto thy lovingkindness,\nAnd teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.125",
+      "edition_verse_id": "ASV1901:PSA.119.125",
+      "verse": 125,
+      "spans": [
+        {
+          "text": "I am thy servant; give me understanding,\nThat I may know thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.126",
+      "edition_verse_id": "ASV1901:PSA.119.126",
+      "verse": 126,
+      "spans": [
+        {
+          "text": "It is time for Jehovah to work;",
+          "kind": "text"
+        },
+        {
+          "text": "For",
+          "kind": "supplied"
+        },
+        {
+          "text": " they have made void thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.127",
+      "edition_verse_id": "ASV1901:PSA.119.127",
+      "verse": 127,
+      "spans": [
+        {
+          "text": "Therefore I love thy commandments\nAbove gold, yea, above fine gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.128",
+      "edition_verse_id": "ASV1901:PSA.119.128",
+      "verse": 128,
+      "spans": [
+        {
+          "text": "Therefore I esteem all ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " precepts concerning all ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be right;",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " I hate every false way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.129",
+      "edition_verse_id": "ASV1901:PSA.119.129",
+      "verse": 129,
+      "spans": [
+        {
+          "text": "Thy testimonies are wonderful;\nTherefore doth my soul keep them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.130",
+      "edition_verse_id": "ASV1901:PSA.119.130",
+      "verse": 130,
+      "spans": [
+        {
+          "text": "The opening of thy words giveth light;\nIt giveth understanding unto the simple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.131",
+      "edition_verse_id": "ASV1901:PSA.119.131",
+      "verse": 131,
+      "spans": [
+        {
+          "text": "I opened wide my mouth, and panted;\nFor I longed for thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.132",
+      "edition_verse_id": "ASV1901:PSA.119.132",
+      "verse": 132,
+      "spans": [
+        {
+          "text": "Turn thee unto me, and have mercy upon me,\nAs thou usest to do unto those that love thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.133",
+      "edition_verse_id": "ASV1901:PSA.119.133",
+      "verse": 133,
+      "spans": [
+        {
+          "text": "Establish my footsteps in thy word;\nAnd let not any iniquity have dominion over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.134",
+      "edition_verse_id": "ASV1901:PSA.119.134",
+      "verse": 134,
+      "spans": [
+        {
+          "text": "Redeem me from the oppression of man:\nSo will I observe thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.135",
+      "edition_verse_id": "ASV1901:PSA.119.135",
+      "verse": 135,
+      "spans": [
+        {
+          "text": "Make thy face to shine upon thy servant;\nAnd teach me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.136",
+      "edition_verse_id": "ASV1901:PSA.119.136",
+      "verse": 136,
+      "spans": [
+        {
+          "text": "Streams of water run down mine eyes,\nBecause they observe not thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.137",
+      "edition_verse_id": "ASV1901:PSA.119.137",
+      "verse": 137,
+      "spans": [
+        {
+          "text": "Righteous art thou, O Jehovah,\nAnd upright are thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.138",
+      "edition_verse_id": "ASV1901:PSA.119.138",
+      "verse": 138,
+      "spans": [
+        {
+          "text": "Thou hast commanded thy testimonies in righteousness\nAnd very faithfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.139",
+      "edition_verse_id": "ASV1901:PSA.119.139",
+      "verse": 139,
+      "spans": [
+        {
+          "text": "My zeal hath consumed me,\nBecause mine adversaries have forgotten thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.140",
+      "edition_verse_id": "ASV1901:PSA.119.140",
+      "verse": 140,
+      "spans": [
+        {
+          "text": "Thy word is very pure;\nTherefore thy servant loveth it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.141",
+      "edition_verse_id": "ASV1901:PSA.119.141",
+      "verse": 141,
+      "spans": [
+        {
+          "text": "I am small and despised;",
+          "kind": "text"
+        },
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " do I not forget thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.142",
+      "edition_verse_id": "ASV1901:PSA.119.142",
+      "verse": 142,
+      "spans": [
+        {
+          "text": "Thy righteousness is an everlasting righteousness,\nAnd thy law is truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.143",
+      "edition_verse_id": "ASV1901:PSA.119.143",
+      "verse": 143,
+      "spans": [
+        {
+          "text": "Trouble and anguish have taken hold on me;",
+          "kind": "text"
+        },
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy commandments are my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.144",
+      "edition_verse_id": "ASV1901:PSA.119.144",
+      "verse": 144,
+      "spans": [
+        {
+          "text": "Thy testimonies are righteous for ever:\nGive me understanding, and I shall live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.145",
+      "edition_verse_id": "ASV1901:PSA.119.145",
+      "verse": 145,
+      "spans": [
+        {
+          "text": "I have called with my whole heart; answer me, O Jehovah:\nI will keep thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.146",
+      "edition_verse_id": "ASV1901:PSA.119.146",
+      "verse": 146,
+      "spans": [
+        {
+          "text": "I have called unto thee; save me,\nAnd I shall observe thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.147",
+      "edition_verse_id": "ASV1901:PSA.119.147",
+      "verse": 147,
+      "spans": [
+        {
+          "text": "I anticipated the dawning of the morning, and cried:\nI hoped in thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.148",
+      "edition_verse_id": "ASV1901:PSA.119.148",
+      "verse": 148,
+      "spans": [
+        {
+          "text": "Mine eyes anticipated the night-watches,\nThat I might meditate on thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.149",
+      "edition_verse_id": "ASV1901:PSA.119.149",
+      "verse": 149,
+      "spans": [
+        {
+          "text": "Hear my voice according unto thy lovingkindness:\nQuicken me, O Jehovah, according to thine ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.150",
+      "edition_verse_id": "ASV1901:PSA.119.150",
+      "verse": 150,
+      "spans": [
+        {
+          "text": "They draw nigh that follow after wickedness;\nThey are far from thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.151",
+      "edition_verse_id": "ASV1901:PSA.119.151",
+      "verse": 151,
+      "spans": [
+        {
+          "text": "Thou art nigh, O Jehovah;\nAnd all thy commandments are truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.152",
+      "edition_verse_id": "ASV1901:PSA.119.152",
+      "verse": 152,
+      "spans": [
+        {
+          "text": "Of old have I known from thy testimonies,\nThat thou hast founded them for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.153",
+      "edition_verse_id": "ASV1901:PSA.119.153",
+      "verse": 153,
+      "spans": [
+        {
+          "text": "Consider mine affliction, and deliver me;\nFor I do not forget thy law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.154",
+      "edition_verse_id": "ASV1901:PSA.119.154",
+      "verse": 154,
+      "spans": [
+        {
+          "text": "Plead thou my cause, and redeem me:\nQuicken me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.155",
+      "edition_verse_id": "ASV1901:PSA.119.155",
+      "verse": 155,
+      "spans": [
+        {
+          "text": "Salvation is far from the wicked;\nFor they seek not thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.156",
+      "edition_verse_id": "ASV1901:PSA.119.156",
+      "verse": 156,
+      "spans": [
+        {
+          "text": "Great are thy tender mercies, O Jehovah:\nQuicken me according to thine ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.157",
+      "edition_verse_id": "ASV1901:PSA.119.157",
+      "verse": 157,
+      "spans": [
+        {
+          "text": "Many are my persecutors and mine adversaries;",
+          "kind": "text"
+        },
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " have I not swerved from thy testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.158",
+      "edition_verse_id": "ASV1901:PSA.119.158",
+      "verse": 158,
+      "spans": [
+        {
+          "text": "I beheld the treacherous, and was grieved,\nBecause they observe not thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.159",
+      "edition_verse_id": "ASV1901:PSA.119.159",
+      "verse": 159,
+      "spans": [
+        {
+          "text": "Consider how I love thy precepts:\nQuicken me, O Jehovah, according to thy lovingkindness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.160",
+      "edition_verse_id": "ASV1901:PSA.119.160",
+      "verse": 160,
+      "spans": [
+        {
+          "text": "The sum of thy word is truth;\nAnd every one of thy righteous ordinances ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.161",
+      "edition_verse_id": "ASV1901:PSA.119.161",
+      "verse": 161,
+      "spans": [
+        {
+          "text": "Princes have persecuted me without a cause;\nBut my heart standeth in awe of thy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.162",
+      "edition_verse_id": "ASV1901:PSA.119.162",
+      "verse": 162,
+      "spans": [
+        {
+          "text": "I rejoice at thy word,\nAs one that findeth great spoil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.163",
+      "edition_verse_id": "ASV1901:PSA.119.163",
+      "verse": 163,
+      "spans": [
+        {
+          "text": "I hate and abhor falsehood;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy law do I love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.164",
+      "edition_verse_id": "ASV1901:PSA.119.164",
+      "verse": 164,
+      "spans": [
+        {
+          "text": "Seven times a day do I praise thee,\nBecause of thy righteous ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.165",
+      "edition_verse_id": "ASV1901:PSA.119.165",
+      "verse": 165,
+      "spans": [
+        {
+          "text": "Great peace have they that love thy law;\nAnd they have no occasion of stumbling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.166",
+      "edition_verse_id": "ASV1901:PSA.119.166",
+      "verse": 166,
+      "spans": [
+        {
+          "text": "I have hoped for thy salvation, O Jehovah,\nAnd have done thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.167",
+      "edition_verse_id": "ASV1901:PSA.119.167",
+      "verse": 167,
+      "spans": [
+        {
+          "text": "My soul hath observed thy testimonies;\nAnd I love them exceedingly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.168",
+      "edition_verse_id": "ASV1901:PSA.119.168",
+      "verse": 168,
+      "spans": [
+        {
+          "text": "I have observed thy precepts and thy testimonies;\nFor all my ways are before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.169",
+      "edition_verse_id": "ASV1901:PSA.119.169",
+      "verse": 169,
+      "spans": [
+        {
+          "text": "Let my cry come near before thee, O Jehovah:\nGive me understanding according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.170",
+      "edition_verse_id": "ASV1901:PSA.119.170",
+      "verse": 170,
+      "spans": [
+        {
+          "text": "Let my supplication come before thee:\nDeliver me according to thy word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.171",
+      "edition_verse_id": "ASV1901:PSA.119.171",
+      "verse": 171,
+      "spans": [
+        {
+          "text": "Let my lips utter praise;\nFor thou teachest me thy statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.172",
+      "edition_verse_id": "ASV1901:PSA.119.172",
+      "verse": 172,
+      "spans": [
+        {
+          "text": "Let my tongue sing of thy word;\nFor all thy commandments are righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.173",
+      "edition_verse_id": "ASV1901:PSA.119.173",
+      "verse": 173,
+      "spans": [
+        {
+          "text": "Let thy hand be ready to help me;\nFor I have chosen thy precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.174",
+      "edition_verse_id": "ASV1901:PSA.119.174",
+      "verse": 174,
+      "spans": [
+        {
+          "text": "I have longed for thy salvation, O Jehovah;\nAnd thy law is my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.175",
+      "edition_verse_id": "ASV1901:PSA.119.175",
+      "verse": 175,
+      "spans": [
+        {
+          "text": "Let my soul live, and it shall praise thee;\nAnd let thine ordinances help me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.176",
+      "edition_verse_id": "ASV1901:PSA.119.176",
+      "verse": 176,
+      "spans": [
+        {
+          "text": "I have gone astray like a lost sheep;\nseek thy servant;\nFor I do not forget thy commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Meditations and prayers relating to the law of God.",
+      "before_verse": 1
+    },
+    {
+      "style": "qa",
+      "text": "א Aleph.",
+      "before_verse": 1
+    },
+    {
+      "style": "qa",
+      "text": "ב Beth.",
+      "before_verse": 9
+    },
+    {
+      "style": "qa",
+      "text": "ג Gimel.",
+      "before_verse": 17
+    },
+    {
+      "style": "qa",
+      "text": "ד Daleth.",
+      "before_verse": 25
+    },
+    {
+      "style": "qa",
+      "text": "ה He.",
+      "before_verse": 33
+    },
+    {
+      "style": "qa",
+      "text": "ו Vav.",
+      "before_verse": 41
+    },
+    {
+      "style": "qa",
+      "text": "ז Zayin.",
+      "before_verse": 49
+    },
+    {
+      "style": "qa",
+      "text": "ח Hheth.",
+      "before_verse": 57
+    },
+    {
+      "style": "qa",
+      "text": "ט Teth.",
+      "before_verse": 65
+    },
+    {
+      "style": "qa",
+      "text": "י Yodh.",
+      "before_verse": 73
+    },
+    {
+      "style": "qa",
+      "text": "כ Kaph.",
+      "before_verse": 81
+    },
+    {
+      "style": "qa",
+      "text": "ל Lamedh.",
+      "before_verse": 89
+    },
+    {
+      "style": "qa",
+      "text": "מ Mem.",
+      "before_verse": 97
+    },
+    {
+      "style": "qa",
+      "text": "נ Nun.",
+      "before_verse": 105
+    },
+    {
+      "style": "qa",
+      "text": "ס Samekh.",
+      "before_verse": 113
+    },
+    {
+      "style": "qa",
+      "text": "ע Ayin.",
+      "before_verse": 121
+    },
+    {
+      "style": "qa",
+      "text": "פ Pe.",
+      "before_verse": 129
+    },
+    {
+      "style": "qa",
+      "text": "צ Tsadhe.",
+      "before_verse": 137
+    },
+    {
+      "style": "qa",
+      "text": "ק Qoph.",
+      "before_verse": 145
+    },
+    {
+      "style": "qa",
+      "text": "ר Resh.",
+      "before_verse": 153
+    },
+    {
+      "style": "qa",
+      "text": "ש Shin.",
+      "before_verse": 161
+    },
+    {
+      "style": "qa",
+      "text": "ת Tav.",
+      "before_verse": 169
+    }
+  ]
+}

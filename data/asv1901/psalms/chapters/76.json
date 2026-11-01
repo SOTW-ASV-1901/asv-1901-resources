@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 76,
+  "verses": [
+    {
+      "id": "PSA.76.1",
+      "edition_verse_id": "ASV1901:PSA.76.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In Judah is God known:\nHis name is great in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.2",
+      "edition_verse_id": "ASV1901:PSA.76.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In Salem also is his tabernacle,\nAnd his dwelling-place in Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.3",
+      "edition_verse_id": "ASV1901:PSA.76.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "There he brake the arrows of the bow;\nThe shield, and the sword, and the battle. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.4",
+      "edition_verse_id": "ASV1901:PSA.76.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Glorious art thou ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " excellent,From the mountains of prey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.5",
+      "edition_verse_id": "ASV1901:PSA.76.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The stouthearted are made a spoil,\nThey have slept their sleep;\nAnd none of the men of might have found their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.6",
+      "edition_verse_id": "ASV1901:PSA.76.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "At thy rebuke, O God of Jacob,\nBoth chariot and horse are cast into a dead sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.7",
+      "edition_verse_id": "ASV1901:PSA.76.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou, even thou, art to be feared;\nAnd who may stand in thy sight when once thou art angry?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.8",
+      "edition_verse_id": "ASV1901:PSA.76.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou didst cause sentence to be heard from heaven;\nThe earth feared, and was still,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.9",
+      "edition_verse_id": "ASV1901:PSA.76.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When God arose to judgment,\nTo save all the meek of the earth. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.10",
+      "edition_verse_id": "ASV1901:PSA.76.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Surely the wrath of man shall praise thee:\nThe residue of wrath shalt thou gird upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.11",
+      "edition_verse_id": "ASV1901:PSA.76.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Vow, and pay unto Jehovah your God:\nLet all that are round about him bring presents unto him that ought to be feared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.76.12",
+      "edition_verse_id": "ASV1901:PSA.76.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He will cut off the spirit of princes:\nHe is terrible to the kings of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The victorious power of the God of Jacob.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; on stringed instruments. A Psalm of Asaph, a Song.",
+      "before_verse": 1
+    }
+  ]
+}

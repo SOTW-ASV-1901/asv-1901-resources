@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 143,
+  "verses": [
+    {
+      "id": "PSA.143.1",
+      "edition_verse_id": "ASV1901:PSA.143.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear my prayer, O Jehovah; give ear to my supplications:\nIn thy faithfulness answer me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " in thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.2",
+      "edition_verse_id": "ASV1901:PSA.143.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And enter not into judgment with thy servant;\nFor in thy sight no man living is righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.3",
+      "edition_verse_id": "ASV1901:PSA.143.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the enemy hath persecuted my soul;\nHe hath smitten my life down to the ground:\nHe hath made me to dwell in dark places, as those that have been long dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.4",
+      "edition_verse_id": "ASV1901:PSA.143.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore is my spirit overwhelmed within me;\nMy heart within me is desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.5",
+      "edition_verse_id": "ASV1901:PSA.143.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I remember the days of old;\nI meditate on all thy doings;\nI muse on the work of thy hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.6",
+      "edition_verse_id": "ASV1901:PSA.143.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I spread forth my hands unto thee:\nMy soul ",
+          "kind": "text"
+        },
+        {
+          "text": "thirsteth",
+          "kind": "supplied"
+        },
+        {
+          "text": " after thee, as a weary land. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.7",
+      "edition_verse_id": "ASV1901:PSA.143.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Make haste to answer me, O Jehovah; my spirit faileth:\nHide not thy face from me,\nLest I become like them that go down into the pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.8",
+      "edition_verse_id": "ASV1901:PSA.143.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Cause me to hear thy lovingkindness in the morning;\nFor in thee do I trust:\nCause me to know the way wherein I should walk;\nFor I lift up my soul unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.9",
+      "edition_verse_id": "ASV1901:PSA.143.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Deliver me, O Jehovah, from mine enemies:I flee unto thee to hide me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.10",
+      "edition_verse_id": "ASV1901:PSA.143.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Teach me to do thy will;\nFor thou art my God:Thy Spirit is good;\nLead me in the land of uprightness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.11",
+      "edition_verse_id": "ASV1901:PSA.143.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Quicken me, O Jehovah, for thy name’s sake:\nIn thy righteousness bring my soul out of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.12",
+      "edition_verse_id": "ASV1901:PSA.143.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And in thy lovingkindness cut off mine enemies,\nAnd destroy all them that afflict my soul;\nFor I am thy servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for deliverance and guidance.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

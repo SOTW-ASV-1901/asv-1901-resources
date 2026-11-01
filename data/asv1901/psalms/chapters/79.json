@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 79,
+  "verses": [
+    {
+      "id": "PSA.79.1",
+      "edition_verse_id": "ASV1901:PSA.79.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O God, the nations are come into thine inheritance;\nThy holy temple have they defiled;\nThey have laid Jerusalem in heaps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.2",
+      "edition_verse_id": "ASV1901:PSA.79.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The dead bodies of thy servants have they given to be food unto the birds of the heavens,\nThe flesh of thy saints unto the beasts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.3",
+      "edition_verse_id": "ASV1901:PSA.79.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Their blood have they shed like water round about Jerusalem;\nAnd there was none to bury them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.4",
+      "edition_verse_id": "ASV1901:PSA.79.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We are become a reproach to our neighbors,\nA scoffing and derision to them that are round about us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.5",
+      "edition_verse_id": "ASV1901:PSA.79.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "How long, O Jehovah? wilt thou be angry for ever?\nShall thy jealousy burn like fire?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.6",
+      "edition_verse_id": "ASV1901:PSA.79.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Pour out thy wrath upon the nations that know thee not,\nAnd upon the kingdoms that call not upon thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.7",
+      "edition_verse_id": "ASV1901:PSA.79.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For they have devoured Jacob,\nAnd laid waste his habitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.8",
+      "edition_verse_id": "ASV1901:PSA.79.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Remember not against us the iniquities of our forefathers:\nLet thy tender mercies speedily meet us;\nFor we are brought very low.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.9",
+      "edition_verse_id": "ASV1901:PSA.79.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Help us, O God of our salvation, for the glory of thy name;\nAnd deliver us, and forgive our sins, for thy name’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.10",
+      "edition_verse_id": "ASV1901:PSA.79.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Wherefore should the nations say, Where is their God?\nLet the avenging of the blood of thy servants which is shed\nBe known among the nations in our sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.11",
+      "edition_verse_id": "ASV1901:PSA.79.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let the sighing of the prisoner come before thee:\nAccording to the greatness of thy power preserve thou those that are appointed to death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.12",
+      "edition_verse_id": "ASV1901:PSA.79.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And render unto our neighbors sevenfold into their bosom\nTheir reproach, wherewith they have reproached thee, O Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.13",
+      "edition_verse_id": "ASV1901:PSA.79.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So we thy people and sheep of thy pasture\nWill give thee thanks for ever:\nWe will show forth thy praise to all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "A lament over the destruction of Jerusalem, and prayer for help.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of Asaph.",
+      "before_verse": 1
+    }
+  ]
+}

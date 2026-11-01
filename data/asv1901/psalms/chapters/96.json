@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 96,
+  "verses": [
+    {
+      "id": "PSA.96.1",
+      "edition_verse_id": "ASV1901:PSA.96.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Oh sing unto Jehovah a new song:\nSing unto Jehovah, all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.2",
+      "edition_verse_id": "ASV1901:PSA.96.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sing unto Jehovah, bless his name;\nShow forth his salvation from day to day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.3",
+      "edition_verse_id": "ASV1901:PSA.96.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Declare his glory among the nations,\nHis marvellous works among all the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.4",
+      "edition_verse_id": "ASV1901:PSA.96.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For great is Jehovah, and greatly to be praised:\nHe is to be feared above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.5",
+      "edition_verse_id": "ASV1901:PSA.96.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For all the gods of the peoples are idols;\nBut Jehovah made the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.6",
+      "edition_verse_id": "ASV1901:PSA.96.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Honor and majesty are before him:\nStrength and beauty are in his sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.7",
+      "edition_verse_id": "ASV1901:PSA.96.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ascribe unto Jehovah, ye kindreds of the peoples,\nAscribe unto Jehovah glory and strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.8",
+      "edition_verse_id": "ASV1901:PSA.96.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Ascribe unto Jehovah the glory due unto his name:\nBring an offering, and come into his courts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.9",
+      "edition_verse_id": "ASV1901:PSA.96.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Oh worship Jehovah in holy array:\nTremble before him, all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.10",
+      "edition_verse_id": "ASV1901:PSA.96.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Say among the nations, Jehovah reigneth:\nThe world also is established that it cannot be moved:\nHe will judge the peoples with equity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.11",
+      "edition_verse_id": "ASV1901:PSA.96.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let the heavens be glad, and let the earth rejoice;\nLet the sea roar, and the fulness thereof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.12",
+      "edition_verse_id": "ASV1901:PSA.96.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let the field exult, and all that is therein;\nThen shall all the trees of the wood sing for joy",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.13",
+      "edition_verse_id": "ASV1901:PSA.96.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Before Jehovah; for he cometh,\nFor he cometh to judge the earth:\nHe will judge the world with righteousness,\nAnd the peoples with his truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "A call to worship Jehovah the Righteous Judge.",
+      "before_verse": 1
+    }
+  ]
+}

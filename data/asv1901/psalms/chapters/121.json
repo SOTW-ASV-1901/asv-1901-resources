@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 121,
+  "verses": [
+    {
+      "id": "PSA.121.1",
+      "edition_verse_id": "ASV1901:PSA.121.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will lift up mine eyes unto the mountains:\nFrom whence shall my help come?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.2",
+      "edition_verse_id": "ASV1901:PSA.121.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My help ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " from Jehovah,\nWho made heaven and earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.3",
+      "edition_verse_id": "ASV1901:PSA.121.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He will not suffer thy foot to be moved:\nHe that keepeth thee will not slumber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.4",
+      "edition_verse_id": "ASV1901:PSA.121.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, he that keepeth Israel\nWill neither slumber nor sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.5",
+      "edition_verse_id": "ASV1901:PSA.121.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jehovah is thy keeper:\nJehovah is thy shade upon thy right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.6",
+      "edition_verse_id": "ASV1901:PSA.121.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The sun shall not smite thee by day,\nNor the moon by night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.7",
+      "edition_verse_id": "ASV1901:PSA.121.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jehovah will keep thee from all evil;\nHe will keep thy soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.121.8",
+      "edition_verse_id": "ASV1901:PSA.121.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jehovah will keep thy going out and thy coming in\nFrom this time forth and for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah the keeper of his people.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song of Ascents.",
+      "before_verse": 1
+    }
+  ]
+}

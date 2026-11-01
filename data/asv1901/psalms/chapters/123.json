@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 123,
+  "verses": [
+    {
+      "id": "PSA.123.1",
+      "edition_verse_id": "ASV1901:PSA.123.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Unto thee do I lift up mine eyes,\nO thou that sittest in the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.123.2",
+      "edition_verse_id": "ASV1901:PSA.123.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold, as the eyes of servants ",
+          "kind": "text"
+        },
+        {
+          "text": "look",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the hand of their master,\nAs the eyes of a maid unto the hand of her mistress;\nSo our eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "look",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto Jehovah our God,\nUntil he have mercy upon us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.123.3",
+      "edition_verse_id": "ASV1901:PSA.123.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Have mercy upon us, O Jehovah, have mercy upon us;\nFor we are exceedingly filled with contempt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.123.4",
+      "edition_verse_id": "ASV1901:PSA.123.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Our soul is exceedingly filled\nWith the scoffing of those that are at ease,\nAnd with the contempt of the proud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "An expectant prayer for Jehovah’s help.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song of Ascents.",
+      "before_verse": 1
+    }
+  ]
+}

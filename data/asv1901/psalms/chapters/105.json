@@ -1,0 +1,611 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 105,
+  "verses": [
+    {
+      "id": "PSA.105.1",
+      "edition_verse_id": "ASV1901:PSA.105.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Oh give thanks unto Jehovah, call upon his name;\nMake known among the peoples his doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.2",
+      "edition_verse_id": "ASV1901:PSA.105.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sing unto him, sing praises unto him;Talk ye of all his marvellous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.3",
+      "edition_verse_id": "ASV1901:PSA.105.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Glory ye in his holy name:\nLet the heart of them rejoice that seek Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.4",
+      "edition_verse_id": "ASV1901:PSA.105.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Seek ye Jehovah and his strength;\nSeek his face evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.5",
+      "edition_verse_id": "ASV1901:PSA.105.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Remember his marvellous works that he hath done,\nHis wonders, and the judgments of his mouth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.6",
+      "edition_verse_id": "ASV1901:PSA.105.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O ye seed of Abraham his servant,\nYe children of Jacob, his chosen ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.7",
+      "edition_verse_id": "ASV1901:PSA.105.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He is Jehovah our God:\nHis judgments are in all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.8",
+      "edition_verse_id": "ASV1901:PSA.105.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He hath remembered his covenant for ever,\nThe word which he commanded to a thousand generations,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.9",
+      "edition_verse_id": "ASV1901:PSA.105.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The covenant",
+          "kind": "supplied"
+        },
+        {
+          "text": " which he made with Abraham,\nAnd his oath unto Isaac,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.10",
+      "edition_verse_id": "ASV1901:PSA.105.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And confirmed the same unto Jacob for a statute,\nTo Israel for an everlasting covenant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.11",
+      "edition_verse_id": "ASV1901:PSA.105.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Saying, Unto thee will I give the land of Canaan,\nThe lot of your inheritance;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.12",
+      "edition_verse_id": "ASV1901:PSA.105.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When they were but a few men in number,\nYea, very few, and sojourners in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.13",
+      "edition_verse_id": "ASV1901:PSA.105.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they went about from nation to nation,\nFrom one kingdom to another people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.14",
+      "edition_verse_id": "ASV1901:PSA.105.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He suffered no man to do them wrong;\nYea, he reproved kings for their sakes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.15",
+      "edition_verse_id": "ASV1901:PSA.105.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Touch not mine anointed ones,\nAnd do my prophets no harm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.16",
+      "edition_verse_id": "ASV1901:PSA.105.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he called for a famine upon the land;\nHe brake the whole staff of bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.17",
+      "edition_verse_id": "ASV1901:PSA.105.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He sent a man before them;\nJoseph was sold for a servant:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.18",
+      "edition_verse_id": "ASV1901:PSA.105.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "His feet they hurt with fetters:He was laid in ",
+          "kind": "text"
+        },
+        {
+          "text": "chains of",
+          "kind": "supplied"
+        },
+        {
+          "text": " iron,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.19",
+      "edition_verse_id": "ASV1901:PSA.105.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Until the time that his word came to pass,\nThe word of Jehovah tried him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.20",
+      "edition_verse_id": "ASV1901:PSA.105.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The king sent and loosed him;\nEven the ruler of peoples, and let him go free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.21",
+      "edition_verse_id": "ASV1901:PSA.105.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He made him lord of his house,\nAnd ruler of all his substance;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.22",
+      "edition_verse_id": "ASV1901:PSA.105.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "To bind his princes at his pleasure,\nAnd teach his elders wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.23",
+      "edition_verse_id": "ASV1901:PSA.105.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Israel also came into Egypt;\nAnd Jacob sojourned in the land of Ham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.24",
+      "edition_verse_id": "ASV1901:PSA.105.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he increased his people greatly,\nAnd made them stronger than their adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.25",
+      "edition_verse_id": "ASV1901:PSA.105.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He turned their heart to hate his people,\nTo deal subtly with his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.26",
+      "edition_verse_id": "ASV1901:PSA.105.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He sent Moses his servant,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " Aaron whom he had chosen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.27",
+      "edition_verse_id": "ASV1901:PSA.105.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They set among them his signs,\nAnd wonders in the land of Ham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.28",
+      "edition_verse_id": "ASV1901:PSA.105.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He sent darkness, and made it dark;\nAnd they rebelled not against his words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.29",
+      "edition_verse_id": "ASV1901:PSA.105.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He turned their waters into blood,\nAnd slew their fish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.30",
+      "edition_verse_id": "ASV1901:PSA.105.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Their land swarmed with frogs\nIn the chambers of their kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.31",
+      "edition_verse_id": "ASV1901:PSA.105.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He spake, and there came swarms of flies,\nAnd lice in all their borders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.32",
+      "edition_verse_id": "ASV1901:PSA.105.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He gave them hail for rain,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " flaming fire in their land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.33",
+      "edition_verse_id": "ASV1901:PSA.105.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He smote their vines also and their fig-trees,\nAnd brake the trees of their borders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.34",
+      "edition_verse_id": "ASV1901:PSA.105.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He spake, and the locust came,\nAnd the grasshopper, and that without number,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.35",
+      "edition_verse_id": "ASV1901:PSA.105.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And did eat up every herb in their land,\nAnd did eat up the fruit of their ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.36",
+      "edition_verse_id": "ASV1901:PSA.105.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He smote also all the first-born in their land,\nThe chief of all their strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.37",
+      "edition_verse_id": "ASV1901:PSA.105.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he brought them forth with silver and gold;\nAnd there was not one feeble person among his tribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.38",
+      "edition_verse_id": "ASV1901:PSA.105.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Egypt was glad when they departed;\nFor the fear of them had fallen upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.39",
+      "edition_verse_id": "ASV1901:PSA.105.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "He spread a cloud for a covering,\nAnd fire to give light in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.40",
+      "edition_verse_id": "ASV1901:PSA.105.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "They asked, and he brought quails,\nAnd satisfied them with the bread of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.41",
+      "edition_verse_id": "ASV1901:PSA.105.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "He opened the rock, and waters gushed out;\nThey ran in the dry places ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.42",
+      "edition_verse_id": "ASV1901:PSA.105.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "For he remembered his holy word,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abraham his servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.43",
+      "edition_verse_id": "ASV1901:PSA.105.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he brought forth his people with joy,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " his chosen with singing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.44",
+      "edition_verse_id": "ASV1901:PSA.105.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And he gave them the lands of the nations;\nAnd they took the labor of the peoples in possession:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.45",
+      "edition_verse_id": "ASV1901:PSA.105.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "That they might keep his statutes,\nAnd observe his laws.Praise ye Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah’s wonderful works in behalf of Israel.",
+      "before_verse": 1
+    }
+  ]
+}
