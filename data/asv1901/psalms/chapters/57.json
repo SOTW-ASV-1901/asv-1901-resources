@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 57,
+  "verses": [
+    {
+      "id": "PSA.57.1",
+      "edition_verse_id": "ASV1901:PSA.57.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Be merciful unto me, O God, be merciful unto me;\nFor my soul taketh refuge in thee:\nYea, in the shadow of thy wings will I take refuge,\nUntil ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " calamities be overpast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.2",
+      "edition_verse_id": "ASV1901:PSA.57.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will cry unto God Most High,\nUnto God that performeth ",
+          "kind": "text"
+        },
+        {
+          "text": "all things",
+          "kind": "supplied"
+        },
+        {
+          "text": " for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.3",
+      "edition_verse_id": "ASV1901:PSA.57.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He will send from heaven, and save me,",
+          "kind": "text"
+        },
+        {
+          "text": "When",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that would swallow me up reproacheth; [Selah\nGod will send forth his lovingkindness and his truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.4",
+      "edition_verse_id": "ASV1901:PSA.57.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My soul is among lions;\nI lie among them that are set on fire,\nEven the sons of men, whose teeth are spears and arrows,\nAnd their tongue a sharp sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.5",
+      "edition_verse_id": "ASV1901:PSA.57.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Be thou exalted, O God, above the heavens;",
+          "kind": "text"
+        },
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy glory ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " above all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.6",
+      "edition_verse_id": "ASV1901:PSA.57.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They have prepared a net for my steps;\nMy soul is bowed down:\nThey have digged a pit before me;\nThey are fallen into the midst thereof themselves. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.7",
+      "edition_verse_id": "ASV1901:PSA.57.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "My heart is fixed, O God, my heart is fixed:\nI will sing, yea, I will sing praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.8",
+      "edition_verse_id": "ASV1901:PSA.57.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Awake up, my glory; awake, psaltery and harp:\nI myself will awake right early.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.9",
+      "edition_verse_id": "ASV1901:PSA.57.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will give thanks unto thee, O Lord, among the peoples:\nI will sing praises unto thee among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.10",
+      "edition_verse_id": "ASV1901:PSA.57.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For thy lovingkindness is great unto the heavens,\nAnd thy truth unto the skies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.57.11",
+      "edition_verse_id": "ASV1901:PSA.57.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be thou exalted, O God, above the heavens;",
+          "kind": "text"
+        },
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy glory ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " above all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for rescue from persecutors.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to Al-tashheth. A Psalm of David. Michtam; when he fled from Saul, in the cave.",
+      "before_verse": 1
+    }
+  ]
+}

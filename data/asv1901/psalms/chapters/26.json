@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "PSA.26.1",
+      "edition_verse_id": "ASV1901:PSA.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Judge me, O Jehovah, for I have walked in mine integrity:\nI have trusted also in Jehovah without wavering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.2",
+      "edition_verse_id": "ASV1901:PSA.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Examine me, O Jehovah, and prove me;\nTry my heart and my mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.3",
+      "edition_verse_id": "ASV1901:PSA.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thy lovingkindness is before mine eyes;\nAnd I have walked in thy truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.4",
+      "edition_verse_id": "ASV1901:PSA.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I have not sat with men of falsehood;\nNeither will I go in with dissemblers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.5",
+      "edition_verse_id": "ASV1901:PSA.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I hate the assembly of evil-doers,\nAnd will not sit with the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.6",
+      "edition_verse_id": "ASV1901:PSA.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will wash my hands in innocency:\nSo will I compass thine altar, O Jehovah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.7",
+      "edition_verse_id": "ASV1901:PSA.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "That I may make the voice of thanksgiving to be heard,\nAnd tell of all thy wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.8",
+      "edition_verse_id": "ASV1901:PSA.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jehovah, I love the habitation of thy house,\nAnd the place where thy glory dwelleth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.9",
+      "edition_verse_id": "ASV1901:PSA.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Gather not my soul with sinners,\nNor my life with men of blood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.10",
+      "edition_verse_id": "ASV1901:PSA.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In whose hands is wickedness,\nAnd their right hand is full of bribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.11",
+      "edition_verse_id": "ASV1901:PSA.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But as for me, I will walk in mine integrity:\nRedeem me, and be merciful unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.12",
+      "edition_verse_id": "ASV1901:PSA.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "My foot standeth in an even place:\nIn the congregations will I bless Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Protestation of integrity, and prayer for protection.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

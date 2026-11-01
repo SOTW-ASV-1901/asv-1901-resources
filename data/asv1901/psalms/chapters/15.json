@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "PSA.15.1",
+      "edition_verse_id": "ASV1901:PSA.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jehovah, who shall sojourn in thy tabernacle?\nWho shall dwell in thy holy hill?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.15.2",
+      "edition_verse_id": "ASV1901:PSA.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He that walketh uprightly, and worketh righteousness,\nAnd speaketh truth in his heart;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.15.3",
+      "edition_verse_id": "ASV1901:PSA.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He that slandereth not with his tongue,\nNor doeth evil to his friend,\nNor taketh up a reproach against his neighbor;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.15.4",
+      "edition_verse_id": "ASV1901:PSA.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In whose eyes a reprobate is despised,\nBut who honoreth them that fear Jehovah;He that sweareth to his own hurt, and changeth not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.15.5",
+      "edition_verse_id": "ASV1901:PSA.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He that putteth not out his money to interest,\nNor taketh reward against the innocent.\nHe that doeth these things shall never be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Description of a citizen of Zion.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

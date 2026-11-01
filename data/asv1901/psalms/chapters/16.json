@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "PSA.16.1",
+      "edition_verse_id": "ASV1901:PSA.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Preserve me, O God; for in thee do I take refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.2",
+      "edition_verse_id": "ASV1901:PSA.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O my soul",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thou hast said unto Jehovah, Thou art my Lord:\nI have no good beyond thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.3",
+      "edition_verse_id": "ASV1901:PSA.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As for the saints that are in the earth,They are the excellent in whom is all my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.4",
+      "edition_verse_id": "ASV1901:PSA.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their sorrows shall be multiplied that give gifts for another ",
+          "kind": "text"
+        },
+        {
+          "text": "god",
+          "kind": "supplied"
+        },
+        {
+          "text": ":\nTheir drink-offerings of blood will I not offer,\nNor take their names upon my lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.5",
+      "edition_verse_id": "ASV1901:PSA.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jehovah is the portion of mine inheritance and of my cup:\nThou maintainest my lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.6",
+      "edition_verse_id": "ASV1901:PSA.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The lines are fallen unto me in pleasant places;\nYea, I have a goodly heritage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.7",
+      "edition_verse_id": "ASV1901:PSA.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will bless Jehovah, who hath given me counsel;\nYea, my heart instructeth me in the night seasons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.8",
+      "edition_verse_id": "ASV1901:PSA.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I have set Jehovah always before me:\nBecause he is at my right hand, I shall not be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.9",
+      "edition_verse_id": "ASV1901:PSA.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore my heart is glad, and my glory rejoiceth:\nMy flesh also shall dwell in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.10",
+      "edition_verse_id": "ASV1901:PSA.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For thou wilt not leave my soul to Sheol;\nNeither wilt thou suffer thy holy one to see corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.11",
+      "edition_verse_id": "ASV1901:PSA.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou wilt show me the path of life:\nIn thy presence is fulness of joy;\nIn thy right hand there are pleasures for evermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah the psalmist’s portion in life and deliverer in death.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "Michtam of David.",
+      "before_verse": 1
+    }
+  ]
+}

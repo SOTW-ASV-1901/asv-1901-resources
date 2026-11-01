@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "PSA.21.1",
+      "edition_verse_id": "ASV1901:PSA.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The king shall joy in thy strength, O Jehovah;\nAnd in thy salvation how greatly shall he rejoice!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.2",
+      "edition_verse_id": "ASV1901:PSA.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou hast given him his heart’s desire,\nAnd hast not withholden the request of his lips. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.3",
+      "edition_verse_id": "ASV1901:PSA.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thou meetest him with the blessings of goodness:\nThou settest a crown of fine gold on his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.4",
+      "edition_verse_id": "ASV1901:PSA.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He asked life of thee, thou gavest it him,\nEven length of days for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.5",
+      "edition_verse_id": "ASV1901:PSA.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "His glory is great in thy salvation:\nHonor and majesty dost thou lay upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.6",
+      "edition_verse_id": "ASV1901:PSA.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For thou makest him most blessed for ever:\nThou makest him glad with joy in thy presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.7",
+      "edition_verse_id": "ASV1901:PSA.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the king trusteth in Jehovah;\nAnd through the lovingkindness of the Most High he shall not be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.8",
+      "edition_verse_id": "ASV1901:PSA.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thy hand will find out all thine enemies;\nThy right hand will find out those that hate thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.9",
+      "edition_verse_id": "ASV1901:PSA.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou wilt make them as a fiery furnace in the time of thine anger:\nJehovah will swallow them up in his wrath,\nAnd the fire shall devour them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.10",
+      "edition_verse_id": "ASV1901:PSA.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Their fruit wilt thou destroy from the earth,\nAnd their seed from among the children of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.11",
+      "edition_verse_id": "ASV1901:PSA.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For they intended evil against thee;\nThey conceived a device which they are not able to perform.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.12",
+      "edition_verse_id": "ASV1901:PSA.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For thou wilt make them turn their back;\nThou wilt make ready with thy bowstrings against their face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.13",
+      "edition_verse_id": "ASV1901:PSA.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Be thou exalted, O Jehovah, in thy strength:\nSo will we sing and praise thy power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Praise for deliverance.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "PSA.6.1",
+      "edition_verse_id": "ASV1901:PSA.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O Jehovah, rebuke me not in thine anger,\nNeither chasten me in thy hot displeasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.2",
+      "edition_verse_id": "ASV1901:PSA.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Have mercy upon me, O Jehovah; for I am withered away:\nO Jehovah, heal me; for my bones are troubled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.3",
+      "edition_verse_id": "ASV1901:PSA.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My soul also is sore troubled:\nAnd thou, O Jehovah, how long?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.4",
+      "edition_verse_id": "ASV1901:PSA.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Return, O Jehovah, deliver my soul:\nSave me for thy lovingkindness’ sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.5",
+      "edition_verse_id": "ASV1901:PSA.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For in death there is no remembrance of thee:\nIn Sheol who shall give thee thanks?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.6",
+      "edition_verse_id": "ASV1901:PSA.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I am weary with my groaning;\nEvery night make I my bed to swim;\nI water my couch with my tears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.7",
+      "edition_verse_id": "ASV1901:PSA.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Mine eye wasteth away because of grief;\nIt waxeth old because of all mine adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.8",
+      "edition_verse_id": "ASV1901:PSA.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Depart from me, all ye workers of iniquity;\nFor Jehovah hath heard the voice of my weeping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.9",
+      "edition_verse_id": "ASV1901:PSA.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Jehovah hath heard my supplication;\nJehovah will receive my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.6.10",
+      "edition_verse_id": "ASV1901:PSA.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All mine enemies shall be put to shame and sore troubled:\nThey shall turn back, they shall be put to shame suddenly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for mercy in time of trouble.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; on stringed instruments, set to Or, the eighththe Sheminith. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

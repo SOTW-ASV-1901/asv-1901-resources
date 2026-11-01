@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "PSA.36.1",
+      "edition_verse_id": "ASV1901:PSA.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The transgression of the wicked saith within my heart,\nThere is no fear of God before his eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.2",
+      "edition_verse_id": "ASV1901:PSA.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For he flattereth himself in his own eyes,That his iniquity will not be found out and be hated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.3",
+      "edition_verse_id": "ASV1901:PSA.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The words of his mouth are iniquity and deceit:\nHe hath ceased to be wise ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to do good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.4",
+      "edition_verse_id": "ASV1901:PSA.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He deviseth iniquity upon his bed;\nHe setteth himself in a way that is not good;\nHe abhorreth not evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.5",
+      "edition_verse_id": "ASV1901:PSA.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thy lovingkindness, O Jehovah, is in the heavens;\nThy faithfulness ",
+          "kind": "text"
+        },
+        {
+          "text": "reacheth",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the skies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.6",
+      "edition_verse_id": "ASV1901:PSA.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thy righteousness is like the mountains of God;\nThy judgments are a great deep:\nO Jehovah, thou preservest man and beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.7",
+      "edition_verse_id": "ASV1901:PSA.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How precious is thy lovingkindness, O God!\nAnd the children of men take refuge under the shadow of thy wings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.8",
+      "edition_verse_id": "ASV1901:PSA.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They shall be abundantly satisfied with the fatness of thy house;\nAnd thou wilt make them drink of the river of thy pleasures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.9",
+      "edition_verse_id": "ASV1901:PSA.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For with thee is the fountain of life:\nIn thy light shall we see light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.10",
+      "edition_verse_id": "ASV1901:PSA.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Oh continue thy lovingkindness unto them that know thee,\nAnd thy righteousness to the upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.11",
+      "edition_verse_id": "ASV1901:PSA.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let not the foot of pride come against me,\nAnd let not the hand of the wicked drive me away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.12",
+      "edition_verse_id": "ASV1901:PSA.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "There are the workers of iniquity fallen:\nThey are thrust down, and shall not be able to rise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Wickedness of men and lovingkindness of God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David the servant of Jehovah.",
+      "before_verse": 1
+    }
+  ]
+}

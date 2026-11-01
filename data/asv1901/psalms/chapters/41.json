@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "PSA.41.1",
+      "edition_verse_id": "ASV1901:PSA.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed is he that considereth the poor:\nJehovah will deliver him in the day of evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.2",
+      "edition_verse_id": "ASV1901:PSA.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah will preserve him, and keep him alive,\nAnd he shall be blessed upon the earth;\nAnd deliver not thou him unto the will of his enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.3",
+      "edition_verse_id": "ASV1901:PSA.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jehovah will support him upon the couch of languishing:\nThou makest all his bed in his sickness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.4",
+      "edition_verse_id": "ASV1901:PSA.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I said, O Jehovah, have mercy upon me:\nHeal my soul; for I have sinned against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.5",
+      "edition_verse_id": "ASV1901:PSA.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Mine enemies speak evil against me, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nWhen will he die, and his name perish?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.6",
+      "edition_verse_id": "ASV1901:PSA.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And if he come to see ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he speaketh falsehood;\nHis heart gathereth iniquity to itself:\nWhen he goeth abroad, he telleth it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.7",
+      "edition_verse_id": "ASV1901:PSA.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All that hate me whisper together against me;\nAgainst me do they devise my hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.8",
+      "edition_verse_id": "ASV1901:PSA.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "An evil disease, ",
+          "kind": "text"
+        },
+        {
+          "text": "say they",
+          "kind": "supplied"
+        },
+        {
+          "text": ", cleaveth fast unto him;\nAnd now that he lieth he shall rise up no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.9",
+      "edition_verse_id": "ASV1901:PSA.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Yea, mine own familiar friend, in whom I trusted,\nWho did eat of my bread,\nHath lifted up his heel against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.10",
+      "edition_verse_id": "ASV1901:PSA.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But thou, O Jehovah, have mercy upon me, and raise me up,\nThat I may requite them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.11",
+      "edition_verse_id": "ASV1901:PSA.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "By this I know that thou delightest in me,\nBecause mine enemy doth not triumph over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.12",
+      "edition_verse_id": "ASV1901:PSA.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And as for me, thou upholdest me in mine integrity,\nAnd settest me before thy face for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.13",
+      "edition_verse_id": "ASV1901:PSA.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Blessed be Jehovah, the God of Israel,\nFrom everlasting and to everlasting.\nAmen, and Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The psalmist in sickness complains of enemies and false friends.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

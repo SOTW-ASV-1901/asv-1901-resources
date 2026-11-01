@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "PSA.44.1",
+      "edition_verse_id": "ASV1901:PSA.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "We have heard with our ears, O God,\nOur fathers have told us,\nWhat work thou didst in their days,\nIn the days of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.2",
+      "edition_verse_id": "ASV1901:PSA.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou didst drive out the nations with thy hand;\nBut them thou didst plant:\nThou didst afflict the peoples;\nBut them thou didst spread abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.3",
+      "edition_verse_id": "ASV1901:PSA.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For they gat not the land in possession by their own sword,\nNeither did their own arm save them;\nBut thy right hand, and thine arm, and the light of thy countenance,\nBecause thou wast favorable unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.4",
+      "edition_verse_id": "ASV1901:PSA.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou art my King, O God:\nCommand deliverance for Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.5",
+      "edition_verse_id": "ASV1901:PSA.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Through thee will we push down our adversaries:\nThrough thy name will we tread them under that rise up against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.6",
+      "edition_verse_id": "ASV1901:PSA.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I will not trust in my bow,\nNeither shall my sword save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.7",
+      "edition_verse_id": "ASV1901:PSA.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But thou hast saved us from our adversaries,\nAnd hast put them to shame that hate us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.8",
+      "edition_verse_id": "ASV1901:PSA.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In God have we made our boast all the day long,\nAnd we will give thanks unto thy name for ever. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.9",
+      "edition_verse_id": "ASV1901:PSA.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But now thou hast cast ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " off, and brought us to dishonor,\nAnd goest not forth with our hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.10",
+      "edition_verse_id": "ASV1901:PSA.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou makest us to turn back from the adversary;\nAnd they that hate us take spoil for themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.11",
+      "edition_verse_id": "ASV1901:PSA.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou hast made us like sheep ",
+          "kind": "text"
+        },
+        {
+          "text": "appointed",
+          "kind": "supplied"
+        },
+        {
+          "text": " for food,\nAnd hast scattered us among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.12",
+      "edition_verse_id": "ASV1901:PSA.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thou sellest thy people for nought,\nAnd hast not increased ",
+          "kind": "text"
+        },
+        {
+          "text": "thy wealth",
+          "kind": "supplied"
+        },
+        {
+          "text": " by their price.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.13",
+      "edition_verse_id": "ASV1901:PSA.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou makest us a reproach to our neighbors,\nA scoffing and a derision to them that are round about us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.14",
+      "edition_verse_id": "ASV1901:PSA.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thou makest us a byword among the nations,\nA shaking of the head among the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.15",
+      "edition_verse_id": "ASV1901:PSA.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "All the day long is my dishonor before me,\nAnd the shame of my face hath covered me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.16",
+      "edition_verse_id": "ASV1901:PSA.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the voice of him that reproacheth and blasphemeth,\nBy reason of the enemy and the avenger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.17",
+      "edition_verse_id": "ASV1901:PSA.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All this is come upon us; yet have we not forgotten thee,\nNeither have we dealt falsely in thy covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.18",
+      "edition_verse_id": "ASV1901:PSA.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Our heart is not turned back,\nNeither have our steps declined from thy way,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.19",
+      "edition_verse_id": "ASV1901:PSA.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "That thou hast sore broken us in the place of jackals,\nAnd covered us with the shadow of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.20",
+      "edition_verse_id": "ASV1901:PSA.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If we have forgotten the name of our God,\nOr spread forth our hands to a strange god;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.21",
+      "edition_verse_id": "ASV1901:PSA.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Will not God search this out?\nFor he knoweth the secrets of the heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.22",
+      "edition_verse_id": "ASV1901:PSA.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yea, for thy sake are we killed all the day long;\nWe are accounted as sheep for the slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.23",
+      "edition_verse_id": "ASV1901:PSA.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Awake, why sleepest thou, O Lord?\nArise, cast ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " not off for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.24",
+      "edition_verse_id": "ASV1901:PSA.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Wherefore hidest thou thy face,\nAnd forgettest our affliction and our oppression?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.25",
+      "edition_verse_id": "ASV1901:PSA.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For our soul is bowed down to the dust:\nOur body cleaveth unto the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.26",
+      "edition_verse_id": "ASV1901:PSA.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Rise up for our help,\nAnd redeem us for thy lovingkindness’ sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Former deliverances and present troubles.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of the sons of Korah. Maschil.",
+      "before_verse": 1
+    }
+  ]
+}

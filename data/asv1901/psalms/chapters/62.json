@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 62,
+  "verses": [
+    {
+      "id": "PSA.62.1",
+      "edition_verse_id": "ASV1901:PSA.62.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My soul waiteth in silence for God only:\nFrom him ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.2",
+      "edition_verse_id": "ASV1901:PSA.62.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He only is my rock and my salvation:",
+          "kind": "text"
+        },
+        {
+          "text": "He is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my high tower; I shall not be greatly moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.3",
+      "edition_verse_id": "ASV1901:PSA.62.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "How long will ye set upon a man,That ye may slay ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", all of you,\nLike a leaning wall, like a tottering fence?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.4",
+      "edition_verse_id": "ASV1901:PSA.62.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They only consult to thrust him down from his dignity;\nThey delight in lies;\nThey bless with their mouth, but they curse inwardly. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.5",
+      "edition_verse_id": "ASV1901:PSA.62.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "My soul, wait thou in silence for God only;\nFor my expectation is from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.6",
+      "edition_verse_id": "ASV1901:PSA.62.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He only is my rock and my salvation:",
+          "kind": "text"
+        },
+        {
+          "text": "He is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my high tower; I shall not be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.7",
+      "edition_verse_id": "ASV1901:PSA.62.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "With God is my salvation and my glory:\nThe rock of my strength, and my refuge, is in God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.8",
+      "edition_verse_id": "ASV1901:PSA.62.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Trust in him at all times, ye people;\nPour out your heart before him:\nGod is a refuge for us. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.9",
+      "edition_verse_id": "ASV1901:PSA.62.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely men of low degree are vanity, and men of high degree are a lie:\nIn the balances they will go up;\nThey are together lighter than vanity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.10",
+      "edition_verse_id": "ASV1901:PSA.62.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Trust not in oppression,\nAnd become not vain in robbery:\nIf riches increase, set not your heart ",
+          "kind": "text"
+        },
+        {
+          "text": "thereon",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.11",
+      "edition_verse_id": "ASV1901:PSA.62.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "God hath spoken once,\nTwice have I heard this,\nThat power belongeth unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.62.12",
+      "edition_verse_id": "ASV1901:PSA.62.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Also unto thee, O Lord, belongeth lovingkindness;\nFor thou renderest to every man according to his work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "God alone a refuge from treachery and oppression.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; after the manner of Jeduthun. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "PSA.3.1",
+      "edition_verse_id": "ASV1901:PSA.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jehovah, how are mine adversaries increased!\nMany are they that rise up against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.2",
+      "edition_verse_id": "ASV1901:PSA.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Many there are that say of my soul,\nThere is no help for him in God. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.3",
+      "edition_verse_id": "ASV1901:PSA.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But thou, O Jehovah, art a shield about me;\nMy glory, and the lifter up of my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.4",
+      "edition_verse_id": "ASV1901:PSA.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I cry unto Jehovah with my voice,\nAnd he answereth me out of his holy hill. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.5",
+      "edition_verse_id": "ASV1901:PSA.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I laid me down and slept;\nI awaked; for Jehovah sustaineth me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.6",
+      "edition_verse_id": "ASV1901:PSA.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will not be afraid of ten thousands of the people\nThat have set themselves against me round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.7",
+      "edition_verse_id": "ASV1901:PSA.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Arise, O Jehovah; save me, O my God:\nFor thou hast smitten all mine enemies upon the cheek bone;\nThou hast broken the teeth of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.8",
+      "edition_verse_id": "ASV1901:PSA.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Salvation belongeth unto Jehovah:\nThy blessing be upon thy people. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Morning prayer of trust in God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David, when he fled from Absalom his son.",
+      "before_verse": 1
+    }
+  ]
+}

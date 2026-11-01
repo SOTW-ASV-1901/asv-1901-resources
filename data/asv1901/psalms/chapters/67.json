@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 67,
+  "verses": [
+    {
+      "id": "PSA.67.1",
+      "edition_verse_id": "ASV1901:PSA.67.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "God be merciful unto us, and bless us,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " cause his face to shine upon us; [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.67.2",
+      "edition_verse_id": "ASV1901:PSA.67.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "That thy way may be known upon earth,\nThy salvation among all nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.67.3",
+      "edition_verse_id": "ASV1901:PSA.67.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let the peoples praise thee, O God;\nLet all the peoples praise thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.67.4",
+      "edition_verse_id": "ASV1901:PSA.67.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Oh let the nations be glad and sing for joy;\nFor thou wilt judge the peoples with equity,\nAnd govern the nations upon earth. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.67.5",
+      "edition_verse_id": "ASV1901:PSA.67.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let the peoples praise thee, O God;\nLet all the peoples praise thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.67.6",
+      "edition_verse_id": "ASV1901:PSA.67.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The earth hath yielded its increase:\nGod, even our own God, will bless us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.67.7",
+      "edition_verse_id": "ASV1901:PSA.67.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "God will bless us;\nAnd all the ends of the earth shall fear him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The nations exhorted to praise God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; on stringed instruments. A Psalm, a Song.",
+      "before_verse": 1
+    }
+  ]
+}

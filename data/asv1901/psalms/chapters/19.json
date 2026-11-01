@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "PSA.19.1",
+      "edition_verse_id": "ASV1901:PSA.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The heavens declare the glory of God;\nAnd the firmament showeth his handiwork.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.2",
+      "edition_verse_id": "ASV1901:PSA.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Day unto day uttereth speech,\nAnd night unto night showeth knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.3",
+      "edition_verse_id": "ASV1901:PSA.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "There is no speech nor language;\nTheir voice is not heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.4",
+      "edition_verse_id": "ASV1901:PSA.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their line is gone out through all the earth,\nAnd their words to the end of the world.\nIn them hath he set a tabernacle for the sun,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.5",
+      "edition_verse_id": "ASV1901:PSA.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Which is as a bridegroom coming out of his chamber,\nAnd rejoiceth as a strong man to run his course.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.6",
+      "edition_verse_id": "ASV1901:PSA.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "His going forth is from the end of the heavens,\nAnd his circuit unto the ends of it;\nAnd there is nothing hid from the heat thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.7",
+      "edition_verse_id": "ASV1901:PSA.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The law of Jehovah is perfect, restoring the soul:\nThe testimony of Jehovah is sure, making wise the simple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.8",
+      "edition_verse_id": "ASV1901:PSA.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The precepts of Jehovah are right, rejoicing the heart:\nThe commandment of Jehovah is pure, enlightening the eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.9",
+      "edition_verse_id": "ASV1901:PSA.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The fear of Jehovah is clean, enduring for ever:\nThe ordinances of Jehovah are true, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteous altogether.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.10",
+      "edition_verse_id": "ASV1901:PSA.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "More to be desired are they than gold, yea, than much fine gold;\nSweeter also than honey and the droppings of the honeycomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.11",
+      "edition_verse_id": "ASV1901:PSA.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Moreover by them is thy servant warned:\nIn keeping them there is great reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.12",
+      "edition_verse_id": "ASV1901:PSA.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Who can discern ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " errors?\nClear thou me from hidden ",
+          "kind": "text"
+        },
+        {
+          "text": "faults",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.13",
+      "edition_verse_id": "ASV1901:PSA.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Keep back thy servant also from presumptuous ",
+          "kind": "text"
+        },
+        {
+          "text": "sins",
+          "kind": "supplied"
+        },
+        {
+          "text": ";\nLet them not have dominion over me:\nThen shall I be upright,\nAnd I shall be clear from great transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.14",
+      "edition_verse_id": "ASV1901:PSA.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Let the words of my mouth and the meditation of my heart\nBe acceptable in thy sight,\nO Jehovah, my rock, and my redeemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The works and the Word of God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

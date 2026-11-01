@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "PSA.2.1",
+      "edition_verse_id": "ASV1901:PSA.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Why do the nations rage,\nAnd the peoples meditate a vain thing?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.2",
+      "edition_verse_id": "ASV1901:PSA.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The kings of the earth set themselves,\nAnd the rulers take counsel together,\nAgainst Jehovah, and against his anointed, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.3",
+      "edition_verse_id": "ASV1901:PSA.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let us break their bonds asunder,\nAnd cast away their cords from us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.4",
+      "edition_verse_id": "ASV1901:PSA.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He that sitteth in the heavens will laugh:\nThe Lord will have them in derision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.5",
+      "edition_verse_id": "ASV1901:PSA.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then will he speak unto them in his wrath,\nAnd vex them in his sore displeasure:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.6",
+      "edition_verse_id": "ASV1901:PSA.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Yet I have set my king\nUpon my holy hill of Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.7",
+      "edition_verse_id": "ASV1901:PSA.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will tell of the decree:\nJehovah said unto me, Thou art my son;\nThis day have I begotten thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.8",
+      "edition_verse_id": "ASV1901:PSA.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Ask of me, and I will give ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " the nations for thine inheritance,\nAnd the uttermost parts of the earth for thy possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.9",
+      "edition_verse_id": "ASV1901:PSA.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou shalt break them with a rod of iron;\nThou shalt dash them in pieces like a potter’s vessel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.10",
+      "edition_verse_id": "ASV1901:PSA.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now therefore be wise, O ye kings:\nBe instructed, ye judges of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.11",
+      "edition_verse_id": "ASV1901:PSA.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Serve Jehovah with fear,\nAnd rejoice with trembling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.2.12",
+      "edition_verse_id": "ASV1901:PSA.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Kiss the son, lest he be angry, and ye perish in the way,\nFor his wrath will soon be kindled.Blessed are all they that take refuge in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The reign of Jehovah’s anointed.",
+      "before_verse": 1
+    }
+  ]
+}

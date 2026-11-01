@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 58,
+  "verses": [
+    {
+      "id": "PSA.58.1",
+      "edition_verse_id": "ASV1901:PSA.58.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Do ye indeed in silence speak righteousness?\nDo ye judge uprightly, O ye sons of men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.2",
+      "edition_verse_id": "ASV1901:PSA.58.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Nay, in heart ye work wickedness;\nYe weigh out the violence of your hands in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.3",
+      "edition_verse_id": "ASV1901:PSA.58.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The wicked are estranged from the womb:\nThey go astray as soon as they are born, speaking lies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.4",
+      "edition_verse_id": "ASV1901:PSA.58.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their poison is like the poison of a serpent:",
+          "kind": "text"
+        },
+        {
+          "text": "They are",
+          "kind": "supplied"
+        },
+        {
+          "text": " like the deaf adder that stoppeth her ear,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.5",
+      "edition_verse_id": "ASV1901:PSA.58.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Which hearkeneth not to the voice of charmers,\nCharming never so wisely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.6",
+      "edition_verse_id": "ASV1901:PSA.58.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Break their teeth, O God, in their mouth:\nBreak out the great teeth of the young lions, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.7",
+      "edition_verse_id": "ASV1901:PSA.58.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let them melt away as water that runneth apace:\nWhen he aimeth his arrows, let them be as though they were cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.8",
+      "edition_verse_id": "ASV1901:PSA.58.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let them be",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a snail which melteth and passeth away,",
+          "kind": "text"
+        },
+        {
+          "text": "Like",
+          "kind": "supplied"
+        },
+        {
+          "text": " the untimely birth of a woman, that hath not seen the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.9",
+      "edition_verse_id": "ASV1901:PSA.58.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Before your pots can feel the thorns,He will take them away with a whirlwind, the green and the burning alike.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.10",
+      "edition_verse_id": "ASV1901:PSA.58.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The righteous shall rejoice when he seeth the vengeance:\nHe shall wash his feet in the blood of the wicked;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.11",
+      "edition_verse_id": "ASV1901:PSA.58.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So that men shall say, Verily there is a reward for the righteous:\nVerily there is a God that judgeth in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for the punishment of the wicked.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to Al-tashheth. A Psalm of David. Michtam.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "PSA.32.1",
+      "edition_verse_id": "ASV1901:PSA.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed is he whose transgression is forgiven,\nWhose sin is covered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.2",
+      "edition_verse_id": "ASV1901:PSA.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed is the man unto whom Jehovah imputeth not iniquity,\nAnd in whose spirit there is no guile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.3",
+      "edition_verse_id": "ASV1901:PSA.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I kept silence, my bones wasted away\nThrough my groaning all the day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.4",
+      "edition_verse_id": "ASV1901:PSA.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For day and night thy hand was heavy upon me:\nMy moisture was changed ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the drought of summer. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.5",
+      "edition_verse_id": "ASV1901:PSA.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I acknowledged my sin unto thee,\nAnd mine iniquity did I not hide:\nI said, I will confess my transgressions unto Jehovah;\nAnd thou forgavest the iniquity of my sin. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.6",
+      "edition_verse_id": "ASV1901:PSA.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For this let every one that is godly pray unto thee in a time when thou mayest be found:\nSurely when the great waters overflow they shall not reach unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.7",
+      "edition_verse_id": "ASV1901:PSA.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou art my hiding-place; thou wilt preserve me from trouble;\nThou wilt compass me about with songs of deliverance. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.8",
+      "edition_verse_id": "ASV1901:PSA.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will instruct thee and teach thee in the way which thou shalt go:\nI will counsel thee with mine eye upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.9",
+      "edition_verse_id": "ASV1901:PSA.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Be ye not as the horse, or as the mule, which have no understanding;\nWhose trappings must be bit and bridle to hold them in,",
+          "kind": "text"
+        },
+        {
+          "text": "Else",
+          "kind": "supplied"
+        },
+        {
+          "text": " they will not come near unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.10",
+      "edition_verse_id": "ASV1901:PSA.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Many sorrows shall be to the wicked;\nBut he that trusteth in Jehovah, lovingkindness shall compass him about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.11",
+      "edition_verse_id": "ASV1901:PSA.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be glad in Jehovah, and rejoice, ye righteous;\nAnd shout for joy, all ye that are upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Blessedness of forgiveness and of trust in God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David. Maschil.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "PSA.5.1",
+      "edition_verse_id": "ASV1901:PSA.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give ear to my words, O Jehovah,\nConsider my meditation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.2",
+      "edition_verse_id": "ASV1901:PSA.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hearken unto the voice of my cry, my King, and my God;\nFor unto thee do I pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.3",
+      "edition_verse_id": "ASV1901:PSA.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O Jehovah, in the morning shalt thou hear my voice;\nIn the morning will I order ",
+          "kind": "text"
+        },
+        {
+          "text": "my prayer",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto thee, and will keep watch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.4",
+      "edition_verse_id": "ASV1901:PSA.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou art not a God that hath pleasure in wickedness:Evil shall not sojourn with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.5",
+      "edition_verse_id": "ASV1901:PSA.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The arrogant shall not stand in thy sight:\nThou hatest all workers of iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.6",
+      "edition_verse_id": "ASV1901:PSA.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou wilt destroy them that speak lies:\nJehovah abhorreth the blood-thirsty and deceitful man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.7",
+      "edition_verse_id": "ASV1901:PSA.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But as for me, in the abundance of thy lovingkindness will I come into thy house:\nIn thy fear will I worship toward thy holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.8",
+      "edition_verse_id": "ASV1901:PSA.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Lead me, O Jehovah, in thy righteousness because of mine enemies;\nMake thy way straight before my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.9",
+      "edition_verse_id": "ASV1901:PSA.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For there is no faithfulness in their mouth;\nTheir inward part is very wickedness;\nTheir throat is an open sepulchre;\nThey flatter with their tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.10",
+      "edition_verse_id": "ASV1901:PSA.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hold them guilty, O God;\nLet them fall by their own counsels;\nThrust them out in the multitude of their transgressions;\nFor they have rebelled against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.11",
+      "edition_verse_id": "ASV1901:PSA.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But let all those that take refuge in thee rejoice,\nLet them ever shout for joy, because thou defendest them:\nLet them also that love thy name be joyful in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.5.12",
+      "edition_verse_id": "ASV1901:PSA.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For thou wilt bless the righteous;\nO Jehovah, thou wilt compass him with favor as with a shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for protection from the wicked.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; with the Or, wind instrumentsNehiloth. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

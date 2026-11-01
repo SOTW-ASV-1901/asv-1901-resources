@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "PSA.20.1",
+      "edition_verse_id": "ASV1901:PSA.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jehovah answer thee in the day of trouble;\nThe name of the God of Jacob set thee up on high;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.2",
+      "edition_verse_id": "ASV1901:PSA.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Send thee help from the sanctuary,\nAnd strengthen thee out of Zion;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.3",
+      "edition_verse_id": "ASV1901:PSA.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Remember all thy offerings,\nAnd accept thy burnt-sacrifice; [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.4",
+      "edition_verse_id": "ASV1901:PSA.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Grant thee thy heart’s desire,\nAnd fulfil all thy counsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.5",
+      "edition_verse_id": "ASV1901:PSA.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "We will triumph in thy salvation,\nAnd in the name of our God we will set up our banners:\nJehovah fulfil all thy petitions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.6",
+      "edition_verse_id": "ASV1901:PSA.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now know I that Jehovah saveth his anointed;\nHe will answer him from his holy heaven\nWith the saving strength of his right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.7",
+      "edition_verse_id": "ASV1901:PSA.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Some ",
+          "kind": "text"
+        },
+        {
+          "text": "trust",
+          "kind": "supplied"
+        },
+        {
+          "text": " in chariots, and some in horses;\nBut we will make mention of the name of Jehovah our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.8",
+      "edition_verse_id": "ASV1901:PSA.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are bowed down and fallen;\nBut we are risen, and stand upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.9",
+      "edition_verse_id": "ASV1901:PSA.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Save, Jehovah:\nLet the King answer us when we call.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for victory over enemies.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

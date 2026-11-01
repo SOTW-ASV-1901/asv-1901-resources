@@ -1,0 +1,1438 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      580
+    ],
+    "first": "PSA.1.1",
+    "last": "PSA.1.6"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      580
+    ],
+    "first": "PSA.2.1",
+    "last": "PSA.2.12"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      580,
+      581
+    ],
+    "first": "PSA.3.1",
+    "last": "PSA.3.8"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      581
+    ],
+    "first": "PSA.4.1",
+    "last": "PSA.4.8"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      581,
+      582
+    ],
+    "first": "PSA.5.1",
+    "last": "PSA.5.12"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      582
+    ],
+    "first": "PSA.6.1",
+    "last": "PSA.6.10"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      582,
+      583
+    ],
+    "first": "PSA.7.1",
+    "last": "PSA.7.17"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      583
+    ],
+    "first": "PSA.8.1",
+    "last": "PSA.8.9"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      583,
+      584
+    ],
+    "first": "PSA.9.1",
+    "last": "PSA.9.20"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      584,
+      585
+    ],
+    "first": "PSA.10.1",
+    "last": "PSA.10.18"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      585
+    ],
+    "first": "PSA.11.1",
+    "last": "PSA.11.7"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      585
+    ],
+    "first": "PSA.12.1",
+    "last": "PSA.12.8"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      585
+    ],
+    "first": "PSA.13.1",
+    "last": "PSA.13.6"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      585,
+      586
+    ],
+    "first": "PSA.14.1",
+    "last": "PSA.14.7"
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      586
+    ],
+    "first": "PSA.15.1",
+    "last": "PSA.15.5"
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      586
+    ],
+    "first": "PSA.16.1",
+    "last": "PSA.16.11"
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      586,
+      587
+    ],
+    "first": "PSA.17.1",
+    "last": "PSA.17.15"
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      587,
+      588,
+      589
+    ],
+    "first": "PSA.18.1",
+    "last": "PSA.18.50"
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      589
+    ],
+    "first": "PSA.19.1",
+    "last": "PSA.19.14"
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      589,
+      590
+    ],
+    "first": "PSA.20.1",
+    "last": "PSA.20.9"
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      590
+    ],
+    "first": "PSA.21.1",
+    "last": "PSA.21.13"
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      590,
+      591
+    ],
+    "first": "PSA.22.1",
+    "last": "PSA.22.31"
+  },
+  "23": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      591,
+      592
+    ],
+    "first": "PSA.23.1",
+    "last": "PSA.23.6"
+  },
+  "24": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      592
+    ],
+    "first": "PSA.24.1",
+    "last": "PSA.24.10"
+  },
+  "25": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      592,
+      593
+    ],
+    "first": "PSA.25.1",
+    "last": "PSA.25.22"
+  },
+  "26": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      593
+    ],
+    "first": "PSA.26.1",
+    "last": "PSA.26.12"
+  },
+  "27": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      593,
+      594
+    ],
+    "first": "PSA.27.1",
+    "last": "PSA.27.14"
+  },
+  "28": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      594
+    ],
+    "first": "PSA.28.1",
+    "last": "PSA.28.9"
+  },
+  "29": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      594,
+      595
+    ],
+    "first": "PSA.29.1",
+    "last": "PSA.29.11"
+  },
+  "30": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      595
+    ],
+    "first": "PSA.30.1",
+    "last": "PSA.30.12"
+  },
+  "31": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      595,
+      596
+    ],
+    "first": "PSA.31.1",
+    "last": "PSA.31.24"
+  },
+  "32": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      596,
+      597
+    ],
+    "first": "PSA.32.1",
+    "last": "PSA.32.11"
+  },
+  "33": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      597
+    ],
+    "first": "PSA.33.1",
+    "last": "PSA.33.22"
+  },
+  "34": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      597,
+      598
+    ],
+    "first": "PSA.34.1",
+    "last": "PSA.34.22"
+  },
+  "35": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      598,
+      599
+    ],
+    "first": "PSA.35.1",
+    "last": "PSA.35.28"
+  },
+  "36": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      599,
+      600
+    ],
+    "first": "PSA.36.1",
+    "last": "PSA.36.12"
+  },
+  "37": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      600,
+      601
+    ],
+    "first": "PSA.37.1",
+    "last": "PSA.37.40"
+  },
+  "38": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      601,
+      602
+    ],
+    "first": "PSA.38.1",
+    "last": "PSA.38.22"
+  },
+  "39": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      602
+    ],
+    "first": "PSA.39.1",
+    "last": "PSA.39.13"
+  },
+  "40": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      602,
+      603
+    ],
+    "first": "PSA.40.1",
+    "last": "PSA.40.17"
+  },
+  "41": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      603,
+      604
+    ],
+    "first": "PSA.41.1",
+    "last": "PSA.41.13"
+  },
+  "42": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      604
+    ],
+    "first": "PSA.42.1",
+    "last": "PSA.42.11"
+  },
+  "43": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      604,
+      605
+    ],
+    "first": "PSA.43.1",
+    "last": "PSA.43.5"
+  },
+  "44": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      605,
+      606
+    ],
+    "first": "PSA.44.1",
+    "last": "PSA.44.26"
+  },
+  "45": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      606
+    ],
+    "first": "PSA.45.1",
+    "last": "PSA.45.17"
+  },
+  "46": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      606,
+      607
+    ],
+    "first": "PSA.46.1",
+    "last": "PSA.46.11"
+  },
+  "47": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      607
+    ],
+    "first": "PSA.47.1",
+    "last": "PSA.47.9"
+  },
+  "48": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      607
+    ],
+    "first": "PSA.48.1",
+    "last": "PSA.48.14"
+  },
+  "49": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      607,
+      608
+    ],
+    "first": "PSA.49.1",
+    "last": "PSA.49.20"
+  },
+  "50": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      608,
+      609
+    ],
+    "first": "PSA.50.1",
+    "last": "PSA.50.23"
+  },
+  "51": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      609,
+      610
+    ],
+    "first": "PSA.51.1",
+    "last": "PSA.51.19"
+  },
+  "52": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      610
+    ],
+    "first": "PSA.52.1",
+    "last": "PSA.52.9"
+  },
+  "53": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      610
+    ],
+    "first": "PSA.53.1",
+    "last": "PSA.53.6"
+  },
+  "54": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      610,
+      611
+    ],
+    "first": "PSA.54.1",
+    "last": "PSA.54.7"
+  },
+  "55": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      611,
+      612
+    ],
+    "first": "PSA.55.1",
+    "last": "PSA.55.23"
+  },
+  "56": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      612
+    ],
+    "first": "PSA.56.1",
+    "last": "PSA.56.13"
+  },
+  "57": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      612,
+      613
+    ],
+    "first": "PSA.57.1",
+    "last": "PSA.57.11"
+  },
+  "58": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      613
+    ],
+    "first": "PSA.58.1",
+    "last": "PSA.58.11"
+  },
+  "59": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      613,
+      614
+    ],
+    "first": "PSA.59.1",
+    "last": "PSA.59.17"
+  },
+  "60": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      614
+    ],
+    "first": "PSA.60.1",
+    "last": "PSA.60.12"
+  },
+  "61": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      614,
+      615
+    ],
+    "first": "PSA.61.1",
+    "last": "PSA.61.8"
+  },
+  "62": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      615
+    ],
+    "first": "PSA.62.1",
+    "last": "PSA.62.12"
+  },
+  "63": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      615
+    ],
+    "first": "PSA.63.1",
+    "last": "PSA.63.11"
+  },
+  "64": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      615,
+      616
+    ],
+    "first": "PSA.64.1",
+    "last": "PSA.64.10"
+  },
+  "65": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      616
+    ],
+    "first": "PSA.65.1",
+    "last": "PSA.65.13"
+  },
+  "66": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      616,
+      617
+    ],
+    "first": "PSA.66.1",
+    "last": "PSA.66.20"
+  },
+  "67": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      617
+    ],
+    "first": "PSA.67.1",
+    "last": "PSA.67.7"
+  },
+  "68": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      617,
+      618,
+      619
+    ],
+    "first": "PSA.68.1",
+    "last": "PSA.68.35"
+  },
+  "69": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      619,
+      620
+    ],
+    "first": "PSA.69.1",
+    "last": "PSA.69.36"
+  },
+  "70": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      620
+    ],
+    "first": "PSA.70.1",
+    "last": "PSA.70.5"
+  },
+  "71": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      620,
+      621
+    ],
+    "first": "PSA.71.1",
+    "last": "PSA.71.24"
+  },
+  "72": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      621,
+      622
+    ],
+    "first": "PSA.72.1",
+    "last": "PSA.72.20"
+  },
+  "73": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      622,
+      623
+    ],
+    "first": "PSA.73.1",
+    "last": "PSA.73.28"
+  },
+  "74": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      623,
+      624
+    ],
+    "first": "PSA.74.1",
+    "last": "PSA.74.23"
+  },
+  "75": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      624
+    ],
+    "first": "PSA.75.1",
+    "last": "PSA.75.10"
+  },
+  "76": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      624,
+      625
+    ],
+    "first": "PSA.76.1",
+    "last": "PSA.76.12"
+  },
+  "77": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      625,
+      626
+    ],
+    "first": "PSA.77.1",
+    "last": "PSA.77.20"
+  },
+  "78": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      626,
+      627,
+      628
+    ],
+    "first": "PSA.78.1",
+    "last": "PSA.78.72"
+  },
+  "79": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      628,
+      629
+    ],
+    "first": "PSA.79.1",
+    "last": "PSA.79.13"
+  },
+  "80": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      629
+    ],
+    "first": "PSA.80.1",
+    "last": "PSA.80.19"
+  },
+  "81": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      629,
+      630
+    ],
+    "first": "PSA.81.1",
+    "last": "PSA.81.16"
+  },
+  "82": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      630
+    ],
+    "first": "PSA.82.1",
+    "last": "PSA.82.8"
+  },
+  "83": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      630,
+      631
+    ],
+    "first": "PSA.83.1",
+    "last": "PSA.83.18"
+  },
+  "84": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      631
+    ],
+    "first": "PSA.84.1",
+    "last": "PSA.84.12"
+  },
+  "85": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      631,
+      632
+    ],
+    "first": "PSA.85.1",
+    "last": "PSA.85.13"
+  },
+  "86": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      632
+    ],
+    "first": "PSA.86.1",
+    "last": "PSA.86.17"
+  },
+  "87": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      632,
+      633
+    ],
+    "first": "PSA.87.1",
+    "last": "PSA.87.7"
+  },
+  "88": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      633
+    ],
+    "first": "PSA.88.1",
+    "last": "PSA.88.18"
+  },
+  "89": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      633,
+      634,
+      635
+    ],
+    "first": "PSA.89.1",
+    "last": "PSA.89.52"
+  },
+  "90": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      635,
+      636
+    ],
+    "first": "PSA.90.1",
+    "last": "PSA.90.17"
+  },
+  "91": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      636
+    ],
+    "first": "PSA.91.1",
+    "last": "PSA.91.16"
+  },
+  "92": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      636,
+      637
+    ],
+    "first": "PSA.92.1",
+    "last": "PSA.92.15"
+  },
+  "93": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      637
+    ],
+    "first": "PSA.93.1",
+    "last": "PSA.93.5"
+  },
+  "94": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      637,
+      638
+    ],
+    "first": "PSA.94.1",
+    "last": "PSA.94.23"
+  },
+  "95": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      638
+    ],
+    "first": "PSA.95.1",
+    "last": "PSA.95.11"
+  },
+  "96": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      638,
+      639
+    ],
+    "first": "PSA.96.1",
+    "last": "PSA.96.13"
+  },
+  "97": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      639
+    ],
+    "first": "PSA.97.1",
+    "last": "PSA.97.12"
+  },
+  "98": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      639
+    ],
+    "first": "PSA.98.1",
+    "last": "PSA.98.9"
+  },
+  "99": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      639,
+      640
+    ],
+    "first": "PSA.99.1",
+    "last": "PSA.99.9"
+  },
+  "100": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      640
+    ],
+    "first": "PSA.100.1",
+    "last": "PSA.100.5"
+  },
+  "101": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      640
+    ],
+    "first": "PSA.101.1",
+    "last": "PSA.101.8"
+  },
+  "102": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      640,
+      641
+    ],
+    "first": "PSA.102.1",
+    "last": "PSA.102.28"
+  },
+  "103": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      641,
+      642
+    ],
+    "first": "PSA.103.1",
+    "last": "PSA.103.22"
+  },
+  "104": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      642,
+      643
+    ],
+    "first": "PSA.104.1",
+    "last": "PSA.104.35"
+  },
+  "105": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      643,
+      644
+    ],
+    "first": "PSA.105.1",
+    "last": "PSA.105.45"
+  },
+  "106": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      645,
+      646
+    ],
+    "first": "PSA.106.1",
+    "last": "PSA.106.48"
+  },
+  "107": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      646,
+      647,
+      648
+    ],
+    "first": "PSA.107.1",
+    "last": "PSA.107.43"
+  },
+  "108": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      648
+    ],
+    "first": "PSA.108.1",
+    "last": "PSA.108.13"
+  },
+  "109": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      648,
+      649
+    ],
+    "first": "PSA.109.1",
+    "last": "PSA.109.31"
+  },
+  "110": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      649
+    ],
+    "first": "PSA.110.1",
+    "last": "PSA.110.7"
+  },
+  "111": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      649,
+      650
+    ],
+    "first": "PSA.111.1",
+    "last": "PSA.111.10"
+  },
+  "112": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      650
+    ],
+    "first": "PSA.112.1",
+    "last": "PSA.112.10"
+  },
+  "113": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      650
+    ],
+    "first": "PSA.113.1",
+    "last": "PSA.113.9"
+  },
+  "114": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      651
+    ],
+    "first": "PSA.114.1",
+    "last": "PSA.114.8"
+  },
+  "115": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      651
+    ],
+    "first": "PSA.115.1",
+    "last": "PSA.115.18"
+  },
+  "116": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      651,
+      652
+    ],
+    "first": "PSA.116.1",
+    "last": "PSA.116.19"
+  },
+  "117": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      652
+    ],
+    "first": "PSA.117.1",
+    "last": "PSA.117.2"
+  },
+  "118": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      652,
+      653
+    ],
+    "first": "PSA.118.1",
+    "last": "PSA.118.29"
+  },
+  "119": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      653,
+      654,
+      655,
+      656,
+      657,
+      658
+    ],
+    "first": "PSA.119.1",
+    "last": "PSA.119.176"
+  },
+  "120": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      658,
+      659
+    ],
+    "first": "PSA.120.1",
+    "last": "PSA.120.7"
+  },
+  "121": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      659
+    ],
+    "first": "PSA.121.1",
+    "last": "PSA.121.8"
+  },
+  "122": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      659
+    ],
+    "first": "PSA.122.1",
+    "last": "PSA.122.9"
+  },
+  "123": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      659
+    ],
+    "first": "PSA.123.1",
+    "last": "PSA.123.4"
+  },
+  "124": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      659,
+      660
+    ],
+    "first": "PSA.124.1",
+    "last": "PSA.124.8"
+  },
+  "125": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      660
+    ],
+    "first": "PSA.125.1",
+    "last": "PSA.125.5"
+  },
+  "126": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      660
+    ],
+    "first": "PSA.126.1",
+    "last": "PSA.126.6"
+  },
+  "127": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      660
+    ],
+    "first": "PSA.127.1",
+    "last": "PSA.127.5"
+  },
+  "128": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      660
+    ],
+    "first": "PSA.128.1",
+    "last": "PSA.128.6"
+  },
+  "129": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      661
+    ],
+    "first": "PSA.129.1",
+    "last": "PSA.129.8"
+  },
+  "130": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      661
+    ],
+    "first": "PSA.130.1",
+    "last": "PSA.130.8"
+  },
+  "131": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      661
+    ],
+    "first": "PSA.131.1",
+    "last": "PSA.131.3"
+  },
+  "132": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      661,
+      662
+    ],
+    "first": "PSA.132.1",
+    "last": "PSA.132.18"
+  },
+  "133": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      662
+    ],
+    "first": "PSA.133.1",
+    "last": "PSA.133.3"
+  },
+  "134": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      662
+    ],
+    "first": "PSA.134.1",
+    "last": "PSA.134.3"
+  },
+  "135": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      662,
+      663
+    ],
+    "first": "PSA.135.1",
+    "last": "PSA.135.21"
+  },
+  "136": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      663,
+      664
+    ],
+    "first": "PSA.136.1",
+    "last": "PSA.136.26"
+  },
+  "137": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      664
+    ],
+    "first": "PSA.137.1",
+    "last": "PSA.137.9"
+  },
+  "138": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      664
+    ],
+    "first": "PSA.138.1",
+    "last": "PSA.138.8"
+  },
+  "139": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      664,
+      665
+    ],
+    "first": "PSA.139.1",
+    "last": "PSA.139.24"
+  },
+  "140": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      665,
+      666
+    ],
+    "first": "PSA.140.1",
+    "last": "PSA.140.13"
+  },
+  "141": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      666
+    ],
+    "first": "PSA.141.1",
+    "last": "PSA.141.10"
+  },
+  "142": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      666
+    ],
+    "first": "PSA.142.1",
+    "last": "PSA.142.7"
+  },
+  "143": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      666,
+      667
+    ],
+    "first": "PSA.143.1",
+    "last": "PSA.143.12"
+  },
+  "144": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      667
+    ],
+    "first": "PSA.144.1",
+    "last": "PSA.144.15"
+  },
+  "145": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      667,
+      668
+    ],
+    "first": "PSA.145.1",
+    "last": "PSA.145.21"
+  },
+  "146": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      668
+    ],
+    "first": "PSA.146.1",
+    "last": "PSA.146.10"
+  },
+  "147": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      668,
+      669
+    ],
+    "first": "PSA.147.1",
+    "last": "PSA.147.20"
+  },
+  "148": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      669
+    ],
+    "first": "PSA.148.1",
+    "last": "PSA.148.14"
+  },
+  "149": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      670
+    ],
+    "first": "PSA.149.1",
+    "last": "PSA.149.9"
+  },
+  "150": {
+    "original_print_chapter_checked": true,
+    "method": "Verified 1901 scanned page coverage, opening and closing verse boundaries and chapter transition; not every-character printed proofreading.",
+    "source_pdf_pages": [
+      670
+    ],
+    "first": "PSA.150.1",
+    "last": "PSA.150.6"
+  }
+}

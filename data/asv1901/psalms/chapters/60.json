@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 60,
+  "verses": [
+    {
+      "id": "PSA.60.1",
+      "edition_verse_id": "ASV1901:PSA.60.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O God thou hast cast us off, thou hast broken us down;\nThou hast been angry; oh restore us again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.2",
+      "edition_verse_id": "ASV1901:PSA.60.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou hast made the land to tremble; thou hast rent it:\nHeal the breaches thereof; for it shaketh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.3",
+      "edition_verse_id": "ASV1901:PSA.60.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou hast showed thy people hard things:\nThou hast made us to drink the wine of staggering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.4",
+      "edition_verse_id": "ASV1901:PSA.60.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou hast given a banner to them that fear thee,\nThat it may be displayed because of the truth. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.5",
+      "edition_verse_id": "ASV1901:PSA.60.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That thy beloved may be delivered,\nSave with thy right hand, and answer us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.6",
+      "edition_verse_id": "ASV1901:PSA.60.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "God hath spoken in his holiness: I will exult;\nI will divide Shechem, and mete out the valley of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.7",
+      "edition_verse_id": "ASV1901:PSA.60.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Gilead is mine, and Manasseh is mine;\nEphraim also is the defence of my head;\nJudah is my sceptre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.8",
+      "edition_verse_id": "ASV1901:PSA.60.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Moab is my washpot;Upon Edom will I cast my shoe:\nPhilistia, shout thou because of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.9",
+      "edition_verse_id": "ASV1901:PSA.60.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who will bring me into the strong city?Who hath led me unto Edom?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.10",
+      "edition_verse_id": "ASV1901:PSA.60.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hast not thou, O God, cast us off?\nAnd thou goest not forth, O God, with our hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.11",
+      "edition_verse_id": "ASV1901:PSA.60.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Give us help against the adversary;\nFor vain is the help of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.60.12",
+      "edition_verse_id": "ASV1901:PSA.60.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Through God we shall do valiantly;\nFor he it is that will tread down our adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Lament over defeat in battle, and prayer for help.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to That is, The lily of testimony.Shushan Eduth. Michtam of David, to teach; when he strove with Aram-naharaim and with Aram-zobah, and Joab returned, and smote of Edom in the Valley of Salt twelve thousand.",
+      "before_verse": 1
+    }
+  ]
+}

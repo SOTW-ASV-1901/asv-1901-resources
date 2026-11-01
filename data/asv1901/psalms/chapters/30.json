@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "PSA.30.1",
+      "edition_verse_id": "ASV1901:PSA.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will extol thee, O Jehovah; for thou hast raised me up,\nAnd hast not made my foes to rejoice over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.2",
+      "edition_verse_id": "ASV1901:PSA.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O Jehovah my God,\nI cried unto thee, and thou hast healed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.3",
+      "edition_verse_id": "ASV1901:PSA.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O Jehovah, thou hast brought up my soul from Sheol;\nThou hast kept me alive, that I should not go down to the pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.4",
+      "edition_verse_id": "ASV1901:PSA.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Sing praise unto Jehovah, O ye saints of his,\nAnd give thanks to his holy memorial ",
+          "kind": "text"
+        },
+        {
+          "text": "name",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.5",
+      "edition_verse_id": "ASV1901:PSA.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For his anger is but for a moment;His favor is for a life-time:\nWeeping may tarry for the night,\nBut joy ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.6",
+      "edition_verse_id": "ASV1901:PSA.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "As for me, I said in my prosperity,\nI shall never be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.7",
+      "edition_verse_id": "ASV1901:PSA.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou, Jehovah, of thy favor hadst made my mountain to stand strong:\nThou didst hide thy face; I was troubled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.8",
+      "edition_verse_id": "ASV1901:PSA.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I cried to thee, O Jehovah;\nAnd unto Jehovah I made supplication:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.9",
+      "edition_verse_id": "ASV1901:PSA.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "What profit is there in my blood, when I go down to the pit?\nShall the dust praise thee? shall it declare thy truth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.10",
+      "edition_verse_id": "ASV1901:PSA.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hear, O Jehovah, and have mercy upon me:\nJehovah, be thou my helper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.11",
+      "edition_verse_id": "ASV1901:PSA.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou hast turned for me my mourning into dancing;\nThou hast loosed my sackcloth, and girded me with gladness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.12",
+      "edition_verse_id": "ASV1901:PSA.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "To the end that ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " glory may sing praise to thee, and not be silent.\nO Jehovah my God, I will give thanks unto thee for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Thanksgiving for deliverance from death.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm; a Song at the Dedication of the House. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

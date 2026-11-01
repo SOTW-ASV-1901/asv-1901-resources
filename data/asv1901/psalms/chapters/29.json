@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "PSA.29.1",
+      "edition_verse_id": "ASV1901:PSA.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ascribe unto Jehovah, O ye sons of the mighty,\nAscribe unto Jehovah glory and strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.2",
+      "edition_verse_id": "ASV1901:PSA.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Ascribe unto Jehovah the glory due unto his name;\nWorship Jehovah in holy array.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.3",
+      "edition_verse_id": "ASV1901:PSA.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The voice of Jehovah is upon the waters:\nThe God of glory thundereth,\nEven Jehovah upon many waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.4",
+      "edition_verse_id": "ASV1901:PSA.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The voice of Jehovah is powerful;\nThe voice of Jehovah is full of majesty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.5",
+      "edition_verse_id": "ASV1901:PSA.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The voice of Jehovah breaketh the cedars;\nYea, Jehovah breaketh in pieces the cedars of Lebanon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.6",
+      "edition_verse_id": "ASV1901:PSA.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He maketh them also to skip like a calf;\nLebanon and Sirion like a young wild-ox.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.7",
+      "edition_verse_id": "ASV1901:PSA.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The voice of Jehovah cleaveth the flames of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.8",
+      "edition_verse_id": "ASV1901:PSA.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The voice of Jehovah shaketh the wilderness;\nJehovah shaketh the wilderness of Kadesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.9",
+      "edition_verse_id": "ASV1901:PSA.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The voice of Jehovah maketh the hinds to calve,\nAnd strippeth the forests bare:\nAnd in his temple everything saith, Glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.10",
+      "edition_verse_id": "ASV1901:PSA.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jehovah sat ",
+          "kind": "text"
+        },
+        {
+          "text": "as King",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the Flood;\nYea, Jehovah sitteth as King for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.29.11",
+      "edition_verse_id": "ASV1901:PSA.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jehovah will give strength unto his people;\nJehovah will bless his people with peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The voice of Jehovah in the storm.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

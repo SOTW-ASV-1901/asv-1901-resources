@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 56,
+  "verses": [
+    {
+      "id": "PSA.56.1",
+      "edition_verse_id": "ASV1901:PSA.56.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Be merciful unto me, O God; for man would swallow me up:\nAll the day long he fighting oppresseth me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.2",
+      "edition_verse_id": "ASV1901:PSA.56.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Mine enemies would swallow me up all the day long;\nFor they are many that fight proudly against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.3",
+      "edition_verse_id": "ASV1901:PSA.56.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "What time I am afraid,\nI will put my trust in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.4",
+      "edition_verse_id": "ASV1901:PSA.56.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In God (I will praise his word),\nIn God have I put my trust, I will not be afraid;\nWhat can flesh do unto me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.5",
+      "edition_verse_id": "ASV1901:PSA.56.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "All the day long they wrest my words:\nAll their thoughts are against me for evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.6",
+      "edition_verse_id": "ASV1901:PSA.56.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They gather themselves together, they hide themselves,\nThey mark my steps,Even as they have waited for my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.7",
+      "edition_verse_id": "ASV1901:PSA.56.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Shall they escape by iniquity?\nIn anger cast down the peoples, O God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.8",
+      "edition_verse_id": "ASV1901:PSA.56.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou numberest my wanderings:\nPut thou my tears into thy bottle;\nAre they not in thy book?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.9",
+      "edition_verse_id": "ASV1901:PSA.56.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then shall mine enemies turn back in the day that I call:\nThis I know, that God is for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.10",
+      "edition_verse_id": "ASV1901:PSA.56.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In God (I will praise ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " word),\nIn Jehovah (I will praise ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " word),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.11",
+      "edition_verse_id": "ASV1901:PSA.56.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In God have I put my trust, I will not be afraid;\nWhat can man do unto me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.12",
+      "edition_verse_id": "ASV1901:PSA.56.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thy vows are upon me, O God:\nI will render thank-offerings unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.13",
+      "edition_verse_id": "ASV1901:PSA.56.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For thou hast delivered my soul from death:",
+          "kind": "text"
+        },
+        {
+          "text": "Hast thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "delivered",
+          "kind": "supplied"
+        },
+        {
+          "text": " my feet from falling,\nThat I may walk before God\nIn the light of the living?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Supplication for deliverance, and grateful trust in God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to That is, The silent dove of them that are afar off. Or, as otherwise read, The dove of the distant terebinths.Jonath elem rehokim. A Psalm of David. Michtam; when the Philistines took him in Gath.",
+      "before_verse": 1
+    }
+  ]
+}

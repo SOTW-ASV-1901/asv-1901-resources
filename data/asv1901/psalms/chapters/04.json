@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "PSA.4.1",
+      "edition_verse_id": "ASV1901:PSA.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Answer me when I call, O God of my righteousness;\nThou hast set me at large ",
+          "kind": "text"
+        },
+        {
+          "text": "when I was",
+          "kind": "supplied"
+        },
+        {
+          "text": " in distress:Have mercy upon me, and hear my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.2",
+      "edition_verse_id": "ASV1901:PSA.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O ye sons of men, how long shall my glory be turned into dishonor?",
+          "kind": "text"
+        },
+        {
+          "text": "How long",
+          "kind": "supplied"
+        },
+        {
+          "text": " will ye love vanity, and seek after falsehood? [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.3",
+      "edition_verse_id": "ASV1901:PSA.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But know that Jehovah hath set apart for himself him that is godly:\nJehovah will hear when I call unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.4",
+      "edition_verse_id": "ASV1901:PSA.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Stand in awe, and sin not:\nCommune with your own heart upon your bed, and be still. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.5",
+      "edition_verse_id": "ASV1901:PSA.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Offer the sacrifices of righteousness,\nAnd put your trust in Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.6",
+      "edition_verse_id": "ASV1901:PSA.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Many there are that say, Who will show us ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " good?\nJehovah, lift thou up the light of thy countenance upon us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.7",
+      "edition_verse_id": "ASV1901:PSA.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou hast put gladness in my heart,\nMore than ",
+          "kind": "text"
+        },
+        {
+          "text": "they have",
+          "kind": "supplied"
+        },
+        {
+          "text": " when their grain and their new wine are increased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.4.8",
+      "edition_verse_id": "ASV1901:PSA.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In peace will I both lay me down and sleep;\nFor thou, Jehovah, alone makest me dwell in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Evening prayer of trust in God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; on stringed instruments. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

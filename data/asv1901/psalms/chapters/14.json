@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "PSA.14.1",
+      "edition_verse_id": "ASV1901:PSA.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The fool hath said in his heart, There is no God.\nThey are corrupt, they have done abominable works;\nThere is none that doeth good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.2",
+      "edition_verse_id": "ASV1901:PSA.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah looked down from heaven upon the children of men,\nTo see if there were any that did understand,\nThat did seek after God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.3",
+      "edition_verse_id": "ASV1901:PSA.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They are all gone aside; they are together become filthy;\nThere is none that doeth good, no, not one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.4",
+      "edition_verse_id": "ASV1901:PSA.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Have all the workers of iniquity no knowledge,\nWho eat up my people ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " they eat bread,\nAnd call not upon Jehovah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.5",
+      "edition_verse_id": "ASV1901:PSA.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "There were they in great fear;\nFor God is in the generation of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.6",
+      "edition_verse_id": "ASV1901:PSA.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye put to shame the counsel of the poor,Because Jehovah is his refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.7",
+      "edition_verse_id": "ASV1901:PSA.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Oh that the salvation of Israel were come out of Zion!\nWhen Jehovah bringeth back the captivity of his people,\nThen shall Jacob rejoice, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Israel shall be glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The folly and wickedness of men.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

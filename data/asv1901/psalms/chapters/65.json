@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 65,
+  "verses": [
+    {
+      "id": "PSA.65.1",
+      "edition_verse_id": "ASV1901:PSA.65.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise waiteth for thee, O God, in Zion;\nAnd unto thee shall the vow be performed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.2",
+      "edition_verse_id": "ASV1901:PSA.65.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O thou that hearest prayer,\nUnto thee shall all flesh come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.3",
+      "edition_verse_id": "ASV1901:PSA.65.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Iniquities prevail against me:\nAs for our transgressions, thou wilt forgive them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.4",
+      "edition_verse_id": "ASV1901:PSA.65.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed is the man whom thou choosest, and causest to approach ",
+          "kind": "text"
+        },
+        {
+          "text": "unto thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nThat he may dwell in thy courts:\nWe shall be satisfied with the goodness of thy house,\nThy holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.5",
+      "edition_verse_id": "ASV1901:PSA.65.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By terrible things thou wilt answer us in righteousness,\nO God of our salvation,\nThou that art the confidence of all the ends of the earth,\nAnd of them that are afar off upon the sea:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.6",
+      "edition_verse_id": "ASV1901:PSA.65.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Who by his strength setteth fast the mountains,\nBeing girded about with might;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.7",
+      "edition_verse_id": "ASV1901:PSA.65.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Who stilleth the roaring of the seas,\nThe roaring of their waves,\nAnd the tumult of the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.8",
+      "edition_verse_id": "ASV1901:PSA.65.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They also that dwell in the uttermost parts are afraid at thy tokens:\nThou makest the outgoings of the morning and evening to rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.9",
+      "edition_verse_id": "ASV1901:PSA.65.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou visitest the earth, and waterest it,\nThou greatly enrichest it;\nThe river of God is full of water:\nThou providest them grain, when thou hast so prepared the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.10",
+      "edition_verse_id": "ASV1901:PSA.65.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thou waterest its furrows abundantly;\nThou settlest the ridges thereof:\nThou makest it soft with showers;\nThou blessest the springing thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.11",
+      "edition_verse_id": "ASV1901:PSA.65.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou crownest the year with thy goodness;\nAnd thy paths drop fatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.12",
+      "edition_verse_id": "ASV1901:PSA.65.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They drop upon the pastures of the wilderness;\nAnd the hills are girded with joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.13",
+      "edition_verse_id": "ASV1901:PSA.65.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The pastures are clothed with flocks;\nThe valleys also are covered over with grain;\nThey shout for joy, they also sing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "God’s abundant favor to earth and man.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm. A Song of David.",
+      "before_verse": 1
+    }
+  ]
+}

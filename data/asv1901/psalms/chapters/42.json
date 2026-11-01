@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "PSA.42.1",
+      "edition_verse_id": "ASV1901:PSA.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "As the hart panteth after the water brooks,\nSo panteth my soul after thee, O God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.2",
+      "edition_verse_id": "ASV1901:PSA.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My soul thirsteth for God, for the living God:\nWhen shall I come and appear before God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.3",
+      "edition_verse_id": "ASV1901:PSA.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My tears have been my food day and night,\nWhile they continually say unto me, Where is thy God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.4",
+      "edition_verse_id": "ASV1901:PSA.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "These things I remember, and pour out my soul within me,\nHow I went with the throng, and led them to the house of God,\nWith the voice of joy and praise, a multitude keeping holyday.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.5",
+      "edition_verse_id": "ASV1901:PSA.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Why art thou cast down, O my soul?\nAnd ",
+          "kind": "text"
+        },
+        {
+          "text": "why",
+          "kind": "supplied"
+        },
+        {
+          "text": " art thou disquieted within me?\nHope thou in God; for I shall yet praise him",
+          "kind": "text"
+        },
+        {
+          "text": "For",
+          "kind": "supplied"
+        },
+        {
+          "text": " the help of his countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.6",
+      "edition_verse_id": "ASV1901:PSA.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O my God, my soul is cast down within me:\nTherefore do I remember thee from the land of the Jordan,\nAnd the Hermons, from the hill Mizar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.7",
+      "edition_verse_id": "ASV1901:PSA.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Deep calleth unto deep at the noise of thy waterfalls:\nAll thy waves and thy billows are gone over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.8",
+      "edition_verse_id": "ASV1901:PSA.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jehovah will command his lovingkindness in the day-time;\nAnd in the night his song shall be with me,",
+          "kind": "text"
+        },
+        {
+          "text": "Even",
+          "kind": "supplied"
+        },
+        {
+          "text": " a prayer unto the God of my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.9",
+      "edition_verse_id": "ASV1901:PSA.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will say unto God my rock, Why hast thou forgotten me?\nWhy go I mourning because of the oppression of the enemy?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.10",
+      "edition_verse_id": "ASV1901:PSA.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As with a sword in my bones, mine adversaries reproach me,\nWhile they continually say unto me, Where is thy God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.11",
+      "edition_verse_id": "ASV1901:PSA.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Why art thou cast down, O my soul?\nAnd why art thou disquieted within me?\nHope thou in God; for I shall yet praise him,",
+          "kind": "text"
+        },
+        {
+          "text": "Who is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the help of my countenance, and my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "ms1",
+      "text": "Book II",
+      "before_verse": 1
+    },
+    {
+      "style": "s1",
+      "text": "Thirsting for God in trouble and exile.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. Maschil of the sons of Korah.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 70,
+  "verses": [
+    {
+      "id": "PSA.70.1",
+      "edition_verse_id": "ASV1901:PSA.70.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Make haste",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O God, to deliver me;\nMake haste to help me, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.70.2",
+      "edition_verse_id": "ASV1901:PSA.70.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let them be put to shame and confounded\nThat seek after my soul:\nLet them be turned backward and brought to dishonor\nThat delight in my hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.70.3",
+      "edition_verse_id": "ASV1901:PSA.70.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let them be turned back by reason of their shame\nThat say, Aha, aha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.70.4",
+      "edition_verse_id": "ASV1901:PSA.70.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Let all those that seek thee rejoice and be glad in thee;\nAnd let such as love thy salvation say continually,\nLet God be magnified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.70.5",
+      "edition_verse_id": "ASV1901:PSA.70.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But I am poor and needy;\nMake haste unto me, O God:\nThou art my help and my deliverer;\nO Jehovah, make no tarrying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for help against persecutors.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David; Or, to make memorialto bring to remembrance.",
+      "before_verse": 1
+    }
+  ]
+}

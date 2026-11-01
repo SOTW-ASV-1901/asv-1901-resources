@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "PSA.11.1",
+      "edition_verse_id": "ASV1901:PSA.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In Jehovah do I take refuge:\nHow say ye to my soul,\nFlee ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a bird to your mountain;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.11.2",
+      "edition_verse_id": "ASV1901:PSA.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For, lo, the wicked bend the bow,\nThey make ready their arrow upon the string,\nThat they may shoot in darkness at the upright in heart;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.11.3",
+      "edition_verse_id": "ASV1901:PSA.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If the foundations be destroyed,\nWhat can the righteous do?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.11.4",
+      "edition_verse_id": "ASV1901:PSA.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jehovah is in his holy temple;\nJehovah, his throne is in heaven;\nHis eyes behold, his eyelids try, the children of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.11.5",
+      "edition_verse_id": "ASV1901:PSA.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jehovah trieth the righteous;\nBut the wicked and him that loveth violence his soul hateth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.11.6",
+      "edition_verse_id": "ASV1901:PSA.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Upon the wicked he will rain snares;\nFire and brimstone and burning wind shall be the portion of their cup.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.11.7",
+      "edition_verse_id": "ASV1901:PSA.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For Jehovah is righteous; he loveth righteousness:The upright shall behold his face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah a refuge and defence.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 46,
+  "verses": [
+    {
+      "id": "PSA.46.1",
+      "edition_verse_id": "ASV1901:PSA.46.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "God is our refuge and strength,\nA very present help in trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.2",
+      "edition_verse_id": "ASV1901:PSA.46.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore will we not fear, though the earth do change,\nAnd though the mountains be shaken into the heart of the seas;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.3",
+      "edition_verse_id": "ASV1901:PSA.46.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Though the waters thereof roar and be troubled,\nThough the mountains tremble with the swelling thereof. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.4",
+      "edition_verse_id": "ASV1901:PSA.46.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "There is a river, the streams whereof make glad the city of God,\nThe holy place of the tabernacles of the Most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.5",
+      "edition_verse_id": "ASV1901:PSA.46.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "God is in the midst of her; she shall not be moved:\nGod will help her, and that right early.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.6",
+      "edition_verse_id": "ASV1901:PSA.46.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The nations raged, the kingdoms were moved:\nHe uttered his voice, the earth melted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.7",
+      "edition_verse_id": "ASV1901:PSA.46.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jehovah of hosts is with us;\nThe God of Jacob is our refuge. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.8",
+      "edition_verse_id": "ASV1901:PSA.46.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Come, behold the works of Jehovah,What desolations he hath made in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.9",
+      "edition_verse_id": "ASV1901:PSA.46.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He maketh wars to cease unto the end of the earth;\nHe breaketh the bow, and cutteth the spear in sunder;\nHe burneth the chariots in the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.10",
+      "edition_verse_id": "ASV1901:PSA.46.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Be still, and know that I am God:\nI will be exalted among the nations, I will be exalted in the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.46.11",
+      "edition_verse_id": "ASV1901:PSA.46.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jehovah of hosts is with us;\nThe God of Jacob is our refuge. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "God the refuge of his people.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of the sons of Korah; set to Alamoth. A Song.",
+      "before_verse": 1
+    }
+  ]
+}

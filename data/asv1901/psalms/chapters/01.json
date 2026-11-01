@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "PSA.1.1",
+      "edition_verse_id": "ASV1901:PSA.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed is the man that walketh not in the counsel of the wicked,\nNor standeth in the way of sinners,\nNor sitteth in the seat of scoffers:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.2",
+      "edition_verse_id": "ASV1901:PSA.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But his delight is in the law of Jehovah;\nAnd on his law doth he meditate day and night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.1.3",
+      "edition_verse_id": "ASV1901:PSA.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he shall be like a tree planted by the streams of water,\nThat bringeth forth its fruit in its season,\nWhose leaf also doth not wither;\nAnd whatsoever he doeth shall prosper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.1.4",
+      "edition_verse_id": "ASV1901:PSA.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The wicked are not so,\nBut are like the chaff which the wind driveth away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.1.5",
+      "edition_verse_id": "ASV1901:PSA.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore the wicked shall not stand in the judgment,\nNor sinners in the congregation of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.1.6",
+      "edition_verse_id": "ASV1901:PSA.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For Jehovah knoweth the way of the righteous;\nBut the way of the wicked shall perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "ms1",
+      "text": "Book I",
+      "before_verse": 1
+    },
+    {
+      "style": "s1",
+      "text": "The righteous and the wicked contrasted.",
+      "before_verse": 1
+    }
+  ]
+}

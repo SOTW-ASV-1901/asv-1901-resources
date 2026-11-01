@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "PSA.9.1",
+      "edition_verse_id": "ASV1901:PSA.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will give thanks unto Jehovah with my whole heart;\nI will show forth all thy marvellous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.2",
+      "edition_verse_id": "ASV1901:PSA.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will be glad and exult in thee;\nI will sing praise to thy name, O thou Most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.3",
+      "edition_verse_id": "ASV1901:PSA.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When mine enemies turn back,\nThey stumble and perish at thy presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.4",
+      "edition_verse_id": "ASV1901:PSA.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou hast maintained my right and my cause;\nThou sittest in the throne judging righteously.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.5",
+      "edition_verse_id": "ASV1901:PSA.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thou hast rebuked the nations, thou hast destroyed the wicked;\nThou hast blotted out their name for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.6",
+      "edition_verse_id": "ASV1901:PSA.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The enemy are come to an end, they are desolate for ever;And the cities which thou hast overthrown,\nThe very remembrance of them is perished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.7",
+      "edition_verse_id": "ASV1901:PSA.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But Jehovah sitteth ",
+          "kind": "text"
+        },
+        {
+          "text": "as king",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever:\nHe hath prepared his throne for judgment;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.8",
+      "edition_verse_id": "ASV1901:PSA.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he will judge the world in righteousness,\nHe will minister judgment to the peoples in uprightness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.9",
+      "edition_verse_id": "ASV1901:PSA.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Jehovah also will be a high tower for the oppressed,\nA high tower in times of trouble;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.10",
+      "edition_verse_id": "ASV1901:PSA.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they that know thy name will put their trust in thee;\nFor thou, Jehovah, hast not forsaken them that seek thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.11",
+      "edition_verse_id": "ASV1901:PSA.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Sing praises to Jehovah, who dwelleth in Zion:\nDeclare among the people his doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.12",
+      "edition_verse_id": "ASV1901:PSA.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For he that maketh inquisition for blood remembereth them;\nHe forgetteth not the cry of the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.13",
+      "edition_verse_id": "ASV1901:PSA.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Have mercy upon me, O Jehovah;\nBehold my affliction ",
+          "kind": "text"
+        },
+        {
+          "text": "which I suffer",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them that hate me,\nThou that liftest me up from the gates of death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.14",
+      "edition_verse_id": "ASV1901:PSA.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "That I may show forth all thy praise.\nIn the gates of the daughter of Zion\nI will rejoice in thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.15",
+      "edition_verse_id": "ASV1901:PSA.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The nations are sunk down in the pit that they made:\nIn the net which they hid is their own foot taken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.16",
+      "edition_verse_id": "ASV1901:PSA.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jehovah hath made himself known, he hath executed judgment:The wicked is snared in the work of his own hands. [Higgaion. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.17",
+      "edition_verse_id": "ASV1901:PSA.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The wicked shall be turned back unto Sheol,\nEven all the nations that forget God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.18",
+      "edition_verse_id": "ASV1901:PSA.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the needy shall not alway be forgotten,\nNor the expectation of the poor perish for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.19",
+      "edition_verse_id": "ASV1901:PSA.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Arise, O Jehovah; let not man prevail:\nLet the nations be judged in thy sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.20",
+      "edition_verse_id": "ASV1901:PSA.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Put them in fear, O Jehovah:\nLet the nations know themselves to be but men. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "A psalm of thanksgiving for God’s justice.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to Muth-labben. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

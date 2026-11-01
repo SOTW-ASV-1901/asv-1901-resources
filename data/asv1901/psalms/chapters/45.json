@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 45,
+  "verses": [
+    {
+      "id": "PSA.45.1",
+      "edition_verse_id": "ASV1901:PSA.45.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My heart overfloweth with a goodly matter;I speak the things which I have made touching the king:\nMy tongue is the pen of a ready writer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.2",
+      "edition_verse_id": "ASV1901:PSA.45.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou art fairer than the children of men;\nGrace is poured into thy lips:\nTherefore God hath blessed thee for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.3",
+      "edition_verse_id": "ASV1901:PSA.45.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Gird thy sword upon thy thigh, O mighty one,\nThy glory and thy majesty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.4",
+      "edition_verse_id": "ASV1901:PSA.45.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And in thy majesty ride on prosperously,Because of truth and meekness ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " righteousness:\nAnd thy right hand shall teach thee terrible things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.5",
+      "edition_verse_id": "ASV1901:PSA.45.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thine arrows are sharp;\nThe peoples fall under thee;",
+          "kind": "text"
+        },
+        {
+          "text": "They are",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the heart of the king’s enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.6",
+      "edition_verse_id": "ASV1901:PSA.45.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thy throne, O God, is for ever and ever:\nA sceptre of equity is the sceptre of thy kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.7",
+      "edition_verse_id": "ASV1901:PSA.45.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou hast loved righteousness, and hated wickedness:\nTherefore God, thy God, hath anointed thee\nWith the oil of gladness above thy fellows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.8",
+      "edition_verse_id": "ASV1901:PSA.45.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All thy garments ",
+          "kind": "text"
+        },
+        {
+          "text": "smell of",
+          "kind": "supplied"
+        },
+        {
+          "text": " myrrh, and aloes, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " cassia;\nOut of ivory palaces stringed instruments have made thee glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.9",
+      "edition_verse_id": "ASV1901:PSA.45.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Kings’ daughters are among thy honorable women:\nAt thy right hand doth stand the queen in gold of Ophir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.10",
+      "edition_verse_id": "ASV1901:PSA.45.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hearken, O daughter, and consider, and incline thine ear;\nForget also thine own people, and thy father’s house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.11",
+      "edition_verse_id": "ASV1901:PSA.45.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So will the king desire thy beauty;\nFor he is thy lord; and reverence thou him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.12",
+      "edition_verse_id": "ASV1901:PSA.45.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the daughter of Tyre ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be there",
+          "kind": "supplied"
+        },
+        {
+          "text": " with a gift;\nThe rich among the people shall entreat thy favor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.13",
+      "edition_verse_id": "ASV1901:PSA.45.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The king’s daughter within ",
+          "kind": "text"
+        },
+        {
+          "text": "the palace",
+          "kind": "supplied"
+        },
+        {
+          "text": " is all glorious:\nHer clothing is inwrought with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.14",
+      "edition_verse_id": "ASV1901:PSA.45.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "She shall be led unto the king in broidered work:\nThe virgins her companions that follow her\nShall be brought unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.15",
+      "edition_verse_id": "ASV1901:PSA.45.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "With gladness and rejoicing shall they be led:\nThey shall enter into the king’s palace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.16",
+      "edition_verse_id": "ASV1901:PSA.45.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Instead of thy fathers shall be thy children,\nWhom thou shalt make princes in all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.17",
+      "edition_verse_id": "ASV1901:PSA.45.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will make thy name to be remembered in all generations:\nTherefore shall the peoples give thee thanks for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "A song celebrating the king’s marriage.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to That is, Lilies.Shoshannim. A Psalm of the sons of Korah. Maschil. A Song of loves.",
+      "before_verse": 1
+    }
+  ]
+}

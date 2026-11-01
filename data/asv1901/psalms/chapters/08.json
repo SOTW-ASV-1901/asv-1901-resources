@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "PSA.8.1",
+      "edition_verse_id": "ASV1901:PSA.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O Jehovah, our Lord, How excellent is thy name in all the earth,\nWho hast set thy glory upon the heavens!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.2",
+      "edition_verse_id": "ASV1901:PSA.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Out of the mouth of babes and sucklings hast thou established strength,\nBecause of thine adversaries,\nThat thou mightest still the enemy and the avenger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.3",
+      "edition_verse_id": "ASV1901:PSA.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I consider thy heavens, the work of thy fingers,\nThe moon and the stars, which thou hast ordained;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.4",
+      "edition_verse_id": "ASV1901:PSA.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What is man, that thou art mindful of him?\nAnd the son of man, that thou visitest him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.5",
+      "edition_verse_id": "ASV1901:PSA.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For thou hast made him but little lower than God,\nAnd crownest him with glory and honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.6",
+      "edition_verse_id": "ASV1901:PSA.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thou makest him to have dominion over the works of thy hands;\nThou hast put all things under his feet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.7",
+      "edition_verse_id": "ASV1901:PSA.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All sheep and oxen,\nYea, and the beasts of the field,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.8",
+      "edition_verse_id": "ASV1901:PSA.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The birds of the heavens, and the fish of the sea,\nWhatsoever passeth through the paths of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.9",
+      "edition_verse_id": "ASV1901:PSA.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O Jehovah, our Lord,\nHow excellent is thy name in all the earth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Jehovah’s glory and man’s dignity.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to the Gittith. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

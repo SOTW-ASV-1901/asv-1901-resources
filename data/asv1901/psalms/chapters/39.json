@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 39,
+  "verses": [
+    {
+      "id": "PSA.39.1",
+      "edition_verse_id": "ASV1901:PSA.39.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I said, I will take heed to my ways,\nThat I sin not with my tongue:\nI will keep my mouth with a bridle,\nWhile the wicked is before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.2",
+      "edition_verse_id": "ASV1901:PSA.39.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I was dumb with silence, I held my peace, even from good;\nAnd my sorrow was stirred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.3",
+      "edition_verse_id": "ASV1901:PSA.39.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My heart was hot within me;\nWhile I was musing the fire burned;",
+          "kind": "text"
+        },
+        {
+          "text": "Then",
+          "kind": "supplied"
+        },
+        {
+          "text": " spake I with my tongue:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.4",
+      "edition_verse_id": "ASV1901:PSA.39.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jehovah, make me to know mine end,\nAnd the measure of my days, what it is;\nLet me know how frail I am.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.5",
+      "edition_verse_id": "ASV1901:PSA.39.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, thou hast made my days ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " handbreadths;\nAnd my life-time is as nothing before thee:\nSurely every man at his best estate is altogether vanity. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.6",
+      "edition_verse_id": "ASV1901:PSA.39.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Surely every man walketh in a vain show;\nSurely they are disquieted in vain:\nHe heapeth up ",
+          "kind": "text"
+        },
+        {
+          "text": "riches",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and knoweth not who shall gather them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.7",
+      "edition_verse_id": "ASV1901:PSA.39.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And now, Lord, what wait I for?\nMy hope is in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.8",
+      "edition_verse_id": "ASV1901:PSA.39.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Deliver me from all my transgressions:\nMake me not the reproach of the foolish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.9",
+      "edition_verse_id": "ASV1901:PSA.39.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I was dumb, I opened not my mouth;\nBecause thou didst it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.10",
+      "edition_verse_id": "ASV1901:PSA.39.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Remove thy stroke away from me:\nI am consumed by the blow of thy hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.11",
+      "edition_verse_id": "ASV1901:PSA.39.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When thou with rebukes dost correct man for iniquity,\nThou makest his beauty to consume away like a moth:\nSurely every man is vanity. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.12",
+      "edition_verse_id": "ASV1901:PSA.39.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Hear my prayer, O Jehovah, and give ear unto my cry;\nHold not thy peace at my tears:\nFor I am a stranger with thee,\nA sojourner, as all my fathers were.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.13",
+      "edition_verse_id": "ASV1901:PSA.39.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Oh spare me, that I may recover strength,\nBefore I go hence, and be no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The vanity of life.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician, for 62:title; 77:title; 1 Chr. 16:41; 25:1.Jeduthun. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

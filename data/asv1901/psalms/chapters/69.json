@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 69,
+  "verses": [
+    {
+      "id": "PSA.69.1",
+      "edition_verse_id": "ASV1901:PSA.69.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Save me, O God;\nFor the waters are come in unto my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.2",
+      "edition_verse_id": "ASV1901:PSA.69.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I sink in deep mire, where there is no standing:\nI am come into deep waters, where the floods overflow me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.3",
+      "edition_verse_id": "ASV1901:PSA.69.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I am weary with my crying; my throat is dried:\nMine eyes fail while I wait for my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.4",
+      "edition_verse_id": "ASV1901:PSA.69.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They that hate me without a cause are more than the hairs of my head:\nThey that would cut me off, being mine enemies wrongfully, are mighty:\nThat which I took not away I have to restore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.5",
+      "edition_verse_id": "ASV1901:PSA.69.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "O God, thou knowest my foolishness;\nAnd my sins are not hid from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.6",
+      "edition_verse_id": "ASV1901:PSA.69.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let not them that wait for thee be put to shame through me, O Lord Jehovah of hosts:\nLet not those that seek thee be brought to dishonor through me, O God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.7",
+      "edition_verse_id": "ASV1901:PSA.69.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Because for thy sake I have borne reproach;\nShame hath covered my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.8",
+      "edition_verse_id": "ASV1901:PSA.69.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I am become a stranger unto my brethren,\nAnd an alien unto my mother’s children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.9",
+      "edition_verse_id": "ASV1901:PSA.69.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For the zeal of thy house hath eaten me up;\nAnd the reproaches of them that reproach thee are fallen upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.10",
+      "edition_verse_id": "ASV1901:PSA.69.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When I wept, ",
+          "kind": "text"
+        },
+        {
+          "text": "and chastened",
+          "kind": "supplied"
+        },
+        {
+          "text": " my soul with fasting,\nThat was to my reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.11",
+      "edition_verse_id": "ASV1901:PSA.69.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When I made sackcloth my clothing,\nI became a byword unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.12",
+      "edition_verse_id": "ASV1901:PSA.69.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They that sit in the gate talk of me;\nAnd ",
+          "kind": "text"
+        },
+        {
+          "text": "I am",
+          "kind": "supplied"
+        },
+        {
+          "text": " the song of the drunkards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.13",
+      "edition_verse_id": "ASV1901:PSA.69.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But as for me, my prayer is unto thee, O Jehovah, in an acceptable time:\nO God, in the abundance of thy lovingkindness,\nAnswer me in the truth of thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.14",
+      "edition_verse_id": "ASV1901:PSA.69.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Deliver me out of the mire, and let me not sink:\nLet me be delivered from them that hate me, and out of the deep waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.15",
+      "edition_verse_id": "ASV1901:PSA.69.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let not the waterflood overwhelm me,\nNeither let the deep swallow me up;\nAnd let not the pit shut its mouth upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.16",
+      "edition_verse_id": "ASV1901:PSA.69.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Answer me, O Jehovah; for thy lovingkindness is good:\nAccording to the multitude of thy tender mercies turn thou unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.17",
+      "edition_verse_id": "ASV1901:PSA.69.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And hide not thy face from thy servant;\nFor I am in distress; answer me speedily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.18",
+      "edition_verse_id": "ASV1901:PSA.69.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Draw nigh unto my soul, and redeem it:\nRansom me because of mine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.19",
+      "edition_verse_id": "ASV1901:PSA.69.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou knowest my reproach, and my shame, and my dishonor:\nMine adversaries are all before thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.20",
+      "edition_verse_id": "ASV1901:PSA.69.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Reproach hath broken my heart; and I am full of heaviness:\nAnd I looked for some to take pity, but there was none;\nAnd for comforters, but I found none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.21",
+      "edition_verse_id": "ASV1901:PSA.69.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They gave me also gall for my food;\nAnd in my thirst they gave me vinegar to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.22",
+      "edition_verse_id": "ASV1901:PSA.69.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Let their table before them become a snare;\nAnd when they are in peace, ",
+          "kind": "text"
+        },
+        {
+          "text": "let it become",
+          "kind": "supplied"
+        },
+        {
+          "text": " a trap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.23",
+      "edition_verse_id": "ASV1901:PSA.69.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Let their eyes be darkened, so that they cannot see;\nAnd make their loins continually to shake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.24",
+      "edition_verse_id": "ASV1901:PSA.69.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Pour out thine indignation upon them,\nAnd let the fierceness of thine anger overtake them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.25",
+      "edition_verse_id": "ASV1901:PSA.69.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Let their habitation be desolate;\nLet none dwell in their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.26",
+      "edition_verse_id": "ASV1901:PSA.69.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For they persecute him whom thou hast smitten;\nAnd they tell of the sorrow of those whom thou hast wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.27",
+      "edition_verse_id": "ASV1901:PSA.69.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Add iniquity unto their iniquity;\nAnd let them not come into thy righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.28",
+      "edition_verse_id": "ASV1901:PSA.69.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Let them be blotted out of the book of life,\nAnd not be written with the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.29",
+      "edition_verse_id": "ASV1901:PSA.69.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But I am poor and sorrowful:\nLet thy salvation, O God, set me up on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.30",
+      "edition_verse_id": "ASV1901:PSA.69.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will praise the name of God with a song,\nAnd will magnify him with thanksgiving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.31",
+      "edition_verse_id": "ASV1901:PSA.69.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And it will please Jehovah better than an ox,",
+          "kind": "text"
+        },
+        {
+          "text": "Or",
+          "kind": "supplied"
+        },
+        {
+          "text": " a bullock that hath horns and hoofs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.32",
+      "edition_verse_id": "ASV1901:PSA.69.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The meek have seen it, and are glad:\nYe that seek after God, let your heart live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.33",
+      "edition_verse_id": "ASV1901:PSA.69.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For Jehovah heareth the needy,\nAnd despiseth not his prisoners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.34",
+      "edition_verse_id": "ASV1901:PSA.69.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let heaven and earth praise him,\nThe seas, and everything that moveth therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.35",
+      "edition_verse_id": "ASV1901:PSA.69.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For God will save Zion, and build the cities of Judah;\nAnd they shall abide there, and have it in possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.36",
+      "edition_verse_id": "ASV1901:PSA.69.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The seed also of his servants shall inherit it;\nAnd they that love his name shall dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "A cry of distress, and imprecation on adversaries.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to That is, Lilies.Shoshannim. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

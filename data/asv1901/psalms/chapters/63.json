@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 63,
+  "verses": [
+    {
+      "id": "PSA.63.1",
+      "edition_verse_id": "ASV1901:PSA.63.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O God, thou art my God; earnestly will I seek thee:\nMy soul thirsteth for thee, my flesh longeth for thee,\nIn a dry and weary land, where no water is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.2",
+      "edition_verse_id": "ASV1901:PSA.63.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So have I looked upon thee in the sanctuary,\nTo see thy power and thy glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.3",
+      "edition_verse_id": "ASV1901:PSA.63.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Because thy lovingkindness is better than life,\nMy lips shall praise thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.4",
+      "edition_verse_id": "ASV1901:PSA.63.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So will I bless thee while I live:\nI will lift up my hands in thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.5",
+      "edition_verse_id": "ASV1901:PSA.63.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "My soul shall be satisfied as with marrow and fatness;\nAnd my mouth shall praise thee with joyful lips;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.6",
+      "edition_verse_id": "ASV1901:PSA.63.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When I remember thee upon my bed,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " meditate on thee in the night-watches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.7",
+      "edition_verse_id": "ASV1901:PSA.63.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For thou hast been my help,\nAnd in the shadow of thy wings will I rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.8",
+      "edition_verse_id": "ASV1901:PSA.63.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "My soul followeth hard after thee:\nThy right hand upholdeth me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.9",
+      "edition_verse_id": "ASV1901:PSA.63.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But those that seek my soul, to destroy it,\nShall go into the lower parts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.10",
+      "edition_verse_id": "ASV1901:PSA.63.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They shall be given over to the power of the sword:\nThey shall be a portion for foxes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.63.11",
+      "edition_verse_id": "ASV1901:PSA.63.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the king shall rejoice in God:\nEvery one that sweareth by him shall glory;\nFor the mouth of them that speak lies shall be stopped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The thirsting soul satisfied in God.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David, when he was in the wilderness of Judah.",
+      "before_verse": 1
+    }
+  ]
+}

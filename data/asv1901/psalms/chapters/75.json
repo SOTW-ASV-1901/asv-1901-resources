@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 75,
+  "verses": [
+    {
+      "id": "PSA.75.1",
+      "edition_verse_id": "ASV1901:PSA.75.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "We give thanks unto thee, O God;\nWe give thanks, for thy name is near:\nMen tell of thy wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.2",
+      "edition_verse_id": "ASV1901:PSA.75.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When I shall find the set time, I will judge uprightly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.3",
+      "edition_verse_id": "ASV1901:PSA.75.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The earth and all the inhabitants thereof are dissolved:\nI have set up the pillars of it. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.4",
+      "edition_verse_id": "ASV1901:PSA.75.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I said unto the arrogant, Deal not arrogantly;\nAnd to the wicked, Lift not up the horn:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.5",
+      "edition_verse_id": "ASV1901:PSA.75.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Lift not up your horn on high;\nSpeak not with a stiff neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.6",
+      "edition_verse_id": "ASV1901:PSA.75.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For neither from the east, nor from the west,\nNor yet from the south, ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " lifting up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.7",
+      "edition_verse_id": "ASV1901:PSA.75.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But God is the judge:\nHe putteth down one, and lifteth up another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.8",
+      "edition_verse_id": "ASV1901:PSA.75.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For in the hand of Jehovah there is a cup, and the wine foameth;\nIt is full of mixture, and he poureth out of the same:\nSurely the dregs thereof, all the wicked of the earth shall drain them, and drink them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.9",
+      "edition_verse_id": "ASV1901:PSA.75.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I will declare for ever,\nI will sing praises to the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.10",
+      "edition_verse_id": "ASV1901:PSA.75.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All the horns of the wicked also will I cut off;\nBut the horns of the righteous shall be lifted up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "God abases the proud, but exalts the righteous.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician; set to Al-tashheth. A Psalm of Asaph, a Song.",
+      "before_verse": 1
+    }
+  ]
+}

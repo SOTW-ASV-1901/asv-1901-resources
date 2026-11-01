@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "PSA.24.1",
+      "edition_verse_id": "ASV1901:PSA.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The earth is Jehovah’s, and the fulness thereof;\nThe world, and they that dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.2",
+      "edition_verse_id": "ASV1901:PSA.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For he hath founded it upon the seas,\nAnd established it upon the floods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.3",
+      "edition_verse_id": "ASV1901:PSA.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who shall ascend into the hill of Jehovah?\nAnd who shall stand in his holy place?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.4",
+      "edition_verse_id": "ASV1901:PSA.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He that hath clean hands, and a pure heart;\nWho hath not lifted up his soul unto falsehood,\nAnd hath not sworn deceitfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.5",
+      "edition_verse_id": "ASV1901:PSA.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He shall receive a blessing from Jehovah,\nAnd righteousness from the God of his salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.6",
+      "edition_verse_id": "ASV1901:PSA.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This is the generation of them that seek after him,\nThat seek thy face, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jacob. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.7",
+      "edition_verse_id": "ASV1901:PSA.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Lift up your heads, O ye gates;\nAnd be ye lifted up, ye everlasting doors:\nAnd the King of glory will come in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.8",
+      "edition_verse_id": "ASV1901:PSA.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who is the King of glory?\nJehovah strong and mighty,\nJehovah mighty in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.9",
+      "edition_verse_id": "ASV1901:PSA.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Lift up your heads, O ye gates;\nYea, lift them up, ye everlasting doors:\nAnd the King of glory will come in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.10",
+      "edition_verse_id": "ASV1901:PSA.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who is this King of glory?\nJehovah of hosts,\nHe is the King of glory. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The King of Glory entering Zion.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

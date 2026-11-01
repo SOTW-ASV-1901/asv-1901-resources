@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 48,
+  "verses": [
+    {
+      "id": "PSA.48.1",
+      "edition_verse_id": "ASV1901:PSA.48.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Great is Jehovah, and greatly to be praised,\nIn the city of our God, in his holy mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.2",
+      "edition_verse_id": "ASV1901:PSA.48.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Beautiful in elevation, the joy of the whole earth,\nIs mount Zion, ",
+          "kind": "text"
+        },
+        {
+          "text": "on",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sides of the north,\nThe city of the great King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.3",
+      "edition_verse_id": "ASV1901:PSA.48.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "God hath made himself known in her palaces for a refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.4",
+      "edition_verse_id": "ASV1901:PSA.48.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For, lo, the kings assembled themselves,\nThey passed by together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.5",
+      "edition_verse_id": "ASV1901:PSA.48.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They saw it, then were they amazed;\nThey were dismayed, they hasted away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.6",
+      "edition_verse_id": "ASV1901:PSA.48.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Trembling took hold of them there,\nPain, as of a woman in travail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.7",
+      "edition_verse_id": "ASV1901:PSA.48.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "With the east wind\nThou breakest the ships of Tarshish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.8",
+      "edition_verse_id": "ASV1901:PSA.48.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As we have heard, so have we seen\nIn the city of Jehovah of hosts, in the city of our God:\nGod will establish it for ever. [Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.9",
+      "edition_verse_id": "ASV1901:PSA.48.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "We have thought on thy lovingkindness, O God,\nIn the midst of thy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.10",
+      "edition_verse_id": "ASV1901:PSA.48.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As is thy name, O God,\nSo is thy praise unto the ends of the earth:\nThy right hand is full of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.11",
+      "edition_verse_id": "ASV1901:PSA.48.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let mount Zion be glad,\nLet the daughters of Judah rejoice,\nBecause of thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.12",
+      "edition_verse_id": "ASV1901:PSA.48.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Walk about Zion, and go round about her;\nNumber the towers thereof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.13",
+      "edition_verse_id": "ASV1901:PSA.48.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Mark ye well her bulwarks;Consider her palaces:\nThat ye may tell it to the generation following.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.14",
+      "edition_verse_id": "ASV1901:PSA.48.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For this God is our God for ever and ever:\nHe will be our guide ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "The beauty and glory of Zion.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Song; a Psalm of the sons of Korah.",
+      "before_verse": 1
+    }
+  ]
+}

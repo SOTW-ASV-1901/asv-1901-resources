@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "PSA.13.1",
+      "edition_verse_id": "ASV1901:PSA.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How long, O Jehovah? wilt thou forget me for ever?\nHow long wilt thou hide thy face from me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.13.2",
+      "edition_verse_id": "ASV1901:PSA.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How long shall I take counsel in my soul,\nHaving sorrow in my heart all the day?\nHow long shall mine enemy be exalted over me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.13.3",
+      "edition_verse_id": "ASV1901:PSA.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Consider ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " answer me, O Jehovah my God:\nLighten mine eyes, lest I sleep the ",
+          "kind": "text"
+        },
+        {
+          "text": "sleep of",
+          "kind": "supplied"
+        },
+        {
+          "text": " death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.13.4",
+      "edition_verse_id": "ASV1901:PSA.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Lest mine enemy say, I have prevailed against him;",
+          "kind": "text"
+        },
+        {
+          "text": "Lest",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine adversaries rejoice when I am moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.13.5",
+      "edition_verse_id": "ASV1901:PSA.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But I have trusted in thy lovingkindness;\nMy heart shall rejoice in thy salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.13.6",
+      "edition_verse_id": "ASV1901:PSA.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will sing unto Jehovah,\nBecause he hath dealt bountifully with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for help in affliction.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

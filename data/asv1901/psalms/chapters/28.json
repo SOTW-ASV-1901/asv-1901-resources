@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "PSA.28.1",
+      "edition_verse_id": "ASV1901:PSA.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Unto thee, O Jehovah, will I call:\nMy rock, be not thou deaf unto me;\nLest, if thou be silent unto me,\nI become like them that go down into the pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.2",
+      "edition_verse_id": "ASV1901:PSA.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear the voice of my supplications, when I cry unto thee,\nWhen I lift up my hands toward thy holy oracle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.3",
+      "edition_verse_id": "ASV1901:PSA.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Draw me not away with the wicked,\nAnd with the workers of iniquity;\nThat speak peace with their neighbors,\nBut mischief is in their hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.4",
+      "edition_verse_id": "ASV1901:PSA.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Give them according to their work, and according to the wickedness of their doings:\nGive them after the operation of their hands;\nRender to them their desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.5",
+      "edition_verse_id": "ASV1901:PSA.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Because they regard not the works of Jehovah,\nNor the operation of his hands,\nHe will break them down and not build them up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.6",
+      "edition_verse_id": "ASV1901:PSA.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Blessed be Jehovah,\nBecause he hath heard the voice of my supplications.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.7",
+      "edition_verse_id": "ASV1901:PSA.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jehovah is my strength and my shield;\nMy heart hath trusted in him, and I am helped:\nTherefore my heart greatly rejoiceth;\nAnd with my song will I praise him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.8",
+      "edition_verse_id": "ASV1901:PSA.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jehovah is their strength,\nAnd he is a stronghold of salvation to his anointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.28.9",
+      "edition_verse_id": "ASV1901:PSA.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Save thy people, and bless thine inheritance:\nBe their shepherd also, and bear them up for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "A prayer for help, and praise for its answer.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}

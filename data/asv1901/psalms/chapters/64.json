@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "chapter": 64,
+  "verses": [
+    {
+      "id": "PSA.64.1",
+      "edition_verse_id": "ASV1901:PSA.64.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear my voice, O God, in my complaint:\nPreserve my life from fear of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.2",
+      "edition_verse_id": "ASV1901:PSA.64.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hide me from the secret counsel of evil-doers,\nFrom the tumult of the workers of iniquity;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.3",
+      "edition_verse_id": "ASV1901:PSA.64.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who have whet their tongue like a sword,\nAnd have aimed their arrows, even bitter words,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.4",
+      "edition_verse_id": "ASV1901:PSA.64.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That they may shoot in secret places at the perfect:\nSuddenly do they shoot at him, and fear not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.5",
+      "edition_verse_id": "ASV1901:PSA.64.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They encourage themselves in an evil purpose;\nThey commune of laying snares privily;\nThey say, Who will see them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.6",
+      "edition_verse_id": "ASV1901:PSA.64.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They search out iniquities;We have accomplished, ",
+          "kind": "text"
+        },
+        {
+          "text": "say they",
+          "kind": "supplied"
+        },
+        {
+          "text": ", a diligent search:\nAnd the inward thought and the heart of every one is deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.7",
+      "edition_verse_id": "ASV1901:PSA.64.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But God will shoot at them;\nWith an arrow suddenly shall they be wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.8",
+      "edition_verse_id": "ASV1901:PSA.64.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So they shall be made to stumble, their own tongue being against them:\nAll that see them shall wag the head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.9",
+      "edition_verse_id": "ASV1901:PSA.64.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And all men shall fear;\nAnd they shall declare the work of God,\nAnd shall wisely consider of his doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.10",
+      "edition_verse_id": "ASV1901:PSA.64.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The righteous shall be glad in Jehovah, and shall take refuge in him;\nAnd all the upright in heart shall glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ],
+  "headings": [
+    {
+      "style": "s1",
+      "text": "Prayer for deliverance from secret enemies.",
+      "before_verse": 1
+    },
+    {
+      "style": "d",
+      "text": "For the Chief Musician. A Psalm of David.",
+      "before_verse": 1
+    }
+  ]
+}
