@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PSA",
+  "book_name": "Psalms",
+  "book_order": 19,
+  "canonical_ids": "PSA.{chapter}.{verse}",
+  "edition_ids": "ASV1901:PSA.{chapter}.{verse}",
+  "chapter_count": 150,
+  "verse_count": 2461,
+  "chapter_path_template": "psalms/chapters/{chapter:02d}.json",
+  "facsimile_index": "psalms/page-index.json",
+  "predecessor_book_code": "JOB",
+  "successor_book_code": "PRO",
+  "source_provenance": "books/psalms/SOURCE_INVENTORY.json",
+  "reader": "books/psalms/site/index.html",
+  "note": "Book-level catalog. No unified ASV catalog or unverified lexical alignment is bundled."
+}
