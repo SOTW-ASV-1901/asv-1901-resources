@@ -1,0 +1,61 @@
+{
+  "method": "Textual passage continuation checked against original scan; 2-physical-page references are retained in source order.",
+  "verse_page_pairs": {
+    "NEH.2.7": [
+      516,
+      517
+    ],
+    "NEH.3.10": [
+      517,
+      518
+    ],
+    "NEH.4.2": [
+      518,
+      519
+    ],
+    "NEH.5.5": [
+      519,
+      520
+    ],
+    "NEH.6.7": [
+      520,
+      521
+    ],
+    "NEH.7.15": [
+      521,
+      522
+    ],
+    "NEH.7.64": [
+      522,
+      523
+    ],
+    "NEH.8.13": [
+      523,
+      524
+    ],
+    "NEH.9.16": [
+      524,
+      525
+    ],
+    "NEH.9.34": [
+      525,
+      526
+    ],
+    "NEH.10.37": [
+      526,
+      527
+    ],
+    "NEH.11.24": [
+      527,
+      528
+    ],
+    "NEH.12.30": [
+      528,
+      529
+    ],
+    "NEH.13.7": [
+      529,
+      530
+    ]
+  }
+}

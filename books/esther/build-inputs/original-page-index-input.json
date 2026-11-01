@@ -1,0 +1,98 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 532,
+      "type": "scripture",
+      "printed_page": 492,
+      "running_head_first_verse": "EST.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EST.1.1",
+      "last_verse": "EST.1.19",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    },
+    {
+      "source_pdf_page": 533,
+      "type": "map",
+      "printed_page": null,
+      "description": "Period map/atlas insertion from the original scan; retained complete."
+    },
+    {
+      "source_pdf_page": 534,
+      "type": "interleaf",
+      "printed_page": null,
+      "description": "Original blank reverse of preceding map; retained complete."
+    },
+    {
+      "source_pdf_page": 535,
+      "type": "scripture",
+      "printed_page": 493,
+      "running_head_first_verse": "EST.1.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EST.1.19",
+      "last_verse": "EST.2.17",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    },
+    {
+      "source_pdf_page": 536,
+      "type": "scripture",
+      "printed_page": 494,
+      "running_head_first_verse": "EST.2.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EST.2.17",
+      "last_verse": "EST.3.13",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    },
+    {
+      "source_pdf_page": 537,
+      "type": "scripture",
+      "printed_page": 495,
+      "running_head_first_verse": "EST.3.14",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EST.3.14",
+      "last_verse": "EST.5.4",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    },
+    {
+      "source_pdf_page": 538,
+      "type": "scripture",
+      "printed_page": 496,
+      "running_head_first_verse": "EST.5.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EST.5.4",
+      "last_verse": "EST.6.12",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    },
+    {
+      "source_pdf_page": 539,
+      "type": "scripture",
+      "printed_page": 497,
+      "running_head_first_verse": "EST.6.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EST.6.12",
+      "last_verse": "EST.8.9",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    },
+    {
+      "source_pdf_page": 540,
+      "type": "scripture",
+      "printed_page": 498,
+      "running_head_first_verse": "EST.8.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EST.8.9",
+      "last_verse": "EST.9.13",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    },
+    {
+      "source_pdf_page": 541,
+      "type": "scripture",
+      "printed_page": 499,
+      "running_head_first_verse": "EST.9.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EST.9.13",
+      "last_verse": "EST.10.3",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references."
+    }
+  ]
+}

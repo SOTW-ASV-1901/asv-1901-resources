@@ -1,0 +1,41 @@
+{
+  "method": "Textual passage continuation checked against original scan; 2-physical-page references are retained in source order.",
+  "verse_page_pairs": {
+    "EZR.2.15": [
+      503,
+      504
+    ],
+    "EZR.2.62": [
+      504,
+      507
+    ],
+    "EZR.3.13": [
+      507,
+      508
+    ],
+    "EZR.6.3": [
+      509,
+      510
+    ],
+    "EZR.7.3": [
+      510,
+      511
+    ],
+    "EZR.7.27": [
+      511,
+      512
+    ],
+    "EZR.8.26": [
+      512,
+      513
+    ],
+    "EZR.9.10": [
+      513,
+      514
+    ],
+    "EZR.10.14": [
+      514,
+      515
+    ]
+  }
+}

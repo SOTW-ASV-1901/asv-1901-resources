@@ -1,0 +1,99 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      532,
+      535
+    ],
+    "first": "EST.1.1",
+    "last": "EST.1.22"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      535,
+      536
+    ],
+    "first": "EST.2.1",
+    "last": "EST.2.23"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      536,
+      537
+    ],
+    "first": "EST.3.1",
+    "last": "EST.3.15"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      537
+    ],
+    "first": "EST.4.1",
+    "last": "EST.4.17"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      537,
+      538
+    ],
+    "first": "EST.5.1",
+    "last": "EST.5.14"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      538,
+      539
+    ],
+    "first": "EST.6.1",
+    "last": "EST.6.14"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      539
+    ],
+    "first": "EST.7.1",
+    "last": "EST.7.10"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      539,
+      540
+    ],
+    "first": "EST.8.1",
+    "last": "EST.8.17"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      540,
+      541
+    ],
+    "first": "EST.9.1",
+    "last": "EST.9.32"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      541
+    ],
+    "first": "EST.10.1",
+    "last": "EST.10.3"
+  }
+}

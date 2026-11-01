@@ -1,0 +1,29 @@
+{
+  "method": "Textual passage continuation checked against original scan; 2-physical-page references are retained in source order.",
+  "verse_page_pairs": {
+    "EST.1.19": [
+      532,
+      535
+    ],
+    "EST.2.17": [
+      535,
+      536
+    ],
+    "EST.5.4": [
+      537,
+      538
+    ],
+    "EST.6.12": [
+      538,
+      539
+    ],
+    "EST.8.9": [
+      539,
+      540
+    ],
+    "EST.9.13": [
+      540,
+      541
+    ]
+  }
+}

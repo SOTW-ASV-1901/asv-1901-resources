@@ -1,0 +1,134 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      516
+    ],
+    "first": "NEH.1.1",
+    "last": "NEH.1.11"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      516,
+      517
+    ],
+    "first": "NEH.2.1",
+    "last": "NEH.2.20"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      517,
+      518
+    ],
+    "first": "NEH.3.1",
+    "last": "NEH.3.32"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      518,
+      519
+    ],
+    "first": "NEH.4.1",
+    "last": "NEH.4.23"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      519,
+      520
+    ],
+    "first": "NEH.5.1",
+    "last": "NEH.5.19"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      520,
+      521
+    ],
+    "first": "NEH.6.1",
+    "last": "NEH.6.19"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      521,
+      522,
+      523
+    ],
+    "first": "NEH.7.1",
+    "last": "NEH.7.73"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      523,
+      524
+    ],
+    "first": "NEH.8.1",
+    "last": "NEH.8.18"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      524,
+      525,
+      526
+    ],
+    "first": "NEH.9.1",
+    "last": "NEH.9.38"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      526,
+      527
+    ],
+    "first": "NEH.10.1",
+    "last": "NEH.10.39"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      527,
+      528
+    ],
+    "first": "NEH.11.1",
+    "last": "NEH.11.36"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      528,
+      529
+    ],
+    "first": "NEH.12.1",
+    "last": "NEH.12.47"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Checked printed page openings/end references, chapter coverage, and continuity; not exhaustive every-character proofreading.",
+    "source_pdf_pages": [
+      529,
+      530,
+      531
+    ],
+    "first": "NEH.13.1",
+    "last": "NEH.13.31"
+  }
+}
