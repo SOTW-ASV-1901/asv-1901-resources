@@ -1,0 +1,386 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 542,
+      "type": "scripture",
+      "printed_page": 500,
+      "running_head_first_verse": "JOB.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.1.1",
+      "last_verse": "JOB.1.20",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 543,
+      "type": "scripture",
+      "printed_page": 501,
+      "running_head_first_verse": "JOB.1.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.1.20",
+      "last_verse": "JOB.3.12",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 544,
+      "type": "scripture",
+      "printed_page": 502,
+      "running_head_first_verse": "JOB.3.13",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.3.13",
+      "last_verse": "JOB.4.17",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 545,
+      "type": "scripture",
+      "printed_page": 503,
+      "running_head_first_verse": "JOB.4.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.4.17",
+      "last_verse": "JOB.5.24",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 546,
+      "type": "scripture",
+      "printed_page": 504,
+      "running_head_first_verse": "JOB.5.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.5.24",
+      "last_verse": "JOB.6.26",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 547,
+      "type": "scripture",
+      "printed_page": 505,
+      "running_head_first_verse": "JOB.6.27",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.6.27",
+      "last_verse": "JOB.8.4",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 548,
+      "type": "scripture",
+      "printed_page": 506,
+      "running_head_first_verse": "JOB.8.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.8.4",
+      "last_verse": "JOB.9.11",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 549,
+      "type": "scripture",
+      "printed_page": 507,
+      "running_head_first_verse": "JOB.9.12",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.9.12",
+      "last_verse": "JOB.10.7",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 550,
+      "type": "scripture",
+      "printed_page": 508,
+      "running_head_first_verse": "JOB.10.8",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.10.8",
+      "last_verse": "JOB.11.13",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 551,
+      "type": "scripture",
+      "printed_page": 509,
+      "running_head_first_verse": "JOB.11.14",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.11.14",
+      "last_verse": "JOB.12.23",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 552,
+      "type": "scripture",
+      "printed_page": 510,
+      "running_head_first_verse": "JOB.12.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.12.23",
+      "last_verse": "JOB.14.2",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 553,
+      "type": "scripture",
+      "printed_page": 511,
+      "running_head_first_verse": "JOB.14.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.14.2",
+      "last_verse": "JOB.15.7",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 554,
+      "type": "scripture",
+      "printed_page": 512,
+      "running_head_first_verse": "JOB.15.8",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.15.8",
+      "last_verse": "JOB.16.2",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 555,
+      "type": "scripture",
+      "printed_page": 513,
+      "running_head_first_verse": "JOB.16.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.16.2",
+      "last_verse": "JOB.17.7",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 556,
+      "type": "scripture",
+      "printed_page": 514,
+      "running_head_first_verse": "JOB.17.8",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.17.8",
+      "last_verse": "JOB.18.20",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 557,
+      "type": "scripture",
+      "printed_page": 515,
+      "running_head_first_verse": "JOB.18.21",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.18.21",
+      "last_verse": "JOB.19.28",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 558,
+      "type": "scripture",
+      "printed_page": 516,
+      "running_head_first_verse": "JOB.19.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.19.28",
+      "last_verse": "JOB.20.26",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 559,
+      "type": "scripture",
+      "printed_page": 517,
+      "running_head_first_verse": "JOB.20.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.20.26",
+      "last_verse": "JOB.21.28",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 560,
+      "type": "scripture",
+      "printed_page": 518,
+      "running_head_first_verse": "JOB.21.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.21.28",
+      "last_verse": "JOB.22.22",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 561,
+      "type": "scripture",
+      "printed_page": 519,
+      "running_head_first_verse": "JOB.22.23",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.22.23",
+      "last_verse": "JOB.24.3",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 562,
+      "type": "scripture",
+      "printed_page": 520,
+      "running_head_first_verse": "JOB.24.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.24.3",
+      "last_verse": "JOB.25.3",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 563,
+      "type": "scripture",
+      "printed_page": 521,
+      "running_head_first_verse": "JOB.25.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.25.3",
+      "last_verse": "JOB.27.12",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 564,
+      "type": "scripture",
+      "printed_page": 522,
+      "running_head_first_verse": "JOB.27.13",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.27.13",
+      "last_verse": "JOB.28.19",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 565,
+      "type": "scripture",
+      "printed_page": 523,
+      "running_head_first_verse": "JOB.28.20",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.28.20",
+      "last_verse": "JOB.29.23",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 566,
+      "type": "scripture",
+      "printed_page": 524,
+      "running_head_first_verse": "JOB.29.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.29.23",
+      "last_verse": "JOB.30.24",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 567,
+      "type": "scripture",
+      "printed_page": 525,
+      "running_head_first_verse": "JOB.30.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.30.24",
+      "last_verse": "JOB.31.23",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 568,
+      "type": "scripture",
+      "printed_page": 526,
+      "running_head_first_verse": "JOB.31.24",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.31.24",
+      "last_verse": "JOB.32.12",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 569,
+      "type": "scripture",
+      "printed_page": 527,
+      "running_head_first_verse": "JOB.32.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.32.12",
+      "last_verse": "JOB.33.21",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 570,
+      "type": "scripture",
+      "printed_page": 528,
+      "running_head_first_verse": "JOB.33.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.33.21",
+      "last_verse": "JOB.34.16",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 571,
+      "type": "scripture",
+      "printed_page": 529,
+      "running_head_first_verse": "JOB.34.17",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.34.17",
+      "last_verse": "JOB.35.7",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 572,
+      "type": "scripture",
+      "printed_page": 530,
+      "running_head_first_verse": "JOB.35.8",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.35.8",
+      "last_verse": "JOB.36.20",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 573,
+      "type": "scripture",
+      "printed_page": 531,
+      "running_head_first_verse": "JOB.36.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.36.20",
+      "last_verse": "JOB.37.17",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 574,
+      "type": "scripture",
+      "printed_page": 532,
+      "running_head_first_verse": "JOB.37.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.37.17",
+      "last_verse": "JOB.38.21",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 575,
+      "type": "scripture",
+      "printed_page": 533,
+      "running_head_first_verse": "JOB.38.22",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.38.22",
+      "last_verse": "JOB.39.10",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 576,
+      "type": "scripture",
+      "printed_page": 534,
+      "running_head_first_verse": "JOB.39.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.39.10",
+      "last_verse": "JOB.40.10",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 577,
+      "type": "scripture",
+      "printed_page": 535,
+      "running_head_first_verse": "JOB.40.11",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOB.40.11",
+      "last_verse": "JOB.41.18",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 578,
+      "type": "scripture",
+      "printed_page": 536,
+      "running_head_first_verse": "JOB.41.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.41.18",
+      "last_verse": "JOB.42.14",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    },
+    {
+      "source_pdf_page": 579,
+      "type": "scripture",
+      "printed_page": 537,
+      "running_head_first_verse": "JOB.42.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOB.42.14",
+      "last_verse": "JOB.42.17",
+      "evidence_method": "Original 1901 print opening/closing/header inspected using embedded text and selected facsimile crops; note that some digit recognition and line-wrap punctuation require source-specific review."
+    }
+  ]
+}

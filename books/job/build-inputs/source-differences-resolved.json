@@ -1,0 +1,9 @@
+{
+  "JOB.15.10": {
+    "original_print_checked": true,
+    "decision": "retain_primary_with_print_linebreak_ambiguity",
+    "source_pdf_page": 554,
+    "source_observation": "At line end the printed text has gray- followed on the next line by headed; this does not distinguish lexical hyphen from typesetting line-break. Primary grayheaded retained; comparison gray-headed preserved as a documented variant.",
+    "certainty": "AMBIGUOUS"
+  }
+}

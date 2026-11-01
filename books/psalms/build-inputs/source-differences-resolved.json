@@ -1,0 +1,34 @@
+{
+  "PSA.7.4": {
+    "original_print_checked": true,
+    "decision": "correct_derived_against_print",
+    "source_pdf_page": 582,
+    "source_observation": "Printed parenthesis closes before semicolon (adversary);",
+    "correction_to_derived_data": {
+      "from": "adversary;)",
+      "to": "adversary);"
+    },
+    "certainty": "HIGH"
+  },
+  "PSA.37.6": {
+    "original_print_checked": true,
+    "decision": "retain_primary_with_print_linebreak_ambiguity",
+    "source_pdf_page": 600,
+    "source_observation": "Printed noon- at line end followed by day; lexical hyphen cannot be distinguished from line-break convention. Primary noon-day retained, comparison noonday documented.",
+    "certainty": "AMBIGUOUS"
+  },
+  "PSA.107.1": {
+    "original_print_checked": true,
+    "decision": "retain_primary_as_printed",
+    "source_pdf_page": 646,
+    "source_observation": "The scanned verse begins Oh give thanks; comparison witness drops h.",
+    "certainty": "HIGH"
+  },
+  "PSA.117.1": {
+    "original_print_checked": true,
+    "decision": "retain_primary_as_printed",
+    "source_pdf_page": 652,
+    "source_observation": "The scanned verse begins Oh praise Jehovah; comparison witness drops h.",
+    "certainty": "HIGH"
+  }
+}
