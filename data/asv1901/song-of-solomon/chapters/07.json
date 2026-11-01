@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "SNG",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "SNG.7.1",
+      "edition_verse_id": "ASV1901:SNG.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How beautiful are thy feet in sandals, O prince’s daughter!\nThy rounded thighs are like jewels,\nThe work of the hands of a skilful workman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.2",
+      "edition_verse_id": "ASV1901:SNG.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thy body is ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a round goblet,",
+          "kind": "text"
+        },
+        {
+          "text": "Wherein",
+          "kind": "supplied"
+        },
+        {
+          "text": " no mingled wine is wanting:\nThy waist is ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a heap of wheat\nSet about with lilies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.3",
+      "edition_verse_id": "ASV1901:SNG.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thy two breasts are like two fawns\nThat are twins of a roe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.4",
+      "edition_verse_id": "ASV1901:SNG.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thy neck is like the tower of ivory;\nThine eyes ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pools in Heshbon,\nBy the gate of Bath-rabbim;\nThy nose is like the tower of Lebanon\nWhich looketh toward Damascus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.5",
+      "edition_verse_id": "ASV1901:SNG.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thy head upon thee is like Carmel,\nAnd the hair of thy head like purple;\nThe king is held captive in the tresses ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.6",
+      "edition_verse_id": "ASV1901:SNG.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "How fair and how pleasant art thou,\nO love, for delights!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.7",
+      "edition_verse_id": "ASV1901:SNG.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "This thy stature is like to a palm-tree,\nAnd thy breasts to its clusters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.8",
+      "edition_verse_id": "ASV1901:SNG.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I said, I will climb up into the palm-tree,\nI will take hold of the branches thereof:\nLet thy breasts be as clusters of the vine,\nAnd the smell of thy breath like apples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.9",
+      "edition_verse_id": "ASV1901:SNG.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And thy mouth like the best wine,\nThat goeth down smoothly for my beloved,Gliding through the lips of those that are asleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.10",
+      "edition_verse_id": "ASV1901:SNG.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I am my beloved’s;\nAnd his desire is toward me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.11",
+      "edition_verse_id": "ASV1901:SNG.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Come, my beloved, let us go forth into the field;\nLet us lodge in the villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.12",
+      "edition_verse_id": "ASV1901:SNG.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let us get up early to the vineyards;\nLet us see whether the vine hath budded,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " its blossom is open,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pomegranates are in flower:\nThere will I give thee my love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.13",
+      "edition_verse_id": "ASV1901:SNG.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The mandrakes give forth fragrance;\nAnd at our doors are all manner of precious fruits, new and old,\nWhich I have laid up for thee, O my beloved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

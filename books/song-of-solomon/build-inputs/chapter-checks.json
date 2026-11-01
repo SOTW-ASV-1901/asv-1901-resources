@@ -1,0 +1,78 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      711
+    ],
+    "first": "SNG.1.1",
+    "last": "SNG.1.17"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      711,
+      712
+    ],
+    "first": "SNG.2.1",
+    "last": "SNG.2.17"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      712,
+      713
+    ],
+    "first": "SNG.3.1",
+    "last": "SNG.3.11"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      713
+    ],
+    "first": "SNG.4.1",
+    "last": "SNG.4.16"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      714
+    ],
+    "first": "SNG.5.1",
+    "last": "SNG.5.16"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      714,
+      715
+    ],
+    "first": "SNG.6.1",
+    "last": "SNG.6.13"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      715,
+      716
+    ],
+    "first": "SNG.7.1",
+    "last": "SNG.7.13"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 print chapter starts and endings reviewed on facsimile; all page transitions independently checked against text, not character-by-character collation.",
+    "source_pdf_pages": [
+      716
+    ],
+    "first": "SNG.8.1",
+    "last": "SNG.8.14"
+  }
+}

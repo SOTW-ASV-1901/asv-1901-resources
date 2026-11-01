@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "SNG",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "SNG.6.1",
+      "edition_verse_id": "ASV1901:SNG.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Whither is thy beloved gone,\nO thou fairest among women?\nWhither hath thy beloved turned him,\nThat we may seek him with thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.2",
+      "edition_verse_id": "ASV1901:SNG.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My beloved is gone down to his garden,\nTo the beds of spices,\nTo feed in the gardens, and to gather lilies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.3",
+      "edition_verse_id": "ASV1901:SNG.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I am my beloved’s, and my beloved is mine:\nHe feedeth ",
+          "kind": "text"
+        },
+        {
+          "text": "his flock",
+          "kind": "supplied"
+        },
+        {
+          "text": " among the lilies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.4",
+      "edition_verse_id": "ASV1901:SNG.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou art fair, O my love, as Tirzah,\nComely as Jerusalem,\nTerrible as an army with banners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.5",
+      "edition_verse_id": "ASV1901:SNG.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Turn away thine eyes from me,\nFor they have overcome me.\nThy hair is as a flock of goats,\nThat lie along the side of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.6",
+      "edition_verse_id": "ASV1901:SNG.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Thy teeth are like a flock of ewes,\nWhich are come up from the washing;\nWhereof every one hath twins,\nAnd none is bereaved among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.7",
+      "edition_verse_id": "ASV1901:SNG.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thy temples are like a piece of a pomegranate\nBehind thy veil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.8",
+      "edition_verse_id": "ASV1901:SNG.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "There are threescore queens, and fourscore concubines,\nAnd virgins without number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.9",
+      "edition_verse_id": "ASV1901:SNG.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "My dove, my undefiled, is ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " one;\nShe is the only one of her mother;\nShe is the choice one of her that bare her.\nThe daughters saw her, and called her blessed;",
+          "kind": "text"
+        },
+        {
+          "text": "Yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", the queens and the concubines, and they praised her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.10",
+      "edition_verse_id": "ASV1901:SNG.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who is she that looketh forth as the morning,\nFair as the moon,Clear as the sun,\nTerrible as an army with banners?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.11",
+      "edition_verse_id": "ASV1901:SNG.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I went down into the garden of nuts,\nTo see the green plants of the valley,\nTo see whether the vine budded,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " the pomegranates were in flower.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.12",
+      "edition_verse_id": "ASV1901:SNG.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Before I was aware, my soul set me",
+          "kind": "text"
+        },
+        {
+          "text": "Among",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chariots of my princely people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.13",
+      "edition_verse_id": "ASV1901:SNG.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Return, return, O Shulammite;\nReturn, return, that we may look upon thee.\nWhy will ye look upon the Shulammite,\nAs upon the dance of Mahanaim?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

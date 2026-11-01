@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "SNG",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 711,
+      "type": "scripture",
+      "printed_page": 669,
+      "running_head_first_verse": "SNG.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.1.1",
+      "last_verse": "SNG.2.3",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation.",
+      "volume": "asv1901-song-of-solomon-pages-711-716.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 712,
+      "type": "scripture",
+      "printed_page": 670,
+      "running_head_first_verse": "SNG.2.4",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.2.4",
+      "last_verse": "SNG.3.7",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation.",
+      "volume": "asv1901-song-of-solomon-pages-711-716.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 713,
+      "type": "scripture",
+      "printed_page": 671,
+      "running_head_first_verse": "SNG.3.8",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.3.8",
+      "last_verse": "SNG.4.16",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation.",
+      "volume": "asv1901-song-of-solomon-pages-711-716.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 714,
+      "type": "scripture",
+      "printed_page": 672,
+      "running_head_first_verse": "SNG.5.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.5.1",
+      "last_verse": "SNG.6.4",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation.",
+      "volume": "asv1901-song-of-solomon-pages-711-716.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 715,
+      "type": "scripture",
+      "printed_page": 673,
+      "running_head_first_verse": "SNG.6.5",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.6.5",
+      "last_verse": "SNG.7.12",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation.",
+      "volume": "asv1901-song-of-solomon-pages-711-716.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 716,
+      "type": "scripture",
+      "printed_page": 674,
+      "running_head_first_verse": "SNG.7.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "SNG.7.12",
+      "last_verse": "SNG.8.14",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation.",
+      "volume": "asv1901-song-of-solomon-pages-711-716.pdf",
+      "volume_pdf_page": 6
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-song-of-solomon-pages-711-716.pdf",
+      "first_source_pdf_page": 711,
+      "last_source_pdf_page": 716,
+      "bytes": 527565,
+      "sha256": "5267b6389a6d1510dd39fec26fdb3c45883666dd14bc5fd12a961bb8fb9c2335"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

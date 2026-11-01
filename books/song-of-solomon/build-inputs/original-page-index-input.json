@@ -1,0 +1,66 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 711,
+      "type": "scripture",
+      "printed_page": 669,
+      "running_head_first_verse": "SNG.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.1.1",
+      "last_verse": "SNG.2.3",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 712,
+      "type": "scripture",
+      "printed_page": 670,
+      "running_head_first_verse": "SNG.2.4",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.2.4",
+      "last_verse": "SNG.3.7",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 713,
+      "type": "scripture",
+      "printed_page": 671,
+      "running_head_first_verse": "SNG.3.8",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.3.8",
+      "last_verse": "SNG.4.16",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 714,
+      "type": "scripture",
+      "printed_page": 672,
+      "running_head_first_verse": "SNG.5.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.5.1",
+      "last_verse": "SNG.6.4",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 715,
+      "type": "scripture",
+      "printed_page": 673,
+      "running_head_first_verse": "SNG.6.5",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "SNG.6.5",
+      "last_verse": "SNG.7.12",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 716,
+      "type": "scripture",
+      "printed_page": 674,
+      "running_head_first_verse": "SNG.7.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "SNG.7.12",
+      "last_verse": "SNG.8.14",
+      "evidence_method": "Visually inspected entire source page openings, closings and chapter transitions against original 1901 scan; physical continuation of SNG.7.12 onto next page independently identified. Not exhaustive character-by-character collation."
+    }
+  ]
+}

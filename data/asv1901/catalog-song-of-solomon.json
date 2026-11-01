@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "SNG",
+  "book_name": "Song of Solomon",
+  "book_order": 22,
+  "canonical_ids": "SNG.{chapter}.{verse}",
+  "edition_ids": "ASV1901:SNG.{chapter}.{verse}",
+  "chapter_count": 8,
+  "verse_count": 117,
+  "chapter_path_template": "song-of-solomon/chapters/{chapter:02d}.json",
+  "facsimile_index": "song-of-solomon/page-index.json",
+  "predecessor_book_code": "ECC",
+  "successor_book_code": "ISA",
+  "source_provenance": "books/song-of-solomon/SOURCE_INVENTORY.json",
+  "reader": "books/song-of-solomon/site/index.html",
+  "note": "Book-level catalog. No global catalog or unverified lexical alignment is bundled."
+}

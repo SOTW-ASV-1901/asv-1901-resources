@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "SNG",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "SNG.5.1",
+      "edition_verse_id": "ASV1901:SNG.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I am come into my garden, my sister, ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " bride:\nI have gathered my myrrh with my spice;\nI have eaten my honeycomb with my honey;\nI have drunk my wine with my milk.\nEat, O friends;\nDrink, yea, drink abundantly, O beloved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.2",
+      "edition_verse_id": "ASV1901:SNG.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I was asleep, but my heart waked:\nIt is the voice of my beloved that knocketh, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nOpen to me, my sister, my love, my dove, my undefiled;\nFor my head is filled with dew,\nMy locks with the drops of the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.3",
+      "edition_verse_id": "ASV1901:SNG.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have put off my garment; how shall I put it on?\nI have washed my feet; how shall I defile them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.4",
+      "edition_verse_id": "ASV1901:SNG.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My beloved put in his hand by the hole ",
+          "kind": "text"
+        },
+        {
+          "text": "of the door",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nAnd my heart was moved for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.5",
+      "edition_verse_id": "ASV1901:SNG.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I rose up to open to my beloved;\nAnd my hands dropped with myrrh,\nAnd my fingers with liquid myrrh,\nUpon the handles of the bolt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.6",
+      "edition_verse_id": "ASV1901:SNG.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I opened to my beloved;\nBut my beloved had withdrawn himself, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " was gone.\nMy soul had failed me when he spake:\nI sought him, but I could not find him;\nI called him, but he gave me no answer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.7",
+      "edition_verse_id": "ASV1901:SNG.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The watchmen that go about the city found me,\nThey smote me, they wounded me;\nThe keepers of the walls took away my mantle from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.8",
+      "edition_verse_id": "ASV1901:SNG.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I adjure you, O daughters of Jerusalem,\nIf ye find my beloved,That ye tell him, that I am sick from love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.9",
+      "edition_verse_id": "ASV1901:SNG.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "What is thy beloved more than ",
+          "kind": "text"
+        },
+        {
+          "text": "another",
+          "kind": "supplied"
+        },
+        {
+          "text": " beloved,\nO thou fairest among women?\nWhat is thy beloved more than ",
+          "kind": "text"
+        },
+        {
+          "text": "another",
+          "kind": "supplied"
+        },
+        {
+          "text": " beloved,\nThat thou dost so adjure us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.10",
+      "edition_verse_id": "ASV1901:SNG.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "My beloved is white and ruddy,The chiefest among ten thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.11",
+      "edition_verse_id": "ASV1901:SNG.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "His head is ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the most fine gold;\nHis locks are bushy, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " black as a raven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.12",
+      "edition_verse_id": "ASV1901:SNG.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His eyes are like doves beside the water-brooks,\nWashed with milk, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " fitly set.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.13",
+      "edition_verse_id": "ASV1901:SNG.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "His cheeks are as a bed of spices,",
+          "kind": "text"
+        },
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " banks of sweet herbs:\nHis lips are ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " lilies, dropping liquid myrrh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.14",
+      "edition_verse_id": "ASV1901:SNG.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "His hands are ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " rings of gold set with beryl:\nHis body is ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " ivory work overlaid ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " sapphires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.15",
+      "edition_verse_id": "ASV1901:SNG.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "His legs are ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " pillars of marble, set upon sockets of fine gold:\nHis aspect is like Lebanon, excellent as the cedars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.16",
+      "edition_verse_id": "ASV1901:SNG.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "His mouth is most sweet;\nYea, he is altogether lovely.\nThis is my beloved, and this is my friend,\nO daughters of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "SNG",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "SNG.3.1",
+      "edition_verse_id": "ASV1901:SNG.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "By night on my bed\nI sought him whom my soul loveth:\nI sought him, but I found him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.2",
+      "edition_verse_id": "ASV1901:SNG.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I said",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I will rise now, and go about the city;\nIn the streets and in the broad ways\nI will seek him whom my soul loveth:\nI sought him, but I found him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.3",
+      "edition_verse_id": "ASV1901:SNG.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The watchmen that go about the city found me;",
+          "kind": "text"
+        },
+        {
+          "text": "To whom I said",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Saw ye him whom my soul loveth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.4",
+      "edition_verse_id": "ASV1901:SNG.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "It was but a little that I passed from them,\nWhen I found him whom my soul loveth:\nI held him, and would not let him go,\nUntil I had brought him into my mother’s house,\nAnd into the chamber of her that conceived me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.5",
+      "edition_verse_id": "ASV1901:SNG.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I adjure you, O daughters of Jerusalem,\nBy the roes, or by the hinds of the field,\nThat ye stir not up, nor awake ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " love,\nUntil he please.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.6",
+      "edition_verse_id": "ASV1901:SNG.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Who is this that cometh up from the wilderness\nLike pillars of smoke,\nPerfumed with myrrh and frankincense,\nWith all powders of the merchant?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.7",
+      "edition_verse_id": "ASV1901:SNG.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, it is the litter of Solomon;\nThreescore mighty men are about it,\nOf the mighty men of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.8",
+      "edition_verse_id": "ASV1901:SNG.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They all handle the sword, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " are expert in war:\nEvery man hath his sword upon his thigh,\nBecause of fear in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.9",
+      "edition_verse_id": "ASV1901:SNG.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "King Solomon made himself a palanquin\nOf the wood of Lebanon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.10",
+      "edition_verse_id": "ASV1901:SNG.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He made the pillars thereof of silver,\nThe bottom thereof of gold, the seat of it of purple,\nThe midst thereof being paved with love,\nFrom the daughters of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.11",
+      "edition_verse_id": "ASV1901:SNG.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Go forth, O ye daughters of Zion, and behold king Solomon,\nWith the crown wherewith his mother hath crowned him\nIn the day of his espousals,\nAnd in the day of the gladness of his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

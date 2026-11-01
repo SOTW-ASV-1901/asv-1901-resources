@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "SNG",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "SNG.8.1",
+      "edition_verse_id": "ASV1901:SNG.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Oh that thou wert as my brother,\nThat sucked the breasts of my mother!",
+          "kind": "text"
+        },
+        {
+          "text": "When",
+          "kind": "supplied"
+        },
+        {
+          "text": " I should find thee without, I would kiss thee;\nYea, and none would despise me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.2",
+      "edition_verse_id": "ASV1901:SNG.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I would lead thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " bring thee into my mother’s house,Who would instruct me;\nI would cause thee to drink of spiced wine,\nOf the juice of my pomegranate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.3",
+      "edition_verse_id": "ASV1901:SNG.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "His left hand ",
+          "kind": "text"
+        },
+        {
+          "text": "should be",
+          "kind": "supplied"
+        },
+        {
+          "text": " under my head,\nAnd his right hand should embrace me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.4",
+      "edition_verse_id": "ASV1901:SNG.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I adjure you, O daughters of Jerusalem,That ye stir not up, nor awake ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " love,\nUntil he please.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.5",
+      "edition_verse_id": "ASV1901:SNG.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who is this that cometh up from the wilderness,\nLeaning upon her beloved?\nUnder the apple-tree I awakened thee:\nThere thy mother was in travail with thee,\nThere was she in travail that brought thee forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.6",
+      "edition_verse_id": "ASV1901:SNG.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Set me as a seal upon thy heart,\nAs a seal upon thine arm:\nFor love is strong as death;\nJealousy is cruel as Sheol;\nThe flashes thereof are flashes of fire,A very flame of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.7",
+      "edition_verse_id": "ASV1901:SNG.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Many waters cannot quench love,\nNeither can floods drown it:\nIf a man would give all the substance of his house for love,He would utterly be contemned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.8",
+      "edition_verse_id": "ASV1901:SNG.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "We have a little sister,\nAnd she hath no breasts:\nWhat shall we do for our sister\nIn the day when she shall be spoken for?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.9",
+      "edition_verse_id": "ASV1901:SNG.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If she be a wall,\nWe will build upon her a turret of silver:\nAnd if she be a door,\nWe will inclose her with boards of cedar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.10",
+      "edition_verse_id": "ASV1901:SNG.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I am a wall, and my breasts like the towers ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": ":\nThen was I in his eyes as one that found peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.11",
+      "edition_verse_id": "ASV1901:SNG.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Solomon had a vineyard at Baal-hamon;\nHe let out the vineyard unto keepers;\nEvery one for the fruit thereof was to bring a thousand ",
+          "kind": "text"
+        },
+        {
+          "text": "pieces",
+          "kind": "supplied"
+        },
+        {
+          "text": " of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.12",
+      "edition_verse_id": "ASV1901:SNG.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "My vineyard, which is mine, is before me:\nThou, O Solomon, shalt have the thousand,\nAnd those that keep the fruit thereof two hundred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.13",
+      "edition_verse_id": "ASV1901:SNG.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou that dwellest in the gardens,\nThe companions hearken for thy voice:\nCause me to hear it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.14",
+      "edition_verse_id": "ASV1901:SNG.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Make haste, my beloved,\nAnd be thou like to a roe or to a young hart\nUpon the mountains of spices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

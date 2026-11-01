@@ -1,0 +1,24 @@
+{
+  "SNG.1.5": {
+    "original_print_checked": true,
+    "source_pdf_page": 711,
+    "printed_page": 669,
+    "decision": "correct_derived_to_original_print",
+    "print_evidence": "Original printed page 669 (PDF 711) reads \u201cO ye daughters of Jerusalem,\u201d, not \u201cOh ye\u201d.",
+    "correction_to_derived_data": {
+      "from": "Oh ye",
+      "to": "O ye"
+    }
+  },
+  "SNG.8.10": {
+    "original_print_checked": true,
+    "source_pdf_page": 716,
+    "printed_page": 674,
+    "decision": "correct_derived_to_original_print",
+    "print_evidence": "Original printed page 674 (PDF 716) reads \u201clike the towers thereof:\u201d before \u201cThen was I in his eyes\u201d.",
+    "correction_to_derived_data": {
+      "insert_after_supplied": "thereof",
+      "insert_text": ":"
+    }
+  }
+}
