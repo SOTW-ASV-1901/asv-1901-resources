@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NAM",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "NAM.2.1",
+      "edition_verse_id": "ASV1901:NAM.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "He that dasheth in pieces is come up against thee: keep the fortress, watch the way, make thy loins strong, fortify thy power mightily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NAM.2.2",
+      "edition_verse_id": "ASV1901:NAM.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For Jehovah restoreth the excellency of Jacob, as the excellency of Israel; for the emptiers have emptied them out, and destroyed their vine-branches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.3",
+      "edition_verse_id": "ASV1901:NAM.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The shield of his mighty men is made red, the valiant men are in scarlet: the chariots flash with steel in the day of his preparation, and the cypress ",
+          "kind": "text"
+        },
+        {
+          "text": "spears",
+          "kind": "supplied"
+        },
+        {
+          "text": " are brandished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.4",
+      "edition_verse_id": "ASV1901:NAM.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The chariots rage in the streets; they rush to and fro in the broad ways: the appearance of them is like torches; they run like the lightnings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.5",
+      "edition_verse_id": "ASV1901:NAM.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He remembereth his nobles: they stumble in their march; they make haste to the wall thereof, and the mantelet is prepared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.6",
+      "edition_verse_id": "ASV1901:NAM.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The gates of the rivers are opened, and the palace is dissolved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.7",
+      "edition_verse_id": "ASV1901:NAM.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it is decreed: she is uncovered, she is carried away; and her handmaids moan as with the voice of doves, beating upon their breasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.8",
+      "edition_verse_id": "ASV1901:NAM.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Nineveh hath been from of old like a pool of water: yet they flee away. Stand, stand, ",
+          "kind": "text"
+        },
+        {
+          "text": "they cry",
+          "kind": "supplied"
+        },
+        {
+          "text": "; but none looketh back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NAM.2.9",
+      "edition_verse_id": "ASV1901:NAM.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Take ye the spoil of silver, take the spoil of gold; for there is no end of the store, the glory of all goodly furniture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.10",
+      "edition_verse_id": "ASV1901:NAM.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "She is empty, and void, and waste; and the heart melteth, and the knees smite together, and anguish is in all loins, and the faces of them all are waxed pale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.11",
+      "edition_verse_id": "ASV1901:NAM.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Where is the den of the lions, and the feeding-place of the young lions, where the lion ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the lioness walked, the lion’s whelp, and none made them afraid?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.12",
+      "edition_verse_id": "ASV1901:NAM.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his caves with prey, and his dens with ravin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.13",
+      "edition_verse_id": "ASV1901:NAM.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Behold, I am against thee, saith Jehovah of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions; and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

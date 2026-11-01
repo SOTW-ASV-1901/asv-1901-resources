@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NAM",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 944,
+      "type": "scripture",
+      "printed_page": 900,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NAM.1.1",
+      "last_verse": "NAM.2.8",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-nahum-pages-944-945.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 945,
+      "type": "scripture",
+      "printed_page": 901,
+      "running_head_first_verse": "NAM.2.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NAM.2.8",
+      "last_verse": "NAM.3.19",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-nahum-pages-944-945.pdf",
+      "volume_pdf_page": 2
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-nahum-pages-944-945.pdf",
+      "first_source_pdf_page": 944,
+      "last_source_pdf_page": 945,
+      "bytes": 235338,
+      "sha256": "1235bed8e8eb27d9f136ad6676a8bc3b88be95aba3282dee39ec71ea4f029c29"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

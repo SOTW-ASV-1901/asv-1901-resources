@@ -1,0 +1,31 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      946
+    ],
+    "first": "HAB.1.1",
+    "last": "HAB.1.17"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      946,
+      947
+    ],
+    "first": "HAB.2.1",
+    "last": "HAB.2.20"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      947,
+      948
+    ],
+    "first": "HAB.3.1",
+    "last": "HAB.3.19"
+  }
+}

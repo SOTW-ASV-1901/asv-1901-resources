@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NAM",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "NAM.3.1",
+      "edition_verse_id": "ASV1901:NAM.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to the bloody city! it is all full of lies and rapine; the prey departeth not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NAM.3.2",
+      "edition_verse_id": "ASV1901:NAM.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The noise of the whip, and the noise of the rattling of wheels, and prancing horses, and bounding chariots,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.3",
+      "edition_verse_id": "ASV1901:NAM.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "the horseman mounting, and the flashing sword, and the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies; they stumble upon their bodies;—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.4",
+      "edition_verse_id": "ASV1901:NAM.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "because of the multitude of the whoredoms of the well-favored harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.5",
+      "edition_verse_id": "ASV1901:NAM.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, I am against thee, saith Jehovah of hosts, and I will uncover thy skirts upon thy face; and I will show the nations thy nakedness, and the kingdoms thy shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.6",
+      "edition_verse_id": "ASV1901:NAM.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazing-stock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.7",
+      "edition_verse_id": "ASV1901:NAM.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.8",
+      "edition_verse_id": "ASV1901:NAM.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Art thou better than No-amon, that was situate among the rivers, that had the waters round about her; whose rampart was the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " her wall was of the sea?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NAM.3.9",
+      "edition_verse_id": "ASV1901:NAM.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were thy helpers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.10",
+      "edition_verse_id": "ASV1901:NAM.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yet was she carried away, she went into captivity; her young children also were dashed in pieces at the head of all the streets; and they cast lots for her honorable men, and all her great men were bound in chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.11",
+      "edition_verse_id": "ASV1901:NAM.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thou also shalt be drunken; thou shalt be hid; thou also shalt seek a stronghold because of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.12",
+      "edition_verse_id": "ASV1901:NAM.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "All thy fortresses shall be ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " fig-trees with the first-ripe figs: if they be shaken, they fall into the mouth of the eater.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.13",
+      "edition_verse_id": "ASV1901:NAM.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Behold, thy people in the midst of thee are women; the gates of thy land are set wide open unto thine enemies: the fire hath devoured thy bars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.14",
+      "edition_verse_id": "ASV1901:NAM.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Draw thee water for the siege; strengthen thy fortresses; go into the clay, and tread the mortar; make strong the brickkiln.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.15",
+      "edition_verse_id": "ASV1901:NAM.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "There shall the fire devour thee; the sword shall cut thee off; it shall devour thee like the canker-worm: make thyself many as the canker-worm; make thyself many as the locust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.16",
+      "edition_verse_id": "ASV1901:NAM.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thou hast multiplied thy merchants above the stars of heaven: the canker-worm ravageth, and fleeth away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.17",
+      "edition_verse_id": "ASV1901:NAM.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thy princes are as the locusts, and thy marshals as the swarms of grasshoppers, which encamp in the hedges in the cold day, but when the sun ariseth they flee away, and their place is not known where they are.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.18",
+      "edition_verse_id": "ASV1901:NAM.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thy shepherds slumber, O king of Assyria; thy nobles are at rest; thy people are scattered upon the mountains, and there is none to gather them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.3.19",
+      "edition_verse_id": "ASV1901:NAM.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "There is no assuaging of thy hurt; thy wound is grievous: all that hear the report of thee clap their hands over thee; for upon whom hath not thy wickedness passed continually?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HAB",
+  "book_name": "Habakkuk",
+  "book_order": 35,
+  "canonical_ids": "HAB.{chapter}.{verse}",
+  "edition_ids": "ASV1901:HAB.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 56,
+  "chapter_path_template": "habakkuk/chapters/{chapter:02d}.json",
+  "facsimile_index": "habakkuk/page-index.json",
+  "predecessor_book_code": "NAM",
+  "successor_book_code": "ZEP",
+  "source_provenance": "books/habakkuk/SOURCE_INVENTORY.json",
+  "reader": "books/habakkuk/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

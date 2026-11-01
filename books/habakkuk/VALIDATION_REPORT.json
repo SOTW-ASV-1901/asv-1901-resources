@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "source_witness_italics": "PASS",
+  "digital_text_differences_resolved_with_print": 3,
+  "original_scan_page_index": "PASS",
+  "whole_page_image_streams_and_placements": "PASS_3_OF_3",
+  "full_page_renders_at_0_34x": "PASS_3_OF_3",
+  "rebuild_byte_identical": "PASS",
+  "schema_validation": "PASS",
+  "reader_js_syntax": "PASS",
+  "source_hashes": "PASS",
+  "non_exhaustive_print_proofreading": "NOT_PERFORMED",
+  "hosted_browser_test": "NOT_PERFORMED",
+  "witness_independence": "NOT_ESTABLISHED",
+  "unverified_strongs_word_tags": "NOT_IMPORTED",
+  "book_code": "HAB",
+  "chapters": 3,
+  "verses": 56,
+  "italics": 8,
+  "pages": 3,
+  "scripture_pages": 3,
+  "map_pages": 0,
+  "blank_map_reverses": 0,
+  "two_page_verses": 2,
+  "pdf_volumes": 1,
+  "full_raw_image_pages_passed": 3,
+  "full_rendered_pages_passed": 3,
+  "print_page_range": [
+    902,
+    904
+  ],
+  "source_pdf_range": [
+    946,
+    948
+  ],
+  "http_resources_fetched": 7
+}

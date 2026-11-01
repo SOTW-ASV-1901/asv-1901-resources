@@ -1,0 +1,3 @@
+# Nahum validation report
+
+Independently checked 3 chapters, 47 verses, 7 translator-supplied italic spans, 2 original physical pages, and 1 observed verse continuations across physical Scripture pages. All source PDF pages matched in embedded raw image streams, placement and rendered pixels at 0.34×. Rebuilt every derived chapter and historical facsimile PDF byte-identically. Digital witnesses are identical for Nahum; three bracketed-Selah differences in Habakkuk are print-corrected in derived data; source independence is not claimed. Schema, reader JavaScript, local HTTP, input source SHA and upload-path collision checks passed. No exhaustive character-by-character historical print collation or hosted interactive browser testing.

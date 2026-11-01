@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NAM",
+  "book_name": "Nahum",
+  "book_order": 34,
+  "canonical_ids": "NAM.{chapter}.{verse}",
+  "edition_ids": "ASV1901:NAM.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "chapter_path_template": "nahum/chapters/{chapter:02d}.json",
+  "facsimile_index": "nahum/page-index.json",
+  "predecessor_book_code": "MIC",
+  "successor_book_code": "HAB",
+  "source_provenance": "books/nahum/SOURCE_INVENTORY.json",
+  "reader": "books/nahum/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

@@ -1,0 +1,32 @@
+{
+  "HAB.3.3": {
+    "original_print_checked": true,
+    "original_print_locator": "1901 ASV scan PDF page 947, Habakkuk 3:3; printed bracketed [Selah",
+    "decision": "correct_primary_derived_text_to_print_and_comparison",
+    "correction_to_derived_data": {
+      "from": "Selah",
+      "to": "[Selah"
+    },
+    "evidence_note": "Comparison USFM has bracketed [Selah in musical marker; original print also visibly contains left bracket. USX omits left bracket. Do not import Strong alignment from comparison USFM."
+  },
+  "HAB.3.9": {
+    "original_print_checked": true,
+    "original_print_locator": "1901 ASV scan PDF page 948, Habakkuk 3:9; printed bracketed [Selah",
+    "decision": "correct_primary_derived_text_to_print_and_comparison",
+    "correction_to_derived_data": {
+      "from": "Selah",
+      "to": "[Selah"
+    },
+    "evidence_note": "Comparison USFM has bracketed [Selah in musical marker; original print also visibly contains left bracket. USX omits left bracket. Do not import Strong alignment from comparison USFM."
+  },
+  "HAB.3.13": {
+    "original_print_checked": true,
+    "original_print_locator": "1901 ASV scan PDF page 948, Habakkuk 3:13; printed bracketed [Selah",
+    "decision": "correct_primary_derived_text_to_print_and_comparison",
+    "correction_to_derived_data": {
+      "from": "Selah",
+      "to": "[Selah"
+    },
+    "evidence_note": "Comparison USFM has bracketed [Selah in musical marker; original print also visibly contains left bracket. USX omits left bracket. Do not import Strong alignment from comparison USFM."
+  }
+}

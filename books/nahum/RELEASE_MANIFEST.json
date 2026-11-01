@@ -1,0 +1,40 @@
+{
+  "status": "INDEPENDENTLY_VALIDATED",
+  "edition": "ASV1901",
+  "book": "NAM",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "source_hashes": {
+    "primary_usx": "860b44528166d5c16119a971a15c80cf1792a6b4d196a1508b4bc208f7d556f2",
+    "comparison_usfm": "5598ba4c6fffb0cf21f90e502aa5aaf697981af35fe65ca051f4cf667c092dfc",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/nahum/DATA_CONTRACT.md": "bf32d57da9f625e9c190a57f7a72b01ccef7bbc266422c6a347b0494fdb4bd2f",
+    "books/nahum/INSTALLATION_NOTES.md": "7dea8874c3978b4303fe466efafa5bff63378d74e23a8b51ce885d8f8ba8ec00",
+    "books/nahum/README.md": "392091e58612d1c64ddab19f03b9871d627b79c70bfdd5e5e1350f19d4cbd306",
+    "books/nahum/SOURCE_INVENTORY.json": "07867e1c65be4a02252c2960e2f2730c5b1501402ec3391c11880eed5100f29f",
+    "books/nahum/UPLOAD_PACKAGE_AUDIT.md": "bc5e89d8a3e7c063cf612c3e53c1bacf040c795ed79e0c438611fa890bace5b9",
+    "books/nahum/VALIDATION_REPORT.json": "684590a7fc7763bbcc9bae4c40d832d6bdd7ba9c08469dbafd015173390edaaa",
+    "books/nahum/VALIDATION_REPORT.md": "ef8fe63ba6ffccd5b3d2b3a1c1f1b8d4eb34866803cacaa1504f4b7accd6942e",
+    "books/nahum/build-inputs/chapter-checks.json": "1c87c46f983429970a6c4027116736e397581601055667515f9fc3ce80c607d8",
+    "books/nahum/build-inputs/original-page-index-input.json": "26c7d9d1eb83727c4a2f9b412764f72a7c653918028fb8255cc97724df8a56e4",
+    "books/nahum/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/nahum/build-inputs/spanning-verses.json": "3c69383bfcc609903dcd03da964fb6c2e8c5d0abe0ba7a19c46be01f8849c598",
+    "books/nahum/index.html": "8a0d53ca7b09aa6554b75bafecacc0b209627acf641e0a4c2526a7273ffb9871",
+    "books/nahum/schemas/asv1901-nahum-chapter.schema.json": "3ed3aa602ee44e3c7c104d479529b70a0a21a9a5811110a5edd3731d20f62a8e",
+    "books/nahum/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/nahum/scripts/build_nahum.py": "30d4423582b0f2babf6bda68d6af3ad93272122ff65cc9ebfde0cb2a0dcf47db",
+    "books/nahum/scripts/validate_release.py": "4d3b8b4e9a34a36ea0b0250028265bd4ab75847b12ca6a03027520cb99bb32db",
+    "books/nahum/site/index.html": "6fa19a876b6a6b0d33998ce105fb1b9e3e85fadaa108b08bbf023ae1ed81abdb",
+    "books/nahum/sources/asv1901-english-only/34-NAM.usx": "860b44528166d5c16119a971a15c80cf1792a6b4d196a1508b4bc208f7d556f2",
+    "books/nahum/sources/comparison-only/35-NAMeng-asv.usfm": "5598ba4c6fffb0cf21f90e502aa5aaf697981af35fe65ca051f4cf667c092dfc",
+    "data/asv1901/catalog-nahum.json": "d9e6441622b50e3b4b9c8af389c768b4f9bf587b0864885feaa0469c802d35d3",
+    "data/asv1901/nahum/chapter-checks.json": "1c87c46f983429970a6c4027116736e397581601055667515f9fc3ce80c607d8",
+    "data/asv1901/nahum/chapters/01.json": "88c3c16d0c034e16409ca81ec9ff5009f8e4f6329802791e1bfb92373eb46885",
+    "data/asv1901/nahum/chapters/02.json": "e2c2405462ebace593ebc872f21bace1ccf7d82d2f89015db4bf696a3799488f",
+    "data/asv1901/nahum/chapters/03.json": "8ed64f08d2475125184ac40ff2a68ebf3599881de4ebe6f9bd559844569fe454",
+    "data/asv1901/nahum/facsimile/asv1901-nahum-pages-944-945.pdf": "1235bed8e8eb27d9f136ad6676a8bc3b88be95aba3282dee39ec71ea4f029c29",
+    "data/asv1901/nahum/page-index.json": "cc6239f6608947c898336ec28669625a6640956ad5427e3b6ca023056be401cb"
+  }
+}

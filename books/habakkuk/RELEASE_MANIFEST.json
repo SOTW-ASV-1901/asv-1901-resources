@@ -1,0 +1,40 @@
+{
+  "status": "INDEPENDENTLY_VALIDATED",
+  "edition": "ASV1901",
+  "book": "HAB",
+  "chapter_count": 3,
+  "verse_count": 56,
+  "source_hashes": {
+    "primary_usx": "ba186fb7d5a4cd4e6edd8d224e333603987485b9561e2e2650b7d73c0146b217",
+    "comparison_usfm": "5977552a4e53e3c26ca6eb2385a5a520823b0c8a5a710a2d958da0aa7b9b8c52",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/habakkuk/DATA_CONTRACT.md": "fa2d43d56735a671695a7244a773ebd12e3de47d5e95e3294dd7282820a0bfcb",
+    "books/habakkuk/INSTALLATION_NOTES.md": "fcecadf859f748e33293611ae5031a736a38b775f2977d5a416a88ebad2ed277",
+    "books/habakkuk/README.md": "7bbe42d3495d63b28e3471f15327aee477338667be93605f78a8cd09054aa34c",
+    "books/habakkuk/SOURCE_INVENTORY.json": "fa285f509b0a553f22b9bdf70e14e5198a33dba7ed4887282cd44620bf1500ea",
+    "books/habakkuk/UPLOAD_PACKAGE_AUDIT.md": "b02e02ae0d13bc9fa599d7ed658e4f4a39e47b609d3c39f9be5672ae91f870aa",
+    "books/habakkuk/VALIDATION_REPORT.json": "3dffa6336376bc816c17419107fbc9db8135a4525f80cf9219444933f8249f32",
+    "books/habakkuk/VALIDATION_REPORT.md": "66d94f4f25f6e21d4d88faa49c10522bdb375029b5280a2895af6f70892a3014",
+    "books/habakkuk/build-inputs/chapter-checks.json": "5cc436c4e2c4d2741af9a3e861b99cc986ae7fa1119ce01ee412911478a8dacb",
+    "books/habakkuk/build-inputs/original-page-index-input.json": "27eaf3d2581d757bf926ddb8be612469cb37d4a7ccbf837c2b1f010e89e1c55a",
+    "books/habakkuk/build-inputs/source-differences-resolved.json": "9959da1e1f1f2a9e4d470c1aa1c6e52a7fba9e9fbac0154aeacbb68ce554e96c",
+    "books/habakkuk/build-inputs/spanning-verses.json": "f0b12edf6b621da6b009b5b9b8cb121a3dee9825e014fe3e2f4c22d61892ba97",
+    "books/habakkuk/index.html": "e63e9be1248c3a3fbcab38c56588fc240a6f03ce72e43738a08d4df177e34759",
+    "books/habakkuk/schemas/asv1901-habakkuk-chapter.schema.json": "da611cfbd7f2e2c38735f5bb007a04a2865c48703792c79a7478bc8785e9516f",
+    "books/habakkuk/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/habakkuk/scripts/build_habakkuk.py": "d2679eea2beb727fd7fb85e300a290a53e149cd3711ab68c5d82abe73eab782c",
+    "books/habakkuk/scripts/validate_release.py": "a0e7220ff5e9be1b18d21507957b0f9bc1c928a8782c8fb011508f00f0f16987",
+    "books/habakkuk/site/index.html": "0dc17af8a6c1681f789d905773d4f30027b554de2ab268a4cf9d46f5b5023e0f",
+    "books/habakkuk/sources/asv1901-english-only/35-HAB.usx": "ba186fb7d5a4cd4e6edd8d224e333603987485b9561e2e2650b7d73c0146b217",
+    "books/habakkuk/sources/comparison-only/36-HABeng-asv.usfm": "5977552a4e53e3c26ca6eb2385a5a520823b0c8a5a710a2d958da0aa7b9b8c52",
+    "data/asv1901/catalog-habakkuk.json": "20c0071bce1294891cd478fad01c4ab00559bca059c27025b6f02f96b46fc11d",
+    "data/asv1901/habakkuk/chapter-checks.json": "5cc436c4e2c4d2741af9a3e861b99cc986ae7fa1119ce01ee412911478a8dacb",
+    "data/asv1901/habakkuk/chapters/01.json": "1fab746f6cb44000551331250083599a35fe2dc24fea84383ef276dc2f88c7a2",
+    "data/asv1901/habakkuk/chapters/02.json": "c136af6f291be0b2c4840df1875c27c0f7f4f02422db388b58162f061a1b28cc",
+    "data/asv1901/habakkuk/chapters/03.json": "4efdb39f3632b6462b7e97e6a69135d7ae714d70816c2e8073cd196fd5ca30be",
+    "data/asv1901/habakkuk/facsimile/asv1901-habakkuk-pages-946-948.pdf": "304465040e35171217b4d554cf6961acf7c7797011d383603a4e533bbf4fcc1e",
+    "data/asv1901/habakkuk/page-index.json": "693eccdcbed9172f2718d43a0e78aa3a5cffbf410996e286156d1ce0fb6568b3"
+  }
+}

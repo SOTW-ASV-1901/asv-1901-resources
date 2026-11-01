@@ -1,0 +1,30 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      944
+    ],
+    "first": "NAM.1.1",
+    "last": "NAM.1.15"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      944,
+      945
+    ],
+    "first": "NAM.2.1",
+    "last": "NAM.2.13"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      945
+    ],
+    "first": "NAM.3.1",
+    "last": "NAM.3.19"
+  }
+}
