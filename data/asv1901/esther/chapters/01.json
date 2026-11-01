@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EST",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "EST.1.1",
+      "edition_verse_id": "ASV1901:EST.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now it came to pass in the days of Ahasuerus (this is Ahasuerus who reigned from India even unto Ethiopia, over a hundred and seven and twenty provinces),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.1.2",
+      "edition_verse_id": "ASV1901:EST.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.3",
+      "edition_verse_id": "ASV1901:EST.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "in the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.4",
+      "edition_verse_id": "ASV1901:EST.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "when he showed the riches of his glorious kingdom and the honor of his excellent majesty many days, even a hundred and fourscore days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.5",
+      "edition_verse_id": "ASV1901:EST.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when these days were fulfilled, the king made a feast unto all the people that were present in Shushan the palace, both great and small, seven days, in the court of the garden of the king’s palace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.6",
+      "edition_verse_id": "ASV1901:EST.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "There were hangings of",
+          "kind": "supplied"
+        },
+        {
+          "text": " white ",
+          "kind": "text"
+        },
+        {
+          "text": "cloth",
+          "kind": "supplied"
+        },
+        {
+          "text": ", ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " green, and ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " blue, fastened with cords of fine linen and purple to silver rings and pillars of marble: the couches were of gold and silver, upon a pavement of red, and white, and yellow, and black marble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.7",
+      "edition_verse_id": "ASV1901:EST.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they gave them drink in vessels of gold (the vessels being diverse one from another), and royal wine in abundance, according to the bounty of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.8",
+      "edition_verse_id": "ASV1901:EST.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the drinking was according to the law; none could compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.9",
+      "edition_verse_id": "ASV1901:EST.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.1.10",
+      "edition_verse_id": "ASV1901:EST.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that ministered in the presence of Ahasuerus the king,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.11",
+      "edition_verse_id": "ASV1901:EST.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "to bring Vashti the queen before the king with the crown royal, to show the peoples and the princes her beauty; for she was fair to look on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.12",
+      "edition_verse_id": "ASV1901:EST.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But the queen Vashti refused to come at the king’s commandment by the chamberlains: therefore was the king very wroth, and his anger burned in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.13",
+      "edition_verse_id": "ASV1901:EST.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the king said to the wise men, who knew the times (for so was the king’s manner toward all that knew law and judgment;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.1.14",
+      "edition_verse_id": "ASV1901:EST.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and the next unto him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king’s face, and sat first in the kingdom),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.15",
+      "edition_verse_id": "ASV1901:EST.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What shall we do unto the queen Vashti according to law, because she hath not done the bidding of the king Ahasuerus by the chamberlains?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.16",
+      "edition_verse_id": "ASV1901:EST.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the peoples that are in all the provinces of the king Ahasuerus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.17",
+      "edition_verse_id": "ASV1901:EST.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For this deed of the queen will come abroad unto all women, to make their husbands contemptible in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.18",
+      "edition_verse_id": "ASV1901:EST.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And this day will the princesses of Persia and Media who have heard of the deed of the queen say ",
+          "kind": "text"
+        },
+        {
+          "text": "the like",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto all the king’s princes. So ",
+          "kind": "text"
+        },
+        {
+          "text": "will there arise",
+          "kind": "supplied"
+        },
+        {
+          "text": " much contempt and wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.19",
+      "edition_verse_id": "ASV1901:EST.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If it please the king, let there go forth a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, that Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.20",
+      "edition_verse_id": "ASV1901:EST.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when the king’s decree which he shall make shall be published throughout all his kingdom (for it is great), all the wives will give to their husbands honor, both to great and small.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.21",
+      "edition_verse_id": "ASV1901:EST.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the saying pleased the king and the princes; and the king did according to the word of Memucan:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.1.22",
+      "edition_verse_id": "ASV1901:EST.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "for he sent letters into all the king’s provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and should speak according to the language of his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

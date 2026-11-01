@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NEH",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 516,
+      "type": "scripture",
+      "printed_page": 476,
+      "running_head_first_verse": "NEH.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NEH.1.1",
+      "last_verse": "NEH.2.7",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 517,
+      "type": "scripture",
+      "printed_page": 477,
+      "running_head_first_verse": "NEH.2.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.2.7",
+      "last_verse": "NEH.3.10",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 518,
+      "type": "scripture",
+      "printed_page": 478,
+      "running_head_first_verse": "NEH.3.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.3.10",
+      "last_verse": "NEH.4.2",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 519,
+      "type": "scripture",
+      "printed_page": 479,
+      "running_head_first_verse": "NEH.4.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.4.2",
+      "last_verse": "NEH.5.5",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 520,
+      "type": "scripture",
+      "printed_page": 480,
+      "running_head_first_verse": "NEH.5.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.5.5",
+      "last_verse": "NEH.6.7",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 521,
+      "type": "scripture",
+      "printed_page": 481,
+      "running_head_first_verse": "NEH.6.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.6.7",
+      "last_verse": "NEH.7.15",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 522,
+      "type": "scripture",
+      "printed_page": 482,
+      "running_head_first_verse": "NEH.7.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.7.15",
+      "last_verse": "NEH.7.64",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 523,
+      "type": "scripture",
+      "printed_page": 483,
+      "running_head_first_verse": "NEH.7.65",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.7.64",
+      "last_verse": "NEH.8.13",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 524,
+      "type": "scripture",
+      "printed_page": 484,
+      "running_head_first_verse": "NEH.8.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.8.13",
+      "last_verse": "NEH.9.16",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 525,
+      "type": "scripture",
+      "printed_page": 485,
+      "running_head_first_verse": "NEH.9.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.9.16",
+      "last_verse": "NEH.9.34",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 526,
+      "type": "scripture",
+      "printed_page": 486,
+      "running_head_first_verse": "NEH.9.35",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.9.34",
+      "last_verse": "NEH.10.37",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 527,
+      "type": "scripture",
+      "printed_page": 487,
+      "running_head_first_verse": "NEH.10.38",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.10.37",
+      "last_verse": "NEH.11.24",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 528,
+      "type": "scripture",
+      "printed_page": 488,
+      "running_head_first_verse": "NEH.11.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.11.24",
+      "last_verse": "NEH.12.30",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 13
+    },
+    {
+      "source_pdf_page": 529,
+      "type": "scripture",
+      "printed_page": 489,
+      "running_head_first_verse": "NEH.12.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.12.30",
+      "last_verse": "NEH.13.7",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 14
+    },
+    {
+      "source_pdf_page": 530,
+      "type": "scripture",
+      "printed_page": 490,
+      "running_head_first_verse": "NEH.13.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "NEH.13.7",
+      "last_verse": "NEH.13.29",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 15
+    },
+    {
+      "source_pdf_page": 531,
+      "type": "scripture",
+      "printed_page": 491,
+      "running_head_first_verse": "NEH.13.30",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "NEH.13.30",
+      "last_verse": "NEH.13.31",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-nehemiah-pages-516-531.pdf",
+      "volume_pdf_page": 16
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-nehemiah-pages-516-531.pdf",
+      "first_source_pdf_page": 516,
+      "last_source_pdf_page": 531,
+      "bytes": 1717290,
+      "sha256": "61652804e5a8bc235efbb1172c2c841e9103037873fb177abf74052752b488a3"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

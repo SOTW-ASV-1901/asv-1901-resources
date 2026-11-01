@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZR",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 503,
+      "type": "scripture",
+      "printed_page": 465,
+      "running_head_first_verse": "EZR.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZR.1.1",
+      "last_verse": "EZR.2.15",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 504,
+      "type": "scripture",
+      "printed_page": 466,
+      "running_head_first_verse": "EZR.2.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.2.15",
+      "last_verse": "EZR.2.62",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 505,
+      "type": "map",
+      "printed_page": null,
+      "description": "Period map/atlas insertion from the original scan; retained complete.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 506,
+      "type": "interleaf",
+      "printed_page": null,
+      "description": "Original blank reverse of preceding map; retained complete.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 507,
+      "type": "scripture",
+      "printed_page": 467,
+      "running_head_first_verse": "EZR.2.63",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.2.62",
+      "last_verse": "EZR.3.13",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 508,
+      "type": "scripture",
+      "printed_page": 468,
+      "running_head_first_verse": "EZR.4.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.3.13",
+      "last_verse": "EZR.4.22",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 509,
+      "type": "scripture",
+      "printed_page": 469,
+      "running_head_first_verse": "EZR.4.23",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZR.4.23",
+      "last_verse": "EZR.6.3",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 510,
+      "type": "scripture",
+      "printed_page": 470,
+      "running_head_first_verse": "EZR.6.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.6.3",
+      "last_verse": "EZR.7.3",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 511,
+      "type": "scripture",
+      "printed_page": 471,
+      "running_head_first_verse": "EZR.7.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.7.3",
+      "last_verse": "EZR.7.27",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 512,
+      "type": "scripture",
+      "printed_page": 472,
+      "running_head_first_verse": "EZR.7.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.7.27",
+      "last_verse": "EZR.8.26",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 513,
+      "type": "scripture",
+      "printed_page": 473,
+      "running_head_first_verse": "EZR.8.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.8.26",
+      "last_verse": "EZR.9.10",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 514,
+      "type": "scripture",
+      "printed_page": 474,
+      "running_head_first_verse": "EZR.9.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.9.10",
+      "last_verse": "EZR.10.14",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 515,
+      "type": "scripture",
+      "printed_page": 475,
+      "running_head_first_verse": "EZR.10.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZR.10.14",
+      "last_verse": "EZR.10.44",
+      "evidence_method": "Manually inspected the original printed page opening, closing verse and continuation; distinguished text from running-head references.",
+      "volume": "asv1901-ezra-pages-503-515.pdf",
+      "volume_pdf_page": 13
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-ezra-pages-503-515.pdf",
+      "first_source_pdf_page": 503,
+      "last_source_pdf_page": 515,
+      "bytes": 1270832,
+      "sha256": "21ec416cb892aa448f99f45fad7d5c086ad6adfd37254e536643149b21f8d73b"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

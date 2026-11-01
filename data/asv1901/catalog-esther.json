@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EST",
+  "book_name": "Esther",
+  "book_order": 17,
+  "canonical_ids": "EST.{chapter}.{verse}",
+  "edition_ids": "ASV1901:EST.{chapter}.{verse}",
+  "chapter_count": 10,
+  "verse_count": 167,
+  "chapter_path_template": "esther/chapters/{chapter:02d}.json",
+  "facsimile_index": "esther/page-index.json",
+  "predecessor_book_code": "NEH",
+  "successor_book_code": "JOB",
+  "source_provenance": "books/esther/SOURCE_INVENTORY.json",
+  "reader": "books/esther/site/index.html",
+  "note": "Book-level catalog. No unified ASV catalog or unverified lexical alignment is bundled."
+}

@@ -1,0 +1,600 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "EZR.10.1",
+      "edition_verse_id": "ASV1901:EZR.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now while Ezra prayed and made confession, weeping and casting himself down before the house of God, there was gathered together unto him out of Israel a very great assembly of men and women and children; for the people wept very sore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.2",
+      "edition_verse_id": "ASV1901:EZR.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Shecaniah the son of Jehiel, one of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have married foreign women of the peoples of the land: yet now there is hope for Israel concerning this thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.3",
+      "edition_verse_id": "ASV1901:EZR.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.4",
+      "edition_verse_id": "ASV1901:EZR.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Arise; for the matter belongeth unto thee, and we are with thee: be of good courage, and do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.5",
+      "edition_verse_id": "ASV1901:EZR.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then arose Ezra, and made the chiefs of the priests, the Levites, and all Israel, to swear that they would do according to this word. So they sware.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.6",
+      "edition_verse_id": "ASV1901:EZR.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then Ezra rose up from before the house of God, and went into the chamber of Jehohanan the son of Eliashib: and ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " he came thither, he did eat no bread, nor drink water; for he mourned because of the trespass of them of the captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.7",
+      "edition_verse_id": "ASV1901:EZR.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.8",
+      "edition_verse_id": "ASV1901:EZR.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and that whosoever came not within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the assembly of the captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.9",
+      "edition_verse_id": "ASV1901:EZR.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within the three days (it was the ninth month, on the twentieth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month); and all the people sat in the broad place before the house of God, trembling because of this matter, and for the great rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.10",
+      "edition_verse_id": "ASV1901:EZR.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Ezra the priest stood up, and said unto them, Ye have trespassed, and have married foreign women, to increase the guilt of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.11",
+      "edition_verse_id": "ASV1901:EZR.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now therefore make confession unto Jehovah, the God of your fathers, and do his pleasure; and separate yourselves from the peoples of the land, and from the foreign women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.12",
+      "edition_verse_id": "ASV1901:EZR.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then all the assembly answered and said with a loud voice, As thou hast said concerning us, so must we do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.13",
+      "edition_verse_id": "ASV1901:EZR.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But the people are many, and it is a time of much rain, and we are not able to stand without: neither is this a work of one day or two; for we have greatly transgressed in this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.14",
+      "edition_verse_id": "ASV1901:EZR.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Let now our princes be appointed for all the assembly, and let all them that are in our cities that have married foreign women come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God be turned from us, until this matter be despatched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.15",
+      "edition_verse_id": "ASV1901:EZR.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this ",
+          "kind": "text"
+        },
+        {
+          "text": "matter",
+          "kind": "supplied"
+        },
+        {
+          "text": ": and Meshullam and Shabbethai the Levite helped them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.16",
+      "edition_verse_id": "ASV1901:EZR.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the children of the captivity did so. And Ezra the priest, ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " certain heads of fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": ", after their fathers’ houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.17",
+      "edition_verse_id": "ASV1901:EZR.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they made an end with all the men that had married foreign women by the first day of the first month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.18",
+      "edition_verse_id": "ASV1901:EZR.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And among the sons of the priests there were found that had married foreign women: ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of the sons of Jeshua, the son of Jozadak, and his brethren, Maaseiah, and Eliezer, and Jarib, and Gedaliah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.19",
+      "edition_verse_id": "ASV1901:EZR.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they gave their hand that they would put away their wives; and being guilty, ",
+          "kind": "text"
+        },
+        {
+          "text": "they offered",
+          "kind": "supplied"
+        },
+        {
+          "text": " a ram of the flock for their guilt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.20",
+      "edition_verse_id": "ASV1901:EZR.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And of the sons of Immer: Hanani and Zebadiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.21",
+      "edition_verse_id": "ASV1901:EZR.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And of the sons of Harim: Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.22",
+      "edition_verse_id": "ASV1901:EZR.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.23",
+      "edition_verse_id": "ASV1901:EZR.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And of the Levites: Jozabad, and Shimei, and Kelaiah (the same is Kelita), Pethahiah, Judah, and Eliezer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.24",
+      "edition_verse_id": "ASV1901:EZR.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And of the singers: Eliashib. And of the porters: Shallum, and Telem, and Uri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.25",
+      "edition_verse_id": "ASV1901:EZR.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And of Israel: Of the sons of Parosh: Ramiah, and Izziah, and Malchijah, and Mijamin, and Eleazar, and Malchijah, and Benaiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.26",
+      "edition_verse_id": "ASV1901:EZR.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And of the sons of Elam: Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Elijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.27",
+      "edition_verse_id": "ASV1901:EZR.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And of the sons of Zattu: Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.28",
+      "edition_verse_id": "ASV1901:EZR.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And of the sons of Bebai: Jehohanan, Hananiah, Zabbai, Athlai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.29",
+      "edition_verse_id": "ASV1901:EZR.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And of the sons of Bani: Meshullam, Malluch, and Adaiah, Jashub, and Sheal, Jeremoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.30",
+      "edition_verse_id": "ASV1901:EZR.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And of the sons of Pahath-moab: Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, and Binnui, and Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.31",
+      "edition_verse_id": "ASV1901:EZR.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.32",
+      "edition_verse_id": "ASV1901:EZR.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Benjamin, Malluch, Shemariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.33",
+      "edition_verse_id": "ASV1901:EZR.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.34",
+      "edition_verse_id": "ASV1901:EZR.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Of the sons of Bani: Maadai, Amram, and Uel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.35",
+      "edition_verse_id": "ASV1901:EZR.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Benaiah, Bedeiah, Cheluhi,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.36",
+      "edition_verse_id": "ASV1901:EZR.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Vaniah, Meremoth, Eliashib,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.37",
+      "edition_verse_id": "ASV1901:EZR.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Mattaniah, Mattenai, and Jaasu,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.38",
+      "edition_verse_id": "ASV1901:EZR.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "and Bani, and Binnui, Shimei,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.39",
+      "edition_verse_id": "ASV1901:EZR.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and Shelemiah, and Nathan, and Adaiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.40",
+      "edition_verse_id": "ASV1901:EZR.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Machnadebai, Shashai, Sharai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.41",
+      "edition_verse_id": "ASV1901:EZR.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Azarel, and Shelemiah, Shemariah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.42",
+      "edition_verse_id": "ASV1901:EZR.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Shallum, Amariah, Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.43",
+      "edition_verse_id": "ASV1901:EZR.10.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, and Joel, Benaiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.44",
+      "edition_verse_id": "ASV1901:EZR.10.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "All these had taken foreign wives; and some of them had wives by whom they had children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

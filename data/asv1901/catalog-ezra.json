@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZR",
+  "book_name": "Ezra",
+  "book_order": 15,
+  "canonical_ids": "EZR.{chapter}.{verse}",
+  "edition_ids": "ASV1901:EZR.{chapter}.{verse}",
+  "chapter_count": 10,
+  "verse_count": 280,
+  "chapter_path_template": "ezra/chapters/{chapter:02d}.json",
+  "facsimile_index": "ezra/page-index.json",
+  "predecessor_book_code": "2CH",
+  "successor_book_code": "NEH",
+  "source_provenance": "books/ezra/SOURCE_INVENTORY.json",
+  "reader": "books/ezra/site/index.html",
+  "note": "Book-level catalog. No unified ASV catalog or unverified lexical alignment is bundled."
+}

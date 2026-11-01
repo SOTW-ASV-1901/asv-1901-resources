@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "NEH",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "NEH.13.1",
+      "edition_verse_id": "ASV1901:NEH.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On that day they read in the book of Moses in the audience of the people; and therein was found written, that an Ammonite and a Moabite should not enter into the assembly of God for ever,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.2",
+      "edition_verse_id": "ASV1901:NEH.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "because they met not the children of Israel with bread and with water, but hired Balaam against them, to curse them: howbeit our God turned the curse into a blessing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.3",
+      "edition_verse_id": "ASV1901:NEH.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.4",
+      "edition_verse_id": "ASV1901:NEH.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now before this, Eliashib the priest, who was appointed over the chambers of the house of our God, being allied unto Tobiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.5",
+      "edition_verse_id": "ASV1901:NEH.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "had prepared for him a great chamber, where aforetime they laid the meal-offerings, the frankincense, and the vessels, and the tithes of the grain, the new wine, and the oil, which were given by commandment to the Levites, and the singers, and the porters; and the heave-offerings for the priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.6",
+      "edition_verse_id": "ASV1901:NEH.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But in all this ",
+          "kind": "text"
+        },
+        {
+          "text": "time",
+          "kind": "supplied"
+        },
+        {
+          "text": " I was not at Jerusalem; for in the two and thirtieth year of Artaxerxes king of Babylon I went unto the king: and after certain days asked I leave of the king,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.7",
+      "edition_verse_id": "ASV1901:NEH.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and I came to Jerusalem, and understood the evil that Eliashib had done for Tobiah, in preparing him a chamber in the courts of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.8",
+      "edition_verse_id": "ASV1901:NEH.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it grieved me sore: therefore I cast forth all the household stuff of Tobiah out of the chamber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.9",
+      "edition_verse_id": "ASV1901:NEH.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meal-offerings and the frankincense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.10",
+      "edition_verse_id": "ASV1901:NEH.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I perceived that the portions of the Levites had not been given them; so that the Levites and the singers, that did the work, were fled every one to his field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.11",
+      "edition_verse_id": "ASV1901:NEH.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.12",
+      "edition_verse_id": "ASV1901:NEH.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then brought all Judah the tithe of the grain and the new wine and the oil unto the treasuries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.13",
+      "edition_verse_id": "ASV1901:NEH.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah; for they were counted faithful, and their business was to distribute unto their brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.14",
+      "edition_verse_id": "ASV1901:NEH.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the observances thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.15",
+      "edition_verse_id": "ASV1901:NEH.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In those days saw I in Judah some men treading winepresses on the sabbath, and bringing in sheaves, and lading asses ",
+          "kind": "text"
+        },
+        {
+          "text": "therewith",
+          "kind": "supplied"
+        },
+        {
+          "text": "; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified ",
+          "kind": "text"
+        },
+        {
+          "text": "against them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the day wherein they sold victuals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.16",
+      "edition_verse_id": "ASV1901:NEH.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "There dwelt men of Tyre also therein, who brought in fish, and all manner of wares, and sold on the sabbath unto the children of Judah, and in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.17",
+      "edition_verse_id": "ASV1901:NEH.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then I contended with the nobles of Judah, and said unto them, What evil thing is this that ye do, and profane the sabbath day?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.18",
+      "edition_verse_id": "ASV1901:NEH.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.19",
+      "edition_verse_id": "ASV1901:NEH.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it came to pass that, when the gates of Jerusalem began to be dark before the sabbath, I commanded that the doors should be shut, and commanded that they should not be opened till after the sabbath: and some of my servants set I over the gates, that there should no burden be brought in on the sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.20",
+      "edition_verse_id": "ASV1901:NEH.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So the merchants and sellers of all kind of wares lodged without Jerusalem once or twice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.21",
+      "edition_verse_id": "ASV1901:NEH.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do so again, I will lay hands on you. From that time forth came they no more on the sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.22",
+      "edition_verse_id": "ASV1901:NEH.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember unto me, O my God, this also, and spare me according to the greatness of thy lovingkindness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.23",
+      "edition_verse_id": "ASV1901:NEH.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In those days also saw I the Jews that had married women of Ashdod, of Ammon, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Moab:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.24",
+      "edition_verse_id": "ASV1901:NEH.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and their children spake half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.25",
+      "edition_verse_id": "ASV1901:NEH.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Ye shall not give your daughters unto their sons, nor take their daughters for your sons, or for yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.26",
+      "edition_verse_id": "ASV1901:NEH.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, and he was beloved of his God, and God made him king over all Israel: nevertheless even him did foreign women cause to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.27",
+      "edition_verse_id": "ASV1901:NEH.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Shall we then hearken unto you to do all this great evil, to trespass against our God in marrying foreign women?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.28",
+      "edition_verse_id": "ASV1901:NEH.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And one of the sons of Joiada, the son of Eliashib the high priest, was son-in-law to Sanballat the Horonite: therefore I chased him from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.29",
+      "edition_verse_id": "ASV1901:NEH.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.13.30",
+      "edition_verse_id": "ASV1901:NEH.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Thus cleansed I them from all foreigners, and appointed charges for the priests and for the Levites, every one in his work;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.13.31",
+      "edition_verse_id": "ASV1901:NEH.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and for the wood-offering, at times appointed, and for the first-fruits. Remember me, O my God, for good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

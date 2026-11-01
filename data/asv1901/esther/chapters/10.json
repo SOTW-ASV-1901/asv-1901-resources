@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EST",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "EST.10.1",
+      "edition_verse_id": "ASV1901:EST.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.10.2",
+      "edition_verse_id": "ASV1901:EST.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And all the acts of his power and of his might, and the full account of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.10.3",
+      "edition_verse_id": "ASV1901:EST.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the good of his people, and speaking peace to all his seed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
