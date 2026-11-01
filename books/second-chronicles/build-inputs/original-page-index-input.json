@@ -1,0 +1,376 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 466,
+      "type": "scripture",
+      "printed_page": 428,
+      "running_head_first_verse": "2CH.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2CH.1.1",
+      "last_verse": "2CH.2.3",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 467,
+      "type": "scripture",
+      "printed_page": 429,
+      "running_head_first_verse": "2CH.2.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.2.3",
+      "last_verse": "2CH.3.5",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 468,
+      "type": "scripture",
+      "printed_page": 430,
+      "running_head_first_verse": "2CH.3.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.3.5",
+      "last_verse": "2CH.4.14",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 469,
+      "type": "scripture",
+      "printed_page": 431,
+      "running_head_first_verse": "2CH.4.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.4.14",
+      "last_verse": "2CH.6.3",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 470,
+      "type": "scripture",
+      "printed_page": 432,
+      "running_head_first_verse": "2CH.6.4",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2CH.6.4",
+      "last_verse": "2CH.6.26",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 471,
+      "type": "scripture",
+      "printed_page": 433,
+      "running_head_first_verse": "2CH.6.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.6.26",
+      "last_verse": "2CH.7.3",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 472,
+      "type": "scripture",
+      "printed_page": 434,
+      "running_head_first_verse": "2CH.7.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.7.3",
+      "last_verse": "2CH.8.6",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 473,
+      "type": "scripture",
+      "printed_page": 435,
+      "running_head_first_verse": "2CH.8.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.8.6",
+      "last_verse": "2CH.9.9",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 474,
+      "type": "scripture",
+      "printed_page": 436,
+      "running_head_first_verse": "2CH.9.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.9.9",
+      "last_verse": "2CH.10.6",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 475,
+      "type": "scripture",
+      "printed_page": 437,
+      "running_head_first_verse": "2CH.10.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.10.6",
+      "last_verse": "2CH.11.17",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 476,
+      "type": "scripture",
+      "printed_page": 438,
+      "running_head_first_verse": "2CH.11.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.11.17",
+      "last_verse": "2CH.13.1",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 477,
+      "type": "scripture",
+      "printed_page": 439,
+      "running_head_first_verse": "2CH.13.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.13.1",
+      "last_verse": "2CH.14.5",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 478,
+      "type": "scripture",
+      "printed_page": 440,
+      "running_head_first_verse": "2CH.14.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.14.5",
+      "last_verse": "2CH.15.14",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 479,
+      "type": "scripture",
+      "printed_page": 441,
+      "running_head_first_verse": "2CH.15.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.15.14",
+      "last_verse": "2CH.17.5",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 480,
+      "type": "scripture",
+      "printed_page": 442,
+      "running_head_first_verse": "2CH.17.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.17.5",
+      "last_verse": "2CH.18.11",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 481,
+      "type": "scripture",
+      "printed_page": 443,
+      "running_head_first_verse": "2CH.18.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.18.11",
+      "last_verse": "2CH.19.2",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 482,
+      "type": "scripture",
+      "printed_page": 444,
+      "running_head_first_verse": "2CH.19.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.19.2",
+      "last_verse": "2CH.20.15",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 483,
+      "type": "scripture",
+      "printed_page": 445,
+      "running_head_first_verse": "2CH.20.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.20.15",
+      "last_verse": "2CH.20.37",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 484,
+      "type": "scripture",
+      "printed_page": 446,
+      "running_head_first_verse": "2CH.21.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.20.37",
+      "last_verse": "2CH.22.2",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 485,
+      "type": "scripture",
+      "printed_page": 447,
+      "running_head_first_verse": "2CH.22.3",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2CH.22.3",
+      "last_verse": "2CH.23.10",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 486,
+      "type": "scripture",
+      "printed_page": 448,
+      "running_head_first_verse": "2CH.23.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.23.10",
+      "last_verse": "2CH.24.11",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 487,
+      "type": "scripture",
+      "printed_page": 449,
+      "running_head_first_verse": "2CH.24.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.24.11",
+      "last_verse": "2CH.25.4",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 488,
+      "type": "scripture",
+      "printed_page": 450,
+      "running_head_first_verse": "2CH.25.5",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2CH.25.5",
+      "last_verse": "2CH.25.24",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 489,
+      "type": "scripture",
+      "printed_page": 451,
+      "running_head_first_verse": "2CH.25.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.25.24",
+      "last_verse": "2CH.26.20",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 490,
+      "type": "scripture",
+      "printed_page": 452,
+      "running_head_first_verse": "2CH.26.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.26.20",
+      "last_verse": "2CH.28.11",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 491,
+      "type": "scripture",
+      "printed_page": 453,
+      "running_head_first_verse": "2CH.28.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.28.11",
+      "last_verse": "2CH.29.7",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 492,
+      "type": "scripture",
+      "printed_page": 454,
+      "running_head_first_verse": "2CH.29.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.29.7",
+      "last_verse": "2CH.29.30",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 493,
+      "type": "scripture",
+      "printed_page": 455,
+      "running_head_first_verse": "2CH.29.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.29.30",
+      "last_verse": "2CH.30.16",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 494,
+      "type": "scripture",
+      "printed_page": 456,
+      "running_head_first_verse": "2CH.30.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.30.16",
+      "last_verse": "2CH.31.10",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 495,
+      "type": "scripture",
+      "printed_page": 457,
+      "running_head_first_verse": "2CH.31.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.31.10",
+      "last_verse": "2CH.32.9",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 496,
+      "type": "scripture",
+      "printed_page": 458,
+      "running_head_first_verse": "2CH.32.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.32.9",
+      "last_verse": "2CH.32.31",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 497,
+      "type": "scripture",
+      "printed_page": 459,
+      "running_head_first_verse": "2CH.32.32",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.32.31",
+      "last_verse": "2CH.33.20",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 498,
+      "type": "scripture",
+      "printed_page": 460,
+      "running_head_first_verse": "2CH.33.21",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "2CH.33.21",
+      "last_verse": "2CH.34.17",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 499,
+      "type": "scripture",
+      "printed_page": 461,
+      "running_head_first_verse": "2CH.34.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.34.17",
+      "last_verse": "2CH.35.4",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 500,
+      "type": "scripture",
+      "printed_page": 462,
+      "running_head_first_verse": "2CH.35.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.35.4",
+      "last_verse": "2CH.35.24",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 501,
+      "type": "scripture",
+      "printed_page": 463,
+      "running_head_first_verse": "2CH.35.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.35.24",
+      "last_verse": "2CH.36.21",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    },
+    {
+      "source_pdf_page": 502,
+      "type": "scripture",
+      "printed_page": 464,
+      "running_head_first_verse": "2CH.36.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "2CH.36.21",
+      "last_verse": "2CH.36.23",
+      "evidence_method": "Manually inspected original 1901 printed page start, last verse, and continuation; running head is documented separately."
+    }
+  ]
+}

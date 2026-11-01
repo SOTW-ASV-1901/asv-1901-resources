@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "2CH.13.1",
+      "edition_verse_id": "ASV1901:2CH.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the eighteenth year of king Jeroboam began Abijah to reign over Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.13.2",
+      "edition_verse_id": "ASV1901:2CH.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Three years reigned he in Jerusalem: and his mother’s name was Micaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.3",
+      "edition_verse_id": "ASV1901:2CH.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Abijah joined battle with an army of valiant men of war, even four hundred thousand chosen men: and Jeroboam set the battle in array against him with eight hundred thousand chosen men, who were mighty men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.4",
+      "edition_verse_id": "ASV1901:2CH.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Abijah stood up upon mount Zemaraim, which is in the hill-country of Ephraim, and said, Hear me, O Jeroboam and all Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.5",
+      "edition_verse_id": "ASV1901:2CH.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ought ye not to know that Jehovah, the God of Israel, gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.6",
+      "edition_verse_id": "ASV1901:2CH.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, rose up, and rebelled against his lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.7",
+      "edition_verse_id": "ASV1901:2CH.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And there were gathered unto him worthless men, base fellows, that strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tender-hearted, and could not withstand them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.8",
+      "edition_verse_id": "ASV1901:2CH.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And now ye think to withstand the kingdom of Jehovah in the hand of the sons of David; and ye are a great multitude, and there are with you the golden calves which Jeroboam made you for gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.9",
+      "edition_verse_id": "ASV1901:2CH.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Have ye not driven out the priests of Jehovah, the sons of Aaron, and the Levites, and made you priests after the manner of the peoples of ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of ",
+          "kind": "text"
+        },
+        {
+          "text": "them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " no gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.10",
+      "edition_verse_id": "ASV1901:2CH.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But as for us, Jehovah is our God, and we have not forsaken him; and ",
+          "kind": "text"
+        },
+        {
+          "text": "we have",
+          "kind": "supplied"
+        },
+        {
+          "text": " priests ministering unto Jehovah, the sons of Aaron, and the Levites in their work:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.11",
+      "edition_verse_id": "ASV1901:2CH.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and they burn unto Jehovah every morning and every evening burnt-offerings and sweet incense: the showbread also ",
+          "kind": "text"
+        },
+        {
+          "text": "set they",
+          "kind": "supplied"
+        },
+        {
+          "text": " in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of Jehovah our God; but ye have forsaken him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.12",
+      "edition_verse_id": "ASV1901:2CH.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And, behold, God is with us at our head, and his priests with the trumpets of alarm to sound an alarm against you. O children of Israel, fight ye not against Jehovah, the God of your fathers; for ye shall not prosper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.13",
+      "edition_verse_id": "ASV1901:2CH.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment was behind them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.13.14",
+      "edition_verse_id": "ASV1901:2CH.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when Judah looked back, behold, the battle was before and behind them; and they cried unto Jehovah, and the priests sounded with the trumpets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.15",
+      "edition_verse_id": "ASV1901:2CH.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.16",
+      "edition_verse_id": "ASV1901:2CH.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the children of Israel fled before Judah; and God delivered them into their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.17",
+      "edition_verse_id": "ASV1901:2CH.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.18",
+      "edition_verse_id": "ASV1901:2CH.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon Jehovah, the God of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.19",
+      "edition_verse_id": "ASV1901:2CH.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephron with the towns thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.20",
+      "edition_verse_id": "ASV1901:2CH.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Neither did Jeroboam recover strength again in the days of Abijah: and Jehovah smote him, and he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.21",
+      "edition_verse_id": "ASV1901:2CH.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But Abijah waxed mighty, and took unto himself fourteen wives, and begat twenty and two sons, and sixteen daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.13.22",
+      "edition_verse_id": "ASV1901:2CH.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the rest of the acts of Abijah, and his ways, and his sayings, are written in the commentary of the prophet Iddo.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

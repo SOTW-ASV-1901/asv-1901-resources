@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "2CH.29.1",
+      "edition_verse_id": "ASV1901:2CH.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hezekiah began to reign when he was five and twenty years old; and he reigned nine and twenty years in Jerusalem: and his mother’s name was Abijah, the daughter of Zechariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.29.2",
+      "edition_verse_id": "ASV1901:2CH.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he did that which was right in the eyes of Jehovah, according to all that David his father had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.3",
+      "edition_verse_id": "ASV1901:2CH.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He in the first year of his reign, in the first month, opened the doors of the house of Jehovah, and repaired them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.4",
+      "edition_verse_id": "ASV1901:2CH.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he brought in the priests and the Levites, and gathered them together into the broad place on the east,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.5",
+      "edition_verse_id": "ASV1901:2CH.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and said unto them, Hear me, ye Levites; now sanctify yourselves, and sanctify the house of Jehovah, the God of your fathers, and carry forth the filthiness out of the holy place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.6",
+      "edition_verse_id": "ASV1901:2CH.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For our fathers have trespassed, and done that which was evil in the sight of Jehovah our God, and have forsaken him, and have turned away their faces from the habitation of Jehovah, and turned their backs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.7",
+      "edition_verse_id": "ASV1901:2CH.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt-offerings in the holy place unto the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.8",
+      "edition_verse_id": "ASV1901:2CH.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Wherefore the wrath of Jehovah was upon Judah and Jerusalem, and he hath delivered them to be tossed to and fro, to be an astonishment, and a hissing, as ye see with your eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.9",
+      "edition_verse_id": "ASV1901:2CH.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.10",
+      "edition_verse_id": "ASV1901:2CH.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now it is in my heart to make a covenant with Jehovah, the God of Israel, that his fierce anger may turn away from us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.11",
+      "edition_verse_id": "ASV1901:2CH.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My sons, be not now negligent; for Jehovah hath chosen you to stand before him, to minister unto him, and that ye should be his ministers, and burn incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.12",
+      "edition_verse_id": "ASV1901:2CH.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the Levites arose, Mahath, the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites; and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehallelel; and of the Gershonites, Joah the son of Zimmah, and Eden the son of Joah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.29.13",
+      "edition_verse_id": "ASV1901:2CH.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and of the sons of Elizaphan, Shimri and Jeuel; and of the sons of Asaph, Zechariah and Mattaniah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.14",
+      "edition_verse_id": "ASV1901:2CH.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and of the sons of Heman, Jehuel and Shimei; and of the sons of Jeduthun, Shemaiah and Uzziel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.15",
+      "edition_verse_id": "ASV1901:2CH.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they gathered their brethren, and sanctified themselves, and went in, according to the commandment of the king by the words of Jehovah, to cleanse the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.16",
+      "edition_verse_id": "ASV1901:2CH.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the priests went in unto the inner part of the house of Jehovah, to cleanse it, and brought out all the uncleanness that they found in the temple of Jehovah into the court of the house of Jehovah. And the Levites took it, to carry it out abroad to the brook Kidron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.17",
+      "edition_verse_id": "ASV1901:2CH.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now they began on the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the first month to sanctify, and on the eighth day of the month came they to the porch of Jehovah; and they sanctified the house of Jehovah in eight days: and on the sixteenth day of the first month they made an end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.18",
+      "edition_verse_id": "ASV1901:2CH.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then they went in to Hezekiah the king within ",
+          "kind": "text"
+        },
+        {
+          "text": "the palace",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and said, We have cleansed all the house of Jehovah, and the altar of burnt-offering, with all the vessels thereof, and the table of showbread, with all the vessels thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.19",
+      "edition_verse_id": "ASV1901:2CH.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Moreover all the vessels, which king Ahaz in his reign did cast away when he trespassed, have we prepared and sanctified; and, behold, they are before the altar of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.20",
+      "edition_verse_id": "ASV1901:2CH.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Hezekiah the king arose early, and gathered the princes of the city, and went up to the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.29.21",
+      "edition_verse_id": "ASV1901:2CH.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they brought seven bullocks, and seven rams, and seven lambs, and seven he-goats, for a sin-offering for the kingdom and for the sanctuary and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.22",
+      "edition_verse_id": "ASV1901:2CH.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So they killed the bullocks, and the priests received the blood, and sprinkled it on the altar: and they killed the rams, and sprinkled the blood upon the altar: they killed also the lambs, and sprinkled the blood upon the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.23",
+      "edition_verse_id": "ASV1901:2CH.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they brought near the he-goats for the sin-offering before the king and the assembly; and they laid their hands upon them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.24",
+      "edition_verse_id": "ASV1901:2CH.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and the priests killed them, and they made a sin-offering with their blood upon the altar, to make atonement for all Israel; for the king commanded ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the burnt-offering and the sin-offering ",
+          "kind": "text"
+        },
+        {
+          "text": "should be made",
+          "kind": "supplied"
+        },
+        {
+          "text": " for all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.25",
+      "edition_verse_id": "ASV1901:2CH.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he set the Levites in the house of Jehovah with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king’s seer, and Nathan the prophet; for the commandment was of Jehovah by his prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.29.26",
+      "edition_verse_id": "ASV1901:2CH.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the Levites stood with the instruments of David, and the priests with the trumpets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.27",
+      "edition_verse_id": "ASV1901:2CH.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Hezekiah commanded to offer the burnt-offering upon the altar. And when the burnt-offering began, the song of Jehovah began also, and the trumpets, together with the instruments of David king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.28",
+      "edition_verse_id": "ASV1901:2CH.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And all the assembly worshipped, and the singers sang, and the trumpeters sounded; all this ",
+          "kind": "text"
+        },
+        {
+          "text": "continued",
+          "kind": "supplied"
+        },
+        {
+          "text": " until the burnt-offering was finished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.29",
+      "edition_verse_id": "ASV1901:2CH.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when they had made an end of offering, the king and all that were present with him bowed themselves and worshipped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.29.30",
+      "edition_verse_id": "ASV1901:2CH.29.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Moreover Hezekiah the king and the princes commanded the Levites to sing praises unto Jehovah with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.31",
+      "edition_verse_id": "ASV1901:2CH.29.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then Hezekiah answered and said, Now ye have consecrated yourselves unto Jehovah; come near and bring sacrifices and thank-offerings into the house of Jehovah. And the assembly brought in sacrifices and thank-offerings; and as many as were of a willing heart ",
+          "kind": "text"
+        },
+        {
+          "text": "brought",
+          "kind": "supplied"
+        },
+        {
+          "text": " burnt-offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.29.32",
+      "edition_verse_id": "ASV1901:2CH.29.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the number of the burnt-offerings which the assembly brought was threescore and ten bullocks, a hundred rams, and two hundred lambs: all these were for a burnt-offering to Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.33",
+      "edition_verse_id": "ASV1901:2CH.29.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the consecrated things were six hundred oxen and three thousand sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.34",
+      "edition_verse_id": "ASV1901:2CH.29.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But the priests were too few, so that they could not flay all the burnt-offerings: wherefore their brethren the Levites did help them, till the work was ended, and until the priests had sanctified themselves; for the Levites were more upright in heart to sanctify themselves than the priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.35",
+      "edition_verse_id": "ASV1901:2CH.29.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And also the burnt-offerings were in abundance, with the fat of the peace-offerings, and with the drink-offerings for every burnt-offering. So the service of the house of Jehovah was set in order.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.29.36",
+      "edition_verse_id": "ASV1901:2CH.29.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Hezekiah rejoiced, and all the people, because of that which God had prepared for the people: for the thing was done suddenly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

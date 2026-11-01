@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "2CH.23.1",
+      "edition_verse_id": "ASV1901:2CH.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.2",
+      "edition_verse_id": "ASV1901:2CH.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the heads of fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Israel, and they came to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.3",
+      "edition_verse_id": "ASV1901:2CH.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And all the assembly made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as Jehovah hath spoken concerning the sons of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.4",
+      "edition_verse_id": "ASV1901:2CH.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This is the thing that ye shall do: a third part of you, that come in on the sabbath, of the priests and of the Levites, shall be porters of the thresholds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.5",
+      "edition_verse_id": "ASV1901:2CH.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.6",
+      "edition_verse_id": "ASV1901:2CH.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But let none come into the house of Jehovah, save the priests, and they that minister of the Levites; they shall come in, for they are holy: but all the people shall keep the charge of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.7",
+      "edition_verse_id": "ASV1901:2CH.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever cometh into the house, let him be slain: and be ye with the king when he cometh in, and when he goeth out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.8",
+      "edition_verse_id": "ASV1901:2CH.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So the Levites and all Judah did according to all that Jehoiada the priest commanded: and they took every man his men, those that were to come in on the sabbath, with those that were to go out on the sabbath; for Jehoiada the priest dismissed not the courses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.9",
+      "edition_verse_id": "ASV1901:2CH.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jehoiada the priest delivered to the captains of hundreds the spears, and bucklers, and shields, that had been king David’s, which were in the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.10",
+      "edition_verse_id": "ASV1901:2CH.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he set all the people, every man with his weapon in his hand, from the right side of the house to the left side of the house, along by the altar and the house, by the king round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.11",
+      "edition_verse_id": "ASV1901:2CH.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then they brought out the king’s son, and put the crown upon him, and ",
+          "kind": "text"
+        },
+        {
+          "text": "gave him",
+          "kind": "supplied"
+        },
+        {
+          "text": " the testimony, and made him king: and Jehoiada and his sons anointed him; and they said, ",
+          "kind": "text"
+        },
+        {
+          "text": "Long",
+          "kind": "supplied"
+        },
+        {
+          "text": " live the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.12",
+      "edition_verse_id": "ASV1901:2CH.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of Jehovah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.13",
+      "edition_verse_id": "ASV1901:2CH.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and she looked, and, behold, the king stood by his pillar at the entrance, and the captains and the trumpets by the king; and all the people of the land rejoiced, and blew trumpets; the singers also ",
+          "kind": "text"
+        },
+        {
+          "text": "played",
+          "kind": "supplied"
+        },
+        {
+          "text": " on instruments of music, and led the singing of praise. Then Athaliah rent her clothes, and said, Treason! treason!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.14",
+      "edition_verse_id": "ASV1901:2CH.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth between the ranks; and whoso followeth her, let him be slain with the sword: for the priest said, Slay her not in the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.15",
+      "edition_verse_id": "ASV1901:2CH.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So they made way for her; and she went to the entrance of the horse gate to the king’s house: and they slew her there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.16",
+      "edition_verse_id": "ASV1901:2CH.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Jehoiada made a covenant between himself, and all the people, and the king, that they should be Jehovah’s people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.17",
+      "edition_verse_id": "ASV1901:2CH.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.18",
+      "edition_verse_id": "ASV1901:2CH.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Jehoiada appointed the officers of the house of Jehovah under the hand of the priests the Levites, whom David had distributed in the house of Jehovah, to offer the burnt-offerings of Jehovah, as it is written in the law of Moses, with rejoicing and with singing, according to the order of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.19",
+      "edition_verse_id": "ASV1901:2CH.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he set the porters at the gates of the house of Jehovah, that none that was unclean in anything should enter in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.20",
+      "edition_verse_id": "ASV1901:2CH.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of Jehovah: and they came through the upper gate unto the king’s house, and set the king upon the throne of the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.21",
+      "edition_verse_id": "ASV1901:2CH.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So all the people of the land rejoiced, and the city was quiet. And Athaliah they had slain with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

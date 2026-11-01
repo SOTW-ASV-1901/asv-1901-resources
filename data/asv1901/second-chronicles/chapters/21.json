@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "2CH.21.1",
+      "edition_verse_id": "ASV1901:2CH.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David: and Jehoram his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.2",
+      "edition_verse_id": "ASV1901:2CH.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he had brethren, the sons of Jehoshaphat: Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah; all these were the sons of Jehoshaphat king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.3",
+      "edition_verse_id": "ASV1901:2CH.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And their father gave them great gifts, of silver, and of gold, and of precious things, with fortified cities in Judah: but the kingdom gave he to Jehoram, because he was the first-born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.4",
+      "edition_verse_id": "ASV1901:2CH.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now when Jehoram was risen up over the kingdom of his father, and had strengthened himself, he slew all his brethren with the sword, and divers also of the princes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.5",
+      "edition_verse_id": "ASV1901:2CH.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jehoram was thirty and two years old when he began to reign; and he reigned eight years in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.6",
+      "edition_verse_id": "ASV1901:2CH.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he walked in the way of the kings of Israel, as did the house of Ahab; for he had the daughter of Ahab to wife: and he did that which was evil in the sight of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.7",
+      "edition_verse_id": "ASV1901:2CH.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Howbeit Jehovah would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a lamp to him and to his children alway.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.8",
+      "edition_verse_id": "ASV1901:2CH.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In his days Edom revolted from under the hand of Judah, and made a king over themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.9",
+      "edition_verse_id": "ASV1901:2CH.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Jehoram passed over with his captains, and all his chariots with him: and he rose up by night, and smote the Edomites that compassed him about, and the captains of the chariots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.10",
+      "edition_verse_id": "ASV1901:2CH.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So Edom revolted from under the hand of Judah unto this day: then did Libnah revolt at the same time from under his hand, because he had forsaken Jehovah, the God of his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.11",
+      "edition_verse_id": "ASV1901:2CH.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Moreover he made high places in the mountains of Judah, and made the inhabitants of Jerusalem to play the harlot, and led Judah astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.12",
+      "edition_verse_id": "ASV1901:2CH.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And there came a writing to him from Elijah the prophet, saying, Thus saith Jehovah, the God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.13",
+      "edition_verse_id": "ASV1901:2CH.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "but hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to play the harlot, like as the house of Ahab did, and also hast slain thy brethren of thy father’s house, who were better than thyself:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.14",
+      "edition_verse_id": "ASV1901:2CH.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "behold, Jehovah will smite with a great plague thy people, and thy children, and thy wives, and all thy substance;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.15",
+      "edition_verse_id": "ASV1901:2CH.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and thou shalt have great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness, day by day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.16",
+      "edition_verse_id": "ASV1901:2CH.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Jehovah stirred up against Jehoram the spirit of the Philistines, and of the Arabians that are beside the Ethiopians:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.17",
+      "edition_verse_id": "ASV1901:2CH.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and they came up against Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.18",
+      "edition_verse_id": "ASV1901:2CH.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And after all this Jehovah smote him in his bowels with an incurable disease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.19",
+      "edition_verse_id": "ASV1901:2CH.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it came to pass, in process of time, at the end of two years, that his bowels fell out by reason of his sickness, and he died of sore diseases. And his people made no burning for him, like the burning of his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.20",
+      "edition_verse_id": "ASV1901:2CH.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years: and he departed without being desired; and they buried him in the city of David, but not in the sepulchres of the kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

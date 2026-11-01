@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "2CH.10.1",
+      "edition_verse_id": "ASV1901:2CH.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Rehoboam went to Shechem; for all Israel were come to Shechem to make him king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.2",
+      "edition_verse_id": "ASV1901:2CH.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jeroboam the son of Nebat heard of it (for he was in Egypt, whither he had fled from the presence of king Solomon), that Jeroboam returned out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.3",
+      "edition_verse_id": "ASV1901:2CH.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they sent and called him; and Jeroboam and all Israel came, and they spake to Rehoboam, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.4",
+      "edition_verse_id": "ASV1901:2CH.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.5",
+      "edition_verse_id": "ASV1901:2CH.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he said unto them, Come again unto me after three days. And the people departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.6",
+      "edition_verse_id": "ASV1901:2CH.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And king Rehoboam took counsel with the old men, that had stood before Solomon his father while he yet lived, saying, What counsel give ye me to return answer to this people?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.7",
+      "edition_verse_id": "ASV1901:2CH.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they spake unto him, saying, If thou be kind to this people, and please them, and speak good words to them, then they will be thy servants for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.8",
+      "edition_verse_id": "ASV1901:2CH.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But he forsook the counsel of the old men which they had given him, and took counsel with the young men that were grown up with him, that stood before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.9",
+      "edition_verse_id": "ASV1901:2CH.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he said unto them, What counsel give ye, that we may return answer to this people, who have spoken to me, saying, Make the yoke that thy father did put upon us lighter?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.10",
+      "edition_verse_id": "ASV1901:2CH.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the young men that were grown up with him spake unto him, saying, Thus shalt thou say unto the people that spake unto thee, saying, Thy father made our yoke heavy, but make thou it lighter unto us; thus shalt thou say unto them, My little finger is thicker than my father’s loins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.11",
+      "edition_verse_id": "ASV1901:2CH.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father chastised you with whips, but I ",
+          "kind": "text"
+        },
+        {
+          "text": "will chastise you",
+          "kind": "supplied"
+        },
+        {
+          "text": " with scorpions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.12",
+      "edition_verse_id": "ASV1901:2CH.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So Jeroboam and all the people came to Rehoboam the third day, as the king bade, saying, Come to me again the third day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.13",
+      "edition_verse_id": "ASV1901:2CH.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the king answered them roughly; and king Rehoboam forsook the counsel of the old men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.14",
+      "edition_verse_id": "ASV1901:2CH.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and spake to them after the counsel of the young men, saying, My father made your yoke heavy, but I will add thereto: my father chastised you with whips, but I ",
+          "kind": "text"
+        },
+        {
+          "text": "will chastise you",
+          "kind": "supplied"
+        },
+        {
+          "text": " with scorpions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.15",
+      "edition_verse_id": "ASV1901:2CH.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the king hearkened not unto the people; for it was brought about of God, that Jehovah might establish his word, which he spake by Ahijah the Shilonite to Jeroboam the son of Nebat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.16",
+      "edition_verse_id": "ASV1901:2CH.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: every man to your tents, O Israel: now see to thine own house, David. So all Israel departed unto their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.17",
+      "edition_verse_id": "ASV1901:2CH.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.18",
+      "edition_verse_id": "ASV1901:2CH.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then king Rehoboam sent Hadoram, who was over the men subject to taskwork; and the children of Israel stoned him to death with stones. And king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.19",
+      "edition_verse_id": "ASV1901:2CH.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So Israel rebelled against the house of David unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

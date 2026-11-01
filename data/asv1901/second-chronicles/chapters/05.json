@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "2CH.5.1",
+      "edition_verse_id": "ASV1901:2CH.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus all the work that Solomon wrought for the house of Jehovah was finished. And Solomon brought in the things that David his father had dedicated, even the silver, and the gold, and all the vessels, and put them in the treasuries of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.5.2",
+      "edition_verse_id": "ASV1901:2CH.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then Solomon assembled the elders of Israel, and all the heads of the tribes, the princes of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of Jehovah out of the city of David, which is Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.5.3",
+      "edition_verse_id": "ASV1901:2CH.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And all the men of Israel assembled themselves unto the king at the feast, which was ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " the seventh month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.4",
+      "edition_verse_id": "ASV1901:2CH.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And all the elders of Israel came: and the Levites took up the ark;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.5",
+      "edition_verse_id": "ASV1901:2CH.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and they brought up the ark, and the tent of meeting, and all the holy vessels that were in the Tent; these did the priests the Levites bring up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.6",
+      "edition_verse_id": "ASV1901:2CH.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And king Solomon and all the congregation of Israel, that were assembled unto him, were before the ark, sacrificing sheep and oxen, that could not be counted nor numbered for multitude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.7",
+      "edition_verse_id": "ASV1901:2CH.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the priests brought in the ark of the covenant of Jehovah unto its place, into the oracle of the house, to the most holy place, even under the wings of the cherubim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.8",
+      "edition_verse_id": "ASV1901:2CH.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the cherubim spread forth their wings over the place of the ark, and the cherubim covered the ark and the staves thereof above.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.9",
+      "edition_verse_id": "ASV1901:2CH.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the staves were so long that the ends of the staves were seen from the ark before the oracle; but they were not seen without: and there it is unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.10",
+      "edition_verse_id": "ASV1901:2CH.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There was nothing in the ark save the two tables which Moses put ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " at Horeb, when Jehovah made a covenant with the children of Israel, when they came out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.11",
+      "edition_verse_id": "ASV1901:2CH.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, when the priests were come out of the holy place (for all the priests that were present had sanctified themselves, and did not keep their courses;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.5.12",
+      "edition_verse_id": "ASV1901:2CH.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "also the Levites who were the singers, all of them, even Asaph, Heman, Jeduthun, and their sons and their brethren, arrayed in fine linen, with cymbals and psalteries and harps, stood at the east end of the altar, and with them a hundred and twenty priests sounding with trumpets);",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.13",
+      "edition_verse_id": "ASV1901:2CH.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "it came to pass, when the trumpeters and singers were as one, to make one sound to be heard in praising and thanking Jehovah; and when they lifted up their voice with the trumpets and cymbals and instruments of music, and praised Jehovah, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", For he is good; for his lovingkindness ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever; that then the house was filled with a cloud, even the house of Jehovah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.5.14",
+      "edition_verse_id": "ASV1901:2CH.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "so that the priests could not stand to minister by reason of the cloud: for the glory of Jehovah filled the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

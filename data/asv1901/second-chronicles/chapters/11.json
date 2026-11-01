@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "2CH.11.1",
+      "edition_verse_id": "ASV1901:2CH.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when Rehoboam was come to Jerusalem, he assembled the house of Judah and Benjamin, a hundred and fourscore thousand chosen men, that were warriors, to fight against Israel, to bring the kingdom again to Rehoboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.2",
+      "edition_verse_id": "ASV1901:2CH.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But the word of Jehovah came to Shemaiah the man of God, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.3",
+      "edition_verse_id": "ASV1901:2CH.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Speak unto Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.4",
+      "edition_verse_id": "ASV1901:2CH.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah, Ye shall not go up, nor fight against your brethren: return every man to his house; for this thing is of me. So they hearkened unto the words of Jehovah, and returned from going against Jeroboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.5",
+      "edition_verse_id": "ASV1901:2CH.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Rehoboam dwelt in Jerusalem, and built cities for defence in Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.6",
+      "edition_verse_id": "ASV1901:2CH.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He built Beth-lehem, and Etam, and Tekoa,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.7",
+      "edition_verse_id": "ASV1901:2CH.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Beth-zur, and Soco, and Adullam,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.8",
+      "edition_verse_id": "ASV1901:2CH.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and Gath, and Mareshah, and Ziph,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.9",
+      "edition_verse_id": "ASV1901:2CH.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and Adoraim, and Lachish, and Azekah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.10",
+      "edition_verse_id": "ASV1901:2CH.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin, fortified cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.11",
+      "edition_verse_id": "ASV1901:2CH.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he fortified the strongholds, and put captains in them, and stores of victuals, and oil and wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.12",
+      "edition_verse_id": "ASV1901:2CH.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And in every city ",
+          "kind": "text"
+        },
+        {
+          "text": "he put",
+          "kind": "supplied"
+        },
+        {
+          "text": " shields and spears, and made them exceeding strong. And Judah and Benjamin belonged to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.13",
+      "edition_verse_id": "ASV1901:2CH.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the priests and the Levites that were in all Israel resorted to him out of all their border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.14",
+      "edition_verse_id": "ASV1901:2CH.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons cast them off, that they should not execute the priest’s office unto Jehovah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.15",
+      "edition_verse_id": "ASV1901:2CH.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and he appointed him priests for the high places, and for the he-goats, and for the calves which he had made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.16",
+      "edition_verse_id": "ASV1901:2CH.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And after them, out of all the tribes of Israel, such as set their hearts to seek Jehovah, the God of Israel, came to Jerusalem to sacrifice unto Jehovah, the God of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.17",
+      "edition_verse_id": "ASV1901:2CH.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years; for they walked three years in the way of David and Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.18",
+      "edition_verse_id": "ASV1901:2CH.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Rehoboam took him a wife, Mahalath the daughter of Jerimoth the son of David, ",
+          "kind": "text"
+        },
+        {
+          "text": "and of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abihail the daughter of Eliab the son of Jesse;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.19",
+      "edition_verse_id": "ASV1901:2CH.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and she bare him sons: Jeush, and Shemariah, and Zaham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.20",
+      "edition_verse_id": "ASV1901:2CH.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And after her he took Maacah the daughter of Absalom; and she bare him Abijah, and Attai, and Ziza, and Shelomith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.21",
+      "edition_verse_id": "ASV1901:2CH.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Rehoboam loved Maacah the daughter of Absalom above all his wives and his concubines (for he took eighteen wives, and threescore concubines, and begat twenty and eight sons and threescore daughters).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.22",
+      "edition_verse_id": "ASV1901:2CH.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Rehoboam appointed Abijah the son of Maacah to be chief, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the prince among his brethren; for ",
+          "kind": "text"
+        },
+        {
+          "text": "he was minded",
+          "kind": "supplied"
+        },
+        {
+          "text": " to make him king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.23",
+      "edition_verse_id": "ASV1901:2CH.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he dealt wisely, and dispersed of all his sons throughout all the lands of Judah and Benjamin, unto every fortified city: and he gave them victuals in abundance. And he sought ",
+          "kind": "text"
+        },
+        {
+          "text": "for them",
+          "kind": "supplied"
+        },
+        {
+          "text": " many wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

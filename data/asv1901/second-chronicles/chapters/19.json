@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CH",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "2CH.19.1",
+      "edition_verse_id": "ASV1901:2CH.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.19.2",
+      "edition_verse_id": "ASV1901:2CH.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the wicked, and love them that hate Jehovah? for this thing wrath is upon thee from before Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.19.3",
+      "edition_verse_id": "ASV1901:2CH.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Nevertheless there are good things found in thee, in that thou hast put away the Asheroth out of the land, and hast set thy heart to seek God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.19.4",
+      "edition_verse_id": "ASV1901:2CH.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jehoshaphat dwelt at Jerusalem: and he went out again among the people from Beer-sheba to the hill-country of Ephraim, and brought them back unto Jehovah, the God of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.19.5",
+      "edition_verse_id": "ASV1901:2CH.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he set judges in the land throughout all the fortified cities of Judah, city by city,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.19.6",
+      "edition_verse_id": "ASV1901:2CH.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and said to the judges, Consider what ye do: for ye judge not for man, but for Jehovah; and ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you in the judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.19.7",
+      "edition_verse_id": "ASV1901:2CH.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now therefore let the fear of Jehovah be upon you; take heed and do it: for there is no iniquity with Jehovah our God, nor respect of persons, nor taking of bribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.19.8",
+      "edition_verse_id": "ASV1901:2CH.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites and the priests, and of the heads of the fathers’ ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Israel, for the judgment of Jehovah, and for controversies. And they returned to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.19.9",
+      "edition_verse_id": "ASV1901:2CH.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he charged them, saying, Thus shall ye do in the fear of Jehovah, faithfully, and with a perfect heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.19.10",
+      "edition_verse_id": "ASV1901:2CH.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And whensoever any controversy shall come to you from your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, ye shall warn them, that they be not guilty towards Jehovah, and so wrath come upon you and upon your brethren: this do, and ye shall not be guilty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.19.11",
+      "edition_verse_id": "ASV1901:2CH.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And, behold, Amariah the chief priest is over you in all matters of Jehovah; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters: also the Levites shall be officers before you. Deal courageously, and Jehovah be with the good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
