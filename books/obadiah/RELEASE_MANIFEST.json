@@ -1,0 +1,38 @@
+{
+  "status": "INDEPENDENTLY_VALIDATED",
+  "edition": "ASV1901",
+  "book": "OBA",
+  "chapter_count": 1,
+  "verse_count": 21,
+  "source_hashes": {
+    "primary_usx": "057b1ab08820a238efa0ae7d30bdd3074540b977a831bd4fda3504e9a9ccc450",
+    "comparison_usfm": "1469ade3a60dcc3f2f9c44ff543309b6cd9076d8ea48f27b3cb5869df42eb6bc",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/obadiah/DATA_CONTRACT.md": "53cb4190cc9b06e0f6188149fe397309bc82fc59c11566d80c27bfd44f482bc5",
+    "books/obadiah/INSTALLATION_NOTES.md": "86ac2adad313420cbbd585a1052bce5f1073765841be32d31a14cb2817244b17",
+    "books/obadiah/README.md": "b7aa52a95fa7dd0ff48c07aebae4fa146918075b16ef09dc7bd974b78a22f81f",
+    "books/obadiah/SOURCE_INVENTORY.json": "7fca640c4f92467b36bc6ac9692e0d7f279b354f2857a2f5864ae13109ca64b7",
+    "books/obadiah/UPLOAD_PACKAGE_AUDIT.md": "85216541ebc2ed4fff9576b6c522731eeb28ded60a62d2fa1a2dd0a50fd6c05c",
+    "books/obadiah/VALIDATION_REPORT.json": "c74bcc1c19917b7412e334c467e3c061c8750190242ee056887e33b4bd34f638",
+    "books/obadiah/VALIDATION_REPORT.md": "3c10f3e3110b64895e62a5b0a4f5c8c785ba5b8a15d2074ba1f5282797605311",
+    "books/obadiah/build-inputs/chapter-checks.json": "61aa48a9a5a585623e70edef42dcca2fe974cddce3bd014c91a6ea52cffa3b31",
+    "books/obadiah/build-inputs/original-page-index-input.json": "c05950688606ec0972feb50eee37578d7d4ba3b3c2e1b138f49fd7ea23ea4215",
+    "books/obadiah/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/obadiah/build-inputs/spanning-verses.json": "f7a7642921ea4cc91700e51b958950668b6d4e9ebb4a7f603415839c361ca170",
+    "books/obadiah/index.html": "37135b86b20bab7b80cb639d479c81e1b7a1074272b1b2c16babf572e798abcc",
+    "books/obadiah/schemas/asv1901-obadiah-chapter.schema.json": "36c9dfb31d0697ef1252d7e1ba2ecec0de8fd5310147a1b8eb4bcc075b7fb969",
+    "books/obadiah/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/obadiah/scripts/build_obadiah.py": "4ca97a1e7ddd1d5115ce3bbd67d27b8655c79930f578c6e534cf814926da2999",
+    "books/obadiah/scripts/validate_release.py": "fa2039fd38a74fae07cd0b3df2f9772fe175bf5edca1ba83b8965d11c599555b",
+    "books/obadiah/site/index.html": "1f39316a929aa29678a10fba1b344a8e857fd3a6061d0cb8ba08bc428564850f",
+    "books/obadiah/sources/asv1901-english-only/31-OBA.usx": "057b1ab08820a238efa0ae7d30bdd3074540b977a831bd4fda3504e9a9ccc450",
+    "books/obadiah/sources/comparison-only/32-OBAeng-asv.usfm": "1469ade3a60dcc3f2f9c44ff543309b6cd9076d8ea48f27b3cb5869df42eb6bc",
+    "data/asv1901/catalog-obadiah.json": "d4ffcd46ed5e38c533693bb098efae1424ccd8f12170dca98db6524541fa028a",
+    "data/asv1901/obadiah/chapter-checks.json": "61aa48a9a5a585623e70edef42dcca2fe974cddce3bd014c91a6ea52cffa3b31",
+    "data/asv1901/obadiah/chapters/01.json": "2bd15fc6e37d05f1d22e076ce666938994e83d6394e5d8fab4c59f76c0e75c6e",
+    "data/asv1901/obadiah/facsimile/asv1901-obadiah-pages-934-935.pdf": "80829d412b0260ef31c5b69d0202cc2f59e6accd601ce70e0a26145dba308252",
+    "data/asv1901/obadiah/page-index.json": "360dadde5deb2fa9438397afa73933867c9df3c00e9f9efcc3b23bd050e1134f"
+  }
+}

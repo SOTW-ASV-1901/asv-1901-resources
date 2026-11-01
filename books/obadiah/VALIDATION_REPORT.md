@@ -1,0 +1,3 @@
+# Obadiah validation report
+
+Independently checked 1 chapters, 21 verses, 8 translator-supplied italic spans, 2 original physical pages, and 1 observed verse continuations across physical Scripture pages. All source PDF pages matched in embedded raw image streams, placement and rendered pixels at 0.34×. Rebuilt every derived chapter and historical facsimile PDF byte-identically. Digital witnesses agree on verse wording; source independence is not claimed. Schema, reader JavaScript, local HTTP, input source SHA and upload-path collision checks passed. No exhaustive character-by-character historical print collation or hosted interactive browser testing.

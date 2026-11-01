@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "AMO",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "AMO.5.1",
+      "edition_verse_id": "ASV1901:AMO.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear ye this word which I take up for a lamentation over you, O house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.2",
+      "edition_verse_id": "ASV1901:AMO.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The virgin of Israel is fallen; she shall no more rise: she is cast down upon her land; there is none to raise her up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.3",
+      "edition_verse_id": "ASV1901:AMO.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thus saith the Lord Jehovah: The city that went forth a thousand shall have a hundred left, and that which went forth a hundred shall have ten left, to the house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.4",
+      "edition_verse_id": "ASV1901:AMO.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thus saith Jehovah unto the house of Israel, Seek ye me, and ye shall live;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.5",
+      "edition_verse_id": "ASV1901:AMO.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "but seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Beth-el shall come to nought.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.6",
+      "edition_verse_id": "ASV1901:AMO.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Seek Jehovah, and ye shall live; lest he break out like fire in the house of Joseph, and it devour, and there be none to quench it in Beth-el.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.7",
+      "edition_verse_id": "ASV1901:AMO.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ye who turn justice to wormwood, and cast down righteousness to the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.8",
+      "edition_verse_id": "ASV1901:AMO.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "seek him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that maketh the Pleiades and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night; that calleth for the waters of the sea, and poureth them out upon the face of the earth (Jehovah is his name);",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.9",
+      "edition_verse_id": "ASV1901:AMO.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "that bringeth sudden destruction upon the strong, so that destruction cometh upon the fortress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.10",
+      "edition_verse_id": "ASV1901:AMO.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They hate him that reproveth in the gate, and they abhor him that speaketh uprightly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.11",
+      "edition_verse_id": "ASV1901:AMO.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Forasmuch therefore as ye trample upon the poor, and take exactions from him of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink the wine thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.12",
+      "edition_verse_id": "ASV1901:AMO.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For I know how manifold are your transgressions, and how mighty are your sins—ye that afflict the just, that take a bribe, and that turn aside the needy in the gate ",
+          "kind": "text"
+        },
+        {
+          "text": "from their right",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.13",
+      "edition_verse_id": "ASV1901:AMO.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore he that is prudent shall keep silence in such a time; for it is an evil time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.14",
+      "edition_verse_id": "ASV1901:AMO.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Seek good, and not evil, that ye may live; and so Jehovah, the God of hosts, will be with you, as ye say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.15",
+      "edition_verse_id": "ASV1901:AMO.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Hate the evil, and love the good, and establish justice in the gate: it may be that Jehovah, the God of hosts, will be gracious unto the remnant of Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.16",
+      "edition_verse_id": "ASV1901:AMO.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore thus saith Jehovah, the God of hosts, the Lord: Wailing shall be in all the broad ways; and they shall say in all the streets, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful in lamentation to wailing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.17",
+      "edition_verse_id": "ASV1901:AMO.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And in all vineyards shall be wailing; for I will pass through the midst of thee, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.18",
+      "edition_verse_id": "ASV1901:AMO.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Woe unto you that desire the day of Jehovah! Wherefore would ye have the day of Jehovah? It is darkness, and not light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.19",
+      "edition_verse_id": "ASV1901:AMO.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "As if a man did flee from a lion, and a bear met him; or went into the house and leaned his hand on the wall, and a serpent bit him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.20",
+      "edition_verse_id": "ASV1901:AMO.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Shall not the day of Jehovah be darkness, and not light? even very dark, and no brightness in it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.21",
+      "edition_verse_id": "ASV1901:AMO.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I hate, I despise your feasts, and I will take no delight in your solemn assemblies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.22",
+      "edition_verse_id": "ASV1901:AMO.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yea, though ye offer me your burnt-offerings and meal-offerings, I will not accept them; neither will I regard the peace-offerings of your fat beasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.23",
+      "edition_verse_id": "ASV1901:AMO.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.24",
+      "edition_verse_id": "ASV1901:AMO.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But let justice roll down as waters, and righteousness as a mighty stream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.25",
+      "edition_verse_id": "ASV1901:AMO.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Did ye bring unto me sacrifices and offerings in the wilderness forty years, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.26",
+      "edition_verse_id": "ASV1901:AMO.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Yea, ye have borne the tabernacle of your king and the shrine of your images, the star of your god, which ye made to yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.27",
+      "edition_verse_id": "ASV1901:AMO.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore will I cause you to go into captivity beyond Damascus, saith Jehovah, whose name is the God of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

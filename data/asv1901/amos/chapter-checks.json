@@ -1,0 +1,88 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      925
+    ],
+    "first": "AMO.1.1",
+    "last": "AMO.1.15"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      925,
+      926
+    ],
+    "first": "AMO.2.1",
+    "last": "AMO.2.16"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      926,
+      929
+    ],
+    "first": "AMO.3.1",
+    "last": "AMO.3.15"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      929
+    ],
+    "first": "AMO.4.1",
+    "last": "AMO.4.13"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      929,
+      930
+    ],
+    "first": "AMO.5.1",
+    "last": "AMO.5.27"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      930,
+      931
+    ],
+    "first": "AMO.6.1",
+    "last": "AMO.6.14"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      931
+    ],
+    "first": "AMO.7.1",
+    "last": "AMO.7.17"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      932
+    ],
+    "first": "AMO.8.1",
+    "last": "AMO.8.14"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      932,
+      933
+    ],
+    "first": "AMO.9.1",
+    "last": "AMO.9.15"
+  }
+}

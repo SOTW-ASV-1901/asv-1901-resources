@@ -1,0 +1,26 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 934,
+      "type": "scripture",
+      "printed_page": 890,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "OBA.1.1",
+      "last_verse": "OBA.1.19",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    },
+    {
+      "source_pdf_page": 935,
+      "type": "scripture",
+      "printed_page": 891,
+      "running_head_first_verse": "OBA.1.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "OBA.1.19",
+      "last_verse": "OBA.1.21",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "AMO",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 925,
+      "type": "scripture",
+      "printed_page": 883,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "AMO.1.1",
+      "last_verse": "AMO.2.3",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 926,
+      "type": "scripture",
+      "printed_page": 884,
+      "running_head_first_verse": "AMO.2.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.2.3",
+      "last_verse": "AMO.3.14",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 927,
+      "type": "map",
+      "printed_page": null,
+      "description": "Original 1901 historical full-page map",
+      "evidence_method": "Inspected complete original scan image; retained unchanged.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 928,
+      "type": "interleaf",
+      "printed_page": null,
+      "description": "Original 1901 blank reverse of historical map",
+      "evidence_method": "Inspected complete original scan image; retained unchanged.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 929,
+      "type": "scripture",
+      "printed_page": 885,
+      "running_head_first_verse": "AMO.3.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.3.14",
+      "last_verse": "AMO.5.8",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 930,
+      "type": "scripture",
+      "printed_page": 886,
+      "running_head_first_verse": "AMO.5.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.5.8",
+      "last_verse": "AMO.6.7",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 931,
+      "type": "scripture",
+      "printed_page": 887,
+      "running_head_first_verse": "AMO.6.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.6.7",
+      "last_verse": "AMO.7.17",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 932,
+      "type": "scripture",
+      "printed_page": 888,
+      "running_head_first_verse": "AMO.8.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "AMO.8.1",
+      "last_verse": "AMO.9.9",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 933,
+      "type": "scripture",
+      "printed_page": 889,
+      "running_head_first_verse": "AMO.9.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.9.9",
+      "last_verse": "AMO.9.15",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-amos-pages-925-933.pdf",
+      "volume_pdf_page": 9
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-amos-pages-925-933.pdf",
+      "first_source_pdf_page": 925,
+      "last_source_pdf_page": 933,
+      "bytes": 834685,
+      "sha256": "1dfb81ea3b0edcf6739b07697df0ea92b3cb92a31388d770b406a8858fc38e2c"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

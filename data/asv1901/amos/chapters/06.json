@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "AMO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "AMO.6.1",
+      "edition_verse_id": "ASV1901:AMO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to them that are at ease in Zion, and to them that are secure in the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.6.2",
+      "edition_verse_id": "ASV1901:AMO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Pass ye unto Calneh, and see; and from thence go ye to Hamath the great; then go down to Gath of the Philistines: are they better than these kingdoms? or is their border greater than your border?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.3",
+      "edition_verse_id": "ASV1901:AMO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "—ye that put far away the evil day, and cause the seat of violence to come near;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.4",
+      "edition_verse_id": "ASV1901:AMO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "that lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.5",
+      "edition_verse_id": "ASV1901:AMO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "that sing idle songs to the sound of the viol; that invent for themselves instruments of music, like David;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.6",
+      "edition_verse_id": "ASV1901:AMO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "that drink wine in bowls, and anoint themselves with the chief oils; but they are not grieved for the affliction of Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.7",
+      "edition_verse_id": "ASV1901:AMO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore shall they now go captive with the first that go captive; and the revelry of them that stretched themselves shall pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.6.8",
+      "edition_verse_id": "ASV1901:AMO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The Lord Jehovah hath sworn by himself, saith Jehovah, the God of hosts: I abhor the excellency of Jacob, and hate his palaces; therefore will I deliver up the city with all that is therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.9",
+      "edition_verse_id": "ASV1901:AMO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it shall come to pass, if there remain ten men in one house, that they shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.10",
+      "edition_verse_id": "ASV1901:AMO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when a man’s uncle shall take him up, even he that burneth him, to bring out the bones out of the house, and shall say unto him that is in the innermost parts of the house, Is there yet any with thee? and he shall say, No; then shall he say, Hold thy peace; for we may not make mention of the name of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.11",
+      "edition_verse_id": "ASV1901:AMO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For, behold, Jehovah commandeth, and the great house shall be smitten with breaches, and the little house with clefts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.12",
+      "edition_verse_id": "ASV1901:AMO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Shall horses run upon the rock? will one plow ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " with oxen? that ye have turned justice into gall, and the fruit of righteousness into wormwood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.6.13",
+      "edition_verse_id": "ASV1901:AMO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "ye that rejoice in a thing of nought, that say, Have we not taken to us horns by our own strength?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.6.14",
+      "edition_verse_id": "ASV1901:AMO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For, behold, I will raise up against you a nation, O house of Israel, saith Jehovah, the God of hosts; and they shall afflict you from the entrance of Hamath unto the brook of the Arabah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

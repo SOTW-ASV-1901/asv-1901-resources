@@ -1,0 +1,12 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Complete original chapter location and physical verse boundaries reviewed in the 1901 scan; not an exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      934,
+      935
+    ],
+    "first": "OBA.1.1",
+    "last": "OBA.1.21"
+  }
+}

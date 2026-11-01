@@ -1,0 +1,90 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 925,
+      "type": "scripture",
+      "printed_page": 883,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "AMO.1.1",
+      "last_verse": "AMO.2.3",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    },
+    {
+      "source_pdf_page": 926,
+      "type": "scripture",
+      "printed_page": 884,
+      "running_head_first_verse": "AMO.2.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.2.3",
+      "last_verse": "AMO.3.14",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    },
+    {
+      "source_pdf_page": 927,
+      "type": "map",
+      "printed_page": null,
+      "description": "Original 1901 historical full-page map",
+      "evidence_method": "Inspected complete original scan image; retained unchanged."
+    },
+    {
+      "source_pdf_page": 928,
+      "type": "interleaf",
+      "printed_page": null,
+      "description": "Original 1901 blank reverse of historical map",
+      "evidence_method": "Inspected complete original scan image; retained unchanged."
+    },
+    {
+      "source_pdf_page": 929,
+      "type": "scripture",
+      "printed_page": 885,
+      "running_head_first_verse": "AMO.3.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.3.14",
+      "last_verse": "AMO.5.8",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    },
+    {
+      "source_pdf_page": 930,
+      "type": "scripture",
+      "printed_page": 886,
+      "running_head_first_verse": "AMO.5.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.5.8",
+      "last_verse": "AMO.6.7",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    },
+    {
+      "source_pdf_page": 931,
+      "type": "scripture",
+      "printed_page": 887,
+      "running_head_first_verse": "AMO.6.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.6.7",
+      "last_verse": "AMO.7.17",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    },
+    {
+      "source_pdf_page": 932,
+      "type": "scripture",
+      "printed_page": 888,
+      "running_head_first_verse": "AMO.8.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "AMO.8.1",
+      "last_verse": "AMO.9.9",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    },
+    {
+      "source_pdf_page": 933,
+      "type": "scripture",
+      "printed_page": 889,
+      "running_head_first_verse": "AMO.9.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "AMO.9.9",
+      "last_verse": "AMO.9.15",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation."
+    }
+  ]
+}

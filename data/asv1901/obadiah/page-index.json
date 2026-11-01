@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "OBA",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 934,
+      "type": "scripture",
+      "printed_page": 890,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "OBA.1.1",
+      "last_verse": "OBA.1.19",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-obadiah-pages-934-935.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 935,
+      "type": "scripture",
+      "printed_page": 891,
+      "running_head_first_verse": "OBA.1.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "OBA.1.19",
+      "last_verse": "OBA.1.21",
+      "evidence_method": "Original 1901 full-page scan visually inspected: first/last lines of both columns, running headers, verse continuation; no exhaustive word-by-word collation.",
+      "volume": "asv1901-obadiah-pages-934-935.pdf",
+      "volume_pdf_page": 2
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-obadiah-pages-934-935.pdf",
+      "first_source_pdf_page": 934,
+      "last_source_pdf_page": 935,
+      "bytes": 128856,
+      "sha256": "80829d412b0260ef31c5b69d0202cc2f59e6accd601ce70e0a26145dba308252"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "OBA",
+  "book_name": "Obadiah",
+  "book_order": 31,
+  "canonical_ids": "OBA.{chapter}.{verse}",
+  "edition_ids": "ASV1901:OBA.{chapter}.{verse}",
+  "chapter_count": 1,
+  "verse_count": 21,
+  "chapter_path_template": "obadiah/chapters/{chapter:02d}.json",
+  "facsimile_index": "obadiah/page-index.json",
+  "predecessor_book_code": "AMO",
+  "successor_book_code": "JON",
+  "source_provenance": "books/obadiah/SOURCE_INVENTORY.json",
+  "reader": "books/obadiah/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}
