@@ -1,0 +1,3 @@
+# Joel | Validation report
+
+Independent audit PASS: three chapters, 73 verses, eight translator-supplied italic spans, and all four original 1901 scanned pages preserved. Raw embedded images, placements and rendered pixels match on all four pages; every derived chapter/PDF file rebuilt byte-identically. Both physical cross-page verse continuations indexed. The two digital witnesses agree on verse text. Chapter/index schemas, reader JavaScript, local resource fetch, archive hashes and source provenance passed. No earlier book paths overwritten. Historical verification is chapter-level, not exhaustive character-by-character print collation. Hosted browser testing not performed.

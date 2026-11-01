@@ -1,0 +1,32 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      921
+    ],
+    "first": "JOL.1.1",
+    "last": "JOL.1.20"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      921,
+      922,
+      923
+    ],
+    "first": "JOL.2.1",
+    "last": "JOL.2.32"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      923,
+      924
+    ],
+    "first": "JOL.3.1",
+    "last": "JOL.3.21"
+  }
+}

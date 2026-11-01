@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOL",
+  "book_name": "Joel",
+  "book_order": 29,
+  "canonical_ids": "JOL.{chapter}.{verse}",
+  "edition_ids": "ASV1901:JOL.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 73,
+  "chapter_path_template": "joel/chapters/{chapter:02d}.json",
+  "facsimile_index": "joel/page-index.json",
+  "predecessor_book_code": "HOS",
+  "successor_book_code": "AMO",
+  "source_provenance": "books/joel/SOURCE_INVENTORY.json",
+  "reader": "books/joel/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

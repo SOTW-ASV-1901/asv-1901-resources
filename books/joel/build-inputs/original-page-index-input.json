@@ -1,0 +1,46 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 921,
+      "type": "scripture",
+      "printed_page": 879,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOL.1.1",
+      "last_verse": "JOL.2.2",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 922,
+      "type": "scripture",
+      "printed_page": 880,
+      "running_head_first_verse": "JOL.2.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOL.2.2",
+      "last_verse": "JOL.2.25",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 923,
+      "type": "scripture",
+      "printed_page": 881,
+      "running_head_first_verse": "JOL.2.26",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOL.2.25",
+      "last_verse": "JOL.3.17",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 924,
+      "type": "scripture",
+      "printed_page": 882,
+      "running_head_first_verse": "JOL.3.18",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOL.3.18",
+      "last_verse": "JOL.3.21",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation."
+    }
+  ]
+}

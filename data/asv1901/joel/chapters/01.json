@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOL",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "JOL.1.1",
+      "edition_verse_id": "ASV1901:JOL.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of Jehovah that came to Joel the son of Pethuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.2",
+      "edition_verse_id": "ASV1901:JOL.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or in the days of your fathers?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.3",
+      "edition_verse_id": "ASV1901:JOL.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Tell ye your children of it, and ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " your children ",
+          "kind": "text"
+        },
+        {
+          "text": "tell",
+          "kind": "supplied"
+        },
+        {
+          "text": " their children, and their children another generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.4",
+      "edition_verse_id": "ASV1901:JOL.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That which the palmer-worm hath left hath the locust eaten; and that which the locust hath left hath the canker-worm eaten; and that which the canker-worm hath left hath the caterpillar eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.5",
+      "edition_verse_id": "ASV1901:JOL.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Awake, ye drunkards, and weep; and wail, all ye drinkers of wine, because of the sweet wine; for it is cut off from your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.6",
+      "edition_verse_id": "ASV1901:JOL.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For a nation is come up upon my land, strong, and without number; his teeth are the teeth of a lion, and he hath the jaw-teeth of a lioness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.7",
+      "edition_verse_id": "ASV1901:JOL.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He hath laid my vine waste, and barked my fig-tree: he hath made it clean bare, and cast it away; the branches thereof are made white.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.8",
+      "edition_verse_id": "ASV1901:JOL.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Lament like a virgin girded with sackcloth for the husband of her youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.9",
+      "edition_verse_id": "ASV1901:JOL.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The meal-offering and the drink-offering are cut off from the house of Jehovah; the priests, Jehovah’s ministers, mourn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.10",
+      "edition_verse_id": "ASV1901:JOL.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The field is laid waste, the land mourneth; for the grain is destroyed, the new wine is dried up, the oil languisheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.11",
+      "edition_verse_id": "ASV1901:JOL.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be confounded, O ye husbandmen, wail, O ye vinedressers, for the wheat and for the barley; for the harvest of the field is perished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.12",
+      "edition_verse_id": "ASV1901:JOL.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The vine is withered, and the fig-tree languisheth; the pomegranate-tree, the palm-tree also, and the apple-tree, even all the trees of the field are withered: for joy is withered away from the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.13",
+      "edition_verse_id": "ASV1901:JOL.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Gird yourselves ",
+          "kind": "text"
+        },
+        {
+          "text": "with sackcloth",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and lament, ye priests; wail, ye ministers of the altar; come, lie all night in sackcloth, ye ministers of my God: for the meal-offering and the drink-offering are withholden from the house of your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.14",
+      "edition_verse_id": "ASV1901:JOL.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Sanctify a fast, call a solemn assembly, gather the old men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the inhabitants of the land unto the house of Jehovah your God, and cry unto Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.15",
+      "edition_verse_id": "ASV1901:JOL.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Alas for the day! for the day of Jehovah is at hand, and as destruction from the Almighty shall it come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.16",
+      "edition_verse_id": "ASV1901:JOL.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Is not the food cut off before our eyes, ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", joy and gladness from the house of our God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.17",
+      "edition_verse_id": "ASV1901:JOL.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The seeds rot under their clods; the garners are laid desolate, the barns are broken down; for the grain is withered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.18",
+      "edition_verse_id": "ASV1901:JOL.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.19",
+      "edition_verse_id": "ASV1901:JOL.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "O Jehovah, to thee do I cry; for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.20",
+      "edition_verse_id": "ASV1901:JOL.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Yea, the beasts of the field pant unto thee; for the water brooks are dried up, and the fire hath devoured the pastures of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

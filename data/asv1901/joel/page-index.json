@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOL",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 921,
+      "type": "scripture",
+      "printed_page": 879,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOL.1.1",
+      "last_verse": "JOL.2.2",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation.",
+      "volume": "asv1901-joel-pages-921-924.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 922,
+      "type": "scripture",
+      "printed_page": 880,
+      "running_head_first_verse": "JOL.2.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOL.2.2",
+      "last_verse": "JOL.2.25",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation.",
+      "volume": "asv1901-joel-pages-921-924.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 923,
+      "type": "scripture",
+      "printed_page": 881,
+      "running_head_first_verse": "JOL.2.26",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JOL.2.25",
+      "last_verse": "JOL.3.17",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation.",
+      "volume": "asv1901-joel-pages-921-924.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 924,
+      "type": "scripture",
+      "printed_page": 882,
+      "running_head_first_verse": "JOL.3.18",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JOL.3.18",
+      "last_verse": "JOL.3.21",
+      "evidence_method": "Original 1901 whole-page scan visually inspected, including opening and ending columns, running headers and page-spanning text; no exhaustive character collation.",
+      "volume": "asv1901-joel-pages-921-924.pdf",
+      "volume_pdf_page": 4
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-joel-pages-921-924.pdf",
+      "first_source_pdf_page": 921,
+      "last_source_pdf_page": 924,
+      "bytes": 378180,
+      "sha256": "d3a07b70ac9e1392808571b5bf1225b6dc9ae8ff90145fe747814cb9b8c7c131"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

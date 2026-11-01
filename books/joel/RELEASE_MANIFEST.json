@@ -1,0 +1,40 @@
+{
+  "status": "INDEPENDENTLY_VALIDATED",
+  "edition": "ASV1901",
+  "book": "JOL",
+  "chapter_count": 3,
+  "verse_count": 73,
+  "source_hashes": {
+    "primary_usx": "1021e6ee137e9268058726bf53209d5a93fbfacf299f10431e3474524db08a3a",
+    "comparison_usfm": "996a38dc3c076e07d0f34070c133a714f5fa6fb39e80e715c5a8382aaaf2fc0f",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/joel/DATA_CONTRACT.md": "c6a31f324977dff7b194652f887df53d49e0f926ca18fd7b802ed3cc1584fef3",
+    "books/joel/INSTALLATION_NOTES.md": "b0b99986191df4d4e7ebf1b6e546773932616b3126d5adccdda7e99631f67b51",
+    "books/joel/README.md": "94389776ab3773d35ed796cae6d0ed9058426b27eb85650bbf2a922fd626ff3e",
+    "books/joel/SOURCE_INVENTORY.json": "6d1238dc0007c8937877ffd294331899454bd9cf65f0b690f2e13fee5e673f25",
+    "books/joel/UPLOAD_PACKAGE_AUDIT.md": "027675c1286178d9a3536c34b98c0b3a753a8162fd35952338220e42bb0eca54",
+    "books/joel/VALIDATION_REPORT.json": "07d16cc3704a667ff4748bf6ecac89180373b7c3e73740e0998168580dea9f84",
+    "books/joel/VALIDATION_REPORT.md": "8312d8340776d86ca85731ae4ec9ac273f44c601a2c653f39c6958f5b2c5928b",
+    "books/joel/build-inputs/chapter-checks.json": "a1f990b92dcdac8383b9d8807236e4777ba0bd8c9e69d29c4ebd2669cc1cd3ca",
+    "books/joel/build-inputs/original-page-index-input.json": "d7a373e9e6268e268f18f9642a6af615bca7c32d0cd79eea4408f7be6a9fb707",
+    "books/joel/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/joel/build-inputs/spanning-verses.json": "c088773dfd713c3c62432351b5d67800d9c5ded2ea0beb85982346f629ffa945",
+    "books/joel/index.html": "1dc4cba50f46b9cea50bdec51cda1f7b27a7af4f547e58227040aab86b3aaa2b",
+    "books/joel/schemas/asv1901-joel-chapter.schema.json": "a3d320322c8e1559cf8c2355828131d0f56c29f85003d58b408ad83cb2157ba3",
+    "books/joel/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/joel/scripts/build_joel.py": "a621409b9ec5517ebd061ff8024b9a4e5717859d7bdb1559ac7b4c1e42076db0",
+    "books/joel/scripts/validate_release.py": "4973654560e04280f53a78374e48cd63ac2ff60635e05ae67304bf10c13569c6",
+    "books/joel/site/index.html": "dd6c37a3c1c83c84f7c2e8df8616e461561a8a0608c9015e7e3a5f2ecd2ac03f",
+    "books/joel/sources/asv1901-english-only/29-JOL.usx": "1021e6ee137e9268058726bf53209d5a93fbfacf299f10431e3474524db08a3a",
+    "books/joel/sources/comparison-only/30-JOLeng-asv.usfm": "996a38dc3c076e07d0f34070c133a714f5fa6fb39e80e715c5a8382aaaf2fc0f",
+    "data/asv1901/catalog-joel.json": "b25e0cf615b8b7fffa5b4875800c1772fd7e510ef4dcb916cc58205e47974c90",
+    "data/asv1901/joel/chapter-checks.json": "a1f990b92dcdac8383b9d8807236e4777ba0bd8c9e69d29c4ebd2669cc1cd3ca",
+    "data/asv1901/joel/chapters/01.json": "13f65f5d61fb58eff482391880c5acfe4b93b0cda727ae6eefac3da82e6e1892",
+    "data/asv1901/joel/chapters/02.json": "e139f888b1a4387212271a1c90d9cfb380cdb70031567f905126964e5339e28c",
+    "data/asv1901/joel/chapters/03.json": "7ec41f5ba61e5d7982708ac95ca4951178aab4022fdd56f20740efa013595193",
+    "data/asv1901/joel/facsimile/asv1901-joel-pages-921-924.pdf": "d3a07b70ac9e1392808571b5bf1225b6dc9ae8ff90145fe747814cb9b8c7c131",
+    "data/asv1901/joel/page-index.json": "8608ceaafb08e277aea0beeaee960f8e9c2d80b42669eaee3fb46123f066eb0d"
+  }
+}
