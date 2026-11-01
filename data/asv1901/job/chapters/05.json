@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JOB.5.1",
+      "edition_verse_id": "ASV1901:JOB.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Call now; is there any that will answer thee?\nAnd to which of the holy ones wilt thou turn?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.2",
+      "edition_verse_id": "ASV1901:JOB.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For vexation killeth the foolish man,\nAnd jealousy slayeth the silly one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.3",
+      "edition_verse_id": "ASV1901:JOB.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have seen the foolish taking root:\nBut suddenly I cursed his habitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.4",
+      "edition_verse_id": "ASV1901:JOB.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "His children are far from safety,\nAnd they are crushed in the gate,\nNeither is there any to deliver them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.5",
+      "edition_verse_id": "ASV1901:JOB.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Whose harvest the hungry eateth up,\nAnd taketh it even out of the thorns;\nAnd the snare gapeth for their substance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.6",
+      "edition_verse_id": "ASV1901:JOB.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For affliction cometh not forth from the dust,\nNeither doth trouble spring out of the ground;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.7",
+      "edition_verse_id": "ASV1901:JOB.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But man is born unto trouble,\nAs the sparks fly upward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.8",
+      "edition_verse_id": "ASV1901:JOB.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But as for me, I would seek unto God,\nAnd unto God would I commit my cause;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.9",
+      "edition_verse_id": "ASV1901:JOB.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who doeth great things and unsearchable,\nMarvellous things without number:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.10",
+      "edition_verse_id": "ASV1901:JOB.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who giveth rain upon the earth,\nAnd sendeth waters upon the fields;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.11",
+      "edition_verse_id": "ASV1901:JOB.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So that he setteth up on high those that are low,\nAnd those that mourn are exalted to safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.12",
+      "edition_verse_id": "ASV1901:JOB.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He frustrateth the devices of the crafty,\nSo that their hands cannot perform their enterprise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.13",
+      "edition_verse_id": "ASV1901:JOB.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He taketh the wise in their own craftiness;\nAnd the counsel of the cunning is carried headlong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.14",
+      "edition_verse_id": "ASV1901:JOB.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They meet with darkness in the day-time,\nAnd grope at noonday as in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.15",
+      "edition_verse_id": "ASV1901:JOB.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But he saveth from the sword of their mouth,\nEven the needy from the hand of the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.16",
+      "edition_verse_id": "ASV1901:JOB.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So the poor hath hope,\nAnd iniquity stoppeth her mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.17",
+      "edition_verse_id": "ASV1901:JOB.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Behold, happy is the man whom God correcteth:\nTherefore despise not thou the chastening of the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.18",
+      "edition_verse_id": "ASV1901:JOB.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For he maketh sore, and bindeth up;\nHe woundeth, and his hands make whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.19",
+      "edition_verse_id": "ASV1901:JOB.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He will deliver thee in six troubles;\nYea, in seven there shall no evil touch thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.20",
+      "edition_verse_id": "ASV1901:JOB.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "In famine he will redeem thee from death;\nAnd in war from the power of the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.21",
+      "edition_verse_id": "ASV1901:JOB.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou shalt be hid from the scourge of the tongue;\nNeither shalt thou be afraid of destruction when it cometh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.22",
+      "edition_verse_id": "ASV1901:JOB.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "At destruction and dearth thou shalt laugh;\nNeither shalt thou be afraid of the beasts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.23",
+      "edition_verse_id": "ASV1901:JOB.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For thou shalt be in league with the stones of the field;\nAnd the beasts of the field shall be at peace with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.24",
+      "edition_verse_id": "ASV1901:JOB.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And thou shalt know that thy tent is in peace;\nAnd thou shalt visit thy fold, and shalt miss nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.25",
+      "edition_verse_id": "ASV1901:JOB.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Thou shalt know also that thy seed shall be great,\nAnd thine offspring as the grass of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.26",
+      "edition_verse_id": "ASV1901:JOB.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Thou shalt come to thy grave in a full age,\nLike as a shock of grain cometh in in its season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.27",
+      "edition_verse_id": "ASV1901:JOB.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Lo this, we have searched it, so it is;\nHear it, and know thou it for thy good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

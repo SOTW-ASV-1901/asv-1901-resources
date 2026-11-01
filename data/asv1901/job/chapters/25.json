@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "JOB.25.1",
+      "edition_verse_id": "ASV1901:JOB.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then answered Bildad the Shuhite, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.25.2",
+      "edition_verse_id": "ASV1901:JOB.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Dominion and fear are with him;\nHe maketh peace in his high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.25.3",
+      "edition_verse_id": "ASV1901:JOB.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Is there any number of his armies?\nAnd upon whom doth not his light arise?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.25.4",
+      "edition_verse_id": "ASV1901:JOB.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How then can man be just with God?\nOr how can he be clean that is born of a woman?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.25.5",
+      "edition_verse_id": "ASV1901:JOB.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, even the moon hath no brightness,\nAnd the stars are not pure in his sight:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.25.6",
+      "edition_verse_id": "ASV1901:JOB.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "How much less man, that is a worm!\nAnd the son of man, that is a worm!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

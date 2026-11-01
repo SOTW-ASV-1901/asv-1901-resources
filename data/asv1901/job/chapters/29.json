@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "JOB.29.1",
+      "edition_verse_id": "ASV1901:JOB.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Job again took up his parable, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.2",
+      "edition_verse_id": "ASV1901:JOB.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Oh that I were as in the months of old,\nAs in the days when God watched over me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.3",
+      "edition_verse_id": "ASV1901:JOB.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When his lamp shined upon my head,\nAnd by his light I walked through darkness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.4",
+      "edition_verse_id": "ASV1901:JOB.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "As I was in the ripeness of my days,\nWhen the friendship of God was upon my tent;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.5",
+      "edition_verse_id": "ASV1901:JOB.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When the Almighty was yet with me,\nAnd my children were about me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.6",
+      "edition_verse_id": "ASV1901:JOB.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When my steps were washed with butter,\nAnd the rock poured me out streams of oil!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.7",
+      "edition_verse_id": "ASV1901:JOB.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When I went forth to the gate unto the city,\nWhen I prepared my seat in the street,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.8",
+      "edition_verse_id": "ASV1901:JOB.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The young men saw me and hid themselves,\nAnd the aged rose up and stood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.9",
+      "edition_verse_id": "ASV1901:JOB.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The princes refrained from talking,\nAnd laid their hand on their mouth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.10",
+      "edition_verse_id": "ASV1901:JOB.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The voice of the nobles was hushed,\nAnd their tongue cleaved to the roof of their mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.11",
+      "edition_verse_id": "ASV1901:JOB.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For when the ear heard ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", then it blessed me;\nAnd when the eye saw ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", it gave witness unto me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.12",
+      "edition_verse_id": "ASV1901:JOB.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Because I delivered the poor that cried,\nThe fatherless also, that had none to help him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.13",
+      "edition_verse_id": "ASV1901:JOB.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The blessing of him that was ready to perish came upon me;\nAnd I caused the widow’s heart to sing for joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.14",
+      "edition_verse_id": "ASV1901:JOB.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I put on righteousness, and it clothed me:\nMy justice was as a robe and a diadem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.15",
+      "edition_verse_id": "ASV1901:JOB.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I was eyes to the blind,\nAnd feet was I to the lame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.16",
+      "edition_verse_id": "ASV1901:JOB.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I was a father to the needy:\nAnd the cause of him that I knew not I searched out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.17",
+      "edition_verse_id": "ASV1901:JOB.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I brake the jaws of the unrighteous,\nAnd plucked the prey out of his teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.18",
+      "edition_verse_id": "ASV1901:JOB.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then I said, I shall die in my nest,\nAnd I shall multiply my days as the sand:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.19",
+      "edition_verse_id": "ASV1901:JOB.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My root is spread out to the waters,\nAnd the dew lieth all night upon my branch:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.20",
+      "edition_verse_id": "ASV1901:JOB.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My glory is fresh in me,\nAnd my bow is renewed in my hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.21",
+      "edition_verse_id": "ASV1901:JOB.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Unto me men gave ear, and waited,\nAnd kept silence for my counsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.22",
+      "edition_verse_id": "ASV1901:JOB.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "After my words they spake not again;\nAnd my speech distilled upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.23",
+      "edition_verse_id": "ASV1901:JOB.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they waited for me as for the rain;\nAnd they opened their mouth wide ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the latter rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.24",
+      "edition_verse_id": "ASV1901:JOB.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "I smiled on them, when they had no confidence;\nAnd the light of my countenance they cast not down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.25",
+      "edition_verse_id": "ASV1901:JOB.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I chose out their way, and sat ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " chief,\nAnd dwelt as a king in the army,\nAs one that comforteth the mourners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "JOB.17.1",
+      "edition_verse_id": "ASV1901:JOB.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My spirit is consumed, my days are extinct,\nThe grave is ",
+          "kind": "text"
+        },
+        {
+          "text": "ready",
+          "kind": "supplied"
+        },
+        {
+          "text": " for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.2",
+      "edition_verse_id": "ASV1901:JOB.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Surely there are mockers with me,\nAnd mine eye dwelleth upon their provocation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.3",
+      "edition_verse_id": "ASV1901:JOB.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Give now a pledge, be surety for me with thyself;\nWho is there that will strike hands with me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.4",
+      "edition_verse_id": "ASV1901:JOB.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thou hast hid their heart from understanding:\nTherefore shalt thou not exalt ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.5",
+      "edition_verse_id": "ASV1901:JOB.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He that denounceth his friends for a prey,\nEven the eyes of his children shall fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.6",
+      "edition_verse_id": "ASV1901:JOB.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But he hath made me a byword of the people;\nAnd they spit in my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.7",
+      "edition_verse_id": "ASV1901:JOB.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Mine eye also is dim by reason of sorrow,\nAnd all my members are as a shadow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.8",
+      "edition_verse_id": "ASV1901:JOB.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Upright men shall be astonished at this,\nAnd the innocent shall stir up himself against the godless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.9",
+      "edition_verse_id": "ASV1901:JOB.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Yet shall the righteous hold on his way,\nAnd he that hath clean hands shall wax stronger and stronger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.10",
+      "edition_verse_id": "ASV1901:JOB.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But as for you all, come on now again;And I shall not find a wise man among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.11",
+      "edition_verse_id": "ASV1901:JOB.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My days are past, my purposes are broken off,\nEven the thoughts of my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.12",
+      "edition_verse_id": "ASV1901:JOB.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They change the night into day:\nThe light, ",
+          "kind": "text"
+        },
+        {
+          "text": "say they",
+          "kind": "supplied"
+        },
+        {
+          "text": ", is near unto the darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.13",
+      "edition_verse_id": "ASV1901:JOB.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If I look for Sheol as my house;\nIf I have spread my couch in the darkness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.14",
+      "edition_verse_id": "ASV1901:JOB.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If I have said to corruption, Thou art my father;\nTo the worm, ",
+          "kind": "text"
+        },
+        {
+          "text": "Thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my mother, and my sister;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.15",
+      "edition_verse_id": "ASV1901:JOB.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Where then is my hope?\nAnd as for my hope, who shall see it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.16",
+      "edition_verse_id": "ASV1901:JOB.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "It shall go down to the bars of Sheol,\nWhen once there is rest in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

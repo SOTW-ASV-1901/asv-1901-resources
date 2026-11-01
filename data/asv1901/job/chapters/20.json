@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "JOB.20.1",
+      "edition_verse_id": "ASV1901:JOB.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then answered Zophar the Naamathite, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.2",
+      "edition_verse_id": "ASV1901:JOB.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore do my thoughts give answer to me,Even by reason of my haste that is in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.3",
+      "edition_verse_id": "ASV1901:JOB.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have heard the reproof which putteth me to shame;And the spirit of my understanding answereth me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.4",
+      "edition_verse_id": "ASV1901:JOB.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Knowest thou ",
+          "kind": "text"
+        },
+        {
+          "text": "not",
+          "kind": "supplied"
+        },
+        {
+          "text": " this of old time,\nSince man was placed upon earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.5",
+      "edition_verse_id": "ASV1901:JOB.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That the triumphing of the wicked is short,\nAnd the joy of the godless but for a moment?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.6",
+      "edition_verse_id": "ASV1901:JOB.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Though his height mount up to the heavens,\nAnd his head reach unto the clouds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.7",
+      "edition_verse_id": "ASV1901:JOB.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Yet he shall perish for ever like his own dung:\nThey that have seen him shall say, Where is he?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.8",
+      "edition_verse_id": "ASV1901:JOB.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He shall fly away as a dream, and shall not be found:\nYea, he shall be chased away as a vision of the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.9",
+      "edition_verse_id": "ASV1901:JOB.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The eye which saw him shall see him no more;\nNeither shall his place any more behold him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.10",
+      "edition_verse_id": "ASV1901:JOB.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "His children shall seek the favor of the poor,\nAnd his hands shall give back his wealth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.11",
+      "edition_verse_id": "ASV1901:JOB.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "His bones are full of his youth,\nBut it shall lie down with him in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.12",
+      "edition_verse_id": "ASV1901:JOB.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Though wickedness be sweet in his mouth,\nThough he hide it under his tongue,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.13",
+      "edition_verse_id": "ASV1901:JOB.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Though he spare it, and will not let it go,\nBut keep it still within his mouth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.14",
+      "edition_verse_id": "ASV1901:JOB.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Yet his food in his bowels is turned,\nIt is the gall of asps within him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.15",
+      "edition_verse_id": "ASV1901:JOB.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He hath swallowed down riches, and he shall vomit them up again;\nGod will cast them out of his belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.16",
+      "edition_verse_id": "ASV1901:JOB.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He shall suck the poison of asps:\nThe viper’s tongue shall slay him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.17",
+      "edition_verse_id": "ASV1901:JOB.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He shall not look upon the rivers,\nThe flowing streams of honey and butter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.18",
+      "edition_verse_id": "ASV1901:JOB.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "That which he labored for shall he restore, and shall not swallow it down;\nAccording to the substance that he hath gotten, he shall not rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.19",
+      "edition_verse_id": "ASV1901:JOB.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For he hath oppressed and forsaken the poor;\nHe hath violently taken away a house, and he shall not build it up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.20",
+      "edition_verse_id": "ASV1901:JOB.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Because he knew no quietness within him,\nHe shall not save aught of that wherein he delighteth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.21",
+      "edition_verse_id": "ASV1901:JOB.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "There was nothing left that he devoured not;\nTherefore his prosperity shall not endure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.22",
+      "edition_verse_id": "ASV1901:JOB.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In the fulness of his sufficiency he shall be in straits:\nThe hand of every one that is in misery shall come upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.23",
+      "edition_verse_id": "ASV1901:JOB.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When he is about to fill his belly, ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " will cast the fierceness of his wrath upon him,\nAnd will rain it upon him while he is eating.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.24",
+      "edition_verse_id": "ASV1901:JOB.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He shall flee from the iron weapon,\nAnd the bow of brass shall strike him through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.25",
+      "edition_verse_id": "ASV1901:JOB.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He draweth it forth, and it cometh out of his body;\nYea, the glittering point cometh out of his gall:\nTerrors are upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.26",
+      "edition_verse_id": "ASV1901:JOB.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "All darkness is laid up for his treasures:\nA fire not blown ",
+          "kind": "text"
+        },
+        {
+          "text": "by man",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall devour him;It shall consume that which is left in his tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.27",
+      "edition_verse_id": "ASV1901:JOB.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The heavens shall reveal his iniquity,\nAnd the earth shall rise up against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.28",
+      "edition_verse_id": "ASV1901:JOB.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The increase of his house shall depart;",
+          "kind": "text"
+        },
+        {
+          "text": "His goods",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall flow away in the day of his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.29",
+      "edition_verse_id": "ASV1901:JOB.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This is the portion of a wicked man from God,\nAnd the heritage appointed unto him by God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

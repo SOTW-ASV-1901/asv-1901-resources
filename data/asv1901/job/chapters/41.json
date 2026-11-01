@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "JOB.41.1",
+      "edition_verse_id": "ASV1901:JOB.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Canst thou draw out leviathan with a fishhook?\nOr press down his tongue with a cord?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.2",
+      "edition_verse_id": "ASV1901:JOB.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Canst thou put a rope into his nose?\nOr pierce his jaw through with a hook?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.3",
+      "edition_verse_id": "ASV1901:JOB.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Will he make many supplications unto thee?\nOr will he speak soft words unto thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.4",
+      "edition_verse_id": "ASV1901:JOB.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Will he make a covenant with thee,\nThat thou shouldest take him for a servant for ever?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.5",
+      "edition_verse_id": "ASV1901:JOB.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Wilt thou play with him as with a bird?\nOr wilt thou bind him for thy maidens?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.6",
+      "edition_verse_id": "ASV1901:JOB.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Will the bands ",
+          "kind": "text"
+        },
+        {
+          "text": "of fishermen",
+          "kind": "supplied"
+        },
+        {
+          "text": " make traffic of him?\nWill they part him among the merchants?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.7",
+      "edition_verse_id": "ASV1901:JOB.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Canst thou fill his skin with barbed irons,\nOr his head with fish-spears?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.8",
+      "edition_verse_id": "ASV1901:JOB.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Lay thy hand upon him;\nRemember the battle, and do so no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.9",
+      "edition_verse_id": "ASV1901:JOB.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Behold, the hope of him is in vain:\nWill not one be cast down even at the sight of him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.10",
+      "edition_verse_id": "ASV1901:JOB.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "None is so fierce that he dare stir him up;\nWho then is he that can stand before me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.11",
+      "edition_verse_id": "ASV1901:JOB.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Who hath first given unto me, that I should repay him?",
+          "kind": "text"
+        },
+        {
+          "text": "Whatsoever is",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the whole heaven is mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.12",
+      "edition_verse_id": "ASV1901:JOB.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will not keep silence concerning his limbs,\nNor his mighty strength, nor his goodly frame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.13",
+      "edition_verse_id": "ASV1901:JOB.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Who can strip off his outer garment?\nWho shall come within his jaws?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.14",
+      "edition_verse_id": "ASV1901:JOB.41.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Who can open the doors of his face?Round about his teeth is terror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.15",
+      "edition_verse_id": "ASV1901:JOB.41.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "His",
+          "kind": "supplied"
+        },
+        {
+          "text": " strong scales are ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " pride,\nShut up together ",
+          "kind": "text"
+        },
+        {
+          "text": "as with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a close seal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.16",
+      "edition_verse_id": "ASV1901:JOB.41.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "One is so near to another,\nThat no air can come between them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.17",
+      "edition_verse_id": "ASV1901:JOB.41.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They are joined one to another;\nThey stick together, so that they cannot be sundered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.18",
+      "edition_verse_id": "ASV1901:JOB.41.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "His sneezings flash forth light,\nAnd his eyes are like the eyelids of the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.19",
+      "edition_verse_id": "ASV1901:JOB.41.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Out of his mouth go burning torches,\nAnd sparks of fire leap forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.20",
+      "edition_verse_id": "ASV1901:JOB.41.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Out of his nostrils a smoke goeth,\nAs of a boiling pot and ",
+          "kind": "text"
+        },
+        {
+          "text": "burning",
+          "kind": "supplied"
+        },
+        {
+          "text": " rushes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.21",
+      "edition_verse_id": "ASV1901:JOB.41.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His breath kindleth coals,\nAnd a flame goeth forth from his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.22",
+      "edition_verse_id": "ASV1901:JOB.41.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In his neck abideth strength,\nAnd terror danceth before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.23",
+      "edition_verse_id": "ASV1901:JOB.41.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The flakes of his flesh are joined together:\nThey are firm upon him; they cannot be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.24",
+      "edition_verse_id": "ASV1901:JOB.41.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "His heart is as firm as a stone;\nYea, firm as the nether millstone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.25",
+      "edition_verse_id": "ASV1901:JOB.41.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When he raiseth himself up, the mighty are afraid:\nBy reason of consternation they are beside themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.26",
+      "edition_verse_id": "ASV1901:JOB.41.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If one lay at him with the sword, it cannot avail;\nNor the spear, the dart, nor the pointed shaft.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.27",
+      "edition_verse_id": "ASV1901:JOB.41.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He counteth iron as straw,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " brass as rotten wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.28",
+      "edition_verse_id": "ASV1901:JOB.41.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The arrow cannot make him flee:\nSling-stones are turned with him into stubble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.29",
+      "edition_verse_id": "ASV1901:JOB.41.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Clubs are counted as stubble:\nHe laugheth at the rushing of the javelin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.30",
+      "edition_verse_id": "ASV1901:JOB.41.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "His underparts are ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " sharp potsherds:\nHe spreadeth ",
+          "kind": "text"
+        },
+        {
+          "text": "as it were",
+          "kind": "supplied"
+        },
+        {
+          "text": " a threshing-wain upon the mire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.31",
+      "edition_verse_id": "ASV1901:JOB.41.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He maketh the deep to boil like a pot:\nHe maketh the sea like a pot of ointment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.32",
+      "edition_verse_id": "ASV1901:JOB.41.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He maketh a path to shine after him;\nOne would think the deep to be hoary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.33",
+      "edition_verse_id": "ASV1901:JOB.41.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Upon earth there is not his like,\nThat is made without fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.34",
+      "edition_verse_id": "ASV1901:JOB.41.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He beholdeth everything that is high:\nHe is king over all the sons of pride.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

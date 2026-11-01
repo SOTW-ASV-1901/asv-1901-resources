@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "JOB.6.1",
+      "edition_verse_id": "ASV1901:JOB.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.2",
+      "edition_verse_id": "ASV1901:JOB.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Oh that my vexation were but weighed,\nAnd all my calamity laid in the balances!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.3",
+      "edition_verse_id": "ASV1901:JOB.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For now it would be heavier than the sand of the seas:\nTherefore have my words been rash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.4",
+      "edition_verse_id": "ASV1901:JOB.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the arrows of the Almighty are within me,\nThe poison whereof my spirit drinketh up:\nThe terrors of God do set themselves in array against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.5",
+      "edition_verse_id": "ASV1901:JOB.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Doth the wild ass bray when he hath grass?\nOr loweth the ox over his fodder?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.6",
+      "edition_verse_id": "ASV1901:JOB.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Can that which hath no savor be eaten without salt?\nOr is there any taste in the white of an egg?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.7",
+      "edition_verse_id": "ASV1901:JOB.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "My soul refuseth to touch ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ";\nThey are as loathsome food to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.8",
+      "edition_verse_id": "ASV1901:JOB.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Oh that I might have my request;\nAnd that God would grant ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " the thing that I long for!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.9",
+      "edition_verse_id": "ASV1901:JOB.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Even that it would please God to crush me;\nThat he would let loose his hand, and cut me off!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.10",
+      "edition_verse_id": "ASV1901:JOB.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And be it still my consolation,Yea, let me exult in pain that spareth not,\nThat I have not denied the words of the Holy One.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.11",
+      "edition_verse_id": "ASV1901:JOB.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "What is my strength, that I should wait?\nAnd what is mine end, that I should be patient?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.12",
+      "edition_verse_id": "ASV1901:JOB.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Is my strength the strength of stones?\nOr is my flesh of brass?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.13",
+      "edition_verse_id": "ASV1901:JOB.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Is it not that I have no help in me,\nAnd that wisdom is driven quite from me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.14",
+      "edition_verse_id": "ASV1901:JOB.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "To him that is ready to faint kindness ",
+          "kind": "text"
+        },
+        {
+          "text": "should be showed",
+          "kind": "supplied"
+        },
+        {
+          "text": " from his friend;Even to him that forsaketh the fear of the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.15",
+      "edition_verse_id": "ASV1901:JOB.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My brethren have dealt deceitfully as a brook,\nAs the channel of brooks that pass away;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.16",
+      "edition_verse_id": "ASV1901:JOB.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Which are black by reason of the ice,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " wherein the snow hideth itself:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.17",
+      "edition_verse_id": "ASV1901:JOB.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "What time they wax warm, they vanish;\nWhen it is hot, they are consumed out of their place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.18",
+      "edition_verse_id": "ASV1901:JOB.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The caravans ",
+          "kind": "text"
+        },
+        {
+          "text": "that travel",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the way of them turn aside;\nThey go up into the waste, and perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.19",
+      "edition_verse_id": "ASV1901:JOB.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The caravans of Tema looked,\nThe companies of Sheba waited for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.20",
+      "edition_verse_id": "ASV1901:JOB.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "They were put to shame because they had hoped;\nThey came thither, and were confounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.21",
+      "edition_verse_id": "ASV1901:JOB.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For now ye are nothing;\nYe see a terror, and are afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.22",
+      "edition_verse_id": "ASV1901:JOB.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Did I say, Give unto me?\nOr, Offer a present for me of your substance?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.23",
+      "edition_verse_id": "ASV1901:JOB.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Or, Deliver me from the adversary’s hand?\nOr, Redeem me from the hand of the oppressors?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.24",
+      "edition_verse_id": "ASV1901:JOB.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Teach me, and I will hold my peace;\nAnd cause me to understand wherein I have erred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.25",
+      "edition_verse_id": "ASV1901:JOB.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "How forcible are words of uprightness!\nBut your reproof, what doth it reprove?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.26",
+      "edition_verse_id": "ASV1901:JOB.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Do ye think to reprove words,\nSeeing that the speeches of one that is desperate are as wind?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.27",
+      "edition_verse_id": "ASV1901:JOB.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Yea, ye would cast ",
+          "kind": "text"
+        },
+        {
+          "text": "lots",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the fatherless,\nAnd make merchandise of your friend.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.28",
+      "edition_verse_id": "ASV1901:JOB.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now therefore be pleased to look upon me;For surely I shall not lie to your face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.29",
+      "edition_verse_id": "ASV1901:JOB.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Return, I pray you, let there be no injustice;\nYea, return again, my cause is righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.6.30",
+      "edition_verse_id": "ASV1901:JOB.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Is there injustice on my tongue?\nCannot my taste discern mischievous things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

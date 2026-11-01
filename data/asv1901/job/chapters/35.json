@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "JOB.35.1",
+      "edition_verse_id": "ASV1901:JOB.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover Elihu answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.2",
+      "edition_verse_id": "ASV1901:JOB.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thinkest thou this to be ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " right,",
+          "kind": "text"
+        },
+        {
+          "text": "Or",
+          "kind": "supplied"
+        },
+        {
+          "text": " sayest thou, My righteousness is more than God’s,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.3",
+      "edition_verse_id": "ASV1901:JOB.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "That thou sayest, What advantage will it be unto thee?",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": ", What profit shall I have, more than if I had sinned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.4",
+      "edition_verse_id": "ASV1901:JOB.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will answer thee,\nAnd thy companions with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.5",
+      "edition_verse_id": "ASV1901:JOB.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Look unto the heavens, and see;\nAnd behold the skies, which are higher than thou.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.6",
+      "edition_verse_id": "ASV1901:JOB.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If thou hast sinned, what effectest thou against him?\nAnd if thy transgressions be multiplied, what doest thou unto him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.7",
+      "edition_verse_id": "ASV1901:JOB.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If thou be righteous, what givest thou him?\nOr what receiveth he of thy hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.8",
+      "edition_verse_id": "ASV1901:JOB.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thy wickedness ",
+          "kind": "text"
+        },
+        {
+          "text": "may hurt",
+          "kind": "supplied"
+        },
+        {
+          "text": " a man as thou art;\nAnd thy righteousness ",
+          "kind": "text"
+        },
+        {
+          "text": "may profit",
+          "kind": "supplied"
+        },
+        {
+          "text": " a son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.9",
+      "edition_verse_id": "ASV1901:JOB.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "By reason of the multitude of oppressions they cry out;\nThey cry for help by reason of the arm of the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.10",
+      "edition_verse_id": "ASV1901:JOB.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But none saith, Where is God my Maker,\nWho giveth songs in the night,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.11",
+      "edition_verse_id": "ASV1901:JOB.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Who teacheth us more than the beasts of the earth,\nAnd maketh us wiser than the birds of the heavens?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.12",
+      "edition_verse_id": "ASV1901:JOB.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "There they cry, but none giveth answer,\nBecause of the pride of evil men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.13",
+      "edition_verse_id": "ASV1901:JOB.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Surely God will not hear an empty ",
+          "kind": "text"
+        },
+        {
+          "text": "cry",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nNeither will the Almighty regard it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.14",
+      "edition_verse_id": "ASV1901:JOB.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "How much less when thou sayest thou beholdest him not,\nThe cause is before him, and thou waitest for him!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.15",
+      "edition_verse_id": "ASV1901:JOB.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But now, because he hath not visited in his anger,Neither doth he greatly regard arrogance;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.16",
+      "edition_verse_id": "ASV1901:JOB.35.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore doth Job open his mouth in vanity;\nHe multiplieth words without knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

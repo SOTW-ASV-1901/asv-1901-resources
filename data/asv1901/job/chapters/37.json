@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 37,
+  "verses": [
+    {
+      "id": "JOB.37.1",
+      "edition_verse_id": "ASV1901:JOB.37.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Yea, at this my heart trembleth,\nAnd is moved out of its place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.2",
+      "edition_verse_id": "ASV1901:JOB.37.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear, oh, hear the noise of his voice,\nAnd the sound that goeth out of his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.3",
+      "edition_verse_id": "ASV1901:JOB.37.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He sendeth it forth under the whole heaven,\nAnd his lightning unto the ends of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.4",
+      "edition_verse_id": "ASV1901:JOB.37.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "After it a voice roareth;\nHe thundereth with the voice of his majesty;\nAnd he restraineth not ",
+          "kind": "text"
+        },
+        {
+          "text": "the lightnings",
+          "kind": "supplied"
+        },
+        {
+          "text": " when his voice is heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.5",
+      "edition_verse_id": "ASV1901:JOB.37.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "God thundereth marvellously with his voice;\nGreat things doeth he, which we cannot comprehend.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.6",
+      "edition_verse_id": "ASV1901:JOB.37.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For he saith to the snow, Fall thou on the earth;\nLikewise to the shower of rain,\nAnd to the showers of his mighty rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.7",
+      "edition_verse_id": "ASV1901:JOB.37.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He sealeth up the hand of every man,\nThat all men whom he hath made may know ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.8",
+      "edition_verse_id": "ASV1901:JOB.37.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the beasts go into coverts,\nAnd remain in their dens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.9",
+      "edition_verse_id": "ASV1901:JOB.37.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Out of the chamber ",
+          "kind": "text"
+        },
+        {
+          "text": "of the south",
+          "kind": "supplied"
+        },
+        {
+          "text": " cometh the storm,\nAnd cold out of the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.10",
+      "edition_verse_id": "ASV1901:JOB.37.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "By the breath of God ice is given;\nAnd the breadth of the waters is straitened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.11",
+      "edition_verse_id": "ASV1901:JOB.37.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yea, he ladeth the thick cloud with moisture;\nHe spreadeth abroad the cloud of his lightning:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.12",
+      "edition_verse_id": "ASV1901:JOB.37.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And it is turned round about by his guidance,\nThat they may do whatsoever he commandeth them\nUpon the face of the habitable world,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.13",
+      "edition_verse_id": "ASV1901:JOB.37.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Whether it be for correction, or for his land,\nOr for lovingkindness, that he cause it to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.14",
+      "edition_verse_id": "ASV1901:JOB.37.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Hearken unto this, O Job:\nStand still, and consider the wondrous works of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.15",
+      "edition_verse_id": "ASV1901:JOB.37.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Dost thou know how God layeth ",
+          "kind": "text"
+        },
+        {
+          "text": "his charge",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them,\nAnd causeth the lightning of his cloud to shine?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.16",
+      "edition_verse_id": "ASV1901:JOB.37.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Dost thou know the balancings of the clouds,\nThe wondrous works of him who is perfect in knowledge?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.17",
+      "edition_verse_id": "ASV1901:JOB.37.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "How thy garments are warm,When the earth is still by reason of the south ",
+          "kind": "text"
+        },
+        {
+          "text": "wind",
+          "kind": "supplied"
+        },
+        {
+          "text": "?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.18",
+      "edition_verse_id": "ASV1901:JOB.37.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Canst thou with him spread out the sky,\nWhich is strong as a molten mirror?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.19",
+      "edition_verse_id": "ASV1901:JOB.37.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Teach us what we shall say unto him;",
+          "kind": "text"
+        },
+        {
+          "text": "For",
+          "kind": "supplied"
+        },
+        {
+          "text": " we cannot set ",
+          "kind": "text"
+        },
+        {
+          "text": "our speech",
+          "kind": "supplied"
+        },
+        {
+          "text": " in order by reason of darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.20",
+      "edition_verse_id": "ASV1901:JOB.37.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Shall it be told him that I would speak?Or should a man wish that he were swallowed up?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.21",
+      "edition_verse_id": "ASV1901:JOB.37.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And now men see not the light which is bright in the skies;\nBut the wind passeth, and cleareth them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.22",
+      "edition_verse_id": "ASV1901:JOB.37.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Out of the north cometh golden splendor:\nGod hath upon him terrible majesty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.23",
+      "edition_verse_id": "ASV1901:JOB.37.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Touching",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Almighty, we cannot find him out:\nHe is excellent in power;\nAnd in justice and plenteous righteousness he will not afflict.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.37.24",
+      "edition_verse_id": "ASV1901:JOB.37.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Men do therefore fear him:\nHe regardeth not any that are wise of heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 38,
+  "verses": [
+    {
+      "id": "JOB.38.1",
+      "edition_verse_id": "ASV1901:JOB.38.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jehovah answered Job out of the whirlwind, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.2",
+      "edition_verse_id": "ASV1901:JOB.38.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Who is this that darkeneth counsel\nBy words without knowledge?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.3",
+      "edition_verse_id": "ASV1901:JOB.38.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Gird up now thy loins like a man;\nFor I will demand of thee, and declare thou unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.4",
+      "edition_verse_id": "ASV1901:JOB.38.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Where wast thou when I laid the foundations of the earth?\nDeclare, if thou hast understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.5",
+      "edition_verse_id": "ASV1901:JOB.38.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who determined the measures thereof, if thou knowest?\nOr who stretched the line upon it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.6",
+      "edition_verse_id": "ASV1901:JOB.38.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Whereupon were the foundations thereof fastened?\nOr who laid the corner-stone thereof,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.7",
+      "edition_verse_id": "ASV1901:JOB.38.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When the morning stars sang together,\nAnd all the sons of God shouted for joy?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.8",
+      "edition_verse_id": "ASV1901:JOB.38.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Or ",
+          "kind": "text"
+        },
+        {
+          "text": "who",
+          "kind": "supplied"
+        },
+        {
+          "text": " shut up the sea with doors,\nWhen it brake forth, ",
+          "kind": "text"
+        },
+        {
+          "text": "as if",
+          "kind": "supplied"
+        },
+        {
+          "text": " it had issued out of the womb;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.9",
+      "edition_verse_id": "ASV1901:JOB.38.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When I made clouds the garment thereof,\nAnd thick darkness a swaddling-band for it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.10",
+      "edition_verse_id": "ASV1901:JOB.38.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And marked out for it my bound,\nAnd set bars and doors,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.11",
+      "edition_verse_id": "ASV1901:JOB.38.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And said, Hitherto shalt thou come, but no further;\nAnd here shall thy proud waves be stayed?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.12",
+      "edition_verse_id": "ASV1901:JOB.38.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Hast thou commanded the morning since thy days ",
+          "kind": "text"
+        },
+        {
+          "text": "began",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " caused the dayspring to know its place;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.13",
+      "edition_verse_id": "ASV1901:JOB.38.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "That it might take hold of the ends of the earth,\nAnd the wicked be shaken out of it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.14",
+      "edition_verse_id": "ASV1901:JOB.38.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "It is changed as clay under the seal;\nAnd ",
+          "kind": "text"
+        },
+        {
+          "text": "all things",
+          "kind": "supplied"
+        },
+        {
+          "text": " stand forth as a garment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.15",
+      "edition_verse_id": "ASV1901:JOB.38.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And from the wicked their light is withholden,\nAnd the high arm is broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.16",
+      "edition_verse_id": "ASV1901:JOB.38.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Hast thou entered into the springs of the sea?\nOr hast thou walked in the recesses of the deep?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.17",
+      "edition_verse_id": "ASV1901:JOB.38.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Have the gates of death been revealed unto thee?\nOr hast thou seen the gates of the shadow of death?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.18",
+      "edition_verse_id": "ASV1901:JOB.38.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Hast thou comprehended the earth in its breadth?\nDeclare, if thou knowest it all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.19",
+      "edition_verse_id": "ASV1901:JOB.38.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Where is the way to the dwelling of light?\nAnd as for darkness, where is the place thereof,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.20",
+      "edition_verse_id": "ASV1901:JOB.38.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "That thou shouldest take it to the bound thereof,\nAnd that thou shouldest discern the paths to the house thereof?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.21",
+      "edition_verse_id": "ASV1901:JOB.38.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Doubtless",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thou knowest, for thou wast then born,\nAnd the number of thy days is great!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.22",
+      "edition_verse_id": "ASV1901:JOB.38.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Hast thou entered the treasuries of the snow,\nOr hast thou seen the treasures of the hail,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.23",
+      "edition_verse_id": "ASV1901:JOB.38.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Which I have reserved against the time of trouble,\nAgainst the day of battle and war?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.24",
+      "edition_verse_id": "ASV1901:JOB.38.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "By what way is the light parted,\nOr the east wind scattered upon the earth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.25",
+      "edition_verse_id": "ASV1901:JOB.38.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Who hath cleft a channel for the waterflood,\nOr the way for the lightning of the thunder;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.26",
+      "edition_verse_id": "ASV1901:JOB.38.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "To cause it to rain on a land where no man is;\nOn the wilderness, wherein there is no man;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.27",
+      "edition_verse_id": "ASV1901:JOB.38.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "To satisfy the waste and desolate ",
+          "kind": "text"
+        },
+        {
+          "text": "ground",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nAnd to cause the tender grass to spring forth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.28",
+      "edition_verse_id": "ASV1901:JOB.38.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Hath the rain a father?\nOr who hath begotten the drops of dew?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.29",
+      "edition_verse_id": "ASV1901:JOB.38.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Out of whose womb came the ice?\nAnd the hoary frost of heaven, who hath gendered it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.30",
+      "edition_verse_id": "ASV1901:JOB.38.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The waters hide themselves ",
+          "kind": "text"
+        },
+        {
+          "text": "and become",
+          "kind": "supplied"
+        },
+        {
+          "text": " like stone,\nAnd the face of the deep is frozen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.31",
+      "edition_verse_id": "ASV1901:JOB.38.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Canst thou bind the cluster of the Pleiades,\nOr loose the bands of Orion?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.32",
+      "edition_verse_id": "ASV1901:JOB.38.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Canst thou lead forth the Mazzaroth in their season?\nOr canst thou guide the Bear with her train?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.33",
+      "edition_verse_id": "ASV1901:JOB.38.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Knowest thou the ordinances of the heavens?\nCanst thou establish the dominion thereof in the earth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.34",
+      "edition_verse_id": "ASV1901:JOB.38.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Canst thou lift up thy voice to the clouds,\nThat abundance of waters may cover thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.35",
+      "edition_verse_id": "ASV1901:JOB.38.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Canst thou send forth lightnings, that they may go,\nAnd say unto thee, Here we are?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.36",
+      "edition_verse_id": "ASV1901:JOB.38.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Who hath put wisdom in the inward parts?\nOr who hath given understanding to the mind?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.37",
+      "edition_verse_id": "ASV1901:JOB.38.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Who can number the clouds by wisdom?\nOr who can pour out the bottles of heaven,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.38",
+      "edition_verse_id": "ASV1901:JOB.38.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "When the dust runneth into a mass,\nAnd the clods cleave fast together?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.39",
+      "edition_verse_id": "ASV1901:JOB.38.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Canst thou hunt the prey for the lioness,\nOr satisfy the appetite of the young lions,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.40",
+      "edition_verse_id": "ASV1901:JOB.38.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "When they couch in their dens,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " abide in the covert to lie in wait?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.38.41",
+      "edition_verse_id": "ASV1901:JOB.38.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Who provideth for the raven his prey,\nWhen his young ones cry unto God,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " wander for lack of food?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

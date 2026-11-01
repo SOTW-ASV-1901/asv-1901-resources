@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "JOB.33.1",
+      "edition_verse_id": "ASV1901:JOB.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Howbeit, Job, I pray thee, hear my speech,\nAnd hearken to all my words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.2",
+      "edition_verse_id": "ASV1901:JOB.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold now, I have opened my mouth;\nMy tongue hath spoken in my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.3",
+      "edition_verse_id": "ASV1901:JOB.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My words ",
+          "kind": "text"
+        },
+        {
+          "text": "shall utter",
+          "kind": "supplied"
+        },
+        {
+          "text": " the uprightness of my heart;\nAnd that which my lips know they shall speak sincerely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.4",
+      "edition_verse_id": "ASV1901:JOB.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The Spirit of God hath made me,\nAnd the breath of the Almighty giveth me life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.5",
+      "edition_verse_id": "ASV1901:JOB.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If thou canst, answer thou me;\nSet ",
+          "kind": "text"
+        },
+        {
+          "text": "thy words",
+          "kind": "supplied"
+        },
+        {
+          "text": " in order before me, stand forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.6",
+      "edition_verse_id": "ASV1901:JOB.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Behold, I am toward God even as thou art:\nI also am formed out of the clay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.7",
+      "edition_verse_id": "ASV1901:JOB.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, my terror shall not make thee afraid,\nNeither shall my pressure be heavy upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.8",
+      "edition_verse_id": "ASV1901:JOB.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Surely thou hast spoken in my hearing,\nAnd I have heard the voice of ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " words, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.9",
+      "edition_verse_id": "ASV1901:JOB.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I am clean, without transgression;\nI am innocent, neither is there iniquity in me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.10",
+      "edition_verse_id": "ASV1901:JOB.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Behold, he findeth occasions against me,\nHe counteth me for his enemy;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.11",
+      "edition_verse_id": "ASV1901:JOB.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He putteth my feet in the stocks,\nHe marketh all my paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.12",
+      "edition_verse_id": "ASV1901:JOB.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Behold, I will answer thee, in this thou art not just;\nFor God is greater than man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.13",
+      "edition_verse_id": "ASV1901:JOB.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Why dost thou strive against him,\nFor that he giveth not account of any of his matters?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.14",
+      "edition_verse_id": "ASV1901:JOB.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For God speaketh once,\nYea twice, ",
+          "kind": "text"
+        },
+        {
+          "text": "though man",
+          "kind": "supplied"
+        },
+        {
+          "text": " regardeth it not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.15",
+      "edition_verse_id": "ASV1901:JOB.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In a dream, in a vision of the night,\nWhen deep sleep falleth upon men,\nIn slumberings upon the bed;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.16",
+      "edition_verse_id": "ASV1901:JOB.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then he openeth the ears of men,\nAnd sealeth their instruction,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.17",
+      "edition_verse_id": "ASV1901:JOB.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That he may withdraw man ",
+          "kind": "text"
+        },
+        {
+          "text": "from his",
+          "kind": "supplied"
+        },
+        {
+          "text": " purpose,\nAnd hide pride from man;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.18",
+      "edition_verse_id": "ASV1901:JOB.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He keepeth back his soul from the pit,\nAnd his life from perishing by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.19",
+      "edition_verse_id": "ASV1901:JOB.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He is chastened also with pain upon his bed,And with continual strife in his bones;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.20",
+      "edition_verse_id": "ASV1901:JOB.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So that his life abhorreth bread,\nAnd his soul dainty food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.21",
+      "edition_verse_id": "ASV1901:JOB.33.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His flesh is consumed away, that it cannot be seen;\nAnd his bones that were not seen stick out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.22",
+      "edition_verse_id": "ASV1901:JOB.33.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yea, his soul draweth near unto the pit,\nAnd his life to the destroyers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.23",
+      "edition_verse_id": "ASV1901:JOB.33.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If there be with him an angel,\nAn interpreter, one among a thousand,\nTo show unto man what is right for him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.24",
+      "edition_verse_id": "ASV1901:JOB.33.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " is gracious unto him, and saith,\nDeliver him from going down to the pit,\nI have found a ransom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.25",
+      "edition_verse_id": "ASV1901:JOB.33.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "His flesh shall be fresher than a child’s;\nHe returneth to the days of his youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.26",
+      "edition_verse_id": "ASV1901:JOB.33.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He prayeth unto God, and he is favorable unto him,\nSo that he seeth his face with joy:\nAnd he restoreth unto man his righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.27",
+      "edition_verse_id": "ASV1901:JOB.33.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He singeth before men, and saith,\nI have sinned, and perverted that which was right,\nAnd it profited me not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.28",
+      "edition_verse_id": "ASV1901:JOB.33.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He hath redeemed my soul from going into the pit,\nAnd my life shall behold the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.29",
+      "edition_verse_id": "ASV1901:JOB.33.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Lo, all these things doth God work,\nTwice, ",
+          "kind": "text"
+        },
+        {
+          "text": "yea",
+          "kind": "supplied"
+        },
+        {
+          "text": " thrice, with a man,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.30",
+      "edition_verse_id": "ASV1901:JOB.33.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "To bring back his soul from the pit,\nThat he may be enlightened with the light of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.31",
+      "edition_verse_id": "ASV1901:JOB.33.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Mark well, O Job, hearken unto me:\nHold thy peace, and I will speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.32",
+      "edition_verse_id": "ASV1901:JOB.33.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If thou hast anything to say, answer me:\nSpeak, for I desire to justify thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.33",
+      "edition_verse_id": "ASV1901:JOB.33.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "If not, hearken thou unto me:\nHold thy peace, and I will teach thee wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

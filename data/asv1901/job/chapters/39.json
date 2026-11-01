@@ -1,0 +1,424 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 39,
+  "verses": [
+    {
+      "id": "JOB.39.1",
+      "edition_verse_id": "ASV1901:JOB.39.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Knowest thou the time when the wild goats of the rock bring forth?",
+          "kind": "text"
+        },
+        {
+          "text": "Or",
+          "kind": "supplied"
+        },
+        {
+          "text": " canst thou mark when the hinds do calve?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.2",
+      "edition_verse_id": "ASV1901:JOB.39.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Canst thou number the months that they fulfil?\nOr knowest thou the time when they bring forth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.3",
+      "edition_verse_id": "ASV1901:JOB.39.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They bow themselves, they bring forth their young,\nThey cast out their pains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.4",
+      "edition_verse_id": "ASV1901:JOB.39.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their young ones become strong, they grow up in the open field;\nThey go forth, and return not again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.5",
+      "edition_verse_id": "ASV1901:JOB.39.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who hath sent out the wild ass free?\nOr who hath loosed the bonds of the swift ass,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.6",
+      "edition_verse_id": "ASV1901:JOB.39.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Whose home I have made the wilderness,\nAnd the salt land his dwelling-place?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.7",
+      "edition_verse_id": "ASV1901:JOB.39.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He scorneth the tumult of the city,\nNeither heareth he the shoutings of the driver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.8",
+      "edition_verse_id": "ASV1901:JOB.39.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The range of the mountains is his pasture,\nAnd he searcheth after every green thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.9",
+      "edition_verse_id": "ASV1901:JOB.39.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Will the wild-ox be content to serve thee?\nOr will he abide by thy crib?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.10",
+      "edition_verse_id": "ASV1901:JOB.39.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Canst thou bind the wild-ox with his band in the furrow?\nOr will he harrow the valleys after thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.11",
+      "edition_verse_id": "ASV1901:JOB.39.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Wilt thou trust him, because his strength is great?\nOr wilt thou leave to him thy labor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.12",
+      "edition_verse_id": "ASV1901:JOB.39.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wilt thou confide in him, that he will bring home thy seed,\nAnd gather ",
+          "kind": "text"
+        },
+        {
+          "text": "the grain",
+          "kind": "supplied"
+        },
+        {
+          "text": " of thy threshing-floor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.13",
+      "edition_verse_id": "ASV1901:JOB.39.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The wings of the ostrich wave proudly;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " are they the pinions and plumage of love?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.14",
+      "edition_verse_id": "ASV1901:JOB.39.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For she leaveth her eggs on the earth,\nAnd warmeth them in the dust,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.15",
+      "edition_verse_id": "ASV1901:JOB.39.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And forgetteth that the foot may crush them,\nOr that the wild beast may trample them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.16",
+      "edition_verse_id": "ASV1901:JOB.39.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "She dealeth hardly with her young ones, as if they were not hers:\nThough her labor be in vain, ",
+          "kind": "text"
+        },
+        {
+          "text": "she is",
+          "kind": "supplied"
+        },
+        {
+          "text": " without fear;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.17",
+      "edition_verse_id": "ASV1901:JOB.39.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Because God hath deprived her of wisdom,\nNeither hath he imparted to her understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.18",
+      "edition_verse_id": "ASV1901:JOB.39.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "What time she lifteth up herself on high,\nShe scorneth the horse and his rider.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.19",
+      "edition_verse_id": "ASV1901:JOB.39.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Hast thou given the horse ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " might?\nHast thou clothed his neck with the quivering mane?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.20",
+      "edition_verse_id": "ASV1901:JOB.39.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Hast thou made him to leap as a locust?\nThe glory of his snorting is terrible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.21",
+      "edition_verse_id": "ASV1901:JOB.39.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He paweth in the valley, and rejoiceth in his strength:\nHe goeth out to meet the armed men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.22",
+      "edition_verse_id": "ASV1901:JOB.39.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He mocketh at fear, and is not dismayed;\nNeither turneth he back from the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.23",
+      "edition_verse_id": "ASV1901:JOB.39.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The quiver rattleth against him,\nThe flashing spear and the javelin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.24",
+      "edition_verse_id": "ASV1901:JOB.39.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He swalloweth the ground with fierceness and rage;\nNeither believeth he that it is the voice of the trumpet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.25",
+      "edition_verse_id": "ASV1901:JOB.39.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "As oft as the trumpet ",
+          "kind": "text"
+        },
+        {
+          "text": "soundeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " he saith, Aha!\nAnd he smelleth the battle afar off,\nThe thunder of the captains, and the shouting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.26",
+      "edition_verse_id": "ASV1901:JOB.39.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Is it by thy wisdom that the hawk soareth,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " stretcheth her wings toward the south?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.27",
+      "edition_verse_id": "ASV1901:JOB.39.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Is it at thy command that the eagle mounteth up,\nAnd maketh her nest on high?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.28",
+      "edition_verse_id": "ASV1901:JOB.39.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "On the cliff she dwelleth, and maketh her home,\nUpon the point of the cliff, and the stronghold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.29",
+      "edition_verse_id": "ASV1901:JOB.39.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "From thence she spieth out the prey;\nHer eyes behold it afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.39.30",
+      "edition_verse_id": "ASV1901:JOB.39.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Her young ones also suck up blood:\nAnd where the slain are, there is she.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "JOB.16.1",
+      "edition_verse_id": "ASV1901:JOB.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.2",
+      "edition_verse_id": "ASV1901:JOB.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I have heard many such things:Miserable comforters are ye all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.3",
+      "edition_verse_id": "ASV1901:JOB.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Shall vain words have an end?\nOr what provoketh thee that thou answerest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.4",
+      "edition_verse_id": "ASV1901:JOB.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I also could speak as ye do;\nIf your soul were in my soul’s stead,\nI could join words together against you,\nAnd shake my head at you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.5",
+      "edition_verse_id": "ASV1901:JOB.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " I would strengthen you with my mouth,\nAnd the solace of my lips would assuage ",
+          "kind": "text"
+        },
+        {
+          "text": "your grief",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.6",
+      "edition_verse_id": "ASV1901:JOB.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Though I speak, my grief is not assuaged;\nAnd though I forbear, what am I eased?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.7",
+      "edition_verse_id": "ASV1901:JOB.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But now he hath made me weary:\nThou hast made desolate all my company.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.8",
+      "edition_verse_id": "ASV1901:JOB.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And thou hast laid fast hold on me, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " is a witness ",
+          "kind": "text"
+        },
+        {
+          "text": "against me",
+          "kind": "supplied"
+        },
+        {
+          "text": ":\nAnd my leanness riseth up against me,\nIt testifieth to my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.9",
+      "edition_verse_id": "ASV1901:JOB.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He hath torn me in his wrath, and persecuted me;\nHe hath gnashed upon me with his teeth:\nMine adversary sharpeneth his eyes upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.10",
+      "edition_verse_id": "ASV1901:JOB.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They have gaped upon me with their mouth;\nThey have smitten me upon the cheek reproachfully:\nThey gather themselves together against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.11",
+      "edition_verse_id": "ASV1901:JOB.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "God delivereth me to the ungodly,\nAnd casteth me into the hands of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.12",
+      "edition_verse_id": "ASV1901:JOB.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I was at ease, and he brake me asunder;\nYea, he hath taken me by the neck, and dashed me to pieces:\nHe hath also set me up for his mark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.13",
+      "edition_verse_id": "ASV1901:JOB.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "His archers compass me round about;\nHe cleaveth my reins asunder, and doth not spare;\nHe poureth out my gall upon the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.14",
+      "edition_verse_id": "ASV1901:JOB.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He breaketh me with breach upon breach;\nHe runneth upon me like a giant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.15",
+      "edition_verse_id": "ASV1901:JOB.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I have sewed sackcloth upon my skin,\nAnd have laid my horn in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.16",
+      "edition_verse_id": "ASV1901:JOB.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "My face is red with weeping,\nAnd on my eyelids is the shadow of death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.17",
+      "edition_verse_id": "ASV1901:JOB.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Although there is no violence in my hands,\nAnd my prayer is pure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.18",
+      "edition_verse_id": "ASV1901:JOB.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "O earth, cover not thou my blood,\nAnd let my cry have no ",
+          "kind": "text"
+        },
+        {
+          "text": "resting",
+          "kind": "supplied"
+        },
+        {
+          "text": "-place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.19",
+      "edition_verse_id": "ASV1901:JOB.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Even now, behold, my witness is in heaven,\nAnd he that voucheth for me is on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.20",
+      "edition_verse_id": "ASV1901:JOB.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My friends scoff at me:",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine eye poureth out tears unto God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.21",
+      "edition_verse_id": "ASV1901:JOB.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "That he would maintain the right of a man with God,\nAnd of a son of man with his neighbor!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.22",
+      "edition_verse_id": "ASV1901:JOB.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For when a few years are come,\nI shall go the way whence I shall not return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

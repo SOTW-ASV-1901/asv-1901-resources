@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "JOB.19.1",
+      "edition_verse_id": "ASV1901:JOB.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.2",
+      "edition_verse_id": "ASV1901:JOB.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How long will ye vex my soul,\nAnd break me in pieces with words?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.3",
+      "edition_verse_id": "ASV1901:JOB.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "These ten times have ye reproached me:\nYe are not ashamed that ye deal hardly with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.4",
+      "edition_verse_id": "ASV1901:JOB.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And be it indeed that I have erred,\nMine error remaineth with myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.5",
+      "edition_verse_id": "ASV1901:JOB.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If indeed ye will magnify yourselves against me,\nAnd plead against me my reproach;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.6",
+      "edition_verse_id": "ASV1901:JOB.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Know now that God hath subverted me ",
+          "kind": "text"
+        },
+        {
+          "text": "in my cause",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nAnd hath compassed me with his net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.7",
+      "edition_verse_id": "ASV1901:JOB.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, I cry out of wrong, but I am not heard:\nI cry for help, but there is no justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.8",
+      "edition_verse_id": "ASV1901:JOB.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He hath walled up my way that I cannot pass,\nAnd hath set darkness in my paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.9",
+      "edition_verse_id": "ASV1901:JOB.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He hath stripped me of my glory,\nAnd taken the crown from my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.10",
+      "edition_verse_id": "ASV1901:JOB.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He hath broken me down on every side, and I am gone;\nAnd my hope hath he plucked up like a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.11",
+      "edition_verse_id": "ASV1901:JOB.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He hath also kindled his wrath against me,\nAnd he counteth me unto him as ",
+          "kind": "text"
+        },
+        {
+          "text": "one of",
+          "kind": "supplied"
+        },
+        {
+          "text": " his adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.12",
+      "edition_verse_id": "ASV1901:JOB.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His troops come on together,\nAnd cast up their way against me,\nAnd encamp round about my tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.13",
+      "edition_verse_id": "ASV1901:JOB.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He hath put my brethren far from me,\nAnd mine acquaintance are wholly estranged from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.14",
+      "edition_verse_id": "ASV1901:JOB.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "My kinsfolk have failed,\nAnd my familiar friends have forgotten me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.15",
+      "edition_verse_id": "ASV1901:JOB.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They that dwell in my house, and my maids, count me for a stranger:\nI am an alien in their sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.16",
+      "edition_verse_id": "ASV1901:JOB.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I call unto my servant, and he giveth me no answer,",
+          "kind": "text"
+        },
+        {
+          "text": "Though",
+          "kind": "supplied"
+        },
+        {
+          "text": " I entreat him with my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.17",
+      "edition_verse_id": "ASV1901:JOB.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "My breath is strange to my wife,\nAnd my supplication to the children of mine own mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.18",
+      "edition_verse_id": "ASV1901:JOB.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Even young children despise me;\nIf I arise, they speak against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.19",
+      "edition_verse_id": "ASV1901:JOB.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All my familiar friends abhor me,\nAnd they whom I loved are turned against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.20",
+      "edition_verse_id": "ASV1901:JOB.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My bone cleaveth to my skin and to my flesh,\nAnd I am escaped with the skin of my teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.21",
+      "edition_verse_id": "ASV1901:JOB.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Have pity upon me, have pity upon me, O ye my friends;\nFor the hand of God hath touched me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.22",
+      "edition_verse_id": "ASV1901:JOB.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Why do ye persecute me as God,\nAnd are not satisfied with my flesh?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.23",
+      "edition_verse_id": "ASV1901:JOB.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Oh that my words were now written!\nOh that they were inscribed in a book!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.24",
+      "edition_verse_id": "ASV1901:JOB.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "That with an iron pen and lead\nThey were graven in the rock for ever!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.25",
+      "edition_verse_id": "ASV1901:JOB.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But as for me I know that my Redeemer liveth,\nAnd at last he will stand up upon the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.26",
+      "edition_verse_id": "ASV1901:JOB.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And after my skin, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " this ",
+          "kind": "text"
+        },
+        {
+          "text": "body",
+          "kind": "supplied"
+        },
+        {
+          "text": ", is destroyed,\nThen without my flesh shall I see God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.27",
+      "edition_verse_id": "ASV1901:JOB.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Whom I, even I, shall see, on my side,\nAnd mine eyes shall behold, and not as a stranger.\nMy heart is consumed within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.28",
+      "edition_verse_id": "ASV1901:JOB.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "If ye say, How we will persecute him!\nAnd that the root of the matter is found in me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.29",
+      "edition_verse_id": "ASV1901:JOB.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Be ye afraid of the sword:\nFor wrath ",
+          "kind": "text"
+        },
+        {
+          "text": "bringeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " the punishments of the sword,\nThat ye may know there is a judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

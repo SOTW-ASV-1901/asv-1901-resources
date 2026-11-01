@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JOB",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "JOB.22.1",
+      "edition_verse_id": "ASV1901:JOB.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then answered Eliphaz the Temanite, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.2",
+      "edition_verse_id": "ASV1901:JOB.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Can a man be profitable unto God?\nSurely he that is wise is profitable unto himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.3",
+      "edition_verse_id": "ASV1901:JOB.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Is it any pleasure to the Almighty, that thou art righteous?\nOr is it gain ",
+          "kind": "text"
+        },
+        {
+          "text": "to him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that thou makest thy ways perfect?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.4",
+      "edition_verse_id": "ASV1901:JOB.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Is it for thy fear ",
+          "kind": "text"
+        },
+        {
+          "text": "of him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that he reproveth thee,\nThat he entereth with thee into judgment?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.5",
+      "edition_verse_id": "ASV1901:JOB.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Is not thy wickedness great?\nNeither is there any end to thine iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.6",
+      "edition_verse_id": "ASV1901:JOB.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For thou hast taken pledges of thy brother for nought,\nAnd stripped the naked of their clothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.7",
+      "edition_verse_id": "ASV1901:JOB.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thou hast not given water to the weary to drink,\nAnd thou hast withholden bread from the hungry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.8",
+      "edition_verse_id": "ASV1901:JOB.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But as for the mighty man, he had the earth;\nAnd the honorable man, he dwelt in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.9",
+      "edition_verse_id": "ASV1901:JOB.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thou hast sent widows away empty,\nAnd the arms of the fatherless have been broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.10",
+      "edition_verse_id": "ASV1901:JOB.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore snares are round about thee,\nAnd sudden fear troubleth thee,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.11",
+      "edition_verse_id": "ASV1901:JOB.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Or darkness, so that thou canst not see,\nAnd abundance of waters cover thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.12",
+      "edition_verse_id": "ASV1901:JOB.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Is not God in the height of heaven?\nAnd behold the height of the stars, how high they are!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.13",
+      "edition_verse_id": "ASV1901:JOB.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And thou sayest, What doth God know?\nCan he judge through the thick darkness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.14",
+      "edition_verse_id": "ASV1901:JOB.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thick clouds are a covering to him, so that he seeth not;\nAnd he walketh on the vault of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.15",
+      "edition_verse_id": "ASV1901:JOB.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Wilt thou keep the old way\nWhich wicked men have trodden?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.16",
+      "edition_verse_id": "ASV1901:JOB.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Who were snatched away before their time,\nWhose foundation was poured out as a stream,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.17",
+      "edition_verse_id": "ASV1901:JOB.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Who said unto God, Depart from us;\nAnd, What can the Almighty do for us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.18",
+      "edition_verse_id": "ASV1901:JOB.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Yet he filled their houses with good things:\nBut the counsel of the wicked is far from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.19",
+      "edition_verse_id": "ASV1901:JOB.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The righteous see it, and are glad;\nAnd the innocent laugh them to scorn,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.20",
+      "edition_verse_id": "ASV1901:JOB.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Surely they that did rise up against us are cut off,\nAnd the remnant of them the fire hath consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.21",
+      "edition_verse_id": "ASV1901:JOB.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Acquaint now thyself with him, and be at peace:Thereby good shall come unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.22",
+      "edition_verse_id": "ASV1901:JOB.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Receive, I pray thee, the law from his mouth,\nAnd lay up his words in thy heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.23",
+      "edition_verse_id": "ASV1901:JOB.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If thou return to the Almighty, thou shalt be built up,If thou put away unrighteousness far from thy tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.24",
+      "edition_verse_id": "ASV1901:JOB.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And lay thou ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " treasure in the dust,\nAnd ",
+          "kind": "text"
+        },
+        {
+          "text": "the gold of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Ophir among the stones of the brooks;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.25",
+      "edition_verse_id": "ASV1901:JOB.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the Almighty will be thy treasure,\nAnd precious silver unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.26",
+      "edition_verse_id": "ASV1901:JOB.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For then shalt thou delight thyself in the Almighty,\nAnd shalt lift up thy face unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.27",
+      "edition_verse_id": "ASV1901:JOB.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Thou shalt make thy prayer unto him, and he will hear thee;\nAnd thou shalt pay thy vows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.28",
+      "edition_verse_id": "ASV1901:JOB.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thou shalt also decree a thing, and it shall be established unto thee;\nAnd light shall shine upon thy ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.29",
+      "edition_verse_id": "ASV1901:JOB.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When they cast ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " down, thou shalt say, ",
+          "kind": "text"
+        },
+        {
+          "text": "There is",
+          "kind": "supplied"
+        },
+        {
+          "text": " lifting up;\nAnd the humble person he will save.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.30",
+      "edition_verse_id": "ASV1901:JOB.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "He will deliver ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " him that is not innocent:\nYea, he shall be delivered through the cleanness of thy hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
