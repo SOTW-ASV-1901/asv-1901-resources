@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "JER.14.1",
+      "edition_verse_id": "ASV1901:JER.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of Jehovah that came to Jeremiah concerning the drought.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.2",
+      "edition_verse_id": "ASV1901:JER.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Judah mourneth, and the gates thereof languish, they sit in black upon the ground; and the cry of Jerusalem is gone up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.14.3",
+      "edition_verse_id": "ASV1901:JER.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And their nobles send their little ones to the waters: they come to the cisterns, and find no water; they return with their vessels empty; they are put to shame and confounded, and cover their heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.4",
+      "edition_verse_id": "ASV1901:JER.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Because of the ground which is cracked, for that no rain hath been in the land, the plowmen are put to shame, they cover their heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.5",
+      "edition_verse_id": "ASV1901:JER.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Yea, the hind also in the field calveth, and forsaketh ",
+          "kind": "text"
+        },
+        {
+          "text": "her young",
+          "kind": "supplied"
+        },
+        {
+          "text": ", because there is no grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.6",
+      "edition_verse_id": "ASV1901:JER.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the wild asses stand on the bare heights, they pant for air like jackals; their eyes fail, because there is no herbage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.7",
+      "edition_verse_id": "ASV1901:JER.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Though our iniquities testify against us, work thou for thy name’s sake, O Jehovah; for our backslidings are many; we have sinned against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.14.8",
+      "edition_verse_id": "ASV1901:JER.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O thou hope of Israel, the Saviour thereof in the time of trouble, why shouldest thou be as a sojourner in the land, and as a wayfaring man that turneth aside to tarry for a night?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.9",
+      "edition_verse_id": "ASV1901:JER.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Why shouldest thou be as a man affrighted, as a mighty man that cannot save? Yet thou, O Jehovah, art in the midst of us, and we are called by thy name; leave us not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.10",
+      "edition_verse_id": "ASV1901:JER.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah unto this people, Even so have they loved to wander; they have not refrained their feet: therefore Jehovah doth not accept them; now will he remember their iniquity, and visit their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.14.11",
+      "edition_verse_id": "ASV1901:JER.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, Pray not for this people for ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.12",
+      "edition_verse_id": "ASV1901:JER.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When they fast, I will not hear their cry; and when they offer burnt-offering and meal-offering, I will not accept them; but I will consume them by the sword, and by the famine, and by the pestilence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.13",
+      "edition_verse_id": "ASV1901:JER.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then said I, Ah, Lord Jehovah! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.14.14",
+      "edition_verse_id": "ASV1901:JER.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Jehovah said unto me, The prophets prophesy lies in my name; I sent them not, neither have I commanded them, neither spake I unto them: they prophesy unto you a lying vision, and divination, and a thing of nought, and the deceit of their own heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.15",
+      "edition_verse_id": "ASV1901:JER.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Therefore thus saith Jehovah concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land: By sword and famine shall those prophets be consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.16",
+      "edition_verse_id": "ASV1901:JER.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them—them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.17",
+      "edition_verse_id": "ASV1901:JER.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And thou shalt say this word unto them, Let mine eyes run down with tears night and day, and let them not cease; for the virgin daughter of my people is broken with a great breach, with a very grievous wound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.18",
+      "edition_verse_id": "ASV1901:JER.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If I go forth into the field, then, behold, the slain with the sword! and if I enter into the city, then, behold, they that are sick with famine! for both the prophet and the priest go about in the land, and have no knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.19",
+      "edition_verse_id": "ASV1901:JER.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Hast thou utterly rejected Judah? hath thy soul loathed Zion? why hast thou smitten us, and there is no healing for us? We looked for peace, but no good came; and for a time of healing, and, behold, dismay!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.14.20",
+      "edition_verse_id": "ASV1901:JER.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "We acknowledge, O Jehovah, our wickedness, and the iniquity of our fathers; for we have sinned against thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.21",
+      "edition_verse_id": "ASV1901:JER.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Do not abhor ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": ", for thy name’s sake; do not disgrace the throne of thy glory: remember, break not thy covenant with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.14.22",
+      "edition_verse_id": "ASV1901:JER.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Are there any among the vanities of the nations that can cause rain? or can the heavens give showers? art not thou he, O Jehovah our God? therefore we will wait for thee; for thou hast made all these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

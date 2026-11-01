@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "JER.13.1",
+      "edition_verse_id": "ASV1901:JER.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah unto me, Go, and buy thee a linen girdle, and put it upon thy loins, and put it not in water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.2",
+      "edition_verse_id": "ASV1901:JER.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So I bought a girdle according to the word of Jehovah, and put it upon my loins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.3",
+      "edition_verse_id": "ASV1901:JER.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the word of Jehovah came unto me the second time, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.4",
+      "edition_verse_id": "ASV1901:JER.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Take the girdle that thou hast bought, which is upon thy loins, and arise, go to the Euphrates, and hide it there in a cleft of the rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.5",
+      "edition_verse_id": "ASV1901:JER.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So I went, and hid it by the Euphrates, as Jehovah commanded me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.6",
+      "edition_verse_id": "ASV1901:JER.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And it came to pass after many days, that Jehovah said unto me, Arise, go to the Euphrates, and take the girdle from thence, which I commanded thee to hide there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.7",
+      "edition_verse_id": "ASV1901:JER.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then I went to the Euphrates, and digged, and took the girdle from the place where I had hid it; and, behold, the girdle was marred, it was profitable for nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.8",
+      "edition_verse_id": "ASV1901:JER.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the word of Jehovah came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.9",
+      "edition_verse_id": "ASV1901:JER.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah, After this manner will I mar the pride of Judah, and the great pride of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.10",
+      "edition_verse_id": "ASV1901:JER.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "This evil people, that refuse to hear my words, that walk in the stubbornness of their heart, and are gone after other gods to serve them, and to worship them, shall even be as this girdle, which is profitable for nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.11",
+      "edition_verse_id": "ASV1901:JER.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For as the girdle cleaveth to the loins of a man, so have I caused to cleave unto me the whole house of Israel and the whole house of Judah, saith Jehovah; that they may be unto me for a people, and for a name, and for a praise, and for a glory: but they would not hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.12",
+      "edition_verse_id": "ASV1901:JER.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore thou shalt speak unto them this word: Thus saith Jehovah, the God of Israel, Every bottle shall be filled with wine: and they shall say unto thee, Do we not certainly know that every bottle shall be filled with wine?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.13",
+      "edition_verse_id": "ASV1901:JER.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then shalt thou say unto them, Thus saith Jehovah, Behold, I will fill all the inhabitants of this land, even the kings that sit upon David’s throne, and the priests, and the prophets, and all the inhabitants of Jerusalem, with drunkenness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.14",
+      "edition_verse_id": "ASV1901:JER.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I will dash them one against another, even the fathers and the sons together, saith Jehovah: I will not pity, nor spare, nor have compassion, that I should not destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.15",
+      "edition_verse_id": "ASV1901:JER.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Hear ye, and give ear; be not proud; for Jehovah hath spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.16",
+      "edition_verse_id": "ASV1901:JER.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Give glory to Jehovah your God, before he cause darkness, and before your feet stumble upon the dark mountains, and, while ye look for light, he turn it into the shadow of death, and make it gross darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.17",
+      "edition_verse_id": "ASV1901:JER.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if ye will not hear it, my soul shall weep in secret for ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " pride; and mine eye shall weep sore, and run down with tears, because Jehovah’s flock is taken captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.18",
+      "edition_verse_id": "ASV1901:JER.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Say thou unto the king and to the queen-mother, Humble yourselves, sit down; for your headtires are come down, even the crown of your glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.19",
+      "edition_verse_id": "ASV1901:JER.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The cities of the South are shut up, and there is none to open them: Judah is carried away captive, all of it; it is wholly carried away captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.20",
+      "edition_verse_id": "ASV1901:JER.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Lift up your eyes, and behold them that come from the north: where is the flock that was given thee, thy beautiful flock?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.21",
+      "edition_verse_id": "ASV1901:JER.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "What wilt thou say, when he shall set over thee as head those whom thou hast thyself taught to be friends to thee? shall not sorrows take hold of thee, as of a woman in travail?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.22",
+      "edition_verse_id": "ASV1901:JER.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And if thou say in thy heart, Wherefore are these things come upon me? for the greatness of thine iniquity are thy skirts uncovered, and thy heels suffer violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.23",
+      "edition_verse_id": "ASV1901:JER.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.24",
+      "edition_verse_id": "ASV1901:JER.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore will I scatter them, as the stubble that passeth away, by the wind of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.25",
+      "edition_verse_id": "ASV1901:JER.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "This is thy lot, the portion measured unto thee from me, saith Jehovah; because thou hast forgotten me, and trusted in falsehood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.26",
+      "edition_verse_id": "ASV1901:JER.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Therefore will I also uncover thy skirts upon thy face, and thy shame shall appear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.27",
+      "edition_verse_id": "ASV1901:JER.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I have seen thine abominations, even thine adulteries, and thy neighings, the lewdness of thy whoredom, on the hills in the field. Woe unto thee, O Jerusalem! thou wilt not be made clean; how long shall it yet be?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 47,
+  "verses": [
+    {
+      "id": "JER.47.1",
+      "edition_verse_id": "ASV1901:JER.47.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of Jehovah that came to Jeremiah the prophet concerning the Philistines, before that Pharaoh smote Gaza.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.47.2",
+      "edition_verse_id": "ASV1901:JER.47.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah: Behold, waters rise up out of the north, and shall become an overflowing stream, and shall overflow the land and all that is therein, the city and them that dwell therein; and the men shall cry, and all the inhabitants of the land shall wail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.47.3",
+      "edition_verse_id": "ASV1901:JER.47.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "At the noise of the stamping of the hoofs of his strong ones, at the rushing of his chariots, at the rumbling of his wheels, the fathers look not back to their children for feebleness of hands;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.47.4",
+      "edition_verse_id": "ASV1901:JER.47.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "because of the day that cometh to destroy all the Philistines, to cut off from Tyre and Sidon every helper that remaineth: for Jehovah will destroy the Philistines, the remnant of the isle of Caphtor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.47.5",
+      "edition_verse_id": "ASV1901:JER.47.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Baldness is come upon Gaza; Ashkelon is brought to nought, the remnant of their valley: how long wilt thou cut thyself?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.47.6",
+      "edition_verse_id": "ASV1901:JER.47.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O thou sword of Jehovah, how long will it be ere thou be quiet? put up thyself into thy scabbard; rest, and be still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.47.7",
+      "edition_verse_id": "ASV1901:JER.47.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How canst thou be quiet, seeing Jehovah hath given thee a charge? Against Ashkelon, and against the sea-shore, there hath he appointed it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

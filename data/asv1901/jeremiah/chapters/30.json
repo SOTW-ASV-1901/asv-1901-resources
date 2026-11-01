@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "JER.30.1",
+      "edition_verse_id": "ASV1901:JER.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word that came to Jeremiah from Jehovah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.2",
+      "edition_verse_id": "ASV1901:JER.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus speaketh Jehovah, the God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.30.3",
+      "edition_verse_id": "ASV1901:JER.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For, lo, the days come, saith Jehovah, that I will turn again the captivity of my people Israel and Judah, saith Jehovah; and I will cause them to return to the land that I gave to their fathers, and they shall possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.4",
+      "edition_verse_id": "ASV1901:JER.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And these are the words that Jehovah spake concerning Israel and concerning Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.30.5",
+      "edition_verse_id": "ASV1901:JER.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For thus saith Jehovah: We have heard a voice of trembling, of fear, and not of peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.6",
+      "edition_verse_id": "ASV1901:JER.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ask ye now, and see whether a man doth travail with child: wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.7",
+      "edition_verse_id": "ASV1901:JER.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Alas! for that day is great, so that none is like it: it is even the time of Jacob’s trouble; but he shall be saved out of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.8",
+      "edition_verse_id": "ASV1901:JER.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, saith Jehovah of hosts, that I will break his yoke from off thy neck, and will burst thy bonds; and strangers shall no more make him their bondman;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.9",
+      "edition_verse_id": "ASV1901:JER.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "but they shall serve Jehovah their God, and David their king, whom I will raise up unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.10",
+      "edition_verse_id": "ASV1901:JER.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore fear thou not, O Jacob my servant, saith Jehovah; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be quiet and at ease, and none shall make him afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.11",
+      "edition_verse_id": "ASV1901:JER.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For I am with thee, saith Jehovah, to save thee: for I will make a full end of all the nations whither I have scattered thee, but I will not make a full end of thee; but I will correct thee in measure, and will in no wise leave thee unpunished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.12",
+      "edition_verse_id": "ASV1901:JER.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For thus saith Jehovah, Thy hurt is incurable, and thy wound grievous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.13",
+      "edition_verse_id": "ASV1901:JER.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "There is none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.14",
+      "edition_verse_id": "ASV1901:JER.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "All thy lovers have forgotten thee; they seek thee not: for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the greatness of thine iniquity, because thy sins were increased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.15",
+      "edition_verse_id": "ASV1901:JER.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Why criest thou for thy hurt? thy pain is incurable: for the greatness of thine iniquity, because thy sins were increased, I have done these things unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.16",
+      "edition_verse_id": "ASV1901:JER.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that despoil thee shall be a spoil, and all that prey upon thee will I give for a prey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.17",
+      "edition_verse_id": "ASV1901:JER.30.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For I will restore health unto thee, and I will heal thee of thy wounds, saith Jehovah; because they have called thee an outcast, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", It is Zion, whom no man seeketh after.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.18",
+      "edition_verse_id": "ASV1901:JER.30.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah: Behold, I will turn again the captivity of Jacob’s tents, and have compassion on his dwelling-places; and the city shall be builded upon its own hill, and the palace shall be inhabited after its own manner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.30.19",
+      "edition_verse_id": "ASV1901:JER.30.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And out of them shall proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they shall not be few; I will also glorify them, and they shall not be small.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.20",
+      "edition_verse_id": "ASV1901:JER.30.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Their children also shall be as aforetime, and their congregation shall be established before me; and I will punish all that oppress them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.21",
+      "edition_verse_id": "ASV1901:JER.30.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And their prince shall be of themselves, and their ruler shall proceed from the midst of them; and I will cause him to draw near, and he shall approach unto me: for who is he that hath had boldness to approach unto me? saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.22",
+      "edition_verse_id": "ASV1901:JER.30.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And ye shall be my people, and I will be your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.30.23",
+      "edition_verse_id": "ASV1901:JER.30.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Behold, the tempest of Jehovah, ",
+          "kind": "text"
+        },
+        {
+          "text": "even his",
+          "kind": "supplied"
+        },
+        {
+          "text": " wrath, is gone forth, a sweeping tempest: it shall burst upon the head of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.30.24",
+      "edition_verse_id": "ASV1901:JER.30.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The fierce anger of Jehovah shall not return, until he have executed, and till he have performed the intents of his heart: in the latter days ye shall understand it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

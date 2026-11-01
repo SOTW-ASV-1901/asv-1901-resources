@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "JER.40.1",
+      "edition_verse_id": "ASV1901:JER.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word which came to Jeremiah from Jehovah, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all the captives of Jerusalem and Judah, that were carried away captive unto Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.2",
+      "edition_verse_id": "ASV1901:JER.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the captain of the guard took Jeremiah, and said unto him, Jehovah thy God pronounced this evil upon this place;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.40.3",
+      "edition_verse_id": "ASV1901:JER.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and Jehovah hath brought it, and done according as he spake: because ye have sinned against Jehovah, and have not obeyed his voice, therefore this thing is come upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.4",
+      "edition_verse_id": "ASV1901:JER.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And now, behold, I loose thee this day from the chains which are upon thy hand. If it seem good unto thee to come with me into Babylon, come, and I will look well unto thee; but if it seem ill unto thee to come with me into Babylon, forbear: behold, all the land is before thee; whither it seemeth good and right unto thee to go, thither go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.5",
+      "edition_verse_id": "ASV1901:JER.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now while he was not yet gone back, Go back then, ",
+          "kind": "text"
+        },
+        {
+          "text": "said he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", to Gedaliah the son of Ahikam, the son of Shaphan, whom the king of Babylon hath made governor over the cities of Judah, and dwell with him among the people; or go wheresoever it seemeth right unto thee to go. So the captain of the guard gave him victuals and a present, and let him go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.6",
+      "edition_verse_id": "ASV1901:JER.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then went Jeremiah unto Gedaliah the son of Ahikam to Mizpah, and dwelt with him among the people that were left in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.7",
+      "edition_verse_id": "ASV1901:JER.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now when all the captains of the forces that were in the fields, even they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poorest of the land, of them that were not carried away captive to Babylon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.40.8",
+      "edition_verse_id": "ASV1901:JER.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "then they came to Gedaliah to Mizpah, ",
+          "kind": "text"
+        },
+        {
+          "text": "to wit",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of the Maacathite, they and their men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.9",
+      "edition_verse_id": "ASV1901:JER.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.10",
+      "edition_verse_id": "ASV1901:JER.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As for me, behold, I will dwell at Mizpah, to stand before the Chaldeans that shall come unto us: but ye, gather ye wine and summer fruits and oil, and put them in your vessels, and dwell in your cities that ye have taken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.11",
+      "edition_verse_id": "ASV1901:JER.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Likewise when all the Jews that were in Moab, and among the children of Ammon, and in Edom, and that were in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam, the son of Shaphan;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.12",
+      "edition_verse_id": "ASV1901:JER.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "then all the Jews returned out of all places whither they were driven, and came to the land of Judah, to Gedaliah, unto Mizpah, and gathered wine and summer fruits very much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.13",
+      "edition_verse_id": "ASV1901:JER.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Moreover Johanan the son of Kareah, and all the captains of the forces that were in the fields, came to Gedaliah to Mizpah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.40.14",
+      "edition_verse_id": "ASV1901:JER.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and said unto him, Dost thou know that Baalis the king of the children of Ammon hath sent Ishmael the son of Nethaniah to take thy life? But Gedaliah the son of Ahikam believed them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.15",
+      "edition_verse_id": "ASV1901:JER.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly, saying, Let me go, I pray thee, and I will slay Ishmael the son of Nethaniah, and no man shall know it: wherefore should he take thy life, that all the Jews that are gathered unto thee should be scattered, and the remnant of Judah perish?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.40.16",
+      "edition_verse_id": "ASV1901:JER.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But Gedaliah the son of Ahikam said unto Johanan the son of Kareah, Thou shalt not do this thing; for thou speakest falsely of Ishmael.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

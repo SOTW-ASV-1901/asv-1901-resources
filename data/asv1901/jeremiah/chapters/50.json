@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 50,
+  "verses": [
+    {
+      "id": "JER.50.1",
+      "edition_verse_id": "ASV1901:JER.50.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word that Jehovah spake concerning Babylon, concerning the land of the Chaldeans, by Jeremiah the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.2",
+      "edition_verse_id": "ASV1901:JER.50.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Declare ye among the nations and publish, and set up a standard; publish, and conceal not: say, Babylon is taken, Bel is put to shame, Merodach is dismayed; her images are put to shame, her idols are dismayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.3",
+      "edition_verse_id": "ASV1901:JER.50.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they are fled, they are gone, both man and beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.4",
+      "edition_verse_id": "ASV1901:JER.50.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In those days, and in that time, saith Jehovah, the children of Israel shall come, they and the children of Judah together; they shall go on their way weeping, and shall seek Jehovah their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.5",
+      "edition_verse_id": "ASV1901:JER.50.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They shall inquire concerning Zion with their faces thitherward, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Come ye, and join yourselves to Jehovah in an everlasting covenant that shall not be forgotten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.6",
+      "edition_verse_id": "ASV1901:JER.50.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My people have been lost sheep: their shepherds have caused them to go astray; they have turned them away on the mountains; they have gone from mountain to hill; they have forgotten their resting-place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.7",
+      "edition_verse_id": "ASV1901:JER.50.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All that found them have devoured them; and their adversaries said, We are not guilty, because they have sinned against Jehovah, the habitation of righteousness, even Jehovah, the hope of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.8",
+      "edition_verse_id": "ASV1901:JER.50.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Flee out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he-goats before the flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.9",
+      "edition_verse_id": "ASV1901:JER.50.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For, lo, I will stir up and cause to come up against Babylon a company of great nations from the north country; and they shall set themselves in array against her; from thence she shall be taken: their arrows shall be as of an expert mighty man; none shall return in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.10",
+      "edition_verse_id": "ASV1901:JER.50.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Chaldea shall be a prey: all that prey upon her shall be satisfied, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.11",
+      "edition_verse_id": "ASV1901:JER.50.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Because ye are glad, because ye rejoice, O ye that plunder my heritage, because ye are wanton as a heifer that treadeth out ",
+          "kind": "text"
+        },
+        {
+          "text": "the grain",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and neigh as strong horses;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.12",
+      "edition_verse_id": "ASV1901:JER.50.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "your mother shall be utterly put to shame; she that bare you shall be confounded: behold, she shall be the hindermost of the nations, a wilderness, a dry land, and a desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.13",
+      "edition_verse_id": "ASV1901:JER.50.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Because of the wrath of Jehovah she shall not be inhabited, but she shall be wholly desolate: every one that goeth by Babylon shall be astonished, and hiss at all her plagues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.14",
+      "edition_verse_id": "ASV1901:JER.50.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Set yourselves in array against Babylon round about, all ye that bend the bow; shoot at her, spare no arrows: for she hath sinned against Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.15",
+      "edition_verse_id": "ASV1901:JER.50.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Shout against her round about: she hath submitted herself; her bulwarks are fallen, her walls are thrown down; for it is the vengeance of Jehovah: take vengeance upon her; as she hath done, do unto her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.16",
+      "edition_verse_id": "ASV1901:JER.50.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Cut off the sower from Babylon, and him that handleth the sickle in the time of harvest: for fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.17",
+      "edition_verse_id": "ASV1901:JER.50.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Israel is a hunted sheep; the lions have driven him away: first, the king of Assyria devoured him; and now at last Nebuchadrezzar king of Babylon hath broken his bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.18",
+      "edition_verse_id": "ASV1901:JER.50.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Therefore thus saith Jehovah of hosts, the God of Israel: Behold, I will punish the king of Babylon and his land, as I have punished the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.19",
+      "edition_verse_id": "ASV1901:JER.50.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will bring Israel again to his pasture, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon the hills of Ephraim and in Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.20",
+      "edition_verse_id": "ASV1901:JER.50.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "In those days, and in that time, saith Jehovah, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I leave as a remnant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.21",
+      "edition_verse_id": "ASV1901:JER.50.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Go up against the land of Merathaim, even against it, and against the inhabitants of Pekod: slay and utterly destroy after them, saith Jehovah, and do according to all that I have commanded thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.22",
+      "edition_verse_id": "ASV1901:JER.50.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "A sound of battle is in the land, and of great destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.23",
+      "edition_verse_id": "ASV1901:JER.50.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.24",
+      "edition_verse_id": "ASV1901:JER.50.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.25",
+      "edition_verse_id": "ASV1901:JER.50.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Jehovah hath opened his armory, and hath brought forth the weapons of his indignation; for the Lord, Jehovah of hosts, hath a work ",
+          "kind": "text"
+        },
+        {
+          "text": "to do",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the land of the Chaldeans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.26",
+      "edition_verse_id": "ASV1901:JER.50.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Come against her from the utmost border; open her store-houses; cast her up as heaps, and destroy her utterly; let nothing of her be left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.27",
+      "edition_verse_id": "ASV1901:JER.50.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Slay all her bullocks; let them go down to the slaughter: woe unto them! for their day is come, the time of their visitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.28",
+      "edition_verse_id": "ASV1901:JER.50.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of Jehovah our God, the vengeance of his temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.29",
+      "edition_verse_id": "ASV1901:JER.50.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Call together the archers against Babylon, all them that bend the bow; encamp against her round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her; for she hath been proud against Jehovah, against the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.30",
+      "edition_verse_id": "ASV1901:JER.50.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Therefore shall her young men fall in her streets, and all her men of war shall be brought to silence in that day, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.31",
+      "edition_verse_id": "ASV1901:JER.50.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Behold, I am against thee, O thou proud one, saith the Lord, Jehovah of hosts; for thy day is come, the time that I will visit thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.32",
+      "edition_verse_id": "ASV1901:JER.50.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the proud one shall stumble and fall, and none shall raise him up; and I will kindle a fire in his cities, and it shall devour all that are round about him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.33",
+      "edition_verse_id": "ASV1901:JER.50.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah of hosts: The children of Israel and the children of Judah are oppressed together; and all that took them captive hold them fast; they refuse to let them go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.34",
+      "edition_verse_id": "ASV1901:JER.50.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Their Redeemer is strong; Jehovah of hosts is his name: he will thoroughly plead their cause, that he may give rest to the earth, and disquiet the inhabitants of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.35",
+      "edition_verse_id": "ASV1901:JER.50.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "A sword is upon the Chaldeans, saith Jehovah, and upon the inhabitants of Babylon, and upon her princes, and upon her wise men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.36",
+      "edition_verse_id": "ASV1901:JER.50.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "A sword is upon the boasters, and they shall become fools; a sword is upon her mighty men, and they shall be dismayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.37",
+      "edition_verse_id": "ASV1901:JER.50.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "A sword is upon their horses, and upon their chariots, and upon all the mingled people that are in the midst of her; and they shall become as women: a sword is upon her treasures, and they shall be robbed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.38",
+      "edition_verse_id": "ASV1901:JER.50.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "A drought is upon her waters, and they shall be dried up; for it is a land of graven images, and they are mad over idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.39",
+      "edition_verse_id": "ASV1901:JER.50.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Therefore the wild beasts of the desert with the wolves shall dwell there, and the ostriches shall dwell therein: and it shall be no more inhabited for ever; neither shall it be dwelt in from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.40",
+      "edition_verse_id": "ASV1901:JER.50.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "As when God overthrew Sodom and Gomorrah and the neighbor cities thereof, saith Jehovah, so shall no man dwell there, neither shall any son of man sojourn therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.41",
+      "edition_verse_id": "ASV1901:JER.50.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Behold, a people cometh from the north; and a great nation and many kings shall be stirred up from the uttermost parts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.50.42",
+      "edition_verse_id": "ASV1901:JER.50.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "They lay hold on bow and spear; they are cruel, and have no mercy; their voice roareth like the sea; and they ride upon horses, every one set in array, as a man to the battle, against thee, O daughter of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.43",
+      "edition_verse_id": "ASV1901:JER.50.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The king of Babylon hath heard the tidings of them, and his hands wax feeble: anguish hath taken hold of him, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " pangs as of a woman in travail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.44",
+      "edition_verse_id": "ASV1901:JER.50.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Behold, ",
+          "kind": "text"
+        },
+        {
+          "text": "the enemy",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall come up like a lion from the pride of the Jordan against the strong habitation: for I will suddenly make them run away from it; and whoso is chosen, him will I appoint over it: for who is like me? and who will appoint me a time? and who is the shepherd that can stand before me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.45",
+      "edition_verse_id": "ASV1901:JER.50.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Therefore hear ye the counsel of Jehovah, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely they shall drag them away, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the little ones of the flock; surely he shall make their habitation desolate over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.50.46",
+      "edition_verse_id": "ASV1901:JER.50.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "At the noise of the taking of Babylon the earth trembleth, and the cry is heard among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "book_code": "JER",
+  "schema_version": "1.0.0",
+  "chapter_count": 52,
+  "verse_count": 1364,
+  "supplied_italic_spans": 144,
+  "digital_witness_disagreements": 1,
+  "digital_difference_resolution": "JER.8.19 primary capitalization confirmed by original 1901 print PDF page 781",
+  "original_1901_pdf_pages": 61,
+  "source_pdf_page_range": [
+    772,
+    832
+  ],
+  "printed_page_range": [
+    730,
+    790
+  ],
+  "two_page_verses": 55,
+  "historical_facsimile_volumes": 3,
+  "original_page_embedded_raw_image_stream_placement_equivalence": "PASS_61_OF_61",
+  "source_page_rendered_pixel_equivalence": "PASS_61_OF_61_AT_0.8X",
+  "chapter_json_schema": "PASS",
+  "facsimile_page_index_schema": "PASS",
+  "italics_independent_usfm_agreement": "PASS_144_OF_144",
+  "reader_js_syntax": "PASS",
+  "local_http_resources": 58,
+  "github_browser_upload_file_cap": "UNDER_99",
+  "hosted_browser_smoke_test": "NOT_PERFORMED",
+  "exhaustive_character_by_character_print_collation": "NOT_PERFORMED",
+  "witness_independence": "UNESTABLISHED",
+  "unverified_strongs_alignment": "NOT_IMPORTED",
+  "complete_independent_data_facsimile_rebuild": "PASS",
+  "zip_crc_sha256_manifest": "PASS"
+}

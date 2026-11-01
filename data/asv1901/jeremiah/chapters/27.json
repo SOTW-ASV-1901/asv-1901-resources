@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "JER.27.1",
+      "edition_verse_id": "ASV1901:JER.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, came this word unto Jeremiah from Jehovah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.2",
+      "edition_verse_id": "ASV1901:JER.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah to me: Make thee bonds and bars, and put them upon thy neck;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.27.3",
+      "edition_verse_id": "ASV1901:JER.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and send them to the king of Edom, and to the king of Moab, and to the king of the children of Ammon, and to the king of Tyre, and to the king of Sidon, by the hand of the messengers that come to Jerusalem unto Zedekiah king of Judah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.4",
+      "edition_verse_id": "ASV1901:JER.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and give them a charge unto their masters, saying, Thus saith Jehovah of hosts, the God of Israel, Thus shall ye say unto your masters:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.5",
+      "edition_verse_id": "ASV1901:JER.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I have made the earth, the men and the beasts that are upon the face of the earth, by my great power and by my outstretched arm; and I give it unto whom it seemeth right unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.6",
+      "edition_verse_id": "ASV1901:JER.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And now have I given all these lands into the hand of Nebuchadnezzar the king of Babylon, my servant; and the beasts of the field also have I given him to serve him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.7",
+      "edition_verse_id": "ASV1901:JER.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And all the nations shall serve him, and his son, and his son’s son, until the time of his own land come: and then many nations and great kings shall make him their bondman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.8",
+      "edition_verse_id": "ASV1901:JER.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that the nation and the kingdom which will not serve the same Nebuchadnezzar king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith Jehovah, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.9",
+      "edition_verse_id": "ASV1901:JER.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But as for you, hearken ye not to your prophets, nor to your diviners, nor to your dreams, nor to your soothsayers, nor to your sorcerers, that speak unto you, saying, Ye shall not serve the king of Babylon:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.10",
+      "edition_verse_id": "ASV1901:JER.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "for they prophesy a lie unto you, to remove you far from your land, and that I should drive you out, and ye should perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.11",
+      "edition_verse_id": "ASV1901:JER.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the nation that shall bring their neck under the yoke of the king of Babylon, and serve him, that ",
+          "kind": "text"
+        },
+        {
+          "text": "nation",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I let remain in their own land, saith Jehovah; and they shall till it, and dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.12",
+      "edition_verse_id": "ASV1901:JER.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I spake to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.27.13",
+      "edition_verse_id": "ASV1901:JER.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as Jehovah hath spoken concerning the nation that will not serve the king of Babylon?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.14",
+      "edition_verse_id": "ASV1901:JER.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon; for they prophesy a lie unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.15",
+      "edition_verse_id": "ASV1901:JER.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For I have not sent them, saith Jehovah, but they prophesy falsely in my name; that I may drive you out, and that ye may perish, ye, and the prophets that prophesy unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.16",
+      "edition_verse_id": "ASV1901:JER.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Also I spake to the priests and to all this people, saying, Thus saith Jehovah: Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of Jehovah’s house shall now shortly be brought again from Babylon; for they prophesy a lie unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.27.17",
+      "edition_verse_id": "ASV1901:JER.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Hearken not unto them; serve the king of Babylon, and live: wherefore should this city become a desolation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.18",
+      "edition_verse_id": "ASV1901:JER.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But if they be prophets, and if the word of Jehovah be with them, let them now make intercession to Jehovah of hosts, that the vessels which are left in the house of Jehovah, and in the house of the king of Judah, and at Jerusalem, go not to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.19",
+      "edition_verse_id": "ASV1901:JER.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For thus saith Jehovah of hosts concerning the pillars, and concerning the sea, and concerning the bases, and concerning the residue of the vessels that are left in this city,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.20",
+      "edition_verse_id": "ASV1901:JER.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "which Nebuchadnezzar king of Babylon took not, when he carried away captive Jeconiah the son of Jehoiakim, king of Judah, from Jerusalem to Babylon, and all the nobles of Judah and Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.21",
+      "edition_verse_id": "ASV1901:JER.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "yea, thus saith Jehovah of hosts, the God of Israel, concerning the vessels that are left in the house of Jehovah, and in the house of the king of Judah, and at Jerusalem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.27.22",
+      "edition_verse_id": "ASV1901:JER.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "They shall be carried to Babylon, and there shall they be, until the day that I visit them, saith Jehovah; then will I bring them up, and restore them to this place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

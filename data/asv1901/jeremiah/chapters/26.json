@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "JER.26.1",
+      "edition_verse_id": "ASV1901:JER.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, came this word from Jehovah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.2",
+      "edition_verse_id": "ASV1901:JER.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah: Stand in the court of Jehovah’s house, and speak unto all the cities of Judah, which come to worship in Jehovah’s house, all the words that I command thee to speak unto them; diminish not a word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.26.3",
+      "edition_verse_id": "ASV1901:JER.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "It may be they will hearken, and turn every man from his evil way; that I may repent me of the evil which I purpose to do unto them because of the evil of their doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.4",
+      "edition_verse_id": "ASV1901:JER.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And thou shalt say unto them, Thus saith Jehovah: If ye will not hearken to me, to walk in my law, which I have set before you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.5",
+      "edition_verse_id": "ASV1901:JER.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "to hearken to the words of my servants the prophets, whom I send unto you, even rising up early and sending them, but ye have not hearkened;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.6",
+      "edition_verse_id": "ASV1901:JER.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "then will I make this house like Shiloh, and will make this city a curse to all the nations of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.7",
+      "edition_verse_id": "ASV1901:JER.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the priests and the prophets and all the people heard Jeremiah speaking these words in the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.8",
+      "edition_verse_id": "ASV1901:JER.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And it came to pass, when Jeremiah had made an end of speaking all that Jehovah had commanded him to speak unto all the people, that the priests and the prophets and all the people laid hold on him, saying, Thou shalt surely die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.26.9",
+      "edition_verse_id": "ASV1901:JER.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Why hast thou prophesied in the name of Jehovah, saying, This house shall be like Shiloh, and this city shall be desolate, without inhabitant? And all the people were gathered unto Jeremiah in the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.10",
+      "edition_verse_id": "ASV1901:JER.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when the princes of Judah heard these things, they came up from the king’s house unto the house of Jehovah; and they sat in the entry of the new gate of Jehovah’s ",
+          "kind": "text"
+        },
+        {
+          "text": "house",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.26.11",
+      "edition_verse_id": "ASV1901:JER.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then spake the priests and the prophets unto the princes and to all the people, saying, This man is worthy of death; for he hath prophesied against this city, as ye have heard with your ears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.12",
+      "edition_verse_id": "ASV1901:JER.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then spake Jeremiah unto all the princes and to all the people, saying, Jehovah sent me to prophesy against this house and against this city all the words that ye have heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.13",
+      "edition_verse_id": "ASV1901:JER.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now therefore amend your ways and your doings, and obey the voice of Jehovah your God; and Jehovah will repent him of the evil that he hath pronounced against you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.14",
+      "edition_verse_id": "ASV1901:JER.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But as for me, behold, I am in your hand: do with me as is good and right in your eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.15",
+      "edition_verse_id": "ASV1901:JER.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Only know ye for certain that, if ye put me to death, ye will bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof; for of a truth Jehovah hath sent me unto you to speak all these words in your ears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.16",
+      "edition_verse_id": "ASV1901:JER.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then said the princes and all the people unto the priests and to the prophets: This man is not worthy of death; for he hath spoken to us in the name of Jehovah our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.26.17",
+      "edition_verse_id": "ASV1901:JER.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then rose up certain of the elders of the land, and spake to all the assembly of the people, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.18",
+      "edition_verse_id": "ASV1901:JER.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Micah the Morashtite prophesied in the days of Hezekiah king of Judah; and he spake to all the people of Judah, saying, Thus saith Jehovah of hosts: Zion shall be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.19",
+      "edition_verse_id": "ASV1901:JER.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Did Hezekiah king of Judah and all Judah put him to death? did he not fear Jehovah, and entreat the favor of Jehovah, and Jehovah repented him of the evil which he had pronounced against them? Thus should we commit great evil against our own souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.20",
+      "edition_verse_id": "ASV1901:JER.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And there was also a man that prophesied in the name of Jehovah, Uriah the son of Shemaiah of Kiriath-jearim; and he prophesied against this city and against this land according to all the words of Jeremiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.26.21",
+      "edition_verse_id": "ASV1901:JER.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when Jehoiakim the king, with all his mighty men, and all the princes, heard his words, the king sought to put him to death; but when Uriah heard it, he was afraid, and fled, and went into Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.22",
+      "edition_verse_id": "ASV1901:JER.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Jehoiakim the king sent men into Egypt, ",
+          "kind": "text"
+        },
+        {
+          "text": "namely",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Elnathan the son of Achbor, and certain men with him, into Egypt;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.23",
+      "edition_verse_id": "ASV1901:JER.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and they fetched forth Uriah out of Egypt, and brought him unto Jehoiakim the king, who slew him with the sword, and cast his dead body into the graves of the common people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.26.24",
+      "edition_verse_id": "ASV1901:JER.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      772
+    ],
+    "first": "JER.1.1",
+    "last": "JER.1.19"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      772,
+      773,
+      774
+    ],
+    "first": "JER.2.1",
+    "last": "JER.2.37"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      774,
+      775
+    ],
+    "first": "JER.3.1",
+    "last": "JER.3.25"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      775,
+      776
+    ],
+    "first": "JER.4.1",
+    "last": "JER.4.31"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      776,
+      777,
+      778
+    ],
+    "first": "JER.5.1",
+    "last": "JER.5.31"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      778,
+      779
+    ],
+    "first": "JER.6.1",
+    "last": "JER.6.30"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      779,
+      780
+    ],
+    "first": "JER.7.1",
+    "last": "JER.7.34"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      780,
+      781
+    ],
+    "first": "JER.8.1",
+    "last": "JER.8.22"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      781,
+      782
+    ],
+    "first": "JER.9.1",
+    "last": "JER.9.26"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      782,
+      783
+    ],
+    "first": "JER.10.1",
+    "last": "JER.10.25"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      783,
+      784
+    ],
+    "first": "JER.11.1",
+    "last": "JER.11.23"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      785
+    ],
+    "first": "JER.12.1",
+    "last": "JER.12.17"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      785,
+      786
+    ],
+    "first": "JER.13.1",
+    "last": "JER.13.27"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      786,
+      787
+    ],
+    "first": "JER.14.1",
+    "last": "JER.14.22"
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      787,
+      788
+    ],
+    "first": "JER.15.1",
+    "last": "JER.15.21"
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      788,
+      789
+    ],
+    "first": "JER.16.1",
+    "last": "JER.16.21"
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      789,
+      790,
+      791
+    ],
+    "first": "JER.17.1",
+    "last": "JER.17.27"
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      791,
+      792
+    ],
+    "first": "JER.18.1",
+    "last": "JER.18.23"
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      792
+    ],
+    "first": "JER.19.1",
+    "last": "JER.19.15"
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      792,
+      793
+    ],
+    "first": "JER.20.1",
+    "last": "JER.20.18"
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      793,
+      794
+    ],
+    "first": "JER.21.1",
+    "last": "JER.21.14"
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      794,
+      795
+    ],
+    "first": "JER.22.1",
+    "last": "JER.22.30"
+  },
+  "23": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      795,
+      796,
+      797
+    ],
+    "first": "JER.23.1",
+    "last": "JER.23.40"
+  },
+  "24": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      797
+    ],
+    "first": "JER.24.1",
+    "last": "JER.24.10"
+  },
+  "25": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      797,
+      798,
+      799
+    ],
+    "first": "JER.25.1",
+    "last": "JER.25.38"
+  },
+  "26": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      799,
+      800
+    ],
+    "first": "JER.26.1",
+    "last": "JER.26.24"
+  },
+  "27": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      800,
+      801
+    ],
+    "first": "JER.27.1",
+    "last": "JER.27.22"
+  },
+  "28": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      801,
+      802
+    ],
+    "first": "JER.28.1",
+    "last": "JER.28.17"
+  },
+  "29": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      802,
+      803
+    ],
+    "first": "JER.29.1",
+    "last": "JER.29.32"
+  },
+  "30": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      803,
+      804
+    ],
+    "first": "JER.30.1",
+    "last": "JER.30.24"
+  },
+  "31": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      804,
+      805,
+      806
+    ],
+    "first": "JER.31.1",
+    "last": "JER.31.40"
+  },
+  "32": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      806,
+      807,
+      808
+    ],
+    "first": "JER.32.1",
+    "last": "JER.32.44"
+  },
+  "33": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      808,
+      809
+    ],
+    "first": "JER.33.1",
+    "last": "JER.33.26"
+  },
+  "34": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      809,
+      810
+    ],
+    "first": "JER.34.1",
+    "last": "JER.34.22"
+  },
+  "35": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      810,
+      811
+    ],
+    "first": "JER.35.1",
+    "last": "JER.35.19"
+  },
+  "36": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      811,
+      812,
+      813
+    ],
+    "first": "JER.36.1",
+    "last": "JER.36.32"
+  },
+  "37": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      813,
+      814
+    ],
+    "first": "JER.37.1",
+    "last": "JER.37.21"
+  },
+  "38": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      814,
+      815
+    ],
+    "first": "JER.38.1",
+    "last": "JER.38.28"
+  },
+  "39": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      815,
+      816
+    ],
+    "first": "JER.39.1",
+    "last": "JER.39.18"
+  },
+  "40": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      816,
+      817
+    ],
+    "first": "JER.40.1",
+    "last": "JER.40.16"
+  },
+  "41": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      817
+    ],
+    "first": "JER.41.1",
+    "last": "JER.41.18"
+  },
+  "42": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      817,
+      818
+    ],
+    "first": "JER.42.1",
+    "last": "JER.42.22"
+  },
+  "43": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      818,
+      819
+    ],
+    "first": "JER.43.1",
+    "last": "JER.43.13"
+  },
+  "44": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      819,
+      820,
+      821
+    ],
+    "first": "JER.44.1",
+    "last": "JER.44.30"
+  },
+  "45": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      821
+    ],
+    "first": "JER.45.1",
+    "last": "JER.45.5"
+  },
+  "46": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      821,
+      822
+    ],
+    "first": "JER.46.1",
+    "last": "JER.46.28"
+  },
+  "47": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      822,
+      823
+    ],
+    "first": "JER.47.1",
+    "last": "JER.47.7"
+  },
+  "48": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      823,
+      824
+    ],
+    "first": "JER.48.1",
+    "last": "JER.48.47"
+  },
+  "49": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      824,
+      825,
+      826
+    ],
+    "first": "JER.49.1",
+    "last": "JER.49.39"
+  },
+  "50": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      826,
+      827,
+      828
+    ],
+    "first": "JER.50.1",
+    "last": "JER.50.46"
+  },
+  "51": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      828,
+      829,
+      830,
+      831
+    ],
+    "first": "JER.51.1",
+    "last": "JER.51.64"
+  },
+  "52": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 chapter boundaries, page openings and endings and nearby verse numbering reviewed; not exhaustive character collation.",
+    "source_pdf_pages": [
+      831,
+      832
+    ],
+    "first": "JER.52.1",
+    "last": "JER.52.34"
+  }
+}

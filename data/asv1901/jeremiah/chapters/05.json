@@ -1,0 +1,396 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JER.5.1",
+      "edition_verse_id": "ASV1901:JER.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that doeth justly, that seeketh truth; and I will pardon her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.2",
+      "edition_verse_id": "ASV1901:JER.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And though they say, As Jehovah liveth; surely they swear falsely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.3",
+      "edition_verse_id": "ASV1901:JER.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O Jehovah, do not thine eyes look upon truth? thou hast stricken them, but they were not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.4",
+      "edition_verse_id": "ASV1901:JER.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then I said, Surely these are poor; they are foolish; for they know not the way of Jehovah, nor the law of their God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.5",
+      "edition_verse_id": "ASV1901:JER.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I will get me unto the great men, and will speak unto them; for they know the way of Jehovah, and the law of their God. But these with one accord have broken the yoke, and burst the bonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.6",
+      "edition_verse_id": "ASV1901:JER.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Wherefore a lion out of the forest shall slay them, a wolf of the evenings shall destroy them, a leopard shall watch against their cities; every one that goeth out thence shall be torn in pieces; because their transgressions are many, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " their backslidings are increased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.7",
+      "edition_verse_id": "ASV1901:JER.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How can I pardon thee? thy children have forsaken me, and sworn by them that are no gods. When I had fed them to the full, they committed adultery, and assembled themselves in troops at the harlots’ houses;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.8",
+      "edition_verse_id": "ASV1901:JER.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "they were as fed horses roaming at large; every one neighed after his neighbor’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.9",
+      "edition_verse_id": "ASV1901:JER.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Shall I not visit for these things? saith Jehovah; and shall not my soul be avenged on such a nation as this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.10",
+      "edition_verse_id": "ASV1901:JER.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Go ye up upon her walls, and destroy; but make not a full end: take away her branches; for they are not Jehovah’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.11",
+      "edition_verse_id": "ASV1901:JER.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.12",
+      "edition_verse_id": "ASV1901:JER.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They have denied Jehovah, and said, It is not he; neither shall evil come upon us; neither shall we see sword nor famine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.13",
+      "edition_verse_id": "ASV1901:JER.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and the prophets shall become wind, and the word is not in them: thus shall it be done unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.14",
+      "edition_verse_id": "ASV1901:JER.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Wherefore thus saith Jehovah, the God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.15",
+      "edition_verse_id": "ASV1901:JER.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Lo, I will bring a nation upon you from far, O house of Israel, saith Jehovah: it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.16",
+      "edition_verse_id": "ASV1901:JER.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Their quiver is an open sepulchre, they are all mighty men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.17",
+      "edition_verse_id": "ASV1901:JER.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they shall eat up thy harvest, and thy bread, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy sons and thy daughters should eat; they shall eat up thy flocks and thy herds; they shall eat up thy vines and thy fig-trees; they shall beat down thy fortified cities, wherein thou trustest, with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.18",
+      "edition_verse_id": "ASV1901:JER.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But even in those days, saith Jehovah, I will not make a full end with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.19",
+      "edition_verse_id": "ASV1901:JER.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And it shall come to pass, when ye shall say, Wherefore hath Jehovah our God done all these things unto us? then shalt thou say unto them, Like as ye have forsaken me, and served foreign gods in your land, so shall ye serve strangers in a land that is not yours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.20",
+      "edition_verse_id": "ASV1901:JER.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Declare ye this in the house of Jacob, and publish it in Judah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.21",
+      "edition_verse_id": "ASV1901:JER.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Hear now this, O foolish people, and without understanding; that have eyes, and see not; that have ears, and hear not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.22",
+      "edition_verse_id": "ASV1901:JER.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Fear ye not me? saith Jehovah: will ye not tremble at my presence, who have placed the sand for the bound of the sea, by a perpetual decree, that it cannot pass it? and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.23",
+      "edition_verse_id": "ASV1901:JER.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But this people hath a revolting and a rebellious heart; they are revolted and gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.24",
+      "edition_verse_id": "ASV1901:JER.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Neither say they in their heart, Let us now fear Jehovah our God, that giveth rain, both the former and the latter, in its season; that preserveth unto us the appointed weeks of the harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.25",
+      "edition_verse_id": "ASV1901:JER.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Your iniquities have turned away these things, and your sins have withholden good from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.26",
+      "edition_verse_id": "ASV1901:JER.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For among my people are found wicked men: they watch, as fowlers lie in wait; they set a trap, they catch men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.27",
+      "edition_verse_id": "ASV1901:JER.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "As a cage is full of birds, so are their houses full of deceit: therefore they are become great, and waxed rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.28",
+      "edition_verse_id": "ASV1901:JER.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "They are waxed fat, they shine: yea, they overpass in deeds of wickedness; they plead not the cause, the cause of the fatherless, that they may prosper; and the right of the needy do they not judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.29",
+      "edition_verse_id": "ASV1901:JER.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Shall I not visit for these things? saith Jehovah; shall not my soul be avenged on such a nation as this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.5.30",
+      "edition_verse_id": "ASV1901:JER.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "A wonderful and horrible thing is come to pass in the land:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.5.31",
+      "edition_verse_id": "ASV1901:JER.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "the prophets prophesy falsely, and the priests bear rule by their means; and my people love to have it so: and what will ye do in the end thereof?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

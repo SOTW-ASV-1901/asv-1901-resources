@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "JER.11.1",
+      "edition_verse_id": "ASV1901:JER.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word that came to Jeremiah from Jehovah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.2",
+      "edition_verse_id": "ASV1901:JER.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear ye the words of this covenant, and speak unto the men of Judah, and to the inhabitants of Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.3",
+      "edition_verse_id": "ASV1901:JER.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and say thou unto them, Thus saith Jehovah, the God of Israel: Cursed be the man that heareth not the words of this covenant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.4",
+      "edition_verse_id": "ASV1901:JER.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "which I commanded your fathers in the day that I brought them forth out of the land of Egypt, out of the iron furnace, saying, Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.5",
+      "edition_verse_id": "ASV1901:JER.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "that I may establish the oath which I sware unto your fathers, to give them a land flowing with milk and honey, as at this day. Then answered I, and said, Amen, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.6",
+      "edition_verse_id": "ASV1901:JER.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, Proclaim all these words in the cities of Judah, and in the streets of Jerusalem, saying, Hear ye the words of this covenant, and do them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.7",
+      "edition_verse_id": "ASV1901:JER.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For I earnestly protested unto your fathers in the day that I brought them up out of the land of Egypt, even unto this day, rising early and protesting, saying, Obey my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.8",
+      "edition_verse_id": "ASV1901:JER.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yet they obeyed not, nor inclined their ear, but walked every one in the stubbornness of their evil heart: therefore I brought upon them all the words of this covenant, which I commanded them to do, but they did them not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.9",
+      "edition_verse_id": "ASV1901:JER.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, A conspiracy is found among the men of Judah, and among the inhabitants of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.10",
+      "edition_verse_id": "ASV1901:JER.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They are turned back to the iniquities of their forefathers, who refused to hear my words; and they are gone after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.11",
+      "edition_verse_id": "ASV1901:JER.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore thus saith Jehovah, Behold, I will bring evil upon them, which they shall not be able to escape; and they shall cry unto me, but I will not hearken unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.12",
+      "edition_verse_id": "ASV1901:JER.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then shall the cities of Judah and the inhabitants of Jerusalem go and cry unto the gods unto which they offer incense: but they will not save them at all in the time of their trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.13",
+      "edition_verse_id": "ASV1901:JER.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For according to the number of thy cities are thy gods, O Judah; and according to the number of the streets of Jerusalem have ye set up altars to the shameful thing, even altars to burn incense unto Baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.14",
+      "edition_verse_id": "ASV1901:JER.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore pray not thou for this people, neither lift up cry nor prayer for them; for I will not hear them in the time that they cry unto me because of their trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.15",
+      "edition_verse_id": "ASV1901:JER.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What hath my beloved to do in my house, seeing she hath wrought lewdness ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.16",
+      "edition_verse_id": "ASV1901:JER.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jehovah called thy name, A green olive-tree, fair with goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.17",
+      "edition_verse_id": "ASV1901:JER.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For Jehovah of hosts, who planted thee, hath pronounced evil against thee, because of the evil of the house of Israel and of the house of Judah, which they have wrought for themselves in provoking me to anger by offering incense unto Baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.18",
+      "edition_verse_id": "ASV1901:JER.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Jehovah gave me knowledge of it, and I knew it: then thou showedst me their doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.19",
+      "edition_verse_id": "ASV1901:JER.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But I was like a gentle lamb that is led to the slaughter; and I knew not that they had devised devices against me, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Let us destroy the tree with the fruit thereof, and let us cut him off from the land of the living, that his name may be no more remembered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.20",
+      "edition_verse_id": "ASV1901:JER.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But, O Jehovah of hosts, who judgest righteously, who triest the heart and the mind, I shall see thy vengeance on them; for unto thee have I revealed my cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.21",
+      "edition_verse_id": "ASV1901:JER.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Therefore thus saith Jehovah concerning the men of Anathoth, that seek thy life, saying, Thou shalt not prophesy in the name of Jehovah, that thou die not by our hand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.22",
+      "edition_verse_id": "ASV1901:JER.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "therefore thus saith Jehovah of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.23",
+      "edition_verse_id": "ASV1901:JER.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and there shall be no remnant unto them: for I will bring evil upon the men of Anathoth, even the year of their visitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

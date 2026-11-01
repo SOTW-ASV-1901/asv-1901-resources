@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JER",
+  "book_name": "Jeremiah",
+  "book_order": 24,
+  "canonical_ids": "JER.{chapter}.{verse}",
+  "edition_ids": "ASV1901:JER.{chapter}.{verse}",
+  "chapter_count": 52,
+  "verse_count": 1364,
+  "chapter_path_template": "jeremiah/chapters/{chapter:02d}.json",
+  "facsimile_index": "jeremiah/page-index.json",
+  "predecessor_book_code": "ISA",
+  "successor_book_code": "LAM",
+  "source_provenance": "books/jeremiah/SOURCE_INVENTORY.json",
+  "reader": "books/jeremiah/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}
