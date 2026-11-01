@@ -1,0 +1,360 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DAN",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "DAN.7.1",
+      "edition_verse_id": "ASV1901:DAN.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream and told the sum of the matters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.7.2",
+      "edition_verse_id": "ASV1901:DAN.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Daniel spake and said, I saw in my vision by night, and, behold, the four winds of heaven brake forth upon the great sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.3",
+      "edition_verse_id": "ASV1901:DAN.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And four great beasts came up from the sea, diverse one from another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.4",
+      "edition_verse_id": "ASV1901:DAN.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made to stand upon two feet as a man; and a man’s heart was given to it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.5",
+      "edition_verse_id": "ASV1901:DAN.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And, behold, another beast, a second, like to a bear; and it was raised up on one side, and three ribs were in its mouth between its teeth: and they said thus unto it, Arise, devour much flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.6",
+      "edition_verse_id": "ASV1901:DAN.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After this I beheld, and, lo, another, like a leopard, which had upon its back four wings of a bird; the beast had also four heads; and dominion was given to it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.7",
+      "edition_verse_id": "ASV1901:DAN.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "After this I saw in the night-visions, and, behold, a fourth beast, terrible and powerful, and strong exceedingly; and it had great iron teeth; it devoured and brake in pieces, and stamped the residue with its feet: and it was diverse from all the beasts that were before it; and it had ten horns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.8",
+      "edition_verse_id": "ASV1901:DAN.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I considered the horns, and, behold, there came up among them another horn, a little one, before which three of the first horns were plucked up by the roots: and, behold, in this horn were eyes like the eyes of a man, and a mouth speaking great things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.9",
+      "edition_verse_id": "ASV1901:DAN.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I beheld till thrones were placed, and one that was ancient of days did sit: his raiment was white as snow, and the hair of his head like pure wool; his throne was fiery flames, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wheels thereof burning fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.7.10",
+      "edition_verse_id": "ASV1901:DAN.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "A fiery stream issued and came forth from before him: thousands of thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.11",
+      "edition_verse_id": "ASV1901:DAN.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I beheld at that time because of the voice of the great words which the horn spake; I beheld even till the beast was slain, and its body destroyed, and it was given to be burned with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.12",
+      "edition_verse_id": "ASV1901:DAN.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And as for the rest of the beasts, their dominion was taken away: yet their lives were prolonged for a season and a time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.13",
+      "edition_verse_id": "ASV1901:DAN.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I saw in the night-visions, and, behold, there came with the clouds of heaven one like unto a son of man, and he came even to the ancient of days, and they brought him near before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.7.14",
+      "edition_verse_id": "ASV1901:DAN.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And there was given him dominion, and glory, and a kingdom, that all the peoples, nations, and languages should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.15",
+      "edition_verse_id": "ASV1901:DAN.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As for me, Daniel, my spirit was grieved in the midst of my body, and the visions of my head troubled me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.7.16",
+      "edition_verse_id": "ASV1901:DAN.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I came near unto one of them that stood by, and asked him the truth concerning all this. So he told me, and made me know the interpretation of the things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.17",
+      "edition_verse_id": "ASV1901:DAN.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These great beasts, which are four, are four kings, that shall arise out of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.18",
+      "edition_verse_id": "ASV1901:DAN.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But the saints of the Most High shall receive the kingdom, and possess the kingdom for ever, even for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.19",
+      "edition_verse_id": "ASV1901:DAN.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then I desired to know the truth concerning the fourth beast, which was diverse from all of them, exceeding terrible, whose teeth were of iron, and its nails of brass; which devoured, brake in pieces, and stamped the residue with its feet;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.20",
+      "edition_verse_id": "ASV1901:DAN.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and concerning the ten horns that were on its head, and the other ",
+          "kind": "text"
+        },
+        {
+          "text": "horn",
+          "kind": "supplied"
+        },
+        {
+          "text": " which came up, and before which three fell, even that horn that had eyes, and a mouth that spake great things, whose look was more stout than its fellows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.21",
+      "edition_verse_id": "ASV1901:DAN.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I beheld, and the same horn made war with the saints, and prevailed against them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.22",
+      "edition_verse_id": "ASV1901:DAN.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "until the ancient of days came, and judgment was given to the saints of the Most High, and the time came that the saints possessed the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.23",
+      "edition_verse_id": "ASV1901:DAN.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Thus he said, The fourth beast shall be a fourth kingdom upon earth, which shall be diverse from all the kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.7.24",
+      "edition_verse_id": "ASV1901:DAN.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And as for the ten horns, out of this kingdom shall ten kings arise: and another shall arise after them; and he shall be diverse from the former, and he shall put down three kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.25",
+      "edition_verse_id": "ASV1901:DAN.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he shall speak words against the Most High, and shall wear out the saints of the Most High; and he shall think to change the times and the law; and they shall be given into his hand until a time and times and half a time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.26",
+      "edition_verse_id": "ASV1901:DAN.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But the judgment shall be set, and they shall take away his dominion, to consume and to destroy it unto the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.27",
+      "edition_verse_id": "ASV1901:DAN.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the kingdom and the dominion, and the greatness of the kingdoms under the whole heaven, shall be given to the people of the saints of the Most High: his kingdom is an everlasting kingdom, and all dominions shall serve and obey him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.7.28",
+      "edition_verse_id": "ASV1901:DAN.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Here is the end of the matter. As for me, Daniel, my thoughts much troubled me, and my countenance was changed in me: but I kept the matter in my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

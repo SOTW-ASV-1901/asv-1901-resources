@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DAN",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 895,
+      "type": "scripture",
+      "printed_page": 853,
+      "running_head_first_verse": "DAN.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "DAN.1.1",
+      "last_verse": "DAN.1.20",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 896,
+      "type": "scripture",
+      "printed_page": 854,
+      "running_head_first_verse": "DAN.1.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.1.20",
+      "last_verse": "DAN.2.24",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 897,
+      "type": "scripture",
+      "printed_page": 855,
+      "running_head_first_verse": "DAN.2.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.2.24",
+      "last_verse": "DAN.2.46",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 898,
+      "type": "scripture",
+      "printed_page": 856,
+      "running_head_first_verse": "DAN.2.47",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.2.46",
+      "last_verse": "DAN.3.18",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 899,
+      "type": "scripture",
+      "printed_page": 857,
+      "running_head_first_verse": "DAN.3.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.3.18",
+      "last_verse": "DAN.4.9",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 900,
+      "type": "scripture",
+      "printed_page": 858,
+      "running_head_first_verse": "DAN.4.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.4.9",
+      "last_verse": "DAN.4.30",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 901,
+      "type": "scripture",
+      "printed_page": 859,
+      "running_head_first_verse": "DAN.4.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.4.30",
+      "last_verse": "DAN.5.12",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 902,
+      "type": "scripture",
+      "printed_page": 860,
+      "running_head_first_verse": "DAN.5.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.5.12",
+      "last_verse": "DAN.6.4",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 903,
+      "type": "scripture",
+      "printed_page": 861,
+      "running_head_first_verse": "DAN.6.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.6.4",
+      "last_verse": "DAN.6.24",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 904,
+      "type": "scripture",
+      "printed_page": 862,
+      "running_head_first_verse": "DAN.6.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.6.24",
+      "last_verse": "DAN.7.18",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 905,
+      "type": "scripture",
+      "printed_page": 863,
+      "running_head_first_verse": "DAN.7.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.7.18",
+      "last_verse": "DAN.8.11",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 906,
+      "type": "scripture",
+      "printed_page": 864,
+      "running_head_first_verse": "DAN.8.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.8.11",
+      "last_verse": "DAN.9.7",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 907,
+      "type": "scripture",
+      "printed_page": 865,
+      "running_head_first_verse": "DAN.9.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.9.7",
+      "last_verse": "DAN.9.26",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 13
+    },
+    {
+      "source_pdf_page": 908,
+      "type": "scripture",
+      "printed_page": 866,
+      "running_head_first_verse": "DAN.9.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.9.26",
+      "last_verse": "DAN.10.21",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 14
+    },
+    {
+      "source_pdf_page": 909,
+      "type": "scripture",
+      "printed_page": 867,
+      "running_head_first_verse": "DAN.11.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.10.21",
+      "last_verse": "DAN.11.20",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 15
+    },
+    {
+      "source_pdf_page": 910,
+      "type": "scripture",
+      "printed_page": 868,
+      "running_head_first_verse": "DAN.11.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.11.20",
+      "last_verse": "DAN.11.41",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 16
+    },
+    {
+      "source_pdf_page": 911,
+      "type": "scripture",
+      "printed_page": 869,
+      "running_head_first_verse": "DAN.11.42",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "DAN.11.41",
+      "last_verse": "DAN.12.13",
+      "evidence_method": "Original 1901 whole-page images visually inspected for upper and lower verse continuity, running heads, and chapter changes; not exhaustive character-by-character collation.",
+      "volume": "asv1901-daniel-pages-895-911.pdf",
+      "volume_pdf_page": 17
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-daniel-pages-895-911.pdf",
+      "first_source_pdf_page": 895,
+      "last_source_pdf_page": 911,
+      "bytes": 2069891,
+      "sha256": "07ad81e170d6decada1044b32177200f106529380a937e20131987d2a9f8cb3b"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

@@ -1,0 +1,3 @@
+# Daniel | Validation report
+
+Independent audit PASS: 12 chapters, 357 verses, 50 supplied-word italic spans, four original-print-verified differences, and all 17 original 1901 scanned pages preserved. Raw embedded-image streams matched all 17 pages, while placement and 0.5x rendered pixels matched three sampled pages; every derived data/PDF file rebuilt byte-identically from preserved inputs. All 16 physical two-page verse continuations mapped. Chapter/index JSON schema, reader JavaScript, HTTP retrieval, ZIP integrity and source provenance passed. No preceding book paths overwritten. This is chapter-level original-print checking, not exhaustive character proofreading; hosted browser smoke test not performed.

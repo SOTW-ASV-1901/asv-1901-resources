@@ -1,0 +1,42 @@
+{
+  "DAN.5.25": {
+    "original_print_checked": true,
+    "decision": "correct_derived_to_original_print",
+    "verified_source": "Original ASV1901 source PDF page 902, printed page 860",
+    "evidence": "Inscription printed as capitalized MENE, MENE, TEKEL, UPHARSIN.",
+    "correction_to_derived_data": {
+      "from": "mene, mene, tekel, upharsin",
+      "to": "MENE, MENE, TEKEL, UPHARSIN"
+    }
+  },
+  "DAN.5.26": {
+    "original_print_checked": true,
+    "decision": "correct_derived_to_original_print",
+    "verified_source": "Original ASV1901 source PDF page 902, printed page 860",
+    "evidence": "MENE capitalized in print",
+    "correction_to_derived_data": {
+      "from": "mene;",
+      "to": "MENE;"
+    }
+  },
+  "DAN.5.27": {
+    "original_print_checked": true,
+    "decision": "correct_derived_to_original_print",
+    "verified_source": "Original ASV1901 source PDF page 902, printed page 860",
+    "evidence": "TEKEL capitalized in print",
+    "correction_to_derived_data": {
+      "from": "tekel;",
+      "to": "TEKEL;"
+    }
+  },
+  "DAN.5.28": {
+    "original_print_checked": true,
+    "decision": "correct_derived_to_original_print",
+    "verified_source": "Original ASV1901 source PDF page 902, printed page 860",
+    "evidence": "PERES capitalized in print",
+    "correction_to_derived_data": {
+      "from": "peres;",
+      "to": "PERES;"
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DAN",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "DAN.2.1",
+      "edition_verse_id": "ASV1901:DAN.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.2.2",
+      "edition_verse_id": "ASV1901:DAN.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then the king commanded to call the magicians, and the enchanters, and the sorcerers, and the Chaldeans, to tell the king his dreams. So they came in and stood before the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.3",
+      "edition_verse_id": "ASV1901:DAN.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the king said unto them, I have dreamed a dream, and my spirit is troubled to know the dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.4",
+      "edition_verse_id": "ASV1901:DAN.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then spake the Chaldeans to the king in the Syrian language, O king, live for ever: tell thy servants the dream, and we will show the interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.5",
+      "edition_verse_id": "ASV1901:DAN.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The king answered and said to the Chaldeans, The thing is gone from me: if ye make not known unto me the dream and the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.6",
+      "edition_verse_id": "ASV1901:DAN.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But if ye show the dream and the interpretation thereof, ye shall receive of me gifts and rewards and great honor: therefore show me the dream and the interpretation thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.7",
+      "edition_verse_id": "ASV1901:DAN.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They answered the second time and said, Let the king tell his servants the dream, and we will show the interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.8",
+      "edition_verse_id": "ASV1901:DAN.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The king answered and said, I know of a certainty that ye would gain time, because ye see the thing is gone from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.9",
+      "edition_verse_id": "ASV1901:DAN.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But if ye make not known unto me the dream, there is but one law for you; for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can show me the interpretation thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.10",
+      "edition_verse_id": "ASV1901:DAN.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The Chaldeans answered before the king, and said, There is not a man upon the earth that can show the king’s matter, forasmuch as no king, lord, or ruler, hath asked such a thing of any magician, or enchanter, or Chaldean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.11",
+      "edition_verse_id": "ASV1901:DAN.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it is a rare thing that the king requireth, and there is no other that can show it before the king, except the gods, whose dwelling is not with flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.12",
+      "edition_verse_id": "ASV1901:DAN.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.13",
+      "edition_verse_id": "ASV1901:DAN.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So the decree went forth, and the wise men were to be slain; and they sought Daniel and his companions to be slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.14",
+      "edition_verse_id": "ASV1901:DAN.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Daniel returned answer with counsel and prudence to Arioch the captain of the king’s guard, who was gone forth to slay the wise men of Babylon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.2.15",
+      "edition_verse_id": "ASV1901:DAN.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "he answered and said to Arioch the king’s captain, Wherefore is the decree so urgent from the king? Then Arioch made the thing known to Daniel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.16",
+      "edition_verse_id": "ASV1901:DAN.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Daniel went in, and desired of the king that he would appoint him a time, and he would show the king the interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.17",
+      "edition_verse_id": "ASV1901:DAN.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.2.18",
+      "edition_verse_id": "ASV1901:DAN.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "that they would desire mercies of the God of heaven concerning this secret; that Daniel and his companions should not perish with the rest of the wise men of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.19",
+      "edition_verse_id": "ASV1901:DAN.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then was the secret revealed unto Daniel in a vision of the night. Then Daniel blessed the God of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.20",
+      "edition_verse_id": "ASV1901:DAN.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Daniel answered and said, Blessed be the name of God for ever and ever; for wisdom and might are his.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.21",
+      "edition_verse_id": "ASV1901:DAN.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he changeth the times and the seasons; he removeth kings, and setteth up kings; he giveth wisdom unto the wise, and knowledge to them that have understanding;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.22",
+      "edition_verse_id": "ASV1901:DAN.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "he revealeth the deep and secret things; he knoweth what is in the darkness, and the light dwelleth with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.23",
+      "edition_verse_id": "ASV1901:DAN.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast now made known unto me what we desired of thee; for thou hast made known unto us the king’s matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.24",
+      "edition_verse_id": "ASV1901:DAN.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore Daniel went in unto Arioch, whom the king had appointed to destroy the wise men of Babylon; he went and said thus unto him: Destroy not the wise men of Babylon; bring me in before the king, and I will show unto the king the interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.25",
+      "edition_verse_id": "ASV1901:DAN.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the children of the captivity of Judah, that will make known unto the king the interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.2.26",
+      "edition_verse_id": "ASV1901:DAN.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.27",
+      "edition_verse_id": "ASV1901:DAN.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Daniel answered before the king, and said, The secret which the king hath demanded can neither wise men, enchanters, magicians, nor soothsayers, show unto the king;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.28",
+      "edition_verse_id": "ASV1901:DAN.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "but there is a God in heaven that revealeth secrets, and he hath made known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.29",
+      "edition_verse_id": "ASV1901:DAN.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "as for thee, O king, thy thoughts came ",
+          "kind": "text"
+        },
+        {
+          "text": "into thy mind",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon thy bed, what should come to pass hereafter; and he that revealeth secrets hath made known to thee what shall come to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.30",
+      "edition_verse_id": "ASV1901:DAN.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but to the intent that the interpretation may be made known to the king, and that thou mayest know the thoughts of thy heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.31",
+      "edition_verse_id": "ASV1901:DAN.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Thou, O king, sawest, and, behold, a great image. This image, which was mighty, and whose brightness was excellent, stood before thee; and the aspect thereof was terrible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.2.32",
+      "edition_verse_id": "ASV1901:DAN.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "As for this image, its head was of fine gold, its breast and its arms of silver, its belly and its thighs of brass,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.33",
+      "edition_verse_id": "ASV1901:DAN.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "its legs of iron, its feet part of iron, and part of clay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.34",
+      "edition_verse_id": "ASV1901:DAN.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Thou sawest till that a stone was cut out without hands, which smote the image upon its feet that were of iron and clay, and brake them in pieces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.35",
+      "edition_verse_id": "ASV1901:DAN.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then was the iron, the clay, the brass, the silver, and the gold, broken in pieces together, and became like the chaff of the summer threshing-floors; and the wind carried them away, so that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.36",
+      "edition_verse_id": "ASV1901:DAN.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "This is the dream; and we will tell the interpretation thereof before the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.2.37",
+      "edition_verse_id": "ASV1901:DAN.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Thou, O king, art king of kings, unto whom the God of heaven hath given the kingdom, the power, and the strength, and the glory;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.38",
+      "edition_verse_id": "ASV1901:DAN.2.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "and wheresoever the children of men dwell, the beasts of the field and the birds of the heavens hath he given into thy hand, and hath made thee to rule over them all: thou art the head of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.39",
+      "edition_verse_id": "ASV1901:DAN.2.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And after thee shall arise another kingdom inferior to thee; and another third kingdom of brass, which shall bear rule over all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.40",
+      "edition_verse_id": "ASV1901:DAN.2.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the fourth kingdom shall be strong as iron, forasmuch as iron breaketh in pieces and subdueth all things; and as iron that crusheth all these, shall it break in pieces and crush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.41",
+      "edition_verse_id": "ASV1901:DAN.2.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, it shall be a divided kingdom; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.42",
+      "edition_verse_id": "ASV1901:DAN.2.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.43",
+      "edition_verse_id": "ASV1901:DAN.2.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And whereas thou sawest the iron mixed with miry clay, they shall mingle themselves with the seed of men; but they shall not cleave one to another, even as iron doth not mingle with clay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.44",
+      "edition_verse_id": "ASV1901:DAN.2.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And in the days of those kings shall the God of heaven set up a kingdom which shall never be destroyed, nor shall the sovereignty thereof be left to another people; but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.45",
+      "edition_verse_id": "ASV1901:DAN.2.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Forasmuch as thou sawest that a stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.46",
+      "edition_verse_id": "ASV1901:DAN.2.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odors unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.2.47",
+      "edition_verse_id": "ASV1901:DAN.2.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The king answered unto Daniel, and said, Of a truth your God is the God of gods, and the Lord of kings, and a revealer of secrets, seeing thou hast been able to reveal this secret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.48",
+      "edition_verse_id": "ASV1901:DAN.2.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Then the king made Daniel great, and gave him many great gifts, and made him to rule over the whole province of Babylon, and to be chief governor over all the wise men of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.2.49",
+      "edition_verse_id": "ASV1901:DAN.2.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abed-nego, over the affairs of the province of Babylon: but Daniel was in the gate of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

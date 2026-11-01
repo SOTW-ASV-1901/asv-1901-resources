@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DAN",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "DAN.8.1",
+      "edition_verse_id": "ASV1901:DAN.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me, Daniel, after that which appeared unto me at the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.8.2",
+      "edition_verse_id": "ASV1901:DAN.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I saw in the vision; now it was so, that when I saw, I was in Shushan the palace, which is in the province of Elam; and I saw in the vision, and I was by the river Ulai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.3",
+      "edition_verse_id": "ASV1901:DAN.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.4",
+      "edition_verse_id": "ASV1901:DAN.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I saw the ram pushing westward, and northward, and southward; and no beasts could stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and magnified himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.5",
+      "edition_verse_id": "ASV1901:DAN.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And as I was considering, behold, a he-goat came from the west over the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.8.6",
+      "edition_verse_id": "ASV1901:DAN.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he came to the ram that had the two horns, which I saw standing before the river, and ran upon him in the fury of his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.7",
+      "edition_verse_id": "ASV1901:DAN.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I saw him come close unto the ram, and he was moved with anger against him, and smote the ram, and brake his two horns; and there was no power in the ram to stand before him; but he cast him down to the ground, and trampled upon him; and there was none that could deliver the ram out of his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.8",
+      "edition_verse_id": "ASV1901:DAN.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the he-goat magnified himself exceedingly: and when he was strong, the great horn was broken; and instead of it there came up four notable ",
+          "kind": "text"
+        },
+        {
+          "text": "horns",
+          "kind": "supplied"
+        },
+        {
+          "text": " toward the four winds of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.9",
+      "edition_verse_id": "ASV1901:DAN.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the glorious ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.8.10",
+      "edition_verse_id": "ASV1901:DAN.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And it waxed great, even to the host of heaven; and some of the host and of the stars it cast down to the ground, and trampled upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.11",
+      "edition_verse_id": "ASV1901:DAN.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yea, it magnified itself, even to the prince of the host; and it took away from him the continual ",
+          "kind": "text"
+        },
+        {
+          "text": "burnt-offering",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the place of his sanctuary was cast down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.12",
+      "edition_verse_id": "ASV1901:DAN.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the host was given over ",
+          "kind": "text"
+        },
+        {
+          "text": "to it",
+          "kind": "supplied"
+        },
+        {
+          "text": " together with the continual ",
+          "kind": "text"
+        },
+        {
+          "text": "burnt-offering",
+          "kind": "supplied"
+        },
+        {
+          "text": " through transgression; and it cast down truth to the ground, and it did ",
+          "kind": "text"
+        },
+        {
+          "text": "its pleasure",
+          "kind": "supplied"
+        },
+        {
+          "text": " and prospered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.13",
+      "edition_verse_id": "ASV1901:DAN.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then I heard a holy one speaking; and another holy one said unto that certain one who spake, How long shall be the vision ",
+          "kind": "text"
+        },
+        {
+          "text": "concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " the continual ",
+          "kind": "text"
+        },
+        {
+          "text": "burnt-offering",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the transgression that maketh desolate, to give both the sanctuary and the host to be trodden under foot?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.14",
+      "edition_verse_id": "ASV1901:DAN.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he said unto me, Unto two thousand and three hundred evenings ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " mornings; then shall the sanctuary be cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.15",
+      "edition_verse_id": "ASV1901:DAN.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it came to pass, when I, even I Daniel, had seen the vision, that I sought to understand it; and, behold, there stood before me as the appearance of a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.8.16",
+      "edition_verse_id": "ASV1901:DAN.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I heard a man’s voice between ",
+          "kind": "text"
+        },
+        {
+          "text": "the banks of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Ulai, which called, and said, Gabriel, make this man to understand the vision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.17",
+      "edition_verse_id": "ASV1901:DAN.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So he came near where I stood; and when he came, I was affrighted, and fell upon my face: but he said unto me, Understand, O son of man; for the vision belongeth to the time of the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.18",
+      "edition_verse_id": "ASV1901:DAN.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now as he was speaking with me, I fell into a deep sleep with my face toward the ground; but he touched me, and set me upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.19",
+      "edition_verse_id": "ASV1901:DAN.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he said, Behold, I will make thee know what shall be in the latter time of the indignation; for it belongeth to the appointed time of the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.20",
+      "edition_verse_id": "ASV1901:DAN.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The ram which thou sawest, that had the two horns, they are the kings of Media and Persia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.21",
+      "edition_verse_id": "ASV1901:DAN.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the rough he-goat is the king of Greece: and the great horn that is between his eyes is the first king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.22",
+      "edition_verse_id": "ASV1901:DAN.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And as for that which was broken, in the place whereof four stood up, four kingdoms shall stand up out of the nation, but not with his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.23",
+      "edition_verse_id": "ASV1901:DAN.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.24",
+      "edition_verse_id": "ASV1901:DAN.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And his power shall be mighty, but not by his own power; and he shall destroy wonderfully, and shall prosper and do ",
+          "kind": "text"
+        },
+        {
+          "text": "his pleasure",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and he shall destroy the mighty ones and the holy people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.25",
+      "edition_verse_id": "ASV1901:DAN.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And through his policy he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and in ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " security shall he destroy many: he shall also stand up against the prince of princes; but he shall be broken without hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.26",
+      "edition_verse_id": "ASV1901:DAN.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the vision of the evenings and mornings which hath been told is true: but shut thou up the vision; for it belongeth to many days ",
+          "kind": "text"
+        },
+        {
+          "text": "to come",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.8.27",
+      "edition_verse_id": "ASV1901:DAN.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And I, Daniel, fainted, and was sick certain days; then I rose up, and did the king’s business: and I wondered at the vision, but none understood it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

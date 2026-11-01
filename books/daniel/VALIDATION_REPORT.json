@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "book_code": "DAN",
+  "schema_version": "1.0.0",
+  "chapter_count": 12,
+  "verse_count": 357,
+  "supplied_italic_spans": 50,
+  "digital_witness_disagreements": 4,
+  "digital_difference_resolution": "Four inscription capitalization readings in DAN.5.25\u201328 checked against 1901 PDF page 902; derived readings corrected, original source witnesses unchanged.",
+  "original_1901_pdf_pages": 17,
+  "source_pdf_page_range": [
+    895,
+    911
+  ],
+  "printed_page_range": [
+    853,
+    869
+  ],
+  "two_page_verses": 16,
+  "historical_facsimile_volumes": 1,
+  "original_page_embedded_raw_image_stream_placement_equivalence": "PASS_17_OF_17_RAW_IMAGE_STREAMS;_PLACEMENT_SAMPLED_3_OF_17",
+  "source_page_rendered_pixel_equivalence": "PASS_3_OF_17_SAMPLED_AT_0.5X",
+  "chapter_json_schema": "PASS",
+  "facsimile_page_index_schema": "PASS",
+  "italics_independent_usfm_agreement": "PASS_50_OF_50",
+  "reader_js_syntax": "PASS",
+  "local_http_resources": 6,
+  "github_browser_upload_file_cap": "UNDER_99",
+  "hosted_browser_smoke_test": "NOT_PERFORMED",
+  "exhaustive_character_by_character_print_collation": "NOT_PERFORMED",
+  "witness_independence": "UNESTABLISHED",
+  "unverified_strongs_alignment": "NOT_IMPORTED",
+  "complete_independent_data_facsimile_rebuild": "PASS",
+  "zip_crc_sha256_manifest": "PASS"
+}

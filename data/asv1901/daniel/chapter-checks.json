@@ -1,0 +1,126 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      895,
+      896
+    ],
+    "first": "DAN.1.1",
+    "last": "DAN.1.21"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      896,
+      897,
+      898
+    ],
+    "first": "DAN.2.1",
+    "last": "DAN.2.49"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      898,
+      899
+    ],
+    "first": "DAN.3.1",
+    "last": "DAN.3.30"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      899,
+      900,
+      901
+    ],
+    "first": "DAN.4.1",
+    "last": "DAN.4.37"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      901,
+      902
+    ],
+    "first": "DAN.5.1",
+    "last": "DAN.5.31"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      902,
+      903,
+      904
+    ],
+    "first": "DAN.6.1",
+    "last": "DAN.6.28"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      904,
+      905
+    ],
+    "first": "DAN.7.1",
+    "last": "DAN.7.28"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      905,
+      906
+    ],
+    "first": "DAN.8.1",
+    "last": "DAN.8.27"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      906,
+      907,
+      908
+    ],
+    "first": "DAN.9.1",
+    "last": "DAN.9.27"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      908,
+      909
+    ],
+    "first": "DAN.10.1",
+    "last": "DAN.10.21"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      909,
+      910,
+      911
+    ],
+    "first": "DAN.11.1",
+    "last": "DAN.11.45"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using the full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      911
+    ],
+    "first": "DAN.12.1",
+    "last": "DAN.12.13"
+  }
+}

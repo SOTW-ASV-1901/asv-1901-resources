@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "DAN",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "DAN.4.1",
+      "edition_verse_id": "ASV1901:DAN.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Nebuchadnezzar the king, unto all the peoples, nations, and languages, that dwell in all the earth: Peace be multiplied unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.4.2",
+      "edition_verse_id": "ASV1901:DAN.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It hath seemed good unto me to show the signs and wonders that the Most High God hath wrought toward me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.3",
+      "edition_verse_id": "ASV1901:DAN.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.4",
+      "edition_verse_id": "ASV1901:DAN.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.4.5",
+      "edition_verse_id": "ASV1901:DAN.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I saw a dream which made me afraid; and the thoughts upon my bed and the visions of my head troubled me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.6",
+      "edition_verse_id": "ASV1901:DAN.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore made I a decree to bring in all the wise men of Babylon before me, that they might make known unto me the interpretation of the dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.7",
+      "edition_verse_id": "ASV1901:DAN.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then came in the magicians, the enchanters, the Chaldeans, and the soothsayers; and I told the dream before them; but they did not make known unto me the interpretation thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.8",
+      "edition_verse_id": "ASV1901:DAN.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods: and I told the dream before him, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.9",
+      "edition_verse_id": "ASV1901:DAN.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.10",
+      "edition_verse_id": "ASV1901:DAN.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thus were the visions of my head upon my bed: I saw, and, behold, a tree in the midst of the earth; and the height thereof was great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.11",
+      "edition_verse_id": "ASV1901:DAN.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.12",
+      "edition_verse_id": "ASV1901:DAN.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The leaves thereof were fair, and the fruit thereof much, and in it was food for all: the beasts of the field had shadow under it, and the birds of the heavens dwelt in the branches thereof, and all flesh was fed from it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.13",
+      "edition_verse_id": "ASV1901:DAN.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I saw in the visions of my head upon my bed, and, behold, a watcher and a holy one came down from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.14",
+      "edition_verse_id": "ASV1901:DAN.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He cried aloud, and said thus, Hew down the tree, and cut off its branches, shake off its leaves, and scatter its fruit: let the beasts get away from under it, and the fowls from its branches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.15",
+      "edition_verse_id": "ASV1901:DAN.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Nevertheless leave the stump of its roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven: and let his portion be with the beasts in the grass of the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.16",
+      "edition_verse_id": "ASV1901:DAN.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.17",
+      "edition_verse_id": "ASV1901:DAN.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The sentence is by the decree of the watchers, and the demand by the word of the holy ones; to the intent that the living may know that the Most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the lowest of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.18",
+      "edition_verse_id": "ASV1901:DAN.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "This dream I, king Nebuchadnezzar, have seen; and thou, O Belteshazzar, declare the interpretation, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation; but thou art able; for the spirit of the holy gods is in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.19",
+      "edition_verse_id": "ASV1901:DAN.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then Daniel, whose name was Belteshazzar, was stricken dumb for a while, and his thoughts troubled him. The king answered and said, Belteshazzar, let not the dream, or the interpretation, trouble thee. Belteshazzar answered and said, My lord, the dream be to them that hate thee, and the interpretation thereof to thine adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.4.20",
+      "edition_verse_id": "ASV1901:DAN.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The tree that thou sawest, which grew, and was strong, whose height reached unto heaven, and the sight thereof to all the earth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.21",
+      "edition_verse_id": "ASV1901:DAN.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "whose leaves were fair, and the fruit thereof much, and in it was food for all; under which the beasts of the field dwelt, and upon whose branches the birds of the heavens had their habitation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.22",
+      "edition_verse_id": "ASV1901:DAN.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "it is thou, O king, that art grown and become strong; for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.23",
+      "edition_verse_id": "ASV1901:DAN.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And whereas the king saw a watcher and a holy one coming down from heaven, and saying, Hew down the tree, and destroy it; nevertheless leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field, and let it be wet with the dew of heaven: and let his portion be with the beasts of the field, till seven times pass over him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.24",
+      "edition_verse_id": "ASV1901:DAN.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "this is the interpretation, O king, and it is the decree of the Most High, which is come upon my lord the king:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.25",
+      "edition_verse_id": "ASV1901:DAN.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "that thou shalt be driven from men, and thy dwelling shall be with the beasts of the field, and thou shalt be made to eat grass as oxen, and shalt be wet with the dew of heaven, and seven times shall pass over thee; till thou know that the Most High ruleth in the kingdom of men, and giveth it to whomsoever he will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.26",
+      "edition_verse_id": "ASV1901:DAN.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And whereas they commanded to leave the stump of the roots of the tree; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.27",
+      "edition_verse_id": "ASV1901:DAN.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by showing mercy to the poor; if there may be a lengthening of thy tranquillity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.28",
+      "edition_verse_id": "ASV1901:DAN.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "All this came upon the king Nebuchadnezzar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.4.29",
+      "edition_verse_id": "ASV1901:DAN.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "At the end of twelve months he was walking in the royal palace of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.30",
+      "edition_verse_id": "ASV1901:DAN.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The king spake and said, Is not this great Babylon, which I have built for the royal dwelling-place, by the might of my power and for the glory of my majesty?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.31",
+      "edition_verse_id": "ASV1901:DAN.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "While the word was in the king’s mouth, there fell a voice from heaven, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O king Nebuchadnezzar, to thee it is spoken: The kingdom is departed from thee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.32",
+      "edition_verse_id": "ASV1901:DAN.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "and thou shalt be driven from men; and thy dwelling shall be with the beasts of the field; thou shalt be made to eat grass as oxen; and seven times shall pass over thee; until thou know that the Most High ruleth in the kingdom of men, and giveth it to whomsoever he will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.33",
+      "edition_verse_id": "ASV1901:DAN.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hair was grown like eagles’ ",
+          "kind": "text"
+        },
+        {
+          "text": "feathers",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and his nails like birds’ ",
+          "kind": "text"
+        },
+        {
+          "text": "claws",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.34",
+      "edition_verse_id": "ASV1901:DAN.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And at the end of the days I, Nebuchadnezzar, lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the Most High, and I praised and honored him that liveth for ever; for his dominion is an everlasting dominion, and his kingdom from generation to generation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.4.35",
+      "edition_verse_id": "ASV1901:DAN.4.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "and all the inhabitants of the earth are reputed as nothing; and he doeth according to his will in the army of heaven, and among the inhabitants of the earth; and none can stay his hand, or say unto him, What doest thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.36",
+      "edition_verse_id": "ASV1901:DAN.4.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "At the same time mine understanding returned unto me; and for the glory of my kingdom, my majesty and brightness returned unto me; and my counsellors and my lords sought unto me; and I was established in my kingdom, and excellent greatness was added unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.4.37",
+      "edition_verse_id": "ASV1901:DAN.4.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those that walk in pride he is able to abase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
