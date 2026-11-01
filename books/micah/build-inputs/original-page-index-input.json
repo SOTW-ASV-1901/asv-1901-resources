@@ -1,0 +1,56 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 939,
+      "type": "scripture",
+      "printed_page": 895,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MIC.1.1",
+      "last_verse": "MIC.2.4",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 940,
+      "type": "scripture",
+      "printed_page": 896,
+      "running_head_first_verse": "MIC.2.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.2.4",
+      "last_verse": "MIC.4.2",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 941,
+      "type": "scripture",
+      "printed_page": 897,
+      "running_head_first_verse": "MIC.4.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.4.2",
+      "last_verse": "MIC.5.8",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 942,
+      "type": "scripture",
+      "printed_page": 898,
+      "running_head_first_verse": "MIC.5.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.5.8",
+      "last_verse": "MIC.7.3",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 943,
+      "type": "scripture",
+      "printed_page": 899,
+      "running_head_first_verse": "MIC.7.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.7.3",
+      "last_verse": "MIC.7.20",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    }
+  ]
+}

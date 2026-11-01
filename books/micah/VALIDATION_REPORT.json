@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "source_witness_italics": "PASS",
+  "digital_text_differences": 0,
+  "original_scan_page_index": "PASS",
+  "whole_page_image_streams_and_placements": "PASS_5_OF_5",
+  "full_page_renders_at_0_34x": "PASS_5_OF_5",
+  "rebuild_byte_identical": "PASS",
+  "schema_validation": "PASS",
+  "reader_js_syntax": "PASS",
+  "source_hashes": "PASS",
+  "non_exhaustive_print_proofreading": "NOT_PERFORMED",
+  "hosted_browser_test": "NOT_PERFORMED",
+  "witness_independence": "NOT_ESTABLISHED",
+  "unverified_strongs_word_tags": "NOT_IMPORTED",
+  "book_code": "MIC",
+  "chapters": 7,
+  "verses": 105,
+  "italics": 21,
+  "pages": 5,
+  "scripture_pages": 5,
+  "map_pages": 0,
+  "blank_map_reverses": 0,
+  "two_page_verses": 4,
+  "pdf_volumes": 1,
+  "full_raw_image_pages_passed": 5,
+  "full_rendered_pages_passed": 5,
+  "print_page_range": [
+    895,
+    899
+  ],
+  "source_pdf_range": [
+    939,
+    943
+  ],
+  "http_resources_fetched": 11
+}

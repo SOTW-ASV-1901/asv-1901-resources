@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MIC",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 939,
+      "type": "scripture",
+      "printed_page": 895,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MIC.1.1",
+      "last_verse": "MIC.2.4",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-micah-pages-939-943.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 940,
+      "type": "scripture",
+      "printed_page": 896,
+      "running_head_first_verse": "MIC.2.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.2.4",
+      "last_verse": "MIC.4.2",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-micah-pages-939-943.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 941,
+      "type": "scripture",
+      "printed_page": 897,
+      "running_head_first_verse": "MIC.4.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.4.2",
+      "last_verse": "MIC.5.8",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-micah-pages-939-943.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 942,
+      "type": "scripture",
+      "printed_page": 898,
+      "running_head_first_verse": "MIC.5.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.5.8",
+      "last_verse": "MIC.7.3",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-micah-pages-939-943.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 943,
+      "type": "scripture",
+      "printed_page": 899,
+      "running_head_first_verse": "MIC.7.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MIC.7.3",
+      "last_verse": "MIC.7.20",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-micah-pages-939-943.pdf",
+      "volume_pdf_page": 5
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-micah-pages-939-943.pdf",
+      "first_source_pdf_page": 939,
+      "last_source_pdf_page": 943,
+      "bytes": 565111,
+      "sha256": "06aefbf1e6223e8c8cb83512527e3650a625e4708fa8d42173132fa6f2bc194a"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

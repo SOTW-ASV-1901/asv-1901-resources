@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JON",
+  "book_name": "Jonah",
+  "book_order": 32,
+  "canonical_ids": "JON.{chapter}.{verse}",
+  "edition_ids": "ASV1901:JON.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 48,
+  "chapter_path_template": "jonah/chapters/{chapter:02d}.json",
+  "facsimile_index": "jonah/page-index.json",
+  "predecessor_book_code": "OBA",
+  "successor_book_code": "MIC",
+  "source_provenance": "books/jonah/SOURCE_INVENTORY.json",
+  "reader": "books/jonah/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

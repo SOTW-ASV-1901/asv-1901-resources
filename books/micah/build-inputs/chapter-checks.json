@@ -1,0 +1,69 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      939
+    ],
+    "first": "MIC.1.1",
+    "last": "MIC.1.16"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      939,
+      940
+    ],
+    "first": "MIC.2.1",
+    "last": "MIC.2.13"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      940
+    ],
+    "first": "MIC.3.1",
+    "last": "MIC.3.12"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      940,
+      941
+    ],
+    "first": "MIC.4.1",
+    "last": "MIC.4.13"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      941,
+      942
+    ],
+    "first": "MIC.5.1",
+    "last": "MIC.5.15"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      942
+    ],
+    "first": "MIC.6.1",
+    "last": "MIC.6.16"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      942,
+      943
+    ],
+    "first": "MIC.7.1",
+    "last": "MIC.7.20"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MIC",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "MIC.4.1",
+      "edition_verse_id": "ASV1901:MIC.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But in the latter days it shall come to pass, that the mountain of Jehovah’s house shall be established on the top of the mountains, and it shall be exalted above the hills; and peoples shall flow unto it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.4.2",
+      "edition_verse_id": "ASV1901:MIC.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And many nations shall go and say, Come ye, and let us go up to the mountain of Jehovah, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths. For out of Zion shall go forth the law, and the word of Jehovah from Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.3",
+      "edition_verse_id": "ASV1901:MIC.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and he will judge between many peoples, and will decide concerning strong nations afar off: and they shall beat their swords into plowshares, and their spears into pruning-hooks; nation shall not lift up sword against nation, neither shall they learn war any more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.4",
+      "edition_verse_id": "ASV1901:MIC.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But they shall sit every man under his vine and under his fig-tree; and none shall make them afraid: for the mouth of Jehovah of hosts hath spoken it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.5",
+      "edition_verse_id": "ASV1901:MIC.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For all the peoples walk every one in the name of his god; and we will walk in the name of Jehovah our God for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.6",
+      "edition_verse_id": "ASV1901:MIC.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In that day, saith Jehovah, will I assemble that which is lame, and I will gather that which is driven away, and that which I have afflicted;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.4.7",
+      "edition_verse_id": "ASV1901:MIC.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and I will make that which was lame a remnant, and that which was cast far off a strong nation: and Jehovah will reign over them in mount Zion from henceforth even for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.8",
+      "edition_verse_id": "ASV1901:MIC.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And thou, O tower of the flock, the hill of the daughter of Zion, unto thee shall it come, yea, the former dominion shall come, the kingdom of the daughter of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.9",
+      "edition_verse_id": "ASV1901:MIC.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Now why dost thou cry out aloud? Is there no king in thee, is thy counsellor perished, that pangs have taken hold of thee as of a woman in travail?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.4.10",
+      "edition_verse_id": "ASV1901:MIC.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Be in pain, and labor to bring forth, O daughter of Zion, like a woman in travail; for now shalt thou go forth out of the city, and shalt dwell in the field, and shalt come even unto Babylon: there shalt thou be rescued; there will Jehovah redeem thee from the hand of thine enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.11",
+      "edition_verse_id": "ASV1901:MIC.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now many nations are assembled against thee, that say, Let her be defiled, and let our eye see ",
+          "kind": "text"
+        },
+        {
+          "text": "our desire",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.12",
+      "edition_verse_id": "ASV1901:MIC.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But they know not the thoughts of Jehovah, neither understand they his counsel; for he hath gathered them as the sheaves to the threshing-floor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.4.13",
+      "edition_verse_id": "ASV1901:MIC.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Arise and thresh, O daughter of Zion; for I will make thy horn iron, and I will make thy hoofs brass; and thou shalt beat in pieces many peoples: and I will devote their gain unto Jehovah, and their substance unto the Lord of the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

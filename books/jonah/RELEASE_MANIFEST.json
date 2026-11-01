@@ -1,0 +1,41 @@
+{
+  "status": "INDEPENDENTLY_VALIDATED",
+  "edition": "ASV1901",
+  "book": "JON",
+  "chapter_count": 4,
+  "verse_count": 48,
+  "source_hashes": {
+    "primary_usx": "2b10300e377242e3a422ec74173c7b3de334591c50d1a935d7e2ee7240cc26bc",
+    "comparison_usfm": "902f099114d264585e8fef618751e495f0f018b2f69687c930ccee1459091e7d",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/jonah/DATA_CONTRACT.md": "1621316e8c5ac3d2b94fc8039cd71cf39096bc4daecfb8ed76cc60770d5ebfe1",
+    "books/jonah/INSTALLATION_NOTES.md": "3e156d8677e00f604ea7fde20c527cf07f8678d69ad75c6f53a113ae8d77bc64",
+    "books/jonah/README.md": "591c584cbd36b132fb2d9ab383b5d2086ecd3d520ce654518035cfbe55af7e86",
+    "books/jonah/SOURCE_INVENTORY.json": "7b2bd5c543c4ec82bfc16659188c8f5fab8b8a1b3adc2e26200bd6bceb797bf3",
+    "books/jonah/UPLOAD_PACKAGE_AUDIT.md": "67c15ea74dba4a57fe9827a450562041f4d07ee8fba1460333033e916a911330",
+    "books/jonah/VALIDATION_REPORT.json": "25cbae325a7433364e4e40e9ec31197e48bf6cfee26efb2395fb05d2524165a3",
+    "books/jonah/VALIDATION_REPORT.md": "505d402ea45871f2836f011acb0b24d62c426c3467aafa1ee01ac918723ef6ef",
+    "books/jonah/build-inputs/chapter-checks.json": "159121b690f27dabb1578d01e12fa7c980f49ec37ecc8ee151cd6e6dbbe626ec",
+    "books/jonah/build-inputs/original-page-index-input.json": "ee81fcab876e1fd4244154aede9cf5d27e5e64885368d1d57f277f9707b085f4",
+    "books/jonah/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/jonah/build-inputs/spanning-verses.json": "ea07001a3b237e5527075e0c98a43ac63646d5a42bcadb38e553163aa7ce5d0f",
+    "books/jonah/index.html": "566f2904b4574258747452b9fe0b53d98cfa2495b049ade016d6bf09b60dea22",
+    "books/jonah/schemas/asv1901-jonah-chapter.schema.json": "7a1c8637159aa0b34e8708a47b893a6a7e0983190b11dd9c3037bae356bfbff4",
+    "books/jonah/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/jonah/scripts/build_jonah.py": "d9e3144962693b57eaa466a84e8f4958c654a7db7b9973a3dcb25e4535fe1a3b",
+    "books/jonah/scripts/validate_release.py": "7fcd3579f4ce21f862bf4a5f6e82022f4a9275d3b14f7b97a129477c45961bd3",
+    "books/jonah/site/index.html": "f306371f8180a2cd8ba5d18dc67fe6765c6dfa2f7cf32893acfee93e09bce927",
+    "books/jonah/sources/asv1901-english-only/32-JON.usx": "2b10300e377242e3a422ec74173c7b3de334591c50d1a935d7e2ee7240cc26bc",
+    "books/jonah/sources/comparison-only/33-JONeng-asv.usfm": "902f099114d264585e8fef618751e495f0f018b2f69687c930ccee1459091e7d",
+    "data/asv1901/catalog-jonah.json": "d7cbff821e283f963582a0ad37e82b3ae33202801ba84ae95a83d3fd4a05e7f7",
+    "data/asv1901/jonah/chapter-checks.json": "159121b690f27dabb1578d01e12fa7c980f49ec37ecc8ee151cd6e6dbbe626ec",
+    "data/asv1901/jonah/chapters/01.json": "5d80cfe3a43a6e2a4ab3baf90e892e70440ba77ebecf9d45d35ecf2c001704fa",
+    "data/asv1901/jonah/chapters/02.json": "c30280f33d271bdaf6e6a39c55e5996562e94c7725ca5334fa1c2d11fadb51c4",
+    "data/asv1901/jonah/chapters/03.json": "c6d3f0d95987b27aaa8fbc9856c1682b68093b566b8158855d24bbc98824a35e",
+    "data/asv1901/jonah/chapters/04.json": "468a0ca808bafb48074364f837b2cb2b498406585f394353477355c47aab6a8d",
+    "data/asv1901/jonah/facsimile/asv1901-jonah-pages-936-938.pdf": "938602ca9711681bcde053523e3c240d3bb681393bc5f3cb7986281c320e9215",
+    "data/asv1901/jonah/page-index.json": "a77d25b3fe0a49f18ab74dc84269c94bebd11766bc7fa4f904a9f79e283ce6a8"
+  }
+}

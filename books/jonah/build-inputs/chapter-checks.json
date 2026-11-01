@@ -1,0 +1,40 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      936
+    ],
+    "first": "JON.1.1",
+    "last": "JON.1.17"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      936,
+      937
+    ],
+    "first": "JON.2.1",
+    "last": "JON.2.10"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      937
+    ],
+    "first": "JON.3.1",
+    "last": "JON.3.10"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      937,
+      938
+    ],
+    "first": "JON.4.1",
+    "last": "JON.4.11"
+  }
+}

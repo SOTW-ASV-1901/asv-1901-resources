@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JON",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JON.2.1",
+      "edition_verse_id": "ASV1901:JON.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jonah prayed unto Jehovah his God out of the fish’s belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.2",
+      "edition_verse_id": "ASV1901:JON.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said,\nI called by reason of mine affliction unto Jehovah,\nAnd he answered me;\nOut of the belly of Sheol cried I,",
+          "kind": "text"
+        },
+        {
+          "text": "And",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou heardest my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.3",
+      "edition_verse_id": "ASV1901:JON.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thou didst cast me into the depth, in the heart of the seas,\nAnd the flood was round about me;\nAll thy waves and thy billows passed over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.4",
+      "edition_verse_id": "ASV1901:JON.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I said, I am cast out from before thine eyes;\nYet I will look again toward thy holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.5",
+      "edition_verse_id": "ASV1901:JON.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The waters compassed me about, even to the soul;\nThe deep was round about me;\nThe weeds were wrapped about my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.6",
+      "edition_verse_id": "ASV1901:JON.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I went down to the bottoms of the mountains;\nThe earth with its bars ",
+          "kind": "text"
+        },
+        {
+          "text": "closed",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon me for ever:\nYet hast thou brought up my life from the pit, O Jehovah my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.7",
+      "edition_verse_id": "ASV1901:JON.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When my soul fainted within me, I remembered Jehovah;\nAnd my prayer came in unto thee, into thy holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.8",
+      "edition_verse_id": "ASV1901:JON.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They that regard lying vanities\nForsake their own mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.9",
+      "edition_verse_id": "ASV1901:JON.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I will sacrifice unto thee with the voice of thanksgiving;\nI will pay that which I have vowed.\nSalvation is of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.10",
+      "edition_verse_id": "ASV1901:JON.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Jehovah spake unto the fish, and it vomited out Jonah upon the dry land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

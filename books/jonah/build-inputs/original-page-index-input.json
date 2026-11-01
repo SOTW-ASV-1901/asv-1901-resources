@@ -1,0 +1,36 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 936,
+      "type": "scripture",
+      "printed_page": 892,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "JON.1.1",
+      "last_verse": "JON.2.3",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 937,
+      "type": "scripture",
+      "printed_page": 893,
+      "running_head_first_verse": "JON.2.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JON.2.3",
+      "last_verse": "JON.4.8",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 938,
+      "type": "scripture",
+      "printed_page": 894,
+      "running_head_first_verse": "JON.4.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "JON.4.8",
+      "last_verse": "JON.4.11",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    }
+  ]
+}

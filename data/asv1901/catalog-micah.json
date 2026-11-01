@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MIC",
+  "book_name": "Micah",
+  "book_order": 33,
+  "canonical_ids": "MIC.{chapter}.{verse}",
+  "edition_ids": "ASV1901:MIC.{chapter}.{verse}",
+  "chapter_count": 7,
+  "verse_count": 105,
+  "chapter_path_template": "micah/chapters/{chapter:02d}.json",
+  "facsimile_index": "micah/page-index.json",
+  "predecessor_book_code": "JON",
+  "successor_book_code": "NAM",
+  "source_provenance": "books/micah/SOURCE_INVENTORY.json",
+  "reader": "books/micah/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}
