@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "EZK.22.1",
+      "edition_verse_id": "ASV1901:EZK.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover the word of Jehovah came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.2",
+      "edition_verse_id": "ASV1901:EZK.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And thou, son of man, wilt thou judge, wilt thou judge the bloody city? then cause her to know all her abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.3",
+      "edition_verse_id": "ASV1901:EZK.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And thou shalt say, Thus saith the Lord Jehovah: A city that sheddeth blood in the midst of her, that her time may come, and that maketh idols against herself to defile her!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.4",
+      "edition_verse_id": "ASV1901:EZK.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thou art become guilty in thy blood that thou hast shed, and art defiled in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come even unto thy years: therefore have I made thee a reproach unto the nations, and a mocking to all the countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.5",
+      "edition_verse_id": "ASV1901:EZK.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Those that are near, and those that are far from thee, shall mock thee, thou infamous one ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " full of tumult.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.6",
+      "edition_verse_id": "ASV1901:EZK.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Behold, the princes of Israel, every one according to his power, have been in thee to shed blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.7",
+      "edition_verse_id": "ASV1901:EZK.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In thee have they set light by father and mother; in the midst of thee have they dealt by oppression with the sojourner; in thee have they wronged the fatherless and the widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.8",
+      "edition_verse_id": "ASV1901:EZK.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thou hast despised my holy things, and hast profaned my sabbaths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.9",
+      "edition_verse_id": "ASV1901:EZK.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Slanderous men have been in thee to shed blood; and in thee they have eaten upon the mountains: in the midst of thee they have committed lewdness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.10",
+      "edition_verse_id": "ASV1901:EZK.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In thee have they uncovered their fathers’ nakedness; in thee have they humbled her that was unclean in her impurity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.11",
+      "edition_verse_id": "ASV1901:EZK.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And one hath committed abomination with his neighbor’s wife; and another hath lewdly defiled his daughter-in-law; and another in thee hath humbled his sister, his father’s daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.12",
+      "edition_verse_id": "ASV1901:EZK.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "In thee have they taken bribes to shed blood; thou hast taken interest and increase, and thou hast greedily gained of thy neighbors by oppression, and hast forgotten me, saith the Lord Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.13",
+      "edition_verse_id": "ASV1901:EZK.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Behold, therefore, I have smitten my hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.14",
+      "edition_verse_id": "ASV1901:EZK.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Can thy heart endure, or can thy hands be strong, in the days that I shall deal with thee? I, Jehovah, have spoken it, and will do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.15",
+      "edition_verse_id": "ASV1901:EZK.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will scatter thee among the nations, and disperse thee through the countries; and I will consume thy filthiness out of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.16",
+      "edition_verse_id": "ASV1901:EZK.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And thou shalt be profaned in thyself, in the sight of the nations; and thou shalt know that I am Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.17",
+      "edition_verse_id": "ASV1901:EZK.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the word of Jehovah came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.18",
+      "edition_verse_id": "ASV1901:EZK.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Son of man, the house of Israel is become dross unto me: all of them are brass and tin and iron and lead, in the midst of the furnace; they are the dross of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.19",
+      "edition_verse_id": "ASV1901:EZK.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore thus saith the Lord Jehovah: Because ye are all become dross, therefore, behold, I will gather you into the midst of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.20",
+      "edition_verse_id": "ASV1901:EZK.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "As they gather silver and brass and iron and lead and tin into the midst of the furnace, to blow the fire upon it, to melt it; so will I gather you in mine anger and in my wrath, and I will lay you there, and melt you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.21",
+      "edition_verse_id": "ASV1901:EZK.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Yea, I will gather you, and blow upon you with the fire of my wrath, and ye shall be melted in the midst thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.22",
+      "edition_verse_id": "ASV1901:EZK.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I, Jehovah, have poured out my wrath upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.23",
+      "edition_verse_id": "ASV1901:EZK.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the word of Jehovah came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.24",
+      "edition_verse_id": "ASV1901:EZK.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Son of man, say unto her, Thou art a land that is not cleansed, nor rained upon in the day of indignation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.25",
+      "edition_verse_id": "ASV1901:EZK.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey: they have devoured souls; they take treasure and precious things; they have made her widows many in the midst thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.26",
+      "edition_verse_id": "ASV1901:EZK.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Her priests have done violence to my law, and have profaned my holy things: they have made no distinction between the holy and the common, neither have they caused men to discern between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.27",
+      "edition_verse_id": "ASV1901:EZK.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Her princes in the midst thereof are like wolves ravening the prey, to shed blood, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to destroy souls, that they may get dishonest gain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.28",
+      "edition_verse_id": "ASV1901:EZK.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And her prophets have daubed for them with untempered ",
+          "kind": "text"
+        },
+        {
+          "text": "mortar",
+          "kind": "supplied"
+        },
+        {
+          "text": ", seeing false visions, and divining lies unto them, saying, Thus saith the Lord Jehovah, when Jehovah hath not spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.29",
+      "edition_verse_id": "ASV1901:EZK.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The people of the land have used oppression, and exercised robbery; yea, they have vexed the poor and needy, and have oppressed the sojourner wrongfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.30",
+      "edition_verse_id": "ASV1901:EZK.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And I sought for a man among them, that should build up the wall, and stand in the gap before me for the land, that I should not destroy it; but I found none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.31",
+      "edition_verse_id": "ASV1901:EZK.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I brought upon their heads, saith the Lord Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

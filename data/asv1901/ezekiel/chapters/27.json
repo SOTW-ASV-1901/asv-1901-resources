@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "EZK.27.1",
+      "edition_verse_id": "ASV1901:EZK.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The word of Jehovah came again unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.27.2",
+      "edition_verse_id": "ASV1901:EZK.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And thou, son of man, take up a lamentation over Tyre;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.3",
+      "edition_verse_id": "ASV1901:EZK.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and say unto Tyre, O thou that dwellest at the entry of the sea, that art the merchant of the peoples unto many isles, thus saith the Lord Jehovah: Thou, O Tyre, hast said, I am perfect in beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.4",
+      "edition_verse_id": "ASV1901:EZK.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Thy borders are in the heart of the seas; thy builders have perfected thy beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.5",
+      "edition_verse_id": "ASV1901:EZK.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They have made all thy planks of fir-trees from Senir; they have taken a cedar from Lebanon to make a mast for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.6",
+      "edition_verse_id": "ASV1901:EZK.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Of the oaks of Bashan have they made thine oars; they have made thy benches of ivory inlaid in boxwood, from the isles of Kittim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.7",
+      "edition_verse_id": "ASV1901:EZK.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Of fine linen with broidered work from Egypt was thy sail, that it might be to thee for an ensign; blue and purple from the isles of Elishah was thine awning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.8",
+      "edition_verse_id": "ASV1901:EZK.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The inhabitants of Sidon and Arvad were thy rowers: thy wise men, O Tyre, were in thee, they were thy pilots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.9",
+      "edition_verse_id": "ASV1901:EZK.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The old men of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to deal in thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.10",
+      "edition_verse_id": "ASV1901:EZK.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Persia and Lud and Put were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.11",
+      "edition_verse_id": "ASV1901:EZK.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The men of Arvad with thine army were upon thy walls round about, and valorous men were in thy towers; they hanged their shields upon thy walls round about; they have perfected thy beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.12",
+      "edition_verse_id": "ASV1901:EZK.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Tarshish was thy merchant by reason of the multitude of all kinds of riches; with silver, iron, tin, and lead, they traded for thy wares.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.27.13",
+      "edition_verse_id": "ASV1901:EZK.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Javan, Tubal, and Meshech, they were thy traffickers; they traded the persons of men and vessels of brass for thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.14",
+      "edition_verse_id": "ASV1901:EZK.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They of the house of Togarmah traded for thy wares with horses and war-horses and mules.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.15",
+      "edition_verse_id": "ASV1901:EZK.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The men of Dedan were thy traffickers; many isles were the mart of thy hand: they brought thee in exchange horns of ivory and ebony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.16",
+      "edition_verse_id": "ASV1901:EZK.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Syria was thy merchant by reason of the multitude of thy handiworks: they traded for thy wares with emeralds, purple, and broidered work, and fine linen, and coral, and rubies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.17",
+      "edition_verse_id": "ASV1901:EZK.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Judah, and the land of Israel, they were thy traffickers: they traded for thy merchandise wheat of Minnith, and pannag, and honey, and oil, and balm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.18",
+      "edition_verse_id": "ASV1901:EZK.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Damascus was thy merchant for the multitude of thy handiworks, by reason of the multitude of all kinds of riches, with the wine of Helbon, and white wool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.19",
+      "edition_verse_id": "ASV1901:EZK.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Vedan and Javan traded with yarn for thy wares: bright iron, cassia, and calamus, were among thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.20",
+      "edition_verse_id": "ASV1901:EZK.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Dedan was thy trafficker in precious cloths for riding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.21",
+      "edition_verse_id": "ASV1901:EZK.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Arabia, and all the princes of Kedar, they were the merchants of thy hand; in lambs, and rams, and goats, in these were they thy merchants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.22",
+      "edition_verse_id": "ASV1901:EZK.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The traffickers of Sheba and Raamah, they were thy traffickers; they traded for thy wares with the chief of all spices, and with all precious stones, and gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.23",
+      "edition_verse_id": "ASV1901:EZK.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Haran and Canneh and Eden, the traffickers of Sheba, Asshur ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Chilmad, were thy traffickers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.24",
+      "edition_verse_id": "ASV1901:EZK.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These were thy traffickers in choice wares, in wrappings of blue and broidered work, and in chests of rich apparel, bound with cords and made of cedar, among thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.25",
+      "edition_verse_id": "ASV1901:EZK.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The ships of Tarshish were thy caravans for thy merchandise: and thou wast replenished, and made very glorious in the heart of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.26",
+      "edition_verse_id": "ASV1901:EZK.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Thy rowers have brought thee into great waters: the east wind hath broken thee in the heart of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.27.27",
+      "edition_verse_id": "ASV1901:EZK.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Thy riches, and thy wares, thy merchandise, thy mariners, and thy pilots, thy calkers, and the dealers in thy merchandise, and all thy men of war, that are in thee, with all thy company which is in the midst of thee, shall fall into the heart of the seas in the day of thy ruin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.28",
+      "edition_verse_id": "ASV1901:EZK.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "At the sound of the cry of thy pilots the suburbs shall shake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.29",
+      "edition_verse_id": "ASV1901:EZK.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And all that handle the oar, the mariners, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the pilots of the sea, shall come down from their ships; they shall stand upon the land,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.30",
+      "edition_verse_id": "ASV1901:EZK.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and shall cause their voice to be heard over thee, and shall cry bitterly, and shall cast up dust upon their heads; they shall wallow themselves in the ashes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.31",
+      "edition_verse_id": "ASV1901:EZK.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and they shall make themselves bald for thee, and gird them with sackcloth, and they shall weep for thee in bitterness of soul with bitter mourning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.32",
+      "edition_verse_id": "ASV1901:EZK.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And in their wailing they shall take up a lamentation for thee, and lament over thee, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Who is there like Tyre, like her that is brought to silence in the midst of the sea?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.33",
+      "edition_verse_id": "ASV1901:EZK.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When thy wares went forth out of the seas, thou filledst many peoples; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.34",
+      "edition_verse_id": "ASV1901:EZK.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "In the time that thou wast broken by the seas in the depths of the waters, thy merchandise and all thy company did fall in the midst of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.35",
+      "edition_verse_id": "ASV1901:EZK.27.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "All the inhabitants of the isles are astonished at thee, and their kings are horribly afraid; they are troubled in their countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.27.36",
+      "edition_verse_id": "ASV1901:EZK.27.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The merchants among the peoples hiss at thee; thou art become a terror, and thou shalt nevermore have any being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

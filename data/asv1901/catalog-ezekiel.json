@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "book_name": "Ezekiel",
+  "book_order": 26,
+  "canonical_ids": "EZK.{chapter}.{verse}",
+  "edition_ids": "ASV1901:EZK.{chapter}.{verse}",
+  "chapter_count": 48,
+  "verse_count": 1273,
+  "chapter_path_template": "ezekiel/chapters/{chapter:02d}.json",
+  "facsimile_index": "ezekiel/page-index.json",
+  "predecessor_book_code": "LAM",
+  "successor_book_code": "DAN",
+  "source_provenance": "books/ezekiel/SOURCE_INVENTORY.json",
+  "reader": "books/ezekiel/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

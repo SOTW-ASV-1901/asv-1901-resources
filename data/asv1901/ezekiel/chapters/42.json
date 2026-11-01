@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "EZK.42.1",
+      "edition_verse_id": "ASV1901:EZK.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then he brought me forth into the outer court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was over against the building toward the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.2",
+      "edition_verse_id": "ASV1901:EZK.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Before the length of a hundred cubits was the north door, and the breadth was fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.3",
+      "edition_verse_id": "ASV1901:EZK.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Over against the twenty ",
+          "kind": "text"
+        },
+        {
+          "text": "cubits",
+          "kind": "supplied"
+        },
+        {
+          "text": " which belonged to the inner court, and over against the pavement which belonged to the outer court, was gallery against gallery in the third story.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.4",
+      "edition_verse_id": "ASV1901:EZK.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And before the chambers was a walk of ten cubits’ breadth inward, a way of one cubit; and their doors were toward the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.5",
+      "edition_verse_id": "ASV1901:EZK.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now the upper chambers were shorter; for the galleries took away from these, more than from the lower and the middlemost, in the building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.6",
+      "edition_verse_id": "ASV1901:EZK.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For they were in three stories, and they had not pillars as the pillars of the courts: therefore ",
+          "kind": "text"
+        },
+        {
+          "text": "the uppermost",
+          "kind": "supplied"
+        },
+        {
+          "text": " was straitened more than the lowest and the middlemost from the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.7",
+      "edition_verse_id": "ASV1901:EZK.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the wall that was without by the side of the chambers, toward the outer court before the chambers, the length thereof was fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.8",
+      "edition_verse_id": "ASV1901:EZK.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the length of the chambers that were in the outer court was fifty cubits: and, lo, before the temple were a hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.9",
+      "edition_verse_id": "ASV1901:EZK.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And from under these chambers was the entry on the east side, as one goeth into them from the outer court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.10",
+      "edition_verse_id": "ASV1901:EZK.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In the thickness of the wall of the court toward the east, before the separate place, and before the building, there were chambers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.11",
+      "edition_verse_id": "ASV1901:EZK.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the way before them was like the appearance of ",
+          "kind": "text"
+        },
+        {
+          "text": "the way of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the chambers which were toward the north; according to their length so was their breadth: and all their egresses were both according to their fashions, and according to their doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.12",
+      "edition_verse_id": "ASV1901:EZK.42.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And according to the doors of the chambers that were toward the south was a door at the head of the way, even the way directly before the wall toward the east, as one entereth into them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.13",
+      "edition_verse_id": "ASV1901:EZK.42.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then said he unto me, The north chambers and the south chambers, which are before the separate place, they are the holy chambers, where the priests that are near unto Jehovah shall eat the most holy things: there shall they lay the most holy things, and the meal-offering, and the sin-offering, and the trespass-offering; for the place is holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.14",
+      "edition_verse_id": "ASV1901:EZK.42.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When the priests enter in, then shall they not go out of the holy place into the outer court, but there they shall lay their garments wherein they minister; for they are holy: and they shall put on other garments, and shall approach to that which pertaineth to the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.15",
+      "edition_verse_id": "ASV1901:EZK.42.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now when he had made an end of measuring the inner house, he brought me forth by the way of the gate whose prospect is toward the east, and measured it round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.42.16",
+      "edition_verse_id": "ASV1901:EZK.42.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He measured on the east side with the measuring reed five hundred reeds, with the measuring reed round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.17",
+      "edition_verse_id": "ASV1901:EZK.42.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He measured on the north side five hundred reeds with the measuring reed round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.18",
+      "edition_verse_id": "ASV1901:EZK.42.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He measured on the south side five hundred reeds with the measuring reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.19",
+      "edition_verse_id": "ASV1901:EZK.42.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He turned about to the west side, and measured five hundred reeds with the measuring reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.42.20",
+      "edition_verse_id": "ASV1901:EZK.42.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He measured it on the four sides: it had a wall round about, the length five hundred, and the breadth five hundred, to make a separation between that which was holy and that which was common.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "EZK.35.1",
+      "edition_verse_id": "ASV1901:EZK.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover the word of Jehovah came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.2",
+      "edition_verse_id": "ASV1901:EZK.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Son of man, set thy face against mount Seir, and prophesy against it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.35.3",
+      "edition_verse_id": "ASV1901:EZK.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and say unto it, Thus saith the Lord Jehovah: Behold, I am against thee, O mount Seir, and I will stretch out my hand against thee, and I will make thee a desolation and an astonishment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.4",
+      "edition_verse_id": "ASV1901:EZK.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will lay thy cities waste, and thou shalt be desolate; and thou shalt know that I am Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.5",
+      "edition_verse_id": "ASV1901:EZK.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Because thou hast had a perpetual enmity, and hast given over the children of Israel to the power of the sword in the time of their calamity, in the time of the iniquity of the end;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.6",
+      "edition_verse_id": "ASV1901:EZK.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "therefore, as I live, saith the Lord Jehovah, I will prepare thee unto blood, and blood shall pursue thee: since thou hast not hated blood, therefore blood shall pursue thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.7",
+      "edition_verse_id": "ASV1901:EZK.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Thus will I make mount Seir an astonishment and a desolation; and I will cut off from it him that passeth through and him that returneth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.8",
+      "edition_verse_id": "ASV1901:EZK.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I will fill its mountains with its slain: in thy hills and in thy valleys and in all thy watercourses shall they fall that are slain with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.9",
+      "edition_verse_id": "ASV1901:EZK.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will make thee a perpetual desolation, and thy cities shall not be inhabited; and ye shall know that I am Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.10",
+      "edition_verse_id": "ASV1901:EZK.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas Jehovah was there:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.35.11",
+      "edition_verse_id": "ASV1901:EZK.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "therefore, as I live, saith the Lord Jehovah, I will do according to thine anger, and according to thine envy which thou hast showed out of thy hatred against them; and I will make myself known among them, when I shall judge thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.12",
+      "edition_verse_id": "ASV1901:EZK.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And thou shalt know that I, Jehovah, have heard all thy revilings which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to devour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.13",
+      "edition_verse_id": "ASV1901:EZK.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And ye have magnified yourselves against me with your mouth, and have multiplied your words against me: I have heard it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.14",
+      "edition_verse_id": "ASV1901:EZK.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thus saith the Lord Jehovah: When the whole earth rejoiceth, I will make thee desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.35.15",
+      "edition_verse_id": "ASV1901:EZK.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As thou didst rejoice over the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Edom, even all of it; and they shall know that I am Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

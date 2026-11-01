@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 46,
+  "verses": [
+    {
+      "id": "EZK.46.1",
+      "edition_verse_id": "ASV1901:EZK.46.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus saith the Lord Jehovah: The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath day it shall be opened, and on the day of the new moon it shall be opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.2",
+      "edition_verse_id": "ASV1901:EZK.46.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the prince shall enter by the way of the porch of the gate without, and shall stand by the post of the gate; and the priests shall prepare his burnt-offering and his peace-offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.3",
+      "edition_verse_id": "ASV1901:EZK.46.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the people of the land shall worship at the door of that gate before Jehovah on the sabbaths and on the new moons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.4",
+      "edition_verse_id": "ASV1901:EZK.46.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the burnt-offering that the prince shall offer unto Jehovah shall be on the sabbath day six lambs without blemish and a ram without blemish;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.5",
+      "edition_verse_id": "ASV1901:EZK.46.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and the meal-offering shall be an ephah for the ram, and the meal-offering for the lambs as he is able to give, and a hin of oil to an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.6",
+      "edition_verse_id": "ASV1901:EZK.46.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And on the day of the new moon it shall be a young bullock without blemish, and six lambs, and a ram; they shall be without blemish:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.7",
+      "edition_verse_id": "ASV1901:EZK.46.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and he shall prepare a meal-offering, an ephah for the bullock, and an ephah for the ram, and for the lambs according as he is able, and a hin of oil to an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.8",
+      "edition_verse_id": "ASV1901:EZK.46.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when the prince shall enter, he shall go in by the way of the porch of the gate, and he shall go forth by the way thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.9",
+      "edition_verse_id": "ASV1901:EZK.46.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But when the people of the land shall come before Jehovah in the appointed feasts, he that entereth by the way of the north gate to worship shall go forth by the way of the south gate; and he that entereth by the way of the south gate shall go forth by the way of the north gate: he shall not return by the way of the gate whereby he came in, but shall go forth straight before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.10",
+      "edition_verse_id": "ASV1901:EZK.46.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the prince, when they go in, shall go in in the midst of them; and when they go forth, they shall go forth ",
+          "kind": "text"
+        },
+        {
+          "text": "together",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.11",
+      "edition_verse_id": "ASV1901:EZK.46.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And in the feasts and in the solemnities the meal-offering shall be an ephah for a bullock, and an ephah for a ram, and for the lambs as he is able to give, and a hin of oil to an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.12",
+      "edition_verse_id": "ASV1901:EZK.46.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when the prince shall prepare a freewill-offering, a burnt-offering or peace-offerings as a freewill-offering unto Jehovah, one shall open for him the gate that looketh toward the east; and he shall prepare his burnt-offering and his peace-offerings, as he doth on the sabbath day: then he shall go forth; and after his going forth one shall shut the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.13",
+      "edition_verse_id": "ASV1901:EZK.46.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And thou shalt prepare a lamb a year old without blemish for a burnt-offering unto Jehovah daily: morning by morning shalt thou prepare it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.14",
+      "edition_verse_id": "ASV1901:EZK.46.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And thou shalt prepare a meal-offering with it morning by morning, the sixth part of an ephah, and the third part of a hin of oil, to moisten the fine flour; a meal-offering unto Jehovah continually by a perpetual ordinance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.15",
+      "edition_verse_id": "ASV1901:EZK.46.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thus shall they prepare the lamb, and the meal-offering, and the oil, morning by morning, for a continual burnt-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.16",
+      "edition_verse_id": "ASV1901:EZK.46.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus saith the Lord Jehovah: If the prince give a gift unto any of his sons, it is his inheritance, it shall belong to his sons; it is their possession by inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.17",
+      "edition_verse_id": "ASV1901:EZK.46.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if he give of his inheritance a gift to one of his servants, it shall be his to the year of liberty; then it shall return to the prince; but as for his inheritance, it shall be for his sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.18",
+      "edition_verse_id": "ASV1901:EZK.46.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Moreover the prince shall not take of the people’s inheritance, to thrust them out of their possession; he shall give inheritance to his sons out of his own possession, that my people be not scattered every man from his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.19",
+      "edition_verse_id": "ASV1901:EZK.46.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then he brought me through the entry, which was at the side of the gate, into the holy chambers for the priests, which looked toward the north: and, behold, there was a place on the hinder part westward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.46.20",
+      "edition_verse_id": "ASV1901:EZK.46.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he said unto me, This is the place where the priests shall boil the trespass-offering and the sin-offering, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " where they shall bake the meal-offering; that they bring them not forth into the outer court, to sanctify the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.21",
+      "edition_verse_id": "ASV1901:EZK.46.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then he brought me forth into the outer court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court there was a court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.22",
+      "edition_verse_id": "ASV1901:EZK.46.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In the four corners of the court there were courts inclosed, forty ",
+          "kind": "text"
+        },
+        {
+          "text": "cubits",
+          "kind": "supplied"
+        },
+        {
+          "text": " long and thirty broad: these four in the corners were of one measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.23",
+      "edition_verse_id": "ASV1901:EZK.46.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And there was a wall round about in them, round about the four, and boiling-places were made under the walls round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.46.24",
+      "edition_verse_id": "ASV1901:EZK.46.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then said he unto me, These are the boiling-houses, where the ministers of the house shall boil the sacrifice of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

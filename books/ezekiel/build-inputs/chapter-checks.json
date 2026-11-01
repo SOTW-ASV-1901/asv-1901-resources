@@ -1,0 +1,488 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      840,
+      841
+    ],
+    "first": "EZK.1.1",
+    "last": "EZK.1.28"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      841
+    ],
+    "first": "EZK.2.1",
+    "last": "EZK.2.10"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      841,
+      842
+    ],
+    "first": "EZK.3.1",
+    "last": "EZK.3.27"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      842,
+      843
+    ],
+    "first": "EZK.4.1",
+    "last": "EZK.4.17"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      843,
+      844
+    ],
+    "first": "EZK.5.1",
+    "last": "EZK.5.17"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      844,
+      845
+    ],
+    "first": "EZK.6.1",
+    "last": "EZK.6.14"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      845,
+      846
+    ],
+    "first": "EZK.7.1",
+    "last": "EZK.7.27"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      846
+    ],
+    "first": "EZK.8.1",
+    "last": "EZK.8.18"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      846,
+      847
+    ],
+    "first": "EZK.9.1",
+    "last": "EZK.9.11"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      847,
+      848
+    ],
+    "first": "EZK.10.1",
+    "last": "EZK.10.22"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      848,
+      849
+    ],
+    "first": "EZK.11.1",
+    "last": "EZK.11.25"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      849,
+      850
+    ],
+    "first": "EZK.12.1",
+    "last": "EZK.12.28"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      850,
+      851
+    ],
+    "first": "EZK.13.1",
+    "last": "EZK.13.23"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      851,
+      852
+    ],
+    "first": "EZK.14.1",
+    "last": "EZK.14.23"
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      852
+    ],
+    "first": "EZK.15.1",
+    "last": "EZK.15.8"
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      852,
+      853,
+      854,
+      855
+    ],
+    "first": "EZK.16.1",
+    "last": "EZK.16.63"
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      855,
+      856
+    ],
+    "first": "EZK.17.1",
+    "last": "EZK.17.24"
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      856,
+      857
+    ],
+    "first": "EZK.18.1",
+    "last": "EZK.18.32"
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      857,
+      858
+    ],
+    "first": "EZK.19.1",
+    "last": "EZK.19.14"
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      858,
+      859,
+      860
+    ],
+    "first": "EZK.20.1",
+    "last": "EZK.20.49"
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      860,
+      861
+    ],
+    "first": "EZK.21.1",
+    "last": "EZK.21.32"
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      861,
+      862,
+      863
+    ],
+    "first": "EZK.22.1",
+    "last": "EZK.22.31"
+  },
+  "23": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      863,
+      864,
+      865
+    ],
+    "first": "EZK.23.1",
+    "last": "EZK.23.49"
+  },
+  "24": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      865,
+      866
+    ],
+    "first": "EZK.24.1",
+    "last": "EZK.24.27"
+  },
+  "25": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      866
+    ],
+    "first": "EZK.25.1",
+    "last": "EZK.25.17"
+  },
+  "26": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      866,
+      867
+    ],
+    "first": "EZK.26.1",
+    "last": "EZK.26.21"
+  },
+  "27": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      867,
+      868,
+      869
+    ],
+    "first": "EZK.27.1",
+    "last": "EZK.27.36"
+  },
+  "28": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      869,
+      870
+    ],
+    "first": "EZK.28.1",
+    "last": "EZK.28.26"
+  },
+  "29": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      870,
+      871
+    ],
+    "first": "EZK.29.1",
+    "last": "EZK.29.21"
+  },
+  "30": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      871,
+      872
+    ],
+    "first": "EZK.30.1",
+    "last": "EZK.30.26"
+  },
+  "31": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      872,
+      873
+    ],
+    "first": "EZK.31.1",
+    "last": "EZK.31.18"
+  },
+  "32": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      873,
+      874
+    ],
+    "first": "EZK.32.1",
+    "last": "EZK.32.32"
+  },
+  "33": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      874,
+      875,
+      876
+    ],
+    "first": "EZK.33.1",
+    "last": "EZK.33.33"
+  },
+  "34": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      876,
+      877
+    ],
+    "first": "EZK.34.1",
+    "last": "EZK.34.31"
+  },
+  "35": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      877,
+      878
+    ],
+    "first": "EZK.35.1",
+    "last": "EZK.35.15"
+  },
+  "36": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      878,
+      879
+    ],
+    "first": "EZK.36.1",
+    "last": "EZK.36.38"
+  },
+  "37": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      879,
+      880,
+      881
+    ],
+    "first": "EZK.37.1",
+    "last": "EZK.37.28"
+  },
+  "38": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      881,
+      882
+    ],
+    "first": "EZK.38.1",
+    "last": "EZK.38.23"
+  },
+  "39": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      882,
+      883
+    ],
+    "first": "EZK.39.1",
+    "last": "EZK.39.29"
+  },
+  "40": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      883,
+      884,
+      885
+    ],
+    "first": "EZK.40.1",
+    "last": "EZK.40.49"
+  },
+  "41": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      885,
+      886
+    ],
+    "first": "EZK.41.1",
+    "last": "EZK.41.26"
+  },
+  "42": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      886,
+      887
+    ],
+    "first": "EZK.42.1",
+    "last": "EZK.42.20"
+  },
+  "43": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      887,
+      888
+    ],
+    "first": "EZK.43.1",
+    "last": "EZK.43.27"
+  },
+  "44": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      888,
+      889,
+      890
+    ],
+    "first": "EZK.44.1",
+    "last": "EZK.44.31"
+  },
+  "45": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      890,
+      891
+    ],
+    "first": "EZK.45.1",
+    "last": "EZK.45.25"
+  },
+  "46": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      891,
+      892
+    ],
+    "first": "EZK.46.1",
+    "last": "EZK.46.24"
+  },
+  "47": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      892,
+      893
+    ],
+    "first": "EZK.47.1",
+    "last": "EZK.47.23"
+  },
+  "48": {
+    "original_print_chapter_checked": true,
+    "method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      893,
+      894
+    ],
+    "first": "EZK.48.1",
+    "last": "EZK.48.35"
+  }
+}

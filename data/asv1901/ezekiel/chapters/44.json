@@ -1,0 +1,396 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "EZK.44.1",
+      "edition_verse_id": "ASV1901:EZK.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then he brought me back by the way of the outer gate of the sanctuary, which looketh toward the east; and it was shut.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.44.2",
+      "edition_verse_id": "ASV1901:EZK.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, This gate shall be shut; it shall not be opened, neither shall any man enter in by it; for Jehovah, the God of Israel, hath entered in by it; therefore it shall be shut.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.3",
+      "edition_verse_id": "ASV1901:EZK.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As for the prince, he shall sit therein as prince to eat bread before Jehovah; he shall enter by the way of the porch of the gate, and shall go out by the way of the same.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.4",
+      "edition_verse_id": "ASV1901:EZK.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then he brought me by the way of the north gate before the house; and I looked, and, behold, the glory of Jehovah filled the house of Jehovah: and I fell upon my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.44.5",
+      "edition_verse_id": "ASV1901:EZK.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, Son of man, mark well, and behold with thine eyes, and hear with thine ears all that I say unto thee concerning all the ordinances of the house of Jehovah, and all the laws thereof; and mark well the entrance of the house, with every egress of the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.6",
+      "edition_verse_id": "ASV1901:EZK.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And thou shalt say to the rebellious, even to the house of Israel, Thus saith the Lord Jehovah: O ye house of Israel, let it suffice you of all your abominations,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.7",
+      "edition_verse_id": "ASV1901:EZK.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "in that ye have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when ye offer my bread, the fat and the blood, and they have broken my covenant, ",
+          "kind": "text"
+        },
+        {
+          "text": "to add",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto all your abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.8",
+      "edition_verse_id": "ASV1901:EZK.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And ye have not kept the charge of my holy things; but ye have set keepers of my charge in my sanctuary for yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.9",
+      "edition_verse_id": "ASV1901:EZK.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thus saith the Lord Jehovah, No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners that are among the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.44.10",
+      "edition_verse_id": "ASV1901:EZK.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But the Levites that went far from me, when Israel went astray, that went astray from me after their idols, they shall bear their iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.11",
+      "edition_verse_id": "ASV1901:EZK.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yet they shall be ministers in my sanctuary, having oversight at the gates of the house, and ministering in the house: they shall slay the burnt-offering and the sacrifice for the people, and they shall stand before them to minister unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.12",
+      "edition_verse_id": "ASV1901:EZK.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Because they ministered unto them before their idols, and became a stumblingblock of iniquity unto the house of Israel; therefore have I lifted up my hand against them, saith the Lord Jehovah, and they shall bear their iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.13",
+      "edition_verse_id": "ASV1901:EZK.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they shall not come near unto me, to execute the office of priest unto me, nor to come near to any of my holy things, unto the things that are most holy; but they shall bear their shame, and their abominations which they have committed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.14",
+      "edition_verse_id": "ASV1901:EZK.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Yet will I make them keepers of the charge of the house, for all the service thereof, and for all that shall be done therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.15",
+      "edition_verse_id": "ASV1901:EZK.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me; and they shall stand before me to offer unto me the fat and the blood, saith the Lord Jehovah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.44.16",
+      "edition_verse_id": "ASV1901:EZK.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "they shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.17",
+      "edition_verse_id": "ASV1901:EZK.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it shall be that, when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, while they minister in the gates of the inner court, and within.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.18",
+      "edition_verse_id": "ASV1901:EZK.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They shall have linen tires upon their heads, and shall have linen breeches upon their loins; they shall not gird themselves with ",
+          "kind": "text"
+        },
+        {
+          "text": "anything that causeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " sweat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.19",
+      "edition_verse_id": "ASV1901:EZK.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when they go forth into the outer court, even into the outer court to the people, they shall put off their garments wherein they minister, and lay them in the holy chambers; and they shall put on other garments, that they sanctify not the people with their garments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.20",
+      "edition_verse_id": "ASV1901:EZK.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Neither shall they shave their heads, nor suffer their locks to grow long; they shall only cut off the hair of their heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.21",
+      "edition_verse_id": "ASV1901:EZK.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Neither shall any of the priests drink wine, when they enter into the inner court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.22",
+      "edition_verse_id": "ASV1901:EZK.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Neither shall they take for their wives a widow, nor her that is put away; but they shall take virgins of the seed of the house of Israel, or a widow that is the widow of a priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.23",
+      "edition_verse_id": "ASV1901:EZK.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they shall teach my people the difference between the holy and the common, and cause them to discern between the unclean and the clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.24",
+      "edition_verse_id": "ASV1901:EZK.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And in a controversy they shall stand to judge; according to mine ordinances shall they judge it: and they shall keep my laws and my statutes in all my appointed feasts; and they shall hallow my sabbaths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.25",
+      "edition_verse_id": "ASV1901:EZK.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they shall go in to no dead person to defile themselves; but for father, or for mother, or for son, or for daughter, for brother, or for sister that hath had no husband, they may defile themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.26",
+      "edition_verse_id": "ASV1901:EZK.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And after he is cleansed, they shall reckon unto him seven days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.27",
+      "edition_verse_id": "ASV1901:EZK.44.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And in the day that he goeth into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin-offering, saith the Lord Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.28",
+      "edition_verse_id": "ASV1901:EZK.44.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they shall have an inheritance: I am their inheritance; and ye shall give them no possession in Israel; I am their possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.44.29",
+      "edition_verse_id": "ASV1901:EZK.44.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "They shall eat the meal-offering, and the sin-offering, and the trespass-offering; and every devoted thing in Israel shall be theirs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.30",
+      "edition_verse_id": "ASV1901:EZK.44.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the first of all the first-fruits of every thing, and every oblation of everything, of all your oblations, shall be for the priest: ye shall also give unto the priests the first of your dough, to cause a blessing to rest on thy house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.44.31",
+      "edition_verse_id": "ASV1901:EZK.44.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The priests shall not eat of anything that dieth of itself, or is torn, whether it be bird or beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

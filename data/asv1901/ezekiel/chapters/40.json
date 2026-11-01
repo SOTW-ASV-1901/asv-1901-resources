@@ -1,0 +1,692 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "EZK.40.1",
+      "edition_verse_id": "ASV1901:EZK.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, in the fourteenth year after that the city was smitten, in the selfsame day, the hand of Jehovah was upon me, and he brought me thither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.2",
+      "edition_verse_id": "ASV1901:EZK.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In the visions of God brought he me into the land of Israel, and set me down upon a very high mountain, whereon was as it were the frame of a city on the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.3",
+      "edition_verse_id": "ASV1901:EZK.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he brought me thither; and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.4",
+      "edition_verse_id": "ASV1901:EZK.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thy heart upon all that I shall show thee; for, to the intent that I may show them unto thee, art thou brought hither: declare all that thou seest to the house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.5",
+      "edition_verse_id": "ASV1901:EZK.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And, behold, a wall on the outside of the house round about, and in the man’s hand a measuring reed six cubits long, of a cubit and a handbreadth each: so he measured the thickness of the building, one reed; and the height, one reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.6",
+      "edition_verse_id": "ASV1901:EZK.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then came he unto the gate which looketh toward the east, and went up the steps thereof: and he measured the threshold of the gate, one reed broad; and the other threshold, one reed broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.7",
+      "edition_verse_id": "ASV1901:EZK.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And every lodge was one reed long, and one reed broad; and ",
+          "kind": "text"
+        },
+        {
+          "text": "the space",
+          "kind": "supplied"
+        },
+        {
+          "text": " between the lodges was five cubits; and the threshold of the gate by the porch of the gate toward the house was one reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.8",
+      "edition_verse_id": "ASV1901:EZK.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He measured also the porch of the gate toward the house, one reed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.9",
+      "edition_verse_id": "ASV1901:EZK.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then measured he the porch of the gate, eight cubits; and the posts thereof, two cubits; and the porch of the gate was toward the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.10",
+      "edition_verse_id": "ASV1901:EZK.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the lodges of the gate eastward were three on this side, and three on that side; they three were of one measure: and the posts had one measure on this side and on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.11",
+      "edition_verse_id": "ASV1901:EZK.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he measured the breadth of the opening of the gate, ten cubits; and the length of the gate, thirteen cubits;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.12",
+      "edition_verse_id": "ASV1901:EZK.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and a border before the lodges, one cubit ",
+          "kind": "text"
+        },
+        {
+          "text": "on this side",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and a border, one cubit on that side; and the lodges, six cubits on this side, and six cubits on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.13",
+      "edition_verse_id": "ASV1901:EZK.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he measured the gate from the roof of the one lodge to the roof of the other, a breadth of five and twenty cubits; door against door.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.14",
+      "edition_verse_id": "ASV1901:EZK.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He made also posts, threescore cubits; and the court ",
+          "kind": "text"
+        },
+        {
+          "text": "reached",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the posts, round about the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.15",
+      "edition_verse_id": "ASV1901:EZK.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "from",
+          "kind": "supplied"
+        },
+        {
+          "text": " the forefront of the gate at the entrance unto the forefront of the inner porch of the gate were fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.16",
+      "edition_verse_id": "ASV1901:EZK.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And there were closed windows to the lodges, and to their posts within the gate round about, and likewise to the arches; and windows were round about inward; and upon ",
+          "kind": "text"
+        },
+        {
+          "text": "each",
+          "kind": "supplied"
+        },
+        {
+          "text": " post were palm-trees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.17",
+      "edition_verse_id": "ASV1901:EZK.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then brought he me into the outer court; and, lo, there were chambers and a pavement, made for the court round about: thirty chambers were upon the pavement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.18",
+      "edition_verse_id": "ASV1901:EZK.40.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the pavement was by the side of the gates, answerable unto the length of the gates, even the lower pavement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.19",
+      "edition_verse_id": "ASV1901:EZK.40.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, a hundred cubits, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the east and on the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.20",
+      "edition_verse_id": "ASV1901:EZK.40.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the gate of the outer court whose prospect is toward the north, he measured the length thereof and the breadth thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.21",
+      "edition_verse_id": "ASV1901:EZK.40.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the lodges thereof were three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof was fifty cubits, and the breadth five and twenty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.22",
+      "edition_verse_id": "ASV1901:EZK.40.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the windows thereof, and the arches thereof, and the palm-trees thereof, were after the measure of the gate whose prospect is toward the east; and they went up unto it by seven steps; and the arches thereof were before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.23",
+      "edition_verse_id": "ASV1901:EZK.40.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And there was a gate to the inner court over against the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " gate, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the north and on the east; and he measured from gate to gate a hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.24",
+      "edition_verse_id": "ASV1901:EZK.40.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he led me toward the south; and, behold, a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.25",
+      "edition_verse_id": "ASV1901:EZK.40.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And there were windows in it and in the arches thereof round about, like those windows: the length was fifty cubits, and the breadth five and twenty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.26",
+      "edition_verse_id": "ASV1901:EZK.40.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And there were seven steps to go up to it, and the arches thereof were before them; and it had palm-trees, one on this side, and another on that side, upon the posts thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.27",
+      "edition_verse_id": "ASV1901:EZK.40.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And there was a gate to the inner court toward the south: and he measured from gate to gate toward the south a hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.28",
+      "edition_verse_id": "ASV1901:EZK.40.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then he brought me to the inner court by the south gate: and he measured the south gate according to these measures;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.29",
+      "edition_verse_id": "ASV1901:EZK.40.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and the lodges thereof, and the posts thereof, and the arches thereof, according to these measures: and there were windows in it and in the arches thereof round about; it was fifty cubits long, and five and twenty cubits broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.30",
+      "edition_verse_id": "ASV1901:EZK.40.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And there were arches round about, five and twenty cubits long, and five cubits broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.31",
+      "edition_verse_id": "ASV1901:EZK.40.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the arches thereof were toward the outer court; and palm-trees were upon the posts thereof: and the ascent to it had eight steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.32",
+      "edition_verse_id": "ASV1901:EZK.40.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he brought me into the inner court toward the east: and he measured the gate according to these measures;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.33",
+      "edition_verse_id": "ASV1901:EZK.40.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "and the lodges thereof, and the posts thereof, and the arches thereof, according to these measures: and there were windows therein and in the arches thereof round about; it was fifty cubits long, and five and twenty cubits broad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.34",
+      "edition_verse_id": "ASV1901:EZK.40.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the arches thereof were toward the outer court; and palm-trees were upon the posts thereof, on this side, and on that side: and the ascent to it had eight steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.35",
+      "edition_verse_id": "ASV1901:EZK.40.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And he brought me to the north gate: and he measured ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " according to these measures;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.36",
+      "edition_verse_id": "ASV1901:EZK.40.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "the lodges thereof, the posts thereof, and the arches thereof: and there were windows therein round about; the length was fifty cubits, and the breadth five and twenty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.37",
+      "edition_verse_id": "ASV1901:EZK.40.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the posts thereof were toward the outer court; and palm-trees were upon the posts thereof, on this side, and on that side: and the ascent to it had eight steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.38",
+      "edition_verse_id": "ASV1901:EZK.40.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And a chamber with the door thereof was by the posts at the gates; there they washed the burnt-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.39",
+      "edition_verse_id": "ASV1901:EZK.40.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And in the porch of the gate were two tables on this side, and two tables on that side, to slay thereon the burnt-offering and the sin-offering and the trespass-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.40",
+      "edition_verse_id": "ASV1901:EZK.40.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And on the ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " side without, as one goeth up to the entry of the gate toward the north, were two tables; and on the other side, which belonged to the porch of the gate, were two tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.41",
+      "edition_verse_id": "ASV1901:EZK.40.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew ",
+          "kind": "text"
+        },
+        {
+          "text": "the sacrifices",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.42",
+      "edition_verse_id": "ASV1901:EZK.40.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And there were four tables for the burnt-offering, of hewn stone, a cubit and a half long, and a cubit and a half broad, and one cubit high; whereupon they laid the instruments wherewith they slew the burnt-offering and the sacrifice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.43",
+      "edition_verse_id": "ASV1901:EZK.40.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And the hooks, a handbreadth long, were fastened within round about: and upon the tables was the flesh of the oblation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.44",
+      "edition_verse_id": "ASV1901:EZK.40.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And without the inner gate were chambers for the singers in the inner court, which was at the side of the north gate; and their prospect was toward the south; one at the side of the east gate having the prospect toward the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.45",
+      "edition_verse_id": "ASV1901:EZK.40.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And he said unto me, This chamber, whose prospect is toward the south, is for the priests, the keepers of the charge of the house;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.46",
+      "edition_verse_id": "ASV1901:EZK.40.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "and the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok, who from among the sons of Levi come near to Jehovah to minister unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.47",
+      "edition_verse_id": "ASV1901:EZK.40.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And he measured the court, a hundred cubits long, and a hundred cubits broad, foursquare; and the altar was before the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.48",
+      "edition_verse_id": "ASV1901:EZK.40.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Then he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side: and the breadth of the gate was three cubits on this side, and three cubits on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.49",
+      "edition_verse_id": "ASV1901:EZK.40.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The length of the porch was twenty cubits, and the breadth eleven cubits; even by the steps whereby they went up to it: and there were pillars by the posts, one on this side, and another on that side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

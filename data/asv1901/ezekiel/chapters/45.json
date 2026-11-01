@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EZK",
+  "chapter": 45,
+  "verses": [
+    {
+      "id": "EZK.45.1",
+      "edition_verse_id": "ASV1901:EZK.45.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto Jehovah, a holy portion of the land; the length shall be the length of five and twenty thousand ",
+          "kind": "text"
+        },
+        {
+          "text": "reeds",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and the breadth shall be ten thousand: it shall be holy in all the border thereof round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.45.2",
+      "edition_verse_id": "ASV1901:EZK.45.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Of this there shall be for the holy place five hundred ",
+          "kind": "text"
+        },
+        {
+          "text": "in length",
+          "kind": "supplied"
+        },
+        {
+          "text": " by five hundred ",
+          "kind": "text"
+        },
+        {
+          "text": "in breadth",
+          "kind": "supplied"
+        },
+        {
+          "text": ", square round about; and fifty cubits for the suburbs thereof round about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.3",
+      "edition_verse_id": "ASV1901:EZK.45.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And of this measure shalt thou measure a length of five and twenty thousand, and a breadth of ten thousand: and in it shall be the sanctuary, which is most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.4",
+      "edition_verse_id": "ASV1901:EZK.45.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "It is a holy portion of the land; it shall be for the priests, the ministers of the sanctuary, that come near to minister unto Jehovah; and it shall be a place for their houses, and a holy place for the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.5",
+      "edition_verse_id": "ASV1901:EZK.45.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And five and twenty thousand in length, and ten thousand in breadth, shall be unto the Levites, the ministers of the house, for a possession unto themselves, ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " twenty chambers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.6",
+      "edition_verse_id": "ASV1901:EZK.45.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ye shall appoint the possession of the city five thousand broad, and five and twenty thousand long, side by side with the oblation of the holy portion: it shall be for the whole house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.7",
+      "edition_verse_id": "ASV1901:EZK.45.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "whatsoever is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the prince ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on the one side and on the other side of the holy oblation and of the possession of the city, in front of the holy oblation and in front of the possession of the city, on the west side westward, and on the east side eastward; and in length answerable unto one of the portions, from the west border unto the east border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.8",
+      "edition_verse_id": "ASV1901:EZK.45.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In the land it shall be to him for a possession in Israel: and my princes shall no more oppress my people; but they shall give the land to the house of Israel according to their tribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.9",
+      "edition_verse_id": "ASV1901:EZK.45.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thus saith the Lord Jehovah: Let it suffice you, O princes of Israel: remove violence and spoil, and execute justice and righteousness; take away your exactions from my people, saith the Lord Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.45.10",
+      "edition_verse_id": "ASV1901:EZK.45.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Ye shall have just balances, and a just ephah, and a just bath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.11",
+      "edition_verse_id": "ASV1901:EZK.45.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The ephah and the bath shall be of one measure, that the bath may contain the tenth part of a homer, and the ephah the tenth part of a homer: the measure thereof shall be after the homer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.12",
+      "edition_verse_id": "ASV1901:EZK.45.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the shekel shall be twenty gerahs; twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.13",
+      "edition_verse_id": "ASV1901:EZK.45.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "This is the oblation that ye shall offer: the sixth part of an ephah from a homer of wheat; and ye shall give the sixth part of an ephah from a homer of barley;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.45.14",
+      "edition_verse_id": "ASV1901:EZK.45.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and the set portion of oil, of the bath of oil, the tenth part of a bath out of the cor, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " ten baths, even a homer (for ten baths are a homer);",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.15",
+      "edition_verse_id": "ASV1901:EZK.45.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and one lamb of the flock, out of two hundred, from the well-watered pastures of Israel;—for a meal-offering, and for a burnt-offering, and for peace-offerings, to make atonement for them, saith the Lord Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.16",
+      "edition_verse_id": "ASV1901:EZK.45.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "All the people of the land shall give unto this oblation for the prince in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.17",
+      "edition_verse_id": "ASV1901:EZK.45.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it shall be the prince’s part to give the burnt-offerings, and the meal-offerings, and the drink-offerings, in the feasts, and on the new moons, and on the sabbaths, in all the appointed feasts of the house of Israel: he shall prepare the sin-offering, and the meal-offering, and the burnt-offering, and the peace-offerings, to make atonement for the house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.18",
+      "edition_verse_id": "ASV1901:EZK.45.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thus saith the Lord Jehovah: In the first ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the first ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month, thou shalt take a young bullock without blemish; and thou shalt cleanse the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.45.19",
+      "edition_verse_id": "ASV1901:EZK.45.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the priest shall take of the blood of the sin-offering, and put it upon the door-posts of the house, and upon the four corners of the ledge of the altar, and upon the posts of the gate of the inner court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.20",
+      "edition_verse_id": "ASV1901:EZK.45.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And so thou shalt do on the seventh ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the month for every one that erreth, and for him that is simple: so shall ye make atonement for the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.21",
+      "edition_verse_id": "ASV1901:EZK.45.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "In the first ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.45.22",
+      "edition_verse_id": "ASV1901:EZK.45.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And upon that day shall the prince prepare for himself and for all the people of the land a bullock for a sin-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.23",
+      "edition_verse_id": "ASV1901:EZK.45.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the seven days of the feast he shall prepare a burnt-offering to Jehovah, seven bullocks and seven rams without blemish daily the seven days; and a he-goat daily for a sin-offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.24",
+      "edition_verse_id": "ASV1901:EZK.45.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he shall prepare a meal-offering, an ephah for a bullock, and an ephah for a ram, and a hin of oil to an ephah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.45.25",
+      "edition_verse_id": "ASV1901:EZK.45.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In the seventh ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", in the fifteenth day of the month, in the feast, shall he do the like the seven days; according to the sin-offering, according to the burnt-offering, and according to the meal-offering, and according to the oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

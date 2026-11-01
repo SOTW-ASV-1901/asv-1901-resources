@@ -1,0 +1,556 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 840,
+      "type": "scripture",
+      "printed_page": 798,
+      "running_head_first_verse": "EZK.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.1.1",
+      "last_verse": "EZK.1.21",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 841,
+      "type": "scripture",
+      "printed_page": 799,
+      "running_head_first_verse": "EZK.1.22",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.1.22",
+      "last_verse": "EZK.3.8",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 842,
+      "type": "scripture",
+      "printed_page": 800,
+      "running_head_first_verse": "EZK.3.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.3.8",
+      "last_verse": "EZK.4.5",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 843,
+      "type": "scripture",
+      "printed_page": 801,
+      "running_head_first_verse": "EZK.4.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.4.5",
+      "last_verse": "EZK.5.11",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 844,
+      "type": "scripture",
+      "printed_page": 802,
+      "running_head_first_verse": "EZK.5.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.5.11",
+      "last_verse": "EZK.6.14",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 845,
+      "type": "scripture",
+      "printed_page": 803,
+      "running_head_first_verse": "EZK.7.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.6.14",
+      "last_verse": "EZK.7.24",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 846,
+      "type": "scripture",
+      "printed_page": 804,
+      "running_head_first_verse": "EZK.7.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.7.24",
+      "last_verse": "EZK.9.1",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 847,
+      "type": "scripture",
+      "printed_page": 805,
+      "running_head_first_verse": "EZK.9.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.9.1",
+      "last_verse": "EZK.10.12",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 848,
+      "type": "scripture",
+      "printed_page": 806,
+      "running_head_first_verse": "EZK.10.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.10.12",
+      "last_verse": "EZK.11.16",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 849,
+      "type": "scripture",
+      "printed_page": 807,
+      "running_head_first_verse": "EZK.11.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.11.16",
+      "last_verse": "EZK.12.16",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 850,
+      "type": "scripture",
+      "printed_page": 808,
+      "running_head_first_verse": "EZK.12.17",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.12.17",
+      "last_verse": "EZK.13.14",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 851,
+      "type": "scripture",
+      "printed_page": 809,
+      "running_head_first_verse": "EZK.13.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.13.14",
+      "last_verse": "EZK.14.13",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 852,
+      "type": "scripture",
+      "printed_page": 810,
+      "running_head_first_verse": "EZK.14.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.14.13",
+      "last_verse": "EZK.16.7",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 853,
+      "type": "scripture",
+      "printed_page": 811,
+      "running_head_first_verse": "EZK.16.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.16.7",
+      "last_verse": "EZK.16.33",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 854,
+      "type": "scripture",
+      "printed_page": 812,
+      "running_head_first_verse": "EZK.16.34",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.16.33",
+      "last_verse": "EZK.16.54",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 855,
+      "type": "scripture",
+      "printed_page": 813,
+      "running_head_first_verse": "EZK.16.55",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.16.54",
+      "last_verse": "EZK.17.16",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 856,
+      "type": "scripture",
+      "printed_page": 814,
+      "running_head_first_verse": "EZK.17.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.17.16",
+      "last_verse": "EZK.18.16",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 857,
+      "type": "scripture",
+      "printed_page": 815,
+      "running_head_first_verse": "EZK.18.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.18.16",
+      "last_verse": "EZK.19.8",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 858,
+      "type": "scripture",
+      "printed_page": 816,
+      "running_head_first_verse": "EZK.19.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.19.8",
+      "last_verse": "EZK.20.17",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 859,
+      "type": "scripture",
+      "printed_page": 817,
+      "running_head_first_verse": "EZK.20.18",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.20.18",
+      "last_verse": "EZK.20.39",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 860,
+      "type": "scripture",
+      "printed_page": 818,
+      "running_head_first_verse": "EZK.20.40",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.20.39",
+      "last_verse": "EZK.21.13",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 861,
+      "type": "scripture",
+      "printed_page": 819,
+      "running_head_first_verse": "EZK.21.14",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.21.14",
+      "last_verse": "EZK.22.4",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 862,
+      "type": "scripture",
+      "printed_page": 820,
+      "running_head_first_verse": "EZK.22.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.22.4",
+      "last_verse": "EZK.22.29",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 863,
+      "type": "scripture",
+      "printed_page": 821,
+      "running_head_first_verse": "EZK.22.30",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.22.29",
+      "last_verse": "EZK.23.24",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 864,
+      "type": "scripture",
+      "printed_page": 822,
+      "running_head_first_verse": "EZK.23.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.23.24",
+      "last_verse": "EZK.23.47",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 865,
+      "type": "scripture",
+      "printed_page": 823,
+      "running_head_first_verse": "EZK.23.48",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.23.47",
+      "last_verse": "EZK.24.25",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 866,
+      "type": "scripture",
+      "printed_page": 824,
+      "running_head_first_verse": "EZK.24.26",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.24.25",
+      "last_verse": "EZK.26.3",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 867,
+      "type": "scripture",
+      "printed_page": 825,
+      "running_head_first_verse": "EZK.26.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.26.3",
+      "last_verse": "EZK.27.5",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 868,
+      "type": "scripture",
+      "printed_page": 826,
+      "running_head_first_verse": "EZK.27.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.27.5",
+      "last_verse": "EZK.27.31",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 869,
+      "type": "scripture",
+      "printed_page": 827,
+      "running_head_first_verse": "EZK.27.32",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.27.31",
+      "last_verse": "EZK.28.19",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 870,
+      "type": "scripture",
+      "printed_page": 828,
+      "running_head_first_verse": "EZK.28.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.28.19",
+      "last_verse": "EZK.29.15",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 871,
+      "type": "scripture",
+      "printed_page": 829,
+      "running_head_first_verse": "EZK.29.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.29.15",
+      "last_verse": "EZK.30.18",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 872,
+      "type": "scripture",
+      "printed_page": 830,
+      "running_head_first_verse": "EZK.30.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.30.18",
+      "last_verse": "EZK.31.14",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 873,
+      "type": "scripture",
+      "printed_page": 831,
+      "running_head_first_verse": "EZK.31.15",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.31.15",
+      "last_verse": "EZK.32.17",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 874,
+      "type": "scripture",
+      "printed_page": 832,
+      "running_head_first_verse": "EZK.32.18",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.32.18",
+      "last_verse": "EZK.33.6",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 875,
+      "type": "scripture",
+      "printed_page": 833,
+      "running_head_first_verse": "EZK.33.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.33.6",
+      "last_verse": "EZK.33.28",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 876,
+      "type": "scripture",
+      "printed_page": 834,
+      "running_head_first_verse": "EZK.33.29",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.33.28",
+      "last_verse": "EZK.34.17",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 877,
+      "type": "scripture",
+      "printed_page": 835,
+      "running_head_first_verse": "EZK.34.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.34.17",
+      "last_verse": "EZK.35.11",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 878,
+      "type": "scripture",
+      "printed_page": 836,
+      "running_head_first_verse": "EZK.35.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.35.11",
+      "last_verse": "EZK.36.17",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 879,
+      "type": "scripture",
+      "printed_page": 837,
+      "running_head_first_verse": "EZK.36.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.36.17",
+      "last_verse": "EZK.37.3",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 880,
+      "type": "scripture",
+      "printed_page": 838,
+      "running_head_first_verse": "EZK.37.4",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "EZK.37.4",
+      "last_verse": "EZK.37.26",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 881,
+      "type": "scripture",
+      "printed_page": 839,
+      "running_head_first_verse": "EZK.37.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.37.26",
+      "last_verse": "EZK.38.20",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 882,
+      "type": "scripture",
+      "printed_page": 840,
+      "running_head_first_verse": "EZK.38.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.38.20",
+      "last_verse": "EZK.39.18",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 883,
+      "type": "scripture",
+      "printed_page": 841,
+      "running_head_first_verse": "EZK.39.19",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.39.18",
+      "last_verse": "EZK.40.11",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 884,
+      "type": "scripture",
+      "printed_page": 842,
+      "running_head_first_verse": "EZK.40.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.40.11",
+      "last_verse": "EZK.40.37",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 885,
+      "type": "scripture",
+      "printed_page": 843,
+      "running_head_first_verse": "EZK.40.38",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.40.37",
+      "last_verse": "EZK.41.8",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 886,
+      "type": "scripture",
+      "printed_page": 844,
+      "running_head_first_verse": "EZK.41.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.41.8",
+      "last_verse": "EZK.42.6",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 887,
+      "type": "scripture",
+      "printed_page": 845,
+      "running_head_first_verse": "EZK.42.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.42.6",
+      "last_verse": "EZK.43.10",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 888,
+      "type": "scripture",
+      "printed_page": 846,
+      "running_head_first_verse": "EZK.43.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.43.10",
+      "last_verse": "EZK.44.5",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 889,
+      "type": "scripture",
+      "printed_page": 847,
+      "running_head_first_verse": "EZK.44.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.44.5",
+      "last_verse": "EZK.44.26",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 890,
+      "type": "scripture",
+      "printed_page": 848,
+      "running_head_first_verse": "EZK.44.27",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.44.26",
+      "last_verse": "EZK.45.17",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 891,
+      "type": "scripture",
+      "printed_page": 849,
+      "running_head_first_verse": "EZK.45.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.45.17",
+      "last_verse": "EZK.46.13",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 892,
+      "type": "scripture",
+      "printed_page": 850,
+      "running_head_first_verse": "EZK.46.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.46.13",
+      "last_verse": "EZK.47.10",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 893,
+      "type": "scripture",
+      "printed_page": 851,
+      "running_head_first_verse": "EZK.47.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.47.10",
+      "last_verse": "EZK.48.11",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    },
+    {
+      "source_pdf_page": 894,
+      "type": "scripture",
+      "printed_page": 852,
+      "running_head_first_verse": "EZK.48.12",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "EZK.48.11",
+      "last_verse": "EZK.48.35",
+      "evidence_method": "Original 1901 whole-page facsimile inspected for actual page starts, ends, chapter transitions, and continuation verses. Chapter-level visual check, not exhaustive character-by-character collation."
+    }
+  ]
+}
