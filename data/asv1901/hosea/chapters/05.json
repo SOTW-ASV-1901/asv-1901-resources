@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "HOS.5.1",
+      "edition_verse_id": "ASV1901:HOS.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear this, O ye priests, and hearken, O house of Israel, and give ear, O house of the king; for unto you pertaineth the judgment; for ye have been a snare at Mizpah, and a net spread upon Tabor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.5.2",
+      "edition_verse_id": "ASV1901:HOS.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the revolters are gone deep in making slaughter; but I am a rebuker of them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.3",
+      "edition_verse_id": "ASV1901:HOS.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I know Ephraim, and Israel is not hid from me; for now, O Ephraim, thou hast played the harlot, Israel is defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.4",
+      "edition_verse_id": "ASV1901:HOS.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their doings will not suffer them to turn unto their God; for the spirit of whoredom is within them, and they know not Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.5",
+      "edition_verse_id": "ASV1901:HOS.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the pride of Israel doth testify to his face: therefore Israel and Ephraim shall stumble in their iniquity; Judah also shall stumble with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.6",
+      "edition_verse_id": "ASV1901:HOS.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They shall go with their flocks and with their herds to seek Jehovah; but they shall not find him: he hath withdrawn himself from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.7",
+      "edition_verse_id": "ASV1901:HOS.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They have dealt treacherously against Jehovah; for they have borne strange children: now shall the new moon devour them with their fields.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.8",
+      "edition_verse_id": "ASV1901:HOS.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Blow ye the cornet in Gibeah, and the trumpet in Ramah: sound an alarm at Beth-aven; behind thee, O Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.5.9",
+      "edition_verse_id": "ASV1901:HOS.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Ephraim shall become a desolation in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.10",
+      "edition_verse_id": "ASV1901:HOS.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The princes of Judah are like them that remove the landmark: I will pour out my wrath upon them like water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.11",
+      "edition_verse_id": "ASV1901:HOS.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Ephraim is oppressed, he is crushed in judgment; because he was content to walk after ",
+          "kind": "text"
+        },
+        {
+          "text": "man’s",
+          "kind": "supplied"
+        },
+        {
+          "text": " command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.12",
+      "edition_verse_id": "ASV1901:HOS.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore am I unto Ephraim as a moth, and to the house of Judah as rottenness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.13",
+      "edition_verse_id": "ASV1901:HOS.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When Ephraim saw his sickness, and Judah ",
+          "kind": "text"
+        },
+        {
+          "text": "saw",
+          "kind": "supplied"
+        },
+        {
+          "text": " his wound, then went Ephraim to Assyria, and sent to king Jareb: but he is not able to heal you, neither will he cure you of your wound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.14",
+      "edition_verse_id": "ASV1901:HOS.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will carry off, and there shall be none to deliver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.5.15",
+      "edition_verse_id": "ASV1901:HOS.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me earnestly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

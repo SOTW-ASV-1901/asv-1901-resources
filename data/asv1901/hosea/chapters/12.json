@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "HOS.12.1",
+      "edition_verse_id": "ASV1901:HOS.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ephraim feedeth on wind, and followeth after the east wind: he continually multiplieth lies and desolation; and they make a covenant with Assyria, and oil is carried into Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.2",
+      "edition_verse_id": "ASV1901:HOS.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehovah hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.3",
+      "edition_verse_id": "ASV1901:HOS.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "In the womb he took his brother by the heel; and in his manhood he had power with God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.4",
+      "edition_verse_id": "ASV1901:HOS.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "yea, he had power over the angel, and prevailed; he wept, and made supplication unto him: he found him at Beth-el, and there he spake with us,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.5",
+      "edition_verse_id": "ASV1901:HOS.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "even Jehovah, the God of hosts; Jehovah is his memorial ",
+          "kind": "text"
+        },
+        {
+          "text": "name",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.6",
+      "edition_verse_id": "ASV1901:HOS.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore turn thou to thy God: keep kindness and justice, and wait for thy God continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.7",
+      "edition_verse_id": "ASV1901:HOS.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a trafficker, the balances of deceit are in his hand: he loveth to oppress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.12.8",
+      "edition_verse_id": "ASV1901:HOS.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Ephraim said, Surely I am become rich, I have found me wealth: in all my labors they shall find in me no iniquity that were sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.9",
+      "edition_verse_id": "ASV1901:HOS.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I am Jehovah thy God from the land of Egypt; I will yet again make thee to dwell in tents, as in the days of the solemn feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.10",
+      "edition_verse_id": "ASV1901:HOS.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I have also spoken unto the prophets, and I have multiplied visions; and by the ministry of the prophets have I used similitudes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.11",
+      "edition_verse_id": "ASV1901:HOS.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Is Gilead iniquity? they are altogether false; in Gilgal they sacrifice bullocks; yea, their altars are as heaps in the furrows of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.12",
+      "edition_verse_id": "ASV1901:HOS.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Jacob fled into the field of Aram, and Israel served for a wife, and for a wife he kept ",
+          "kind": "text"
+        },
+        {
+          "text": "sheep",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.13",
+      "edition_verse_id": "ASV1901:HOS.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And by a prophet Jehovah brought Israel up out of Egypt, and by a prophet was he preserved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.14",
+      "edition_verse_id": "ASV1901:HOS.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ephraim hath provoked to anger most bitterly: therefore shall his blood be left upon him, and his reproach shall his Lord return unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

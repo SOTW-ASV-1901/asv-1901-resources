@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "HOS.8.1",
+      "edition_verse_id": "ASV1901:HOS.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Set",
+          "kind": "supplied"
+        },
+        {
+          "text": " the trumpet to thy mouth. As an eagle ",
+          "kind": "text"
+        },
+        {
+          "text": "he cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " against the house of Jehovah, because they have transgressed my covenant, and trespassed against my law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.8.2",
+      "edition_verse_id": "ASV1901:HOS.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They shall cry unto me, My God, we Israel know thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.3",
+      "edition_verse_id": "ASV1901:HOS.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Israel hath cast off that which is good: the enemy shall pursue him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.4",
+      "edition_verse_id": "ASV1901:HOS.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They have set up kings, but not by me; they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.5",
+      "edition_verse_id": "ASV1901:HOS.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He hath cast off thy calf, O Samaria; mine anger is kindled against them: how long will it be ere they attain to innocency?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.6",
+      "edition_verse_id": "ASV1901:HOS.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For from Israel is even this; the workman made it, and it is no God; yea, the calf of Samaria shall be broken in pieces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.7",
+      "edition_verse_id": "ASV1901:HOS.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For they sow the wind, and they shall reap the whirlwind: he hath no standing grain; the blade shall yield no meal; if so be it yield, strangers shall swallow it up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.8",
+      "edition_verse_id": "ASV1901:HOS.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Israel is swallowed up: now are they among the nations as a vessel wherein none delighteth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.8.9",
+      "edition_verse_id": "ASV1901:HOS.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For they are gone up to Assyria, ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wild ass alone by himself: Ephraim hath hired lovers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.10",
+      "edition_verse_id": "ASV1901:HOS.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yea, though they hire among the nations, now will I gather them; and they begin to be diminished by reason of the burden of the king of princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.11",
+      "edition_verse_id": "ASV1901:HOS.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Because Ephraim hath multiplied altars for sinning, altars have been unto him for sinning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.8.12",
+      "edition_verse_id": "ASV1901:HOS.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I wrote for him the ten thousand things of my law; but they are counted as a strange thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.13",
+      "edition_verse_id": "ASV1901:HOS.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "As for the sacrifices of mine offerings, they sacrifice flesh and eat it; but Jehovah accepteth them not: now will he remember their iniquity, and visit their sins; they shall return to Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.14",
+      "edition_verse_id": "ASV1901:HOS.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For Israel hath forgotten his Maker, and builded palaces; and Judah hath multiplied fortified cities: but I will send a fire upon his cities, and it shall devour the castles thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "book_name": "Hosea",
+  "book_order": 28,
+  "canonical_ids": "HOS.{chapter}.{verse}",
+  "edition_ids": "ASV1901:HOS.{chapter}.{verse}",
+  "chapter_count": 14,
+  "verse_count": 197,
+  "chapter_path_template": "hosea/chapters/{chapter:02d}.json",
+  "facsimile_index": "hosea/page-index.json",
+  "predecessor_book_code": "DAN",
+  "successor_book_code": "JOL",
+  "source_provenance": "books/hosea/SOURCE_INVENTORY.json",
+  "reader": "books/hosea/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

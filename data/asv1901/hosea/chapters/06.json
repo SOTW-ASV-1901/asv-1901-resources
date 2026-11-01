@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "HOS.6.1",
+      "edition_verse_id": "ASV1901:HOS.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Come, and let us return unto Jehovah; for he hath torn, and he will heal us; he hath smitten, and he will bind us up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.6.2",
+      "edition_verse_id": "ASV1901:HOS.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "After two days will he revive us: on the third day he will raise us up, and we shall live before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.3",
+      "edition_verse_id": "ASV1901:HOS.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And let us know, let us follow on to know Jehovah: his going forth is sure as the morning; and he will come unto us as the rain, as the latter rain that watereth the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.4",
+      "edition_verse_id": "ASV1901:HOS.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the dew that goeth early away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.6.5",
+      "edition_verse_id": "ASV1901:HOS.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the light that goeth forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.6",
+      "edition_verse_id": "ASV1901:HOS.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I desire goodness, and not sacrifice; and the knowledge of God more than burnt-offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.7",
+      "edition_verse_id": "ASV1901:HOS.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But they like Adam have transgressed the covenant: there have they dealt treacherously against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.8",
+      "edition_verse_id": "ASV1901:HOS.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Gilead is a city of them that work iniquity; it is stained with blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.9",
+      "edition_verse_id": "ASV1901:HOS.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And as troops of robbers wait for a man, so the company of priests murder in the way toward Shechem; yea, they have committed lewdness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.10",
+      "edition_verse_id": "ASV1901:HOS.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In the house of Israel I have seen a horrible thing: there whoredom is ",
+          "kind": "text"
+        },
+        {
+          "text": "found",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Ephraim, Israel is defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.11",
+      "edition_verse_id": "ASV1901:HOS.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Also, O Judah, there is a harvest appointed for thee, when I bring back the captivity of my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

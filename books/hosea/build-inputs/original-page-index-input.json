@@ -1,0 +1,96 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 912,
+      "type": "scripture",
+      "printed_page": 870,
+      "running_head_first_verse": "HOS.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "HOS.1.1",
+      "last_verse": "HOS.2.8",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 913,
+      "type": "scripture",
+      "printed_page": 871,
+      "running_head_first_verse": "HOS.2.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.2.8",
+      "last_verse": "HOS.4.2",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 914,
+      "type": "scripture",
+      "printed_page": 872,
+      "running_head_first_verse": "HOS.4.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.4.2",
+      "last_verse": "HOS.5.8",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 915,
+      "type": "scripture",
+      "printed_page": 873,
+      "running_head_first_verse": "HOS.5.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.5.8",
+      "last_verse": "HOS.7.10",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 916,
+      "type": "scripture",
+      "printed_page": 874,
+      "running_head_first_verse": "HOS.7.11",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.7.10",
+      "last_verse": "HOS.9.6",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 917,
+      "type": "scripture",
+      "printed_page": 875,
+      "running_head_first_verse": "HOS.9.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.9.6",
+      "last_verse": "HOS.10.13",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 918,
+      "type": "scripture",
+      "printed_page": 876,
+      "running_head_first_verse": "HOS.10.14",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.10.13",
+      "last_verse": "HOS.12.12",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 919,
+      "type": "scripture",
+      "printed_page": 877,
+      "running_head_first_verse": "HOS.12.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.12.12",
+      "last_verse": "HOS.14.8",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 920,
+      "type": "scripture",
+      "printed_page": 878,
+      "running_head_first_verse": "HOS.14.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HOS.14.8",
+      "last_verse": "HOS.14.9",
+      "evidence_method": "Original 1901 whole-page scan inspected visually for upper and lower actual verse text, running heads and column continuations; no exhaustive character collation."
+    }
+  ]
+}

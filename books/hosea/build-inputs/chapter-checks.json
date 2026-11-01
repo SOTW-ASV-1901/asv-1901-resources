@@ -1,0 +1,136 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      912
+    ],
+    "first": "HOS.1.1",
+    "last": "HOS.1.11"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      912,
+      913
+    ],
+    "first": "HOS.2.1",
+    "last": "HOS.2.23"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      913
+    ],
+    "first": "HOS.3.1",
+    "last": "HOS.3.5"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      913,
+      914
+    ],
+    "first": "HOS.4.1",
+    "last": "HOS.4.19"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      914,
+      915
+    ],
+    "first": "HOS.5.1",
+    "last": "HOS.5.15"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      915
+    ],
+    "first": "HOS.6.1",
+    "last": "HOS.6.11"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      915,
+      916
+    ],
+    "first": "HOS.7.1",
+    "last": "HOS.7.16"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      916
+    ],
+    "first": "HOS.8.1",
+    "last": "HOS.8.14"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      916,
+      917
+    ],
+    "first": "HOS.9.1",
+    "last": "HOS.9.17"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      917,
+      918
+    ],
+    "first": "HOS.10.1",
+    "last": "HOS.10.15"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      918
+    ],
+    "first": "HOS.11.1",
+    "last": "HOS.11.12"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      918,
+      919
+    ],
+    "first": "HOS.12.1",
+    "last": "HOS.12.14"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      919
+    ],
+    "first": "HOS.13.1",
+    "last": "HOS.13.16"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Original-print chapter location and verse boundaries checked using full scanned-page headings, beginning/end verse and column-continuation review; not an exhaustive character collation.",
+    "source_pdf_pages": [
+      919,
+      920
+    ],
+    "first": "HOS.14.1",
+    "last": "HOS.14.9"
+  }
+}

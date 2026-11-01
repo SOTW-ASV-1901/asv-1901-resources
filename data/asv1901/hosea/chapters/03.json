@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "HOS.3.1",
+      "edition_verse_id": "ASV1901:HOS.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehovah said unto me, Go again, love a woman beloved of ",
+          "kind": "text"
+        },
+        {
+          "text": "her",
+          "kind": "supplied"
+        },
+        {
+          "text": " friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and love cakes of raisins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.3.2",
+      "edition_verse_id": "ASV1901:HOS.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So I bought her to me for fifteen ",
+          "kind": "text"
+        },
+        {
+          "text": "pieces",
+          "kind": "supplied"
+        },
+        {
+          "text": " of silver, and a homer of barley, and a half-homer of barley;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.3.3",
+      "edition_verse_id": "ASV1901:HOS.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be any man’s wife: so will I also be toward thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.3.4",
+      "edition_verse_id": "ASV1901:HOS.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the children of Israel shall abide many days without king, and without prince, and without sacrifice, and without pillar, and without ephod or teraphim:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.3.5",
+      "edition_verse_id": "ASV1901:HOS.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "afterward shall the children of Israel return, and seek Jehovah their God, and David their king, and shall come with fear unto Jehovah and to his goodness in the latter days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

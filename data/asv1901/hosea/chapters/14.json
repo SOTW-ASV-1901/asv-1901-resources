@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "HOS.14.1",
+      "edition_verse_id": "ASV1901:HOS.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O Israel, return unto Jehovah thy God; for thou hast fallen by thine iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.14.2",
+      "edition_verse_id": "ASV1901:HOS.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Take with you words, and return unto Jehovah: say unto him, Take away all iniquity, and accept that which is good: so will we render ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " bullocks ",
+          "kind": "text"
+        },
+        {
+          "text": "the offering of",
+          "kind": "supplied"
+        },
+        {
+          "text": " our lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.14.3",
+      "edition_verse_id": "ASV1901:HOS.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Assyria shall not save us; we will not ride upon horses; neither will we say any more to the work of our hands, ",
+          "kind": "text"
+        },
+        {
+          "text": "Ye are",
+          "kind": "supplied"
+        },
+        {
+          "text": " our gods; for in thee the fatherless findeth mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.14.4",
+      "edition_verse_id": "ASV1901:HOS.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will heal their backsliding, I will love them freely; for mine anger is turned away from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.14.5",
+      "edition_verse_id": "ASV1901:HOS.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I will be as the dew unto Israel; he shall blossom as the lily, and cast forth his roots as Lebanon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.14.6",
+      "edition_verse_id": "ASV1901:HOS.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "His branches shall spread, and his beauty shall be as the olive-tree, and his smell as Lebanon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.14.7",
+      "edition_verse_id": "ASV1901:HOS.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They that dwell under his shadow shall return; they shall revive ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the grain, and blossom as the vine: the scent thereof shall be as the wine of Lebanon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.14.8",
+      "edition_verse_id": "ASV1901:HOS.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Ephraim ",
+          "kind": "text"
+        },
+        {
+          "text": "shall say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", What have I to do any more with idols? I have answered, and will regard him: I am like a green fir-tree; from me is thy fruit found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.14.9",
+      "edition_verse_id": "ASV1901:HOS.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who is wise, that he may understand these things? prudent, that he may know them? for the ways of Jehovah are right, and the just shall walk in them; but transgressors shall fall therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

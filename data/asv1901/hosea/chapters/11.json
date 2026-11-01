@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HOS",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "HOS.11.1",
+      "edition_verse_id": "ASV1901:HOS.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Israel was a child, then I loved him, and called my son out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.11.2",
+      "edition_verse_id": "ASV1901:HOS.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The more ",
+          "kind": "text"
+        },
+        {
+          "text": "the prophets",
+          "kind": "supplied"
+        },
+        {
+          "text": " called them, the more they went from them: they sacrificed unto the Baalim, and burned incense to graven images.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.3",
+      "edition_verse_id": "ASV1901:HOS.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Yet I taught Ephraim to walk; I took them on my arms; but they knew not that I healed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.4",
+      "edition_verse_id": "ASV1901:HOS.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I drew them with cords of a man, with bands of love; and I was to them as they that lift up the yoke on their jaws; and I laid food before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.5",
+      "edition_verse_id": "ASV1901:HOS.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They shall not return into the land of Egypt; but the Assyrian shall be their king, because they refused to return ",
+          "kind": "text"
+        },
+        {
+          "text": "to me",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.11.6",
+      "edition_verse_id": "ASV1901:HOS.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the sword shall fall upon their cities, and shall consume their bars, and devour ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ", because of their own counsels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.7",
+      "edition_verse_id": "ASV1901:HOS.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And my people are bent on backsliding from me: though they call them to ",
+          "kind": "text"
+        },
+        {
+          "text": "him that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " on high, none at all will exalt ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.8",
+      "edition_verse_id": "ASV1901:HOS.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "How shall I give thee up, Ephraim? ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall I cast thee off, Israel? how shall I make thee as Admah? ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall I set thee as Zeboiim? my heart is turned within me, my compassions are kindled together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.11.9",
+      "edition_verse_id": "ASV1901:HOS.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee; and I will not come in wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.10",
+      "edition_verse_id": "ASV1901:HOS.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They shall walk after Jehovah, who will roar like a lion; for he will roar, and the children shall come trembling from the west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.11",
+      "edition_verse_id": "ASV1901:HOS.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They shall come trembling as a bird out of Egypt, and as a dove out of the land of Assyria; and I will make them to dwell in their houses, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.11.12",
+      "edition_verse_id": "ASV1901:HOS.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Ephraim compasseth me about with falsehood, and the house of Israel with deceit; but Judah yet ruleth with God, and is faithful with the Holy One.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
