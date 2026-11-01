@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "ISA.4.1",
+      "edition_verse_id": "ASV1901:ISA.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And seven women shall take hold of one man in that day, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name; take thou away our reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.4.2",
+      "edition_verse_id": "ASV1901:ISA.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In that day shall the branch of Jehovah be beautiful and glorious, and the fruit of the land shall be excellent and comely for them that are escaped of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.4.3",
+      "edition_verse_id": "ASV1901:ISA.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written among the living in Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.4.4",
+      "edition_verse_id": "ASV1901:ISA.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "when the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof, by the spirit of justice, and by the spirit of burning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.4.5",
+      "edition_verse_id": "ASV1901:ISA.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Jehovah will create over the whole habitation of mount Zion, and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night; for over all the glory ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be spread",
+          "kind": "supplied"
+        },
+        {
+          "text": " a covering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.4.6",
+      "edition_verse_id": "ASV1901:ISA.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And there shall be a pavilion for a shade in the day-time from the heat, and for a refuge and for a covert from storm and from rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 52,
+  "verses": [
+    {
+      "id": "ISA.52.1",
+      "edition_verse_id": "ASV1901:ISA.52.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Awake, awake, put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.2",
+      "edition_verse_id": "ASV1901:ISA.52.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Shake thyself from the dust; arise, sit ",
+          "kind": "text"
+        },
+        {
+          "text": "on thy throne",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O Jerusalem: loose thyself from the bonds of thy neck, O captive daughter of Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.3",
+      "edition_verse_id": "ASV1901:ISA.52.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thus saith Jehovah, Ye were sold for nought; and ye shall be redeemed without money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.4",
+      "edition_verse_id": "ASV1901:ISA.52.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For thus saith the Lord Jehovah, My people went down at the first into Egypt to sojourn there: and the Assyrian hath oppressed them without cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.5",
+      "edition_verse_id": "ASV1901:ISA.52.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now therefore, what do I here, saith Jehovah, seeing that my people is taken away for nought? they that rule over them do howl, saith Jehovah, and my name continually all the day is blasphemed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.6",
+      "edition_verse_id": "ASV1901:ISA.52.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore my people shall know my name: therefore ",
+          "kind": "text"
+        },
+        {
+          "text": "they shall know",
+          "kind": "supplied"
+        },
+        {
+          "text": " in that day that I am he that doth speak; behold, it is I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.7",
+      "edition_verse_id": "ASV1901:ISA.52.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion, Thy God reigneth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.8",
+      "edition_verse_id": "ASV1901:ISA.52.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The voice of thy watchmen! they lift up the voice, together do they sing; for they shall see eye to eye, when Jehovah returneth to Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.9",
+      "edition_verse_id": "ASV1901:ISA.52.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Break forth into joy, sing together, ye waste places of Jerusalem; for Jehovah hath comforted his people, he hath redeemed Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.10",
+      "edition_verse_id": "ASV1901:ISA.52.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jehovah hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth have seen the salvation of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.11",
+      "edition_verse_id": "ASV1901:ISA.52.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; cleanse yourselves, ye that bear the vessels of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.12",
+      "edition_verse_id": "ASV1901:ISA.52.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For ye shall not go out in haste, neither shall ye go by flight: for Jehovah will go before you; and the God of Israel will be your rearward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.13",
+      "edition_verse_id": "ASV1901:ISA.52.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Behold, my servant shall deal wisely, he shall be exalted and lifted up, and shall be very high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.14",
+      "edition_verse_id": "ASV1901:ISA.52.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Like as many were astonished at thee (his visage was so marred more than any man, and his form more than the sons of men),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.15",
+      "edition_verse_id": "ASV1901:ISA.52.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "so shall he sprinkle many nations; kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they understand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

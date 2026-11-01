@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 37,
+  "verses": [
+    {
+      "id": "ISA.37.1",
+      "edition_verse_id": "ASV1901:ISA.37.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.2",
+      "edition_verse_id": "ASV1901:ISA.37.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he sent Eliakim, who was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, unto Isaiah the prophet the son of Amoz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.3",
+      "edition_verse_id": "ASV1901:ISA.37.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and of contumely; for the children are come to the birth, and there is not strength to bring forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.4",
+      "edition_verse_id": "ASV1901:ISA.37.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "It may be Jehovah thy God will hear the words of Rabshakeh, whom the king of Assyria his master hath sent to defy the living God, and will rebuke the words which Jehovah thy God hath heard: wherefore lift up thy prayer for the remnant that is left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.5",
+      "edition_verse_id": "ASV1901:ISA.37.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the servants of king Hezekiah came to Isaiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.6",
+      "edition_verse_id": "ASV1901:ISA.37.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Isaiah said unto them, Thus shall ye say to your master, Thus saith Jehovah, Be not afraid of the words that thou hast heard, wherewith the servants of the king of Assyria have blasphemed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.7",
+      "edition_verse_id": "ASV1901:ISA.37.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, I will put a spirit in him, and he shall hear tidings, and shall return unto his own land; and I will cause him to fall by the sword in his own land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.8",
+      "edition_verse_id": "ASV1901:ISA.37.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So Rabshakeh returned, and found the king of Assyria warring against Libnah; for he had heard that he was departed from Lachish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.9",
+      "edition_verse_id": "ASV1901:ISA.37.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he heard say concerning Tirhakah king of Ethiopia, He is come out to fight against thee. And when he heard it, he sent messengers to Hezekiah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.10",
+      "edition_verse_id": "ASV1901:ISA.37.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be given into the hand of the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.11",
+      "edition_verse_id": "ASV1901:ISA.37.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.12",
+      "edition_verse_id": "ASV1901:ISA.37.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Have the gods of the nations delivered them, which my fathers have destroyed, Gozan, and Haran, and Rezeph, and the children of Eden that were in Telassar?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.13",
+      "edition_verse_id": "ASV1901:ISA.37.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivvah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.14",
+      "edition_verse_id": "ASV1901:ISA.37.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Hezekiah received the letter from the hand of the messengers, and read it; and Hezekiah went up unto the house of Jehovah, and spread it before Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.15",
+      "edition_verse_id": "ASV1901:ISA.37.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Hezekiah prayed unto Jehovah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.16",
+      "edition_verse_id": "ASV1901:ISA.37.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "O Jehovah of hosts, the God of Israel, that sittest ",
+          "kind": "text"
+        },
+        {
+          "text": "above",
+          "kind": "supplied"
+        },
+        {
+          "text": " the cherubim, thou art the God, even thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.17",
+      "edition_verse_id": "ASV1901:ISA.37.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Incline thine ear, O Jehovah, and hear; open thine eyes, O Jehovah, and see; and hear all the words of Sennacherib, who hath sent to defy the living God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.18",
+      "edition_verse_id": "ASV1901:ISA.37.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Of a truth, Jehovah, the kings of Assyria have laid waste all the countries, and their land,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.19",
+      "edition_verse_id": "ASV1901:ISA.37.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and have cast their gods into the fire: for they were no gods, but the work of men’s hands, wood and stone; therefore they have destroyed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.20",
+      "edition_verse_id": "ASV1901:ISA.37.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now therefore, O Jehovah our God, save us from his hand, that all the kingdoms of the earth may know that thou art Jehovah, even thou only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.21",
+      "edition_verse_id": "ASV1901:ISA.37.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith Jehovah, the God of Israel, Whereas thou hast prayed to me against Sennacherib king of Assyria,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.22",
+      "edition_verse_id": "ASV1901:ISA.37.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "this is the word which Jehovah hath spoken concerning him: The virgin daughter of Zion hath despised thee and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.23",
+      "edition_verse_id": "ASV1901:ISA.37.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whom hast thou defied and blasphemed? and against whom hast thou exalted thy voice and lifted up thine eyes on high? ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " against the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.24",
+      "edition_verse_id": "ASV1901:ISA.37.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "By thy servants hast thou defied the Lord, and hast said, With the multitude of my chariots am I come up to the height of the mountains, to the innermost parts of Lebanon; and I will cut down the tall cedars thereof, and the choice fir-trees thereof; and I will enter into its farthest height, the forest of its fruitful field;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.25",
+      "edition_verse_id": "ASV1901:ISA.37.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I have digged and drunk water, and with the sole of my feet will I dry up all the rivers of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.26",
+      "edition_verse_id": "ASV1901:ISA.37.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Hast thou not heard how I have done it long ago, and formed it of ancient times? now have I brought it to pass, that it should be thine to lay waste fortified cities into ruinous heaps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.27",
+      "edition_verse_id": "ASV1901:ISA.37.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as a field ",
+          "kind": "text"
+        },
+        {
+          "text": "of grain",
+          "kind": "supplied"
+        },
+        {
+          "text": " before it is grown up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.28",
+      "edition_verse_id": "ASV1901:ISA.37.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But I know thy sitting down, and thy going out, and thy coming in, and thy raging against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.29",
+      "edition_verse_id": "ASV1901:ISA.37.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Because of thy raging against me, and because thine arrogancy is come up into mine ears, therefore will I put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.30",
+      "edition_verse_id": "ASV1901:ISA.37.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And this shall be the sign unto thee: ye shall eat this year that which groweth of itself, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruit thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.31",
+      "edition_verse_id": "ASV1901:ISA.37.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the remnant that is escaped of the house of Judah shall again take root downward, and bear fruit upward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.32",
+      "edition_verse_id": "ASV1901:ISA.37.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For out of Jerusalem shall go forth a remnant, and out of mount Zion they that shall escape. The zeal of Jehovah of hosts will perform this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.33",
+      "edition_verse_id": "ASV1901:ISA.37.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Therefore thus saith Jehovah concerning the king of Assyria, He shall not come unto this city, nor shoot an arrow there, neither shall he come before it with shield, nor cast up a mound against it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.37.34",
+      "edition_verse_id": "ASV1901:ISA.37.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "By the way that he came, by the same shall he return, and he shall not come unto this city, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.35",
+      "edition_verse_id": "ASV1901:ISA.37.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For I will defend this city to save it, for mine own sake, and for my servant David’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.36",
+      "edition_verse_id": "ASV1901:ISA.37.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And the angel of Jehovah went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand; and when men arose early in the morning, behold, these were all dead bodies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.37",
+      "edition_verse_id": "ASV1901:ISA.37.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.37.38",
+      "edition_verse_id": "ASV1901:ISA.37.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword; and they escaped into the land of Ararat. And Esar-haddon his son reigned in his stead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

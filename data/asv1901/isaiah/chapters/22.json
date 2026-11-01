@@ -1,0 +1,340 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "ISA.22.1",
+      "edition_verse_id": "ASV1901:ISA.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The burden of the valley of vision.What aileth thee now, that thou art wholly gone up to the housetops?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.2",
+      "edition_verse_id": "ASV1901:ISA.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O thou that art full of shoutings, a tumultuous city, a joyous town; thy slain are not slain with the sword, neither are they dead in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.3",
+      "edition_verse_id": "ASV1901:ISA.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "All thy rulers fled away together, they were bound by the archers; all that were found of thee were bound together; they fled afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.4",
+      "edition_verse_id": "ASV1901:ISA.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore said I, Look away from me, I will weep bitterly; labor not to comfort me for the destruction of the daughter of my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.5",
+      "edition_verse_id": "ASV1901:ISA.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For it is a day of discomfiture, and of treading down, and of perplexity, from the Lord, Jehovah of hosts, in the valley of vision; a breaking down of the walls, and a crying to the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.6",
+      "edition_verse_id": "ASV1901:ISA.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Elam bare the quiver, with chariots of men ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " horsemen; and Kir uncovered the shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.7",
+      "edition_verse_id": "ASV1901:ISA.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it came to pass, that thy choicest valleys were full of chariots, and the horsemen set themselves in array at the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.8",
+      "edition_verse_id": "ASV1901:ISA.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he took away the covering of Judah; and thou didst look in that day to the armor in the house of the forest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.9",
+      "edition_verse_id": "ASV1901:ISA.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And ye saw the breaches of the city of David, that they were many; and ye gathered together the waters of the lower pool;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.10",
+      "edition_verse_id": "ASV1901:ISA.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and ye numbered the houses of Jerusalem, and ye brake down the houses to fortify the wall;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.11",
+      "edition_verse_id": "ASV1901:ISA.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "ye made also a reservoir between the two walls for the water of the old pool. But ye looked not unto him that had done this, neither had ye respect unto him that purposed it long ago.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.12",
+      "edition_verse_id": "ASV1901:ISA.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And in that day did the Lord, Jehovah of hosts, call to weeping, and to mourning, and to baldness, and to girding with sackcloth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.13",
+      "edition_verse_id": "ASV1901:ISA.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and, behold, joy and gladness, slaying oxen and killing sheep, eating flesh and drinking wine: Let us eat and drink, for to-morrow we shall die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.14",
+      "edition_verse_id": "ASV1901:ISA.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Jehovah of hosts revealed himself in mine ears, Surely this iniquity shall not be forgiven you till ye die, saith the Lord, Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.15",
+      "edition_verse_id": "ASV1901:ISA.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thus saith the Lord, Jehovah of hosts, Go, get thee unto this treasurer, even unto Shebna, who is over the house, ",
+          "kind": "text"
+        },
+        {
+          "text": "and say",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.16",
+      "edition_verse_id": "ASV1901:ISA.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "What doest thou here? and whom hast thou here, that thou hast hewed thee out here a sepulchre? hewing him out a sepulchre on high, graving a habitation for himself in the rock!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.22.17",
+      "edition_verse_id": "ASV1901:ISA.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Behold, Jehovah, like a ",
+          "kind": "text"
+        },
+        {
+          "text": "strong",
+          "kind": "supplied"
+        },
+        {
+          "text": " man, will hurl thee away violently; yea, he will wrap thee up closely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.18",
+      "edition_verse_id": "ASV1901:ISA.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He will surely wind thee round and round, ",
+          "kind": "text"
+        },
+        {
+          "text": "and toss thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a ball into a large country; there shalt thou die, and there shall be the chariots of thy glory, thou shame of thy lord’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.19",
+      "edition_verse_id": "ASV1901:ISA.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will thrust thee from thine office; and from thy station shalt thou be pulled down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.20",
+      "edition_verse_id": "ASV1901:ISA.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, that I will call my servant Eliakim the son of Hilkiah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.21",
+      "edition_verse_id": "ASV1901:ISA.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and I will clothe him with thy robe, and strengthen him with thy girdle, and I will commit thy government into his hand; and he shall be a father to the inhabitants of Jerusalem, and to the house of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.22",
+      "edition_verse_id": "ASV1901:ISA.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the key of the house of David will I lay upon his shoulder; and he shall open, and none shall shut; and he shall shut, and none shall open.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.23",
+      "edition_verse_id": "ASV1901:ISA.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will fasten him as a nail in a sure place; and he shall be for a throne of glory to his father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.24",
+      "edition_verse_id": "ASV1901:ISA.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they shall hang upon him all the glory of his father’s house, the offspring and the issue, every small vessel, from the cups even to all the flagons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.22.25",
+      "edition_verse_id": "ASV1901:ISA.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In that day, saith Jehovah of hosts, shall the nail that was fastened in a sure place give way; and it shall be hewn down, and fall; and the burden that was upon it shall be cut off; for Jehovah hath spoken it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

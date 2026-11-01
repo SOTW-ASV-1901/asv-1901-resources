@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 54,
+  "verses": [
+    {
+      "id": "ISA.54.1",
+      "edition_verse_id": "ASV1901:ISA.54.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.54.2",
+      "edition_verse_id": "ASV1901:ISA.54.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Enlarge the place of thy tent, and let them stretch forth the curtains of thy habitations; spare not: lengthen thy cords, and strengthen thy stakes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.3",
+      "edition_verse_id": "ASV1901:ISA.54.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For thou shalt spread abroad on the right hand and on the left; and thy seed shall possess the nations, and make the desolate cities to be inhabited.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.4",
+      "edition_verse_id": "ASV1901:ISA.54.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth; and the reproach of thy widowhood shalt thou remember no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.54.5",
+      "edition_verse_id": "ASV1901:ISA.54.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For thy Maker is thy husband; Jehovah of hosts is his name: and the Holy One of Israel is thy Redeemer; the God of the whole earth shall he be called.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.6",
+      "edition_verse_id": "ASV1901:ISA.54.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For Jehovah hath called thee as a wife forsaken and grieved in spirit, even a wife of youth, when she is cast off, saith thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.7",
+      "edition_verse_id": "ASV1901:ISA.54.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For a small moment have I forsaken thee; but with great mercies will I gather thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.8",
+      "edition_verse_id": "ASV1901:ISA.54.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In overflowing wrath I hid my face from thee for a moment; but with everlasting lovingkindness will I have mercy on thee, saith Jehovah thy Redeemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.9",
+      "edition_verse_id": "ASV1901:ISA.54.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For this is ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the waters of Noah unto me; for as I have sworn that the waters of Noah shall no more go over the earth, so have I sworn that I will not be wroth with thee, nor rebuke thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.54.10",
+      "edition_verse_id": "ASV1901:ISA.54.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the mountains may depart, and the hills be removed; but my lovingkindness shall not depart from thee, neither shall my covenant of peace be removed, saith Jehovah that hath mercy on thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.11",
+      "edition_verse_id": "ASV1901:ISA.54.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "O thou afflicted, tossed with tempest, and not comforted, behold, I will set thy stones in fair colors, and lay thy foundations with sapphires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.54.12",
+      "edition_verse_id": "ASV1901:ISA.54.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I will make thy pinnacles of rubies, and thy gates of carbuncles, and all thy border of precious stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.13",
+      "edition_verse_id": "ASV1901:ISA.54.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And all thy children shall be taught of Jehovah; and great shall be the peace of thy children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.14",
+      "edition_verse_id": "ASV1901:ISA.54.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In righteousness shalt thou be established: thou shalt be far from oppression, for thou shalt not fear; and from terror, for it shall not come near thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.15",
+      "edition_verse_id": "ASV1901:ISA.54.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Behold, they may gather together, but not by me: whosoever shall gather together against thee shall fall because of thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.16",
+      "edition_verse_id": "ASV1901:ISA.54.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Behold, I have created the smith that bloweth the fire of coals, and bringeth forth a weapon for his work; and I have created the waster to destroy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.17",
+      "edition_verse_id": "ASV1901:ISA.54.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of Jehovah, and their righteousness which is of me, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

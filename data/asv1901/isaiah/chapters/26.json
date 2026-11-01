@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "ISA.26.1",
+      "edition_verse_id": "ASV1901:ISA.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In that day shall this song be sung in the land of Judah: We have a strong city; salvation will he appoint for walls and bulwarks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.2",
+      "edition_verse_id": "ASV1901:ISA.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Open ye the gates, that the righteous nation which keepeth faith may enter in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.3",
+      "edition_verse_id": "ASV1901:ISA.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thou wilt keep ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " in perfect peace, ",
+          "kind": "text"
+        },
+        {
+          "text": "whose",
+          "kind": "supplied"
+        },
+        {
+          "text": " mind ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " stayed ",
+          "kind": "text"
+        },
+        {
+          "text": "on thee",
+          "kind": "supplied"
+        },
+        {
+          "text": "; because he trusteth in thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.4",
+      "edition_verse_id": "ASV1901:ISA.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Trust ye in Jehovah for ever; for in Jehovah, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jehovah, is an everlasting rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.5",
+      "edition_verse_id": "ASV1901:ISA.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For he hath brought down them that dwell on high, the lofty city: he layeth it low, he layeth it low even to the ground; he bringeth it even to the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.6",
+      "edition_verse_id": "ASV1901:ISA.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The foot shall tread it down; even the feet of the poor, and the steps of the needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.7",
+      "edition_verse_id": "ASV1901:ISA.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The way of the just is uprightness: thou that art upright dost direct the path of the just.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.8",
+      "edition_verse_id": "ASV1901:ISA.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yea, in the way of thy judgments, O Jehovah, have we waited for thee; to thy name, even to thy memorial ",
+          "kind": "text"
+        },
+        {
+          "text": "name",
+          "kind": "supplied"
+        },
+        {
+          "text": ", is the desire of our soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.9",
+      "edition_verse_id": "ASV1901:ISA.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee earnestly: for when thy judgments are in the earth, the inhabitants of the world learn righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.10",
+      "edition_verse_id": "ASV1901:ISA.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let favor be showed to the wicked, yet will he not learn righteousness; in the land of uprightness will he deal wrongfully, and will not behold the majesty of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.11",
+      "edition_verse_id": "ASV1901:ISA.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jehovah, thy hand is lifted up, yet they see not: but they shall see ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " zeal for the people, and be put to shame; yea, fire shall devour thine adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.12",
+      "edition_verse_id": "ASV1901:ISA.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Jehovah, thou wilt ordain peace for us; for thou hast also wrought all our works for us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.13",
+      "edition_verse_id": "ASV1901:ISA.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "O Jehovah our God, other lords besides thee have had dominion over us; but by thee only will we make mention of thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.14",
+      "edition_verse_id": "ASV1901:ISA.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They are",
+          "kind": "supplied"
+        },
+        {
+          "text": " dead, they shall not live; ",
+          "kind": "text"
+        },
+        {
+          "text": "they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all remembrance of them to perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.15",
+      "edition_verse_id": "ASV1901:ISA.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thou hast increased the nation, O Jehovah, thou hast increased the nation; thou art glorified; thou hast enlarged all the borders of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.16",
+      "edition_verse_id": "ASV1901:ISA.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jehovah, in trouble have they visited thee; they poured out a prayer ",
+          "kind": "text"
+        },
+        {
+          "text": "when",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy chastening was upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.17",
+      "edition_verse_id": "ASV1901:ISA.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Like as a woman with child, that draweth near the time of her delivery, is in pain and crieth out in her pangs; so we have been before thee, O Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.18",
+      "edition_verse_id": "ASV1901:ISA.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.19",
+      "edition_verse_id": "ASV1901:ISA.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thy dead shall live; my dead bodies shall arise. Awake and sing, ye that dwell in the dust; for thy dew is ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the dew of herbs, and the earth shall cast forth the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.20",
+      "edition_verse_id": "ASV1901:ISA.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself for a little moment, until the indignation be overpast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.21",
+      "edition_verse_id": "ASV1901:ISA.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For, behold, Jehovah cometh forth out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

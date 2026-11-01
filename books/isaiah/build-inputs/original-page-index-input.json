@@ -1,0 +1,556 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 717,
+      "type": "scripture",
+      "printed_page": 675,
+      "running_head_first_verse": "ISA.1.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.1.1",
+      "last_verse": "ISA.1.23",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 718,
+      "type": "scripture",
+      "printed_page": 676,
+      "running_head_first_verse": "ISA.1.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.1.23",
+      "last_verse": "ISA.2.19",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 719,
+      "type": "scripture",
+      "printed_page": 677,
+      "running_head_first_verse": "ISA.2.20",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.2.19",
+      "last_verse": "ISA.4.2",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 720,
+      "type": "scripture",
+      "printed_page": 678,
+      "running_head_first_verse": "ISA.4.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.4.2",
+      "last_verse": "ISA.5.20",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 721,
+      "type": "scripture",
+      "printed_page": 679,
+      "running_head_first_verse": "ISA.5.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.5.20",
+      "last_verse": "ISA.6.13",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 722,
+      "type": "scripture",
+      "printed_page": 680,
+      "running_head_first_verse": "ISA.7.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.7.1",
+      "last_verse": "ISA.8.2",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 723,
+      "type": "scripture",
+      "printed_page": 681,
+      "running_head_first_verse": "ISA.8.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.8.2",
+      "last_verse": "ISA.9.5",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 724,
+      "type": "scripture",
+      "printed_page": 682,
+      "running_head_first_verse": "ISA.9.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.9.5",
+      "last_verse": "ISA.10.7",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 725,
+      "type": "scripture",
+      "printed_page": 683,
+      "running_head_first_verse": "ISA.10.8",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.10.8",
+      "last_verse": "ISA.10.33",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 726,
+      "type": "scripture",
+      "printed_page": 684,
+      "running_head_first_verse": "ISA.10.34",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.10.33",
+      "last_verse": "ISA.12.6",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 727,
+      "type": "scripture",
+      "printed_page": 685,
+      "running_head_first_verse": "ISA.13.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.12.6",
+      "last_verse": "ISA.14.2",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 728,
+      "type": "scripture",
+      "printed_page": 686,
+      "running_head_first_verse": "ISA.14.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.14.2",
+      "last_verse": "ISA.14.30",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 729,
+      "type": "scripture",
+      "printed_page": 687,
+      "running_head_first_verse": "ISA.14.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.14.30",
+      "last_verse": "ISA.16.12",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 730,
+      "type": "scripture",
+      "printed_page": 688,
+      "running_head_first_verse": "ISA.16.13",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.16.12",
+      "last_verse": "ISA.18.5",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 731,
+      "type": "scripture",
+      "printed_page": 689,
+      "running_head_first_verse": "ISA.18.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.18.5",
+      "last_verse": "ISA.19.21",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 732,
+      "type": "scripture",
+      "printed_page": 690,
+      "running_head_first_verse": "ISA.19.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.19.21",
+      "last_verse": "ISA.21.14",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 733,
+      "type": "scripture",
+      "printed_page": 691,
+      "running_head_first_verse": "ISA.21.15",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.21.14",
+      "last_verse": "ISA.22.24",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 734,
+      "type": "scripture",
+      "printed_page": 692,
+      "running_head_first_verse": "ISA.22.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.22.24",
+      "last_verse": "ISA.24.5",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 735,
+      "type": "scripture",
+      "printed_page": 693,
+      "running_head_first_verse": "ISA.24.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.24.5",
+      "last_verse": "ISA.25.8",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 736,
+      "type": "scripture",
+      "printed_page": 694,
+      "running_head_first_verse": "ISA.25.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.25.8",
+      "last_verse": "ISA.26.20",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 737,
+      "type": "scripture",
+      "printed_page": 695,
+      "running_head_first_verse": "ISA.26.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.26.20",
+      "last_verse": "ISA.28.7",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 738,
+      "type": "scripture",
+      "printed_page": 696,
+      "running_head_first_verse": "ISA.28.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.28.7",
+      "last_verse": "ISA.29.3",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 739,
+      "type": "scripture",
+      "printed_page": 697,
+      "running_head_first_verse": "ISA.29.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.29.3",
+      "last_verse": "ISA.29.23",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 740,
+      "type": "scripture",
+      "printed_page": 698,
+      "running_head_first_verse": "ISA.29.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.29.23",
+      "last_verse": "ISA.30.21",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 741,
+      "type": "scripture",
+      "printed_page": 699,
+      "running_head_first_verse": "ISA.30.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.30.21",
+      "last_verse": "ISA.31.8",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 742,
+      "type": "scripture",
+      "printed_page": 700,
+      "running_head_first_verse": "ISA.31.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.31.8",
+      "last_verse": "ISA.33.6",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 743,
+      "type": "scripture",
+      "printed_page": 701,
+      "running_head_first_verse": "ISA.33.7",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.33.7",
+      "last_verse": "ISA.34.8",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 744,
+      "type": "scripture",
+      "printed_page": 702,
+      "running_head_first_verse": "ISA.34.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.34.8",
+      "last_verse": "ISA.36.3",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 745,
+      "type": "scripture",
+      "printed_page": 703,
+      "running_head_first_verse": "ISA.36.4",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.36.4",
+      "last_verse": "ISA.37.6",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 746,
+      "type": "scripture",
+      "printed_page": 704,
+      "running_head_first_verse": "ISA.37.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.37.6",
+      "last_verse": "ISA.37.30",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 747,
+      "type": "scripture",
+      "printed_page": 705,
+      "running_head_first_verse": "ISA.37.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.37.30",
+      "last_verse": "ISA.38.16",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 748,
+      "type": "scripture",
+      "printed_page": 706,
+      "running_head_first_verse": "ISA.38.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.38.16",
+      "last_verse": "ISA.40.9",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 749,
+      "type": "scripture",
+      "printed_page": 707,
+      "running_head_first_verse": "ISA.40.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.40.9",
+      "last_verse": "ISA.41.2",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 750,
+      "type": "scripture",
+      "printed_page": 708,
+      "running_head_first_verse": "ISA.41.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.41.2",
+      "last_verse": "ISA.41.27",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 751,
+      "type": "scripture",
+      "printed_page": 709,
+      "running_head_first_verse": "ISA.41.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.41.27",
+      "last_verse": "ISA.42.23",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 752,
+      "type": "scripture",
+      "printed_page": 710,
+      "running_head_first_verse": "ISA.42.24",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.42.24",
+      "last_verse": "ISA.43.23",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 753,
+      "type": "scripture",
+      "printed_page": 711,
+      "running_head_first_verse": "ISA.43.24",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.43.23",
+      "last_verse": "ISA.44.17",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 754,
+      "type": "scripture",
+      "printed_page": 712,
+      "running_head_first_verse": "ISA.44.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.44.17",
+      "last_verse": "ISA.45.10",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 755,
+      "type": "scripture",
+      "printed_page": 713,
+      "running_head_first_verse": "ISA.45.11",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.45.11",
+      "last_verse": "ISA.46.7",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 756,
+      "type": "scripture",
+      "printed_page": 714,
+      "running_head_first_verse": "ISA.46.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.46.7",
+      "last_verse": "ISA.48.1",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 757,
+      "type": "scripture",
+      "printed_page": 715,
+      "running_head_first_verse": "ISA.48.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.48.1",
+      "last_verse": "ISA.49.3",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 758,
+      "type": "scripture",
+      "printed_page": 716,
+      "running_head_first_verse": "ISA.49.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.49.3",
+      "last_verse": "ISA.49.25",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 759,
+      "type": "scripture",
+      "printed_page": 717,
+      "running_head_first_verse": "ISA.49.26",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.49.25",
+      "last_verse": "ISA.51.7",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 760,
+      "type": "scripture",
+      "printed_page": 718,
+      "running_head_first_verse": "ISA.51.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.51.7",
+      "last_verse": "ISA.52.7",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 761,
+      "type": "scripture",
+      "printed_page": 719,
+      "running_head_first_verse": "ISA.52.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.52.7",
+      "last_verse": "ISA.54.1",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 762,
+      "type": "scripture",
+      "printed_page": 720,
+      "running_head_first_verse": "ISA.54.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.54.1",
+      "last_verse": "ISA.55.8",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 763,
+      "type": "scripture",
+      "printed_page": 721,
+      "running_head_first_verse": "ISA.55.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.55.8",
+      "last_verse": "ISA.57.6",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 764,
+      "type": "scripture",
+      "printed_page": 722,
+      "running_head_first_verse": "ISA.57.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.57.6",
+      "last_verse": "ISA.58.8",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 765,
+      "type": "scripture",
+      "printed_page": 723,
+      "running_head_first_verse": "ISA.58.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.58.8",
+      "last_verse": "ISA.59.16",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 766,
+      "type": "scripture",
+      "printed_page": 724,
+      "running_head_first_verse": "ISA.59.17",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.59.16",
+      "last_verse": "ISA.60.17",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 767,
+      "type": "scripture",
+      "printed_page": 725,
+      "running_head_first_verse": "ISA.60.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.60.17",
+      "last_verse": "ISA.62.5",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 768,
+      "type": "scripture",
+      "printed_page": 726,
+      "running_head_first_verse": "ISA.62.6",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ISA.62.6",
+      "last_verse": "ISA.63.15",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 769,
+      "type": "scripture",
+      "printed_page": 727,
+      "running_head_first_verse": "ISA.63.16",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.63.15",
+      "last_verse": "ISA.65.8",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 770,
+      "type": "scripture",
+      "printed_page": 728,
+      "running_head_first_verse": "ISA.65.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.65.8",
+      "last_verse": "ISA.66.4",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    },
+    {
+      "source_pdf_page": 771,
+      "type": "scripture",
+      "printed_page": 729,
+      "running_head_first_verse": "ISA.66.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ISA.66.4",
+      "last_verse": "ISA.66.24",
+      "evidence_method": "Original 1901 facsimile page opening and closing inspected (including first-numbered verse, continuation lines, and column transitions); normalized digital source used for chapter/verse cross-check; not exhaustive character collation."
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 66,
+  "verses": [
+    {
+      "id": "ISA.66.1",
+      "edition_verse_id": "ASV1901:ISA.66.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus saith Jehovah, Heaven is my throne, and the earth is my footstool: what manner of house will ye build unto me? and what place shall be my rest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.66.2",
+      "edition_verse_id": "ASV1901:ISA.66.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For all these things hath my hand made, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " all these things came to be, saith Jehovah: but to this man will I look, even to him that is poor and of a contrite spirit, and that trembleth at my word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.3",
+      "edition_verse_id": "ASV1901:ISA.66.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He that killeth an ox is as he that slayeth a man; he that sacrificeth a lamb, as he that breaketh a dog’s neck; he that offereth an oblation, ",
+          "kind": "text"
+        },
+        {
+          "text": "as he that offereth",
+          "kind": "supplied"
+        },
+        {
+          "text": " swine’s blood; he that burneth frankincense, as he that blesseth an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.4",
+      "edition_verse_id": "ASV1901:ISA.66.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I also will choose their delusions, and will bring their fears upon them; because when I called, none did answer; when I spake, they did not hear: but they did that which was evil in mine eyes, and chose that wherein I delighted not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.5",
+      "edition_verse_id": "ASV1901:ISA.66.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Hear the word of Jehovah, ye that tremble at his word: Your brethren that hate you, that cast you out for my name’s sake, have said, Let Jehovah be glorified, that we may see your joy; but it is they that shall be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.66.6",
+      "edition_verse_id": "ASV1901:ISA.66.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "A voice of tumult from the city, a voice from the temple, a voice of Jehovah that rendereth recompense to his enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.7",
+      "edition_verse_id": "ASV1901:ISA.66.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Before she travailed, she brought forth; before her pain came, she was delivered of a man-child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.66.8",
+      "edition_verse_id": "ASV1901:ISA.66.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who hath heard such a thing? who hath seen such things? Shall a land be born in one day? shall a nation be brought forth at once? for as soon as Zion travailed, she brought forth her children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.9",
+      "edition_verse_id": "ASV1901:ISA.66.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Shall I bring to the birth, and not cause to bring forth? saith Jehovah: shall I that cause to bring forth shut ",
+          "kind": "text"
+        },
+        {
+          "text": "the womb",
+          "kind": "supplied"
+        },
+        {
+          "text": "? saith thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.10",
+      "edition_verse_id": "ASV1901:ISA.66.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Rejoice ye with Jerusalem, and be glad for her, all ye that love her: rejoice for joy with her, all ye that mourn over her;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.66.11",
+      "edition_verse_id": "ASV1901:ISA.66.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "that ye may suck and be satisfied with the breasts of her consolations; that ye may milk out, and be delighted with the abundance of her glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.12",
+      "edition_verse_id": "ASV1901:ISA.66.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For thus saith Jehovah, Behold, I will extend peace to her like a river, and the glory of the nations like an overflowing stream: and ye shall suck ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": "; ye shall be borne upon the side, and shall be dandled upon the knees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.13",
+      "edition_verse_id": "ASV1901:ISA.66.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.14",
+      "edition_verse_id": "ASV1901:ISA.66.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And ye shall see ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and your heart shall rejoice, and your bones shall flourish like the tender grass: and the hand of Jehovah shall be known toward his servants; and he will have indignation against his enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.15",
+      "edition_verse_id": "ASV1901:ISA.66.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For, behold, Jehovah will come with fire, and his chariots shall be like the whirlwind; to render his anger with fierceness, and his rebuke with flames of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.66.16",
+      "edition_verse_id": "ASV1901:ISA.66.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For by fire will Jehovah execute judgment, and by his sword, upon all flesh; and the slain of Jehovah shall be many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.17",
+      "edition_verse_id": "ASV1901:ISA.66.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They that sanctify themselves and purify themselves ",
+          "kind": "text"
+        },
+        {
+          "text": "to go",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the gardens, behind one in the midst, eating swine’s flesh, and the abomination, and the mouse, they shall come to an end together, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.18",
+      "edition_verse_id": "ASV1901:ISA.66.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I ",
+          "kind": "text"
+        },
+        {
+          "text": "know",
+          "kind": "supplied"
+        },
+        {
+          "text": " their works and their thoughts: ",
+          "kind": "text"
+        },
+        {
+          "text": "the time",
+          "kind": "supplied"
+        },
+        {
+          "text": " cometh, that I will gather all nations and tongues; and they shall come, and shall see my glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.66.19",
+      "edition_verse_id": "ASV1901:ISA.66.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will set a sign among them, and I will send such as escape of them unto the nations, to Tarshish, Pul, and Lud, that draw the bow, to Tubal and Javan, to the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.20",
+      "edition_verse_id": "ASV1901:ISA.66.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And they shall bring all your brethren out of all the nations for an oblation unto Jehovah, upon horses, and in chariots, and in litters, and upon mules, and upon dromedaries, to my holy mountain Jerusalem, saith Jehovah, as the children of Israel bring their oblation in a clean vessel into the house of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.21",
+      "edition_verse_id": "ASV1901:ISA.66.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And of them also will I take for priests ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " for Levites, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.22",
+      "edition_verse_id": "ASV1901:ISA.66.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For as the new heavens and the new earth, which I will make, shall remain before me, saith Jehovah, so shall your seed and your name remain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.66.23",
+      "edition_verse_id": "ASV1901:ISA.66.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.66.24",
+      "edition_verse_id": "ASV1901:ISA.66.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they shall go forth, and look upon the dead bodies of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

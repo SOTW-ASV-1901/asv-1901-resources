@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 47,
+  "verses": [
+    {
+      "id": "ISA.47.1",
+      "edition_verse_id": "ASV1901:ISA.47.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Come down, and sit in the dust, O virgin daughter of Babylon; sit on the ground without a throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.47.2",
+      "edition_verse_id": "ASV1901:ISA.47.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Take the millstones, and grind meal; remove thy veil, strip off the train, uncover the leg, pass through the rivers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.3",
+      "edition_verse_id": "ASV1901:ISA.47.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and will spare no man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.4",
+      "edition_verse_id": "ASV1901:ISA.47.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Our Redeemer, Jehovah of hosts is his name, the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.5",
+      "edition_verse_id": "ASV1901:ISA.47.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Sit thou silent, and get thee into darkness, O daughter of the Chaldeans; for thou shalt no more be called The mistress of kingdoms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.6",
+      "edition_verse_id": "ASV1901:ISA.47.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I was wroth with my people, I profaned mine inheritance, and gave them into thy hand: thou didst show them no mercy; upon the aged hast thou very heavily laid thy yoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.7",
+      "edition_verse_id": "ASV1901:ISA.47.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And thou saidst, I shall be mistress for ever; so that thou didst not lay these things to thy heart, neither didst remember the latter end thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.8",
+      "edition_verse_id": "ASV1901:ISA.47.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now therefore hear this, thou that art given to pleasures, that sittest securely, that sayest in thy heart, I am, and there is none else besides me; I shall not sit as a widow, neither shall I know the loss of children:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.47.9",
+      "edition_verse_id": "ASV1901:ISA.47.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "but these two things shall come to thee in a moment in one day, the loss of children, and widowhood; in their full measure shall they come upon thee, in the multitude of thy sorceries, and the great abundance of thine enchantments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.10",
+      "edition_verse_id": "ASV1901:ISA.47.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For thou hast trusted in thy wickedness; thou hast said, None seeth me; thy wisdom and thy knowledge, it hath perverted thee, and thou hast said in thy heart, I am, and there is none else besides me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.11",
+      "edition_verse_id": "ASV1901:ISA.47.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore shall evil come upon thee; thou shalt not know the dawning thereof: and mischief shall fall upon thee; thou shalt not be able to put it away: and desolation shall come upon thee suddenly, which thou knowest not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.12",
+      "edition_verse_id": "ASV1901:ISA.47.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Stand now with thine enchantments, and with the multitude of thy sorceries, wherein thou hast labored from thy youth; if so be thou shalt be able to profit, if so be thou mayest prevail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.47.13",
+      "edition_verse_id": "ASV1901:ISA.47.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou art wearied in the multitude of thy counsels: let now the astrologers, the star-gazers, the monthly prognosticators, stand up, and save thee from the things that shall come upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.14",
+      "edition_verse_id": "ASV1901:ISA.47.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: it shall not be a coal to warm at, nor a fire to sit before.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.47.15",
+      "edition_verse_id": "ASV1901:ISA.47.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thus shall the things be unto thee wherein thou hast labored: they that have trafficked with thee from thy youth shall wander every one to his quarter; there shall be none to save thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

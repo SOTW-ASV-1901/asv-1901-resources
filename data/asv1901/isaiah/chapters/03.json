@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "ISA.3.1",
+      "edition_verse_id": "ASV1901:ISA.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For, behold, the Lord, Jehovah of hosts, doth take away from Jerusalem and from Judah stay and staff, the whole stay of bread, and the whole stay of water;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.3.2",
+      "edition_verse_id": "ASV1901:ISA.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "the mighty man, and the man of war; the judge, and the prophet, and the diviner, and the elder;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.3",
+      "edition_verse_id": "ASV1901:ISA.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "the captain of fifty, and the honorable man, and the counsellor, and the expert artificer, and the skilful enchanter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.4",
+      "edition_verse_id": "ASV1901:ISA.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I will give children to be their princes, and babes shall rule over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.5",
+      "edition_verse_id": "ASV1901:ISA.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the people shall be oppressed, every one by another, and every one by his neighbor: the child shall behave himself proudly against the old man, and the base against the honorable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.6",
+      "edition_verse_id": "ASV1901:ISA.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When a man shall take hold of his brother in the house of his father, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Thou hast clothing, be thou our ruler, and let this ruin be under thy hand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.7",
+      "edition_verse_id": "ASV1901:ISA.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "in that day shall he lift up ",
+          "kind": "text"
+        },
+        {
+          "text": "his voice",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying, I will not be a healer; for in my house is neither bread nor clothing: ye shall not make me ruler of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.8",
+      "edition_verse_id": "ASV1901:ISA.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For Jerusalem is ruined, and Judah is fallen; because their tongue and their doings are against Jehovah, to provoke the eyes of his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.9",
+      "edition_verse_id": "ASV1901:ISA.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The show of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have done evil unto themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.10",
+      "edition_verse_id": "ASV1901:ISA.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Say ye of the righteous, that ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " well ",
+          "kind": "text"
+        },
+        {
+          "text": "with him",
+          "kind": "supplied"
+        },
+        {
+          "text": "; for they shall eat the fruit of their doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.11",
+      "edition_verse_id": "ASV1901:ISA.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Woe unto the wicked! ",
+          "kind": "text"
+        },
+        {
+          "text": "it shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " ill ",
+          "kind": "text"
+        },
+        {
+          "text": "with him",
+          "kind": "supplied"
+        },
+        {
+          "text": "; for what his hands have done shall be done unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.12",
+      "edition_verse_id": "ASV1901:ISA.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As for my people, children are their oppressors, and women rule over them. O my people, they that lead thee cause thee to err, and destroy the way of thy paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.13",
+      "edition_verse_id": "ASV1901:ISA.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jehovah standeth up to contend, and standeth to judge the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.3.14",
+      "edition_verse_id": "ASV1901:ISA.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Jehovah will enter into judgment with the elders of his people, and the princes thereof: It is ye that have eaten up the vineyard; the spoil of the poor is in your houses:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.15",
+      "edition_verse_id": "ASV1901:ISA.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "what mean ye that ye crush my people, and grind the face of the poor? saith the Lord, Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.16",
+      "edition_verse_id": "ASV1901:ISA.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Moreover Jehovah said, Because the daughters of Zion are haughty, and walk with outstretched necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.3.17",
+      "edition_verse_id": "ASV1901:ISA.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and Jehovah will lay bare their secret parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.18",
+      "edition_verse_id": "ASV1901:ISA.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In that day the Lord will take away the beauty of their anklets, and the cauls, and the crescents;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.19",
+      "edition_verse_id": "ASV1901:ISA.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "the pendants, and the bracelets, and the mufflers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.20",
+      "edition_verse_id": "ASV1901:ISA.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "the headtires, and the ankle chains, and the sashes, and the perfume-boxes, and the amulets;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.21",
+      "edition_verse_id": "ASV1901:ISA.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "the rings, and the nose-jewels;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.22",
+      "edition_verse_id": "ASV1901:ISA.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "the festival robes, and the mantles, and the shawls, and the satchels;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.23",
+      "edition_verse_id": "ASV1901:ISA.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "the hand-mirrors, and the fine linen, and the turbans, and the veils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.24",
+      "edition_verse_id": "ASV1901:ISA.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And it shall come to pass, that instead of sweet spices there shall be rottenness; and instead of a girdle, a rope; and instead of well set hair, baldness; and instead of a robe, a girding of sackcloth; branding instead of beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.25",
+      "edition_verse_id": "ASV1901:ISA.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Thy men shall fall by the sword, and thy mighty in the war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.3.26",
+      "edition_verse_id": "ASV1901:ISA.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And her gates shall lament and mourn; and she shall be desolate and sit upon the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

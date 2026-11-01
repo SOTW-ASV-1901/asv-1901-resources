@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "ISA.6.1",
+      "edition_verse_id": "ASV1901:ISA.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the year that king Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and his train filled the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.2",
+      "edition_verse_id": "ASV1901:ISA.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Above him stood the seraphim: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.3",
+      "edition_verse_id": "ASV1901:ISA.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And one cried unto another, and said, Holy, holy, holy, is Jehovah of hosts: the whole earth is full of his glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.4",
+      "edition_verse_id": "ASV1901:ISA.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the foundations of the thresholds shook at the voice of him that cried, and the house was filled with smoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.5",
+      "edition_verse_id": "ASV1901:ISA.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.6",
+      "edition_verse_id": "ASV1901:ISA.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then flew one of the seraphim unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.7",
+      "edition_verse_id": "ASV1901:ISA.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and he touched my mouth with it, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin forgiven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.8",
+      "edition_verse_id": "ASV1901:ISA.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then I said, Here am I; send me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.9",
+      "edition_verse_id": "ASV1901:ISA.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.10",
+      "edition_verse_id": "ASV1901:ISA.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and turn again, and be healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.11",
+      "edition_verse_id": "ASV1901:ISA.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then said I, Lord, how long? And he answered, Until cities be waste without inhabitant, and houses without man, and the land become utterly waste,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.12",
+      "edition_verse_id": "ASV1901:ISA.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and Jehovah have removed men far away, and the forsaken places be many in the midst of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.13",
+      "edition_verse_id": "ASV1901:ISA.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And if there be yet a tenth in it, it also shall in turn be eaten up: as a terebinth, and as an oak, whose stock remaineth, when they are felled; so the holy seed is the stock thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

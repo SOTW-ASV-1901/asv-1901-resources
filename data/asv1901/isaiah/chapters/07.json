@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "ISA.7.1",
+      "edition_verse_id": "ASV1901:ISA.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to war against it, but could not prevail against it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.2",
+      "edition_verse_id": "ASV1901:ISA.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart trembled, and the heart of his people, as the trees of the forest tremble with the wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.3",
+      "edition_verse_id": "ASV1901:ISA.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then said Jehovah unto Isaiah, Go forth now to meet Ahaz, thou, and Shear-jashub thy son, at the end of the conduit of the upper pool, in the highway of the fuller’s field;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.4",
+      "edition_verse_id": "ASV1901:ISA.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and say unto him, Take heed, and be quiet; fear not, neither let thy heart be faint, because of these two tails of smoking firebrands, for the fierce anger of Rezin and Syria, and of the son of Remaliah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.5",
+      "edition_verse_id": "ASV1901:ISA.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Because Syria, Ephraim, and the son of Remaliah, have purposed evil against thee, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.6",
+      "edition_verse_id": "ASV1901:ISA.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let us go up against Judah, and vex it, and let us make a breach therein for us, and set up a king in the midst of it, even the son of Tabeel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.7",
+      "edition_verse_id": "ASV1901:ISA.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "thus saith the Lord Jehovah, It shall not stand, neither shall it come to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.8",
+      "edition_verse_id": "ASV1901:ISA.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken in pieces, so that it shall not be a people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.9",
+      "edition_verse_id": "ASV1901:ISA.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If ye will not believe, surely ye shall not be established.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.10",
+      "edition_verse_id": "ASV1901:ISA.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Jehovah spake again unto Ahaz, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.11",
+      "edition_verse_id": "ASV1901:ISA.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Ask thee a sign of Jehovah thy God; ask it either in the depth, or in the height above.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.12",
+      "edition_verse_id": "ASV1901:ISA.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But Ahaz said, I will not ask, neither will I tempt Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.13",
+      "edition_verse_id": "ASV1901:ISA.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he said, Hear ye now, O house of David: Is it a small thing for you to weary men, that ye will weary my God also?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.14",
+      "edition_verse_id": "ASV1901:ISA.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore the Lord himself will give you a sign: behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.15",
+      "edition_verse_id": "ASV1901:ISA.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Butter and honey shall he eat, when he knoweth to refuse the evil, and choose the good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.16",
+      "edition_verse_id": "ASV1901:ISA.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For before the child shall know to refuse the evil, and choose the good, the land whose two kings thou abhorrest shall be forsaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.17",
+      "edition_verse_id": "ASV1901:ISA.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Jehovah will bring upon thee, and upon thy people, and upon thy father’s house, days that have not come, from the day that Ephraim departed from Judah—",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the king of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.18",
+      "edition_verse_id": "ASV1901:ISA.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, that Jehovah will hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.19",
+      "edition_verse_id": "ASV1901:ISA.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they shall come, and shall rest all of them in the desolate valleys, and in the clefts of the rocks, and upon all thorn-hedges, and upon all pastures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.20",
+      "edition_verse_id": "ASV1901:ISA.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "In that day will the Lord shave with a razor that is hired in the parts beyond the River, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " with the king of Assyria, the head and the hair of the feet; and it shall also consume the beard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.21",
+      "edition_verse_id": "ASV1901:ISA.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, that a man shall keep alive a young cow, and two sheep;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.22",
+      "edition_verse_id": "ASV1901:ISA.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "and it shall come to pass, that because of the abundance of milk which they shall give he shall eat butter: for butter and honey shall every one eat that is left in the midst of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.23",
+      "edition_verse_id": "ASV1901:ISA.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, that every place, where there were a thousand vines at a thousand silverlings, shall be for briers and thorns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.24",
+      "edition_verse_id": "ASV1901:ISA.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "With arrows and with bow shall one come thither, because all the land shall be briers and thorns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.25",
+      "edition_verse_id": "ASV1901:ISA.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And all the hills that were digged with the mattock, thou shalt not come thither for fear of briers and thorns; but it shall be for the sending forth of oxen, and for the treading of sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

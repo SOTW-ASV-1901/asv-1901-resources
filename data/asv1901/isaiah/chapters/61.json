@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ISA",
+  "chapter": 61,
+  "verses": [
+    {
+      "id": "ISA.61.1",
+      "edition_verse_id": "ASV1901:ISA.61.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The Spirit of the Lord Jehovah is upon me; because Jehovah hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the broken-hearted, to proclaim liberty to the captives, and the opening ",
+          "kind": "text"
+        },
+        {
+          "text": "of the prison",
+          "kind": "supplied"
+        },
+        {
+          "text": " to them that are bound;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.61.2",
+      "edition_verse_id": "ASV1901:ISA.61.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "to proclaim the year of Jehovah’s favor, and the day of vengeance of our God; to comfort all that mourn;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.61.3",
+      "edition_verse_id": "ASV1901:ISA.61.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "to appoint unto them that mourn in Zion, to give unto them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they may be called trees of righteousness, the planting of Jehovah, that he may be glorified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.61.4",
+      "edition_verse_id": "ASV1901:ISA.61.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.61.5",
+      "edition_verse_id": "ASV1901:ISA.61.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And strangers shall stand and feed your flocks, and foreigners shall be your plowmen and your vine-dressers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.61.6",
+      "edition_verse_id": "ASV1901:ISA.61.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But ye shall be named the priests of Jehovah; men shall call you the ministers of our God: ye shall eat the wealth of the nations, and in their glory shall ye boast yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.61.7",
+      "edition_verse_id": "ASV1901:ISA.61.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Instead of your shame ",
+          "kind": "text"
+        },
+        {
+          "text": "ye shall have",
+          "kind": "supplied"
+        },
+        {
+          "text": " double; and instead of dishonor they shall rejoice in their portion: therefore in their land they shall possess double; everlasting joy shall be unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.61.8",
+      "edition_verse_id": "ASV1901:ISA.61.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For I, Jehovah, love justice, I hate robbery with iniquity; and I will give them their recompense in truth, and I will make an everlasting covenant with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.61.9",
+      "edition_verse_id": "ASV1901:ISA.61.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And their seed shall be known among the nations, and their offspring among the peoples; all that see them shall acknowledge them, that they are the seed which Jehovah hath blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.61.10",
+      "edition_verse_id": "ASV1901:ISA.61.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I will greatly rejoice in Jehovah, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with a garland, and as a bride adorneth herself with her jewels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.61.11",
+      "edition_verse_id": "ASV1901:ISA.61.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For as the earth bringeth forth its bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord Jehovah will cause righteousness and praise to spring forth before all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

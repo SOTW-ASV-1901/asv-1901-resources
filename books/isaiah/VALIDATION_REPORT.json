@@ -1,0 +1,39 @@
+{
+  "status": "PASSED_WITH_STATED_VALIDATION_SCOPE",
+  "edition": "ASV1901",
+  "book": "ISA",
+  "chapters_present": 66,
+  "verses_present": 1292,
+  "supplied_italic_spans_primary_and_comparison": 209,
+  "digital_witness_wording_disagreements": 0,
+  "original_print_pages": 55,
+  "original_print_pdf_range": [
+    717,
+    771
+  ],
+  "original_print_book_pages": [
+    675,
+    729
+  ],
+  "original_print_page_type": "scripture",
+  "verse_to_page_coverage": "1292/1292",
+  "verses_crossing_two_printed_pages": 47,
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "github_main_tree_sha_at_audit": "fc314165d2de7ee886f9153833778279161003c2",
+  "digital_witness_independence": "NOT_ESTABLISHED",
+  "historical_print_review_scope": "All page openings/closings, chapter boundary transitions, verse-range and continuation mapping inspected in original scan. Not character-by-character proofing of 1,292 verses.",
+  "source_page_embedded_image_equivalence": "PASS_55_OF_55",
+  "source_page_render_equivalence": "PASS_55_OF_55_AT_1X",
+  "chapter_json_rebuild": "BYTE_IDENTICAL",
+  "facsimile_pdf_rebuild": "BYTE_IDENTICAL",
+  "chapter_json_schema": "PASS",
+  "facsimile_index_schema": "PASS",
+  "reader_js_syntax": "PASS",
+  "local_http_resource_checks": "PASS",
+  "github_browser_upload_file_cap": "UNDER_99",
+  "collision_with_previous_book_release_paths": "NONE",
+  "github_main_path_collision_at_audit": "NONE",
+  "hosted_browser_smoke_test": "NOT_PERFORMED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "zip_integrity": "PASS"
+}
