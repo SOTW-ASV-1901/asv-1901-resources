@@ -1,0 +1,85 @@
+{
+  "record_id": "SOTW-ASV1901-PRINCETON-SCC7382-2026-11-02",
+  "schema": "SOTW archival source record (descriptive; not an Info Map 3.0 sermon record)",
+  "record_version": "1.1.0",
+  "compiled_date": "2026-11-02",
+  "public_brand": "Servants of the Way",
+  "resource_foundation": "ASV 1901",
+  "subject": "Princeton Theological Seminary copy of 1901 American Standard Version",
+  "catalog": {
+    "institution": "Princeton Theological Seminary Library",
+    "location": "Special Collections",
+    "catalog_id": "b1616834",
+    "call_number": "SCC 7382",
+    "catalog_url": "https://catalog.ptsem.edu/record=b1616834~S1",
+    "edition": "Standard Edition",
+    "imprint": "New York: T. Nelson & Sons, 1901",
+    "local_note": "Autographed by members of the editorial committee.",
+    "physical_description": "2 volumes in 1; illustrations, maps; 21 cm",
+    "evidence_level": "institutional catalog transcription and owner-provided screenshot"
+  },
+  "archivist_reply": {
+    "respondent": "Brian Shetler",
+    "role": "Head of Special Collections and Archives",
+    "institution": "Princeton Theological Seminary",
+    "made_available_to_project": "2026-11-02",
+    "original_message_date": "not independently verified",
+    "publication": "summary only; original reply retained privately by owner",
+    "findings": [
+      {
+        "statement": "No separate copy-specific provenance was found beyond book and catalog",
+        "status": "institutional report"
+      },
+      {
+        "statement": "Flyleaf suggests the Seminary acquired the book in 1930 or 1931",
+        "status": "archivist interpretation; not a verified acquisition date"
+      },
+      {
+        "statement": "Specific signers and their signing occasion remain unresolved",
+        "status": "not authenticated"
+      }
+    ]
+  },
+  "hathitrust": {
+    "record_id": "009777238",
+    "catalog_url": "https://catalog.hathitrust.org/Record/009777238",
+    "full_view_items": [
+      {
+        "original_source": "Princeton Theological Seminary",
+        "url": "https://babel.hathitrust.org/cgi/pt?id=ia.ark%3A%2F13960%2Ft0rr2sk7g"
+      },
+      {
+        "original_source": "University of Virginia",
+        "url": "https://babel.hathitrust.org/cgi/pt?id=uva.x000389847"
+      }
+    ],
+    "caution": "Multiple digital-item links do not prove independent transcriptions, autograph identities, or matched physical-copy provenance"
+  },
+  "attached_images": [
+    {
+      "filename": "princeton_catalog_01_public_crop.jpg",
+      "content": "Princeton catalog screenshot",
+      "source": "owner-supplied browser screenshot 2026-11-02",
+      "modification": "cropped to remove unrelated browser UI"
+    },
+    {
+      "filename": "princeton_catalog_02_public_crop.jpg",
+      "content": "Princeton catalog screenshot",
+      "source": "owner-supplied browser screenshot 2026-11-02",
+      "modification": "cropped to remove unrelated browser UI"
+    }
+  ],
+  "research_status": {
+    "proven": "Bibliographic catalog and catalog local note",
+    "qualified": "1930/31 acquisition timing inferred from flyleaf",
+    "open": [
+      "identities of autograph signers",
+      "signing occasion",
+      "copy-specific ownership chain",
+      "precise acquisition date",
+      "object identity linkage across digitization records"
+    ]
+  },
+  "rights_note": "Catalog screenshots are retained for research documentation with institutional source credit; this packet asserts no ownership of institutional catalog imagery or text.",
+  "integration_boundary": "No Bible text, scan page index, production player, or repository code is modified."
+}
