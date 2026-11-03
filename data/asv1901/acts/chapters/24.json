@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "ACT.24.1",
+      "edition_verse_id": "ASV1901:ACT.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And after five days the high priest Ananias came down with certain elders, and ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " an orator, one Tertullus; and they informed the governor against Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.24.2",
+      "edition_verse_id": "ASV1901:ACT.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when he was called, Tertullus began to accuse him, saying,Seeing that by thee we enjoy much peace, and that by thy providence evils are corrected for this nation,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.3",
+      "edition_verse_id": "ASV1901:ACT.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "we accept it in all ways and in all places, most excellent Felix, with all thankfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.24.4",
+      "edition_verse_id": "ASV1901:ACT.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But, that I be not further tedious unto thee, I entreat thee to hear us of thy clemency a few words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.5",
+      "edition_verse_id": "ASV1901:ACT.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For we have found this man a pestilent fellow, and a mover of insurrections among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.6",
+      "edition_verse_id": "ASV1901:ACT.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "who moreover assayed to profane the temple: on whom also we laid hold:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.8",
+      "edition_verse_id": "ASV1901:ACT.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "from whom thou wilt be able, by examining him thyself, to take knowledge of all these things whereof we accuse him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.9",
+      "edition_verse_id": "ASV1901:ACT.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the Jews also joined in the charge, affirming that these things were so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.10",
+      "edition_verse_id": "ASV1901:ACT.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when the governor had beckoned unto him to speak, Paul answered,Forasmuch as I know that thou hast been of many years a judge unto this nation, I cheerfully make my defence:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.24.11",
+      "edition_verse_id": "ASV1901:ACT.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "seeing that thou canst take knowledge that it is not more than twelve days since I went up to worship at Jerusalem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.24.12",
+      "edition_verse_id": "ASV1901:ACT.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and neither in the temple did they find me disputing with any man or stirring up a crowd, nor in the synagogues, nor in the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.13",
+      "edition_verse_id": "ASV1901:ACT.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Neither can they prove to thee the things whereof they now accuse me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.14",
+      "edition_verse_id": "ASV1901:ACT.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But this I confess unto thee, that after the Way which they call a sect, so serve I the God of our fathers, believing all things which are according to the law, and which are written in the prophets;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.15",
+      "edition_verse_id": "ASV1901:ACT.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "having hope toward God, which these also themselves look for, that there shall be a resurrection both of the just and unjust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.16",
+      "edition_verse_id": "ASV1901:ACT.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Herein I also exercise myself to have a conscience void of offence toward God and men always.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.17",
+      "edition_verse_id": "ASV1901:ACT.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now after some years I came to bring alms to my nation, and offerings:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.18",
+      "edition_verse_id": "ASV1901:ACT.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "amidst which they found me purified in the temple, with no crowd, nor yet with tumult: but ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " certain Jews from Asia—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.19",
+      "edition_verse_id": "ASV1901:ACT.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "who ought to have been here before thee, and to make accusation, if they had aught against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.20",
+      "edition_verse_id": "ASV1901:ACT.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Or else let these men themselves say what wrong-doing they found when I stood before the council,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.21",
+      "edition_verse_id": "ASV1901:ACT.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "except it be for this one voice, that I cried standing among them, Touching the resurrection of the dead I am called in question before you this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.22",
+      "edition_verse_id": "ASV1901:ACT.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But Felix, having more exact knowledge concerning the Way, deferred them, saying, When Lysias the chief captain shall come down, I will determine your matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.24.23",
+      "edition_verse_id": "ASV1901:ACT.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he gave order to the centurion that he should be kept in charge, and should have indulgence; and not to forbid any of his friends to minister unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.24",
+      "edition_verse_id": "ASV1901:ACT.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But after certain days, Felix came with Drusilla, his wife, who was a Jewess, and sent for Paul, and heard him concerning the faith in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.24.25",
+      "edition_verse_id": "ASV1901:ACT.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And as he reasoned of righteousness, and self-control, and the judgment to come, Felix was terrified, and answered, Go thy way for this time; and when I have a convenient season, I will call thee unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.26",
+      "edition_verse_id": "ASV1901:ACT.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He hoped withal that money would be given him of Paul: wherefore also he sent for him the oftener, and communed with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.27",
+      "edition_verse_id": "ASV1901:ACT.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But when two years were fulfilled, Felix was succeeded by Porcius Festus; and desiring to gain favor with the Jews, Felix left Paul in bonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

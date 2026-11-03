@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "book_name": "Acts",
+  "book_order": 44,
+  "canonical_ids": "ACT.{chapter}.{verse}",
+  "edition_ids": "ASV1901:ACT.{chapter}.{verse}",
+  "chapter_count": 28,
+  "verse_count": 1003,
+  "traditional_verse_positions": 1007,
+  "omitted_from_1901_main_text": [
+    "ACT.8.37",
+    "ACT.15.34",
+    "ACT.24.7",
+    "ACT.28.29"
+  ],
+  "verse_omissions_path": "acts/verse-omissions.json",
+  "textual_apparatus_path": "acts/textual-apparatus.json",
+  "chapter_path_template": "acts/chapters/{chapter:02d}.json",
+  "facsimile_index": "acts/page-index.json",
+  "predecessor_book_code": "JHN",
+  "successor_book_code": "ROM",
+  "source_provenance": "books/acts/SOURCE_INVENTORY.json",
+  "reader": "books/acts/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

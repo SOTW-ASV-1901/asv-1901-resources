@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "ACT.18.1",
+      "edition_verse_id": "ASV1901:ACT.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these things he departed from Athens, and came to Corinth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.18.2",
+      "edition_verse_id": "ASV1901:ACT.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he found a certain Jew named Aquila, a man of Pontus by race, lately come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome: and he came unto them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.3",
+      "edition_verse_id": "ASV1901:ACT.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and because he was of the same trade, he abode with them, and they wrought; for by their trade they were tentmakers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.4",
+      "edition_verse_id": "ASV1901:ACT.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he reasoned in the synagogue every sabbath, and persuaded Jews and Greeks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.5",
+      "edition_verse_id": "ASV1901:ACT.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But when Silas and Timothy came down from Macedonia, Paul was constrained by the word, testifying to the Jews that Jesus was the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.6",
+      "edition_verse_id": "ASV1901:ACT.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when they opposed themselves and blasphemed, he shook out his raiment and said unto them, Your blood ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon your own heads; I am clean: from henceforth I will go unto the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.7",
+      "edition_verse_id": "ASV1901:ACT.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he departed thence, and went into the house of a certain man named Titus Justus, one that worshipped God, whose house joined hard to the synagogue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.8",
+      "edition_verse_id": "ASV1901:ACT.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Crispus, the ruler of the synagogue, believed in the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.9",
+      "edition_verse_id": "ASV1901:ACT.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the Lord said unto Paul in the night by a vision, Be not afraid, but speak and hold not thy peace:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.10",
+      "edition_verse_id": "ASV1901:ACT.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "for I am with thee, and no man shall set on thee to harm thee: for I have much people in this city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.11",
+      "edition_verse_id": "ASV1901:ACT.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he dwelt ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": " a year and six months, teaching the word of God among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.12",
+      "edition_verse_id": "ASV1901:ACT.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But when Gallio was proconsul of Achaia, the Jews with one accord rose up against Paul and brought him before the judgment-seat,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.18.13",
+      "edition_verse_id": "ASV1901:ACT.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "saying, This man persuadeth men to worship God contrary to the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.14",
+      "edition_verse_id": "ASV1901:ACT.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But when Paul was about to open his mouth, Gallio said unto the Jews, If indeed it were a matter of wrong or of wicked villany, O ye Jews, reason would that I should bear with you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.15",
+      "edition_verse_id": "ASV1901:ACT.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "but if they are questions about words and names and your own law, look to it yourselves; I am not minded to be a judge of these matters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.16",
+      "edition_verse_id": "ASV1901:ACT.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he drove them from the judgment-seat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.17",
+      "edition_verse_id": "ASV1901:ACT.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they all laid hold on Sosthenes, the ruler of the synagogue, and beat him before the judgment-seat. And Gallio cared for none of these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.18",
+      "edition_verse_id": "ASV1901:ACT.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Paul, having tarried after this yet many days, took his leave of the brethren, and sailed thence for Syria, and with him Priscilla and Aquila: having shorn his head in Cenchreae; for he had a vow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.18.19",
+      "edition_verse_id": "ASV1901:ACT.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they came to Ephesus, and he left them there: but he himself entered into the synagogue, and reasoned with the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.20",
+      "edition_verse_id": "ASV1901:ACT.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when they asked him to abide a longer time, he consented not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.21",
+      "edition_verse_id": "ASV1901:ACT.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "but taking his leave of them, and saying, I will return again unto you if God will, he set sail from Ephesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.22",
+      "edition_verse_id": "ASV1901:ACT.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when he had landed at Caesarea, he went up and saluted the church, and went down to Antioch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.18.23",
+      "edition_verse_id": "ASV1901:ACT.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And having spent some time ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he departed, and went through the region of Galatia, and Phrygia, in order, establishing all the disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.24",
+      "edition_verse_id": "ASV1901:ACT.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now a certain Jew named Apollos, an Alexandrian by race, an eloquent man, came to Ephesus; and he was mighty in the scriptures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.18.25",
+      "edition_verse_id": "ASV1901:ACT.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "This man had been instructed in the way of the Lord; and being fervent in spirit, he spake and taught accurately the things concerning Jesus, knowing only the baptism of John:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.26",
+      "edition_verse_id": "ASV1901:ACT.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and he began to speak boldly in the synagogue. But when Priscilla and Aquila heard him, they took him unto them, and expounded unto him the way of God more accurately.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.27",
+      "edition_verse_id": "ASV1901:ACT.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And when he was minded to pass over into Achaia, the brethren encouraged him, and wrote to the disciples to receive him: and when he was come, he helped them much that had believed through grace;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.18.28",
+      "edition_verse_id": "ASV1901:ACT.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "for he powerfully confuted the Jews, ",
+          "kind": "text"
+        },
+        {
+          "text": "and that",
+          "kind": "supplied"
+        },
+        {
+          "text": " publicly, showing by the scriptures that Jesus was the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

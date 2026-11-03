@@ -1,0 +1,3 @@
+# Acts | ASV1901 data contract
+
+Canonical verse IDs `ACT.{chapter}.{verse}` and edition IDs `ASV1901:ACT.{chapter}.{verse}`. 1003 main-text verses in 28 chapters. Historically absent traditional verses ACT.8.37, ACT.15.34, ACT.24.7, ACT.28.29 are referenced in `verse-omissions.json`, never inserted as Scripture. Selected historically printed variants are in `textual-apparatus.json`; all original printed notes remain in the scanned pages and original USX source. Span `kind=supplied` is reserved for translated words italicized by original translators. All page IDs are original source PDF page numbers, not recomputed PDF split page numbers. Original maps and interleaves are non-Scripture. Do not import unverified Strong's links or alter the global catalog/CGBC player.

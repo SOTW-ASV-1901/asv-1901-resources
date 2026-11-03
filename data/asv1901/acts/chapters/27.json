@@ -1,0 +1,624 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "ACT.27.1",
+      "edition_verse_id": "ASV1901:ACT.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan band.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.27.2",
+      "edition_verse_id": "ASV1901:ACT.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And embarking in a ship of Adramyttium, which was about to sail unto the places on the coast of Asia, we put to sea, Aristarchus, a Macedonian of Thessalonica, being with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.3",
+      "edition_verse_id": "ASV1901:ACT.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the next day we touched at Sidon: and Julius treated Paul kindly, and gave him leave to go unto his friends and refresh himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.4",
+      "edition_verse_id": "ASV1901:ACT.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And putting to sea from thence, we sailed under the lee of Cyprus, because the winds were contrary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.5",
+      "edition_verse_id": "ASV1901:ACT.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when we had sailed across the sea which is off Cilicia and Pamphylia, we came to Myra, ",
+          "kind": "text"
+        },
+        {
+          "text": "a city",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Lycia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.6",
+      "edition_verse_id": "ASV1901:ACT.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And there the centurion found a ship of Alexandria sailing for Italy; and he put us therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.7",
+      "edition_verse_id": "ASV1901:ACT.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when we had sailed slowly many days, and were come with difficulty over against Cnidus, the wind not further suffering us, we sailed under the lee of Crete, over against Salmone;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.8",
+      "edition_verse_id": "ASV1901:ACT.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and with difficulty coasting along it we came unto a certain place called Fair Havens; nigh whereunto was the city of Lasea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.9",
+      "edition_verse_id": "ASV1901:ACT.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when much time was spent, and the voyage was now dangerous, because the Fast was now already gone by, Paul admonished them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.27.10",
+      "edition_verse_id": "ASV1901:ACT.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and said unto them, Sirs, I perceive that the voyage will be with injury and much loss, not only of the lading and the ship, but also of our lives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.11",
+      "edition_verse_id": "ASV1901:ACT.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the centurion gave more heed to the master and to the owner of the ship, than to those things which were spoken by Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.12",
+      "edition_verse_id": "ASV1901:ACT.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And because the haven was not commodious to winter in, the more part advised to put to sea from thence, if by any means they could reach Phoenix, and winter ",
+          "kind": "text"
+        },
+        {
+          "text": "there; which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a haven of Crete, looking north-east and south-east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.13",
+      "edition_verse_id": "ASV1901:ACT.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when the south wind blew softly, supposing that they had obtained their purpose, they weighed anchor and sailed along Crete, close in shore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.14",
+      "edition_verse_id": "ASV1901:ACT.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But after no long time there beat down from it a tempestuous wind, which is called Euraquilo:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.15",
+      "edition_verse_id": "ASV1901:ACT.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and when the ship was caught, and could not face the wind, we gave way ",
+          "kind": "text"
+        },
+        {
+          "text": "to it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and were driven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.16",
+      "edition_verse_id": "ASV1901:ACT.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And running under the lee of a small island called Cauda, we were able, with difficulty, to secure the boat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.17",
+      "edition_verse_id": "ASV1901:ACT.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and when they had hoisted it up, they used helps, under-girding the ship; and, fearing lest they should be cast upon the Syrtis, they lowered the gear, and so were driven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.18",
+      "edition_verse_id": "ASV1901:ACT.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And as we labored exceedingly with the storm, the next day they began to throw ",
+          "kind": "text"
+        },
+        {
+          "text": "the freight",
+          "kind": "supplied"
+        },
+        {
+          "text": " overboard;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.19",
+      "edition_verse_id": "ASV1901:ACT.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and the third day they cast out with their own hands the tackling of the ship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.20",
+      "edition_verse_id": "ASV1901:ACT.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And when neither sun nor stars shone upon ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " for many days, and no small tempest lay on ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": ", all hope that we should be saved was now taken away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.21",
+      "edition_verse_id": "ASV1901:ACT.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when they had been long without food, then Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have set sail from Crete, and have gotten this injury and loss.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.22",
+      "edition_verse_id": "ASV1901:ACT.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And now I exhort you to be of good cheer; for there shall be no loss of life among you, but ",
+          "kind": "text"
+        },
+        {
+          "text": "only",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the ship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.23",
+      "edition_verse_id": "ASV1901:ACT.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For there stood by me this night an angel of the God whose I am, whom also I serve,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.24",
+      "edition_verse_id": "ASV1901:ACT.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "saying, Fear not, Paul; thou must stand before Caesar: and lo, God hath granted thee all them that sail with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.25",
+      "edition_verse_id": "ASV1901:ACT.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even so as it hath been spoken unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.26",
+      "edition_verse_id": "ASV1901:ACT.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But we must be cast upon a certain island.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.27",
+      "edition_verse_id": "ASV1901:ACT.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But when the fourteenth night was come, as we were driven to and fro in the ",
+          "kind": "text"
+        },
+        {
+          "text": "sea of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Adria, about midnight the sailors surmised that they were drawing near to some country:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.27.28",
+      "edition_verse_id": "ASV1901:ACT.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and they sounded, and found twenty fathoms; and after a little space, they sounded again, and found fifteen fathoms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.29",
+      "edition_verse_id": "ASV1901:ACT.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And fearing lest haply we should be cast ashore on rocky ground, they let go four anchors from the stern, and wished for the day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.30",
+      "edition_verse_id": "ASV1901:ACT.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And as the sailors were seeking to flee out of the ship, and had lowered the boat into the sea, under color as though they would lay out anchors from the foreship,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.31",
+      "edition_verse_id": "ASV1901:ACT.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.32",
+      "edition_verse_id": "ASV1901:ACT.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then the soldiers cut away the ropes of the boat, and let her fall off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.33",
+      "edition_verse_id": "ASV1901:ACT.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And while the day was coming on, Paul besought them all to take some food, saying, This day is the fourteenth day that ye wait and continue fasting, having taken nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.34",
+      "edition_verse_id": "ASV1901:ACT.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Wherefore I beseech you to take some food: for this is for your safety: for there shall not a hair perish from the head of any of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.35",
+      "edition_verse_id": "ASV1901:ACT.27.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And when he had said this, and had taken bread, he gave thanks to God in the presence of all; and he brake it, and began to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.36",
+      "edition_verse_id": "ASV1901:ACT.27.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then were they all of good cheer, and themselves also took food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.37",
+      "edition_verse_id": "ASV1901:ACT.27.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And we were in all in the ship two hundred threescore and sixteen souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.38",
+      "edition_verse_id": "ASV1901:ACT.27.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And when they had eaten enough, they lightened the ship, throwing out the wheat into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.39",
+      "edition_verse_id": "ASV1901:ACT.27.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And when it was day, they knew not the land: but they perceived a certain bay with a beach, and they took counsel whether they could drive the ship upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.40",
+      "edition_verse_id": "ASV1901:ACT.27.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And casting off the anchors, they left them in the sea, at the same time loosing the bands of the rudders; and hoisting up the foresail to the wind, they made for the beach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.41",
+      "edition_verse_id": "ASV1901:ACT.27.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "But lighting upon a place where two seas met, they ran the vessel aground; and the foreship struck and remained unmoveable, but the stern began to break up by the violence ",
+          "kind": "text"
+        },
+        {
+          "text": "of the waves",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.42",
+      "edition_verse_id": "ASV1901:ACT.27.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And the soldiers’ counsel was to kill the prisoners, lest any ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": " should swim out, and escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.43",
+      "edition_verse_id": "ASV1901:ACT.27.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "But the centurion, desiring to save Paul, stayed them from their purpose; and commanded that they who could swim should cast themselves overboard, and get first to the land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.27.44",
+      "edition_verse_id": "ASV1901:ACT.27.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "and the rest, some on planks, and some on ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " things from the ship. And so it came to pass, that they all escaped safe to the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

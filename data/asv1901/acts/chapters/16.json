@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "ACT.16.1",
+      "edition_verse_id": "ASV1901:ACT.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he came also to Derbe and to Lystra: and behold, a certain disciple was there, named Timothy, the son of a Jewess that believed; but his father was a Greek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.2",
+      "edition_verse_id": "ASV1901:ACT.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The same was well reported of by the brethren that were at Lystra and Iconium.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.3",
+      "edition_verse_id": "ASV1901:ACT.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Him would Paul have to go forth with him; and he took and circumcised him because of the Jews that were in those parts: for they all knew that his father was a Greek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.4",
+      "edition_verse_id": "ASV1901:ACT.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And as they went on their way through the cities, they delivered them the decrees to keep which had been ordained of the apostles and elders that were at Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.5",
+      "edition_verse_id": "ASV1901:ACT.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the churches were strengthened in the faith, and increased in number daily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.6",
+      "edition_verse_id": "ASV1901:ACT.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they went through the region of Phrygia and Galatia, having been forbidden of the Holy Spirit to speak the word in Asia;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.7",
+      "edition_verse_id": "ASV1901:ACT.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and when they were come over against Mysia, they assayed to go into Bithynia; and the Spirit of Jesus suffered them not;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.8",
+      "edition_verse_id": "ASV1901:ACT.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and passing by Mysia, they came down to Troas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.9",
+      "edition_verse_id": "ASV1901:ACT.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And a vision appeared to Paul in the night: There was a man of Macedonia standing, beseeching him, and saying, Come over into Macedonia, and help us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.10",
+      "edition_verse_id": "ASV1901:ACT.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when he had seen the vision, straightway we sought to go forth into Macedonia, concluding that God had called us to preach the gospel unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.11",
+      "edition_verse_id": "ASV1901:ACT.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Setting sail therefore from Troas, we made a straight course to Samothrace, and the day following to Neapolis;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.12",
+      "edition_verse_id": "ASV1901:ACT.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and from thence to Philippi, which is a city of Macedonia, the first of the district, a ",
+          "kind": "text"
+        },
+        {
+          "text": "Roman",
+          "kind": "supplied"
+        },
+        {
+          "text": " colony: and we were in this city tarrying certain days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.13",
+      "edition_verse_id": "ASV1901:ACT.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And on the sabbath day we went forth without the gate by a river side, where we supposed there was a place of prayer; and we sat down, and spake unto the women that were come together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.14",
+      "edition_verse_id": "ASV1901:ACT.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, one that worshipped God, heard us: whose heart the Lord opened to give heed unto the things which were spoken by Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.15",
+      "edition_verse_id": "ASV1901:ACT.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And when she was baptized, and her household, she besought us, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": ". And she constrained us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.16",
+      "edition_verse_id": "ASV1901:ACT.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And it came to pass, as we were going to the place of prayer, that a certain maid having a spirit of divination met us, who brought her masters much gain by soothsaying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.17",
+      "edition_verse_id": "ASV1901:ACT.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The same following after Paul and us cried out, saying, These men are servants of the Most High God, who proclaim unto you the way of salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.18",
+      "edition_verse_id": "ASV1901:ACT.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And this she did for many days. But Paul, being sore troubled, turned and said to the spirit, I charge thee in the name of Jesus Christ to come out of her. And it came out that very hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.19",
+      "edition_verse_id": "ASV1901:ACT.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But when her masters saw that the hope of their gain was gone, they laid hold on Paul and Silas, and dragged them into the marketplace before the rulers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.20",
+      "edition_verse_id": "ASV1901:ACT.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and when they had brought them unto the magistrates, they said, These men, being Jews, do exceedingly trouble our city,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.21",
+      "edition_verse_id": "ASV1901:ACT.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and set forth customs which it is not lawful for us to receive, or to observe, being Romans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.22",
+      "edition_verse_id": "ASV1901:ACT.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the multitude rose up together against them: and the magistrates rent their garments off them, and commanded to beat them with rods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.23",
+      "edition_verse_id": "ASV1901:ACT.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.24",
+      "edition_verse_id": "ASV1901:ACT.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "who, having received such a charge, cast them into the inner prison, and made their feet fast in the stocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.25",
+      "edition_verse_id": "ASV1901:ACT.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But about midnight Paul and Silas were praying and singing hymns unto God, and the prisoners were listening to them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.26",
+      "edition_verse_id": "ASV1901:ACT.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and suddenly there was a great earthquake, so that the foundations of the prison-house were shaken: and immediately all the doors were opened; and every one’s bands were loosed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.27",
+      "edition_verse_id": "ASV1901:ACT.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the jailor, being roused out of sleep and seeing the prison doors open, drew his sword and was about to kill himself, supposing that the prisoners had escaped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.28",
+      "edition_verse_id": "ASV1901:ACT.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.29",
+      "edition_verse_id": "ASV1901:ACT.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he called for lights and sprang in, and, trembling for fear, fell down before Paul and Silas,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.30",
+      "edition_verse_id": "ASV1901:ACT.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and brought them out and said, Sirs, what must I do to be saved?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.31",
+      "edition_verse_id": "ASV1901:ACT.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they said, Believe on the Lord Jesus, and thou shalt be saved, thou and thy house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.32",
+      "edition_verse_id": "ASV1901:ACT.16.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they spake the word of the Lord unto him, with all that were in his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.33",
+      "edition_verse_id": "ASV1901:ACT.16.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, immediately.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.34",
+      "edition_verse_id": "ASV1901:ACT.16.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he brought them up into his house, and set food before them, and rejoiced greatly, with all his house, having believed in God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.35",
+      "edition_verse_id": "ASV1901:ACT.16.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But when it was day, the magistrates sent the serjeants, saying, Let those men go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.36",
+      "edition_verse_id": "ASV1901:ACT.16.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And the jailor reported the words to Paul, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", The magistrates have sent to let you go: now therefore come forth, and go in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.37",
+      "edition_verse_id": "ASV1901:ACT.16.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But Paul said unto them, They have beaten us publicly, uncondemned, men that are Romans, and have cast us into prison; and do they now cast us out privily? nay verily; but let them come themselves and bring us out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.38",
+      "edition_verse_id": "ASV1901:ACT.16.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the serjeants reported these words unto the magistrates: and they feared when they heard that they were Romans;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.39",
+      "edition_verse_id": "ASV1901:ACT.16.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and they came and besought them; and when they had brought them out, they asked them to go away from the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.40",
+      "edition_verse_id": "ASV1901:ACT.16.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And they went out of the prison, and entered into ",
+          "kind": "text"
+        },
+        {
+          "text": "the house of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Lydia: and when they had seen the brethren, they comforted them, and departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

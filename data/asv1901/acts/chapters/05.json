@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "ACT.5.1",
+      "edition_verse_id": "ASV1901:ACT.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But a certain man named Ananias, with Sapphira his wife, sold a possession,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.2",
+      "edition_verse_id": "ASV1901:ACT.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and kept back ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles’ feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.3",
+      "edition_verse_id": "ASV1901:ACT.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But Peter said, Ananias, why hath Satan filled thy heart to lie to the Holy Spirit, and to keep back ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the price of the land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.4",
+      "edition_verse_id": "ASV1901:ACT.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "While it remained, did it not remain thine own? and after it was sold, was it not in thy power? How is it that thou hast conceived this thing in thy heart? thou hast not lied unto men, but unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.5",
+      "edition_verse_id": "ASV1901:ACT.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Ananias hearing these words fell down and gave up the ghost: and great fear came upon all that heard it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.6",
+      "edition_verse_id": "ASV1901:ACT.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the young men arose and wrapped him round, and they carried him out and buried him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.7",
+      "edition_verse_id": "ASV1901:ACT.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it was about the space of three hours after, when his wife, not knowing what was done, came in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.8",
+      "edition_verse_id": "ASV1901:ACT.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Peter answered unto her, Tell me whether ye sold the land for so much. And she said, Yea, for so much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.9",
+      "edition_verse_id": "ASV1901:ACT.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But Peter ",
+          "kind": "text"
+        },
+        {
+          "text": "said",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto her, How is it that ye have agreed together to try the Spirit of the Lord? behold, the feet of them that have buried thy husband are at the door, and they shall carry thee out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.10",
+      "edition_verse_id": "ASV1901:ACT.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And she fell down immediately at his feet, and gave up the ghost: and the young men came in and found her dead, and they carried her out and buried her by her husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.11",
+      "edition_verse_id": "ASV1901:ACT.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And great fear came upon the whole church, and upon all that heard these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.12",
+      "edition_verse_id": "ASV1901:ACT.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And by the hands of the apostles were many signs and wonders wrought among the people: and they were all with one accord in Solomon’s porch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.13",
+      "edition_verse_id": "ASV1901:ACT.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But of the rest durst no man join himself to them: howbeit the people magnified them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.14",
+      "edition_verse_id": "ASV1901:ACT.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and believers were the more added to the Lord, multitudes both of men and women:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.15",
+      "edition_verse_id": "ASV1901:ACT.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "insomuch that they even carried out the sick into the streets, and laid them on beds and couches, that, as Peter came by, at the least his shadow might overshadow some one of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.16",
+      "edition_verse_id": "ASV1901:ACT.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And there also came together the multitude from the cities round about Jerusalem, bringing sick folk, and them that were vexed with unclean spirits: and they were healed every one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.17",
+      "edition_verse_id": "ASV1901:ACT.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But the high priest rose up, and all they that were with him (which is the sect of the Sadducees), and they were filled with jealousy,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.18",
+      "edition_verse_id": "ASV1901:ACT.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and laid hands on the apostles, and put them in public ward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.19",
+      "edition_verse_id": "ASV1901:ACT.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But an angel of the Lord by night opened the prison doors, and brought them out, and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.20",
+      "edition_verse_id": "ASV1901:ACT.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Go ye, and stand and speak in the temple to the people all the words of this Life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.21",
+      "edition_verse_id": "ASV1901:ACT.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when they heard ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they entered into the temple about daybreak, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison-house to have them brought.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.22",
+      "edition_verse_id": "ASV1901:ACT.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the officers that came found them not in the prison; and they returned, and told,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.23",
+      "edition_verse_id": "ASV1901:ACT.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "saying, The prison-house we found shut in all safety, and the keepers standing at the doors: but when we had opened, we found no man within.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.24",
+      "edition_verse_id": "ASV1901:ACT.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now when the captain of the temple and the chief priests heard these words, they were much perplexed concerning them whereunto this would grow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.25",
+      "edition_verse_id": "ASV1901:ACT.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And there came one and told them, Behold, the men whom ye put in the prison are in the temple standing and teaching the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.26",
+      "edition_verse_id": "ASV1901:ACT.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then went the captain with the officers, and brought them, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " without violence; for they feared the people, lest they should be stoned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.27",
+      "edition_verse_id": "ASV1901:ACT.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And when they had brought them, they set them before the council. And the high priest asked them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.28",
+      "edition_verse_id": "ASV1901:ACT.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "saying, We strictly charged you not to teach in this name: and behold, ye have filled Jerusalem with your teaching, and intend to bring this man’s blood upon us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.29",
+      "edition_verse_id": "ASV1901:ACT.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But Peter and the apostles answered and said, We must obey God rather than men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.30",
+      "edition_verse_id": "ASV1901:ACT.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The God of our fathers raised up Jesus, whom ye slew, hanging him on a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.31",
+      "edition_verse_id": "ASV1901:ACT.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Him did God exalt with his right hand ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a Prince and a Saviour, to give repentance to Israel, and remission of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.32",
+      "edition_verse_id": "ASV1901:ACT.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And we are witnesses of these things; and ",
+          "kind": "text"
+        },
+        {
+          "text": "so is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Holy Spirit, whom God hath given to them that obey him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.33",
+      "edition_verse_id": "ASV1901:ACT.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But they, when they heard this, were cut to the heart, and were minded to slay them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.34",
+      "edition_verse_id": "ASV1901:ACT.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But there stood up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in honor of all the people, and commanded to put the men forth a little while.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.35",
+      "edition_verse_id": "ASV1901:ACT.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And he said unto them, Ye men of Israel, take heed to yourselves as touching these men, what ye are about to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.36",
+      "edition_verse_id": "ASV1901:ACT.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "For before these days rose up Theudas, giving himself out to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were dispersed, and came to nought.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.37",
+      "edition_verse_id": "ASV1901:ACT.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "After this man rose up Judas of Galilee in the days of the enrolment, and drew away ",
+          "kind": "text"
+        },
+        {
+          "text": "some of the",
+          "kind": "supplied"
+        },
+        {
+          "text": " people after him: he also perished; and all, as many as obeyed him, were scattered abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.38",
+      "edition_verse_id": "ASV1901:ACT.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will be overthrown:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.39",
+      "edition_verse_id": "ASV1901:ACT.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "but if it is of God, ye will not be able to overthrow them; lest haply ye be found even to be fighting against God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.40",
+      "edition_verse_id": "ASV1901:ACT.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And to him they agreed: and when they had called the apostles unto them, they beat them and charged them not to speak in the name of Jesus, and let them go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.41",
+      "edition_verse_id": "ASV1901:ACT.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "They therefore departed from the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the Name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.42",
+      "edition_verse_id": "ASV1901:ACT.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And every day, in the temple and at home, they ceased not to teach and to preach Jesus ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

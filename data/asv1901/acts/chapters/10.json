@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "ACT.10.1",
+      "edition_verse_id": "ASV1901:ACT.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a certain man in Caesarea, Cornelius by name, a centurion of the band called the Italian ",
+          "kind": "text"
+        },
+        {
+          "text": "band",
+          "kind": "supplied"
+        },
+        {
+          "text": ",",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.2",
+      "edition_verse_id": "ASV1901:ACT.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "a devout man, and one that feared God with all his house, who gave much alms to the people, and prayed to God always.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.3",
+      "edition_verse_id": "ASV1901:ACT.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He saw in a vision openly, as it were about the ninth hour of the day, an angel of God coming in unto him, and saying to him, Cornelius.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.4",
+      "edition_verse_id": "ASV1901:ACT.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he, fastening his eyes upon him, and being affrighted, said, What is it, Lord? And he said unto him, Thy prayers and thine alms are gone up for a memorial before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.5",
+      "edition_verse_id": "ASV1901:ACT.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And now send men to Joppa, and fetch one Simon, who is surnamed Peter:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.6",
+      "edition_verse_id": "ASV1901:ACT.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "he lodgeth with one Simon a tanner, whose house is by the sea side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.7",
+      "edition_verse_id": "ASV1901:ACT.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when the angel that spake unto him was departed, he called two of his household-servants, and a devout soldier of them that waited on him continually;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.8",
+      "edition_verse_id": "ASV1901:ACT.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and having rehearsed all things unto them, he sent them to Joppa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.9",
+      "edition_verse_id": "ASV1901:ACT.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Now on the morrow, as they were on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray, about the sixth hour:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.10",
+      "edition_verse_id": "ASV1901:ACT.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and he became hungry, and desired to eat: but while they made ready, he fell into a trance;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.11",
+      "edition_verse_id": "ASV1901:ACT.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and he beholdeth the heaven opened, and a certain vessel descending, as it were a great sheet, let down by four corners upon the earth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.12",
+      "edition_verse_id": "ASV1901:ACT.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "wherein were all manner of fourfooted beasts and creeping things of the earth and birds of the heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.13",
+      "edition_verse_id": "ASV1901:ACT.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And there came a voice to him, Rise, Peter; kill and eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.14",
+      "edition_verse_id": "ASV1901:ACT.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But Peter said, Not so, Lord; for I have never eaten anything that is common and unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.15",
+      "edition_verse_id": "ASV1901:ACT.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And a voice ",
+          "kind": "text"
+        },
+        {
+          "text": "came",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto him again the second time, What God hath cleansed, make not thou common.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.16",
+      "edition_verse_id": "ASV1901:ACT.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And this was done thrice: and straightway the vessel was received up into heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.17",
+      "edition_verse_id": "ASV1901:ACT.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now while Peter was much perplexed in himself what the vision which he had seen might mean, behold, the men that were sent by Cornelius, having made inquiry for Simon’s house, stood before the gate,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.18",
+      "edition_verse_id": "ASV1901:ACT.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and called and asked whether Simon, who was surnamed Peter, were lodging there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.19",
+      "edition_verse_id": "ASV1901:ACT.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And while Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.20",
+      "edition_verse_id": "ASV1901:ACT.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But arise, and get thee down, and go with them, nothing doubting: for I have sent them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.21",
+      "edition_verse_id": "ASV1901:ACT.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Peter went down to the men, and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.22",
+      "edition_verse_id": "ASV1901:ACT.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they said, Cornelius a centurion, a righteous man and one that feareth God, and well reported of by all the nation of the Jews, was warned ",
+          "kind": "text"
+        },
+        {
+          "text": "of God",
+          "kind": "supplied"
+        },
+        {
+          "text": " by a holy angel to send for thee into his house, and to hear words from thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.23",
+      "edition_verse_id": "ASV1901:ACT.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So he called them in and lodged them.And on the morrow he arose and went forth with them, and certain of the brethren from Joppa accompanied him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.24",
+      "edition_verse_id": "ASV1901:ACT.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And on the morrow they entered into Caesarea. And Cornelius was waiting for them, having called together his kinsmen and his near friends.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.25",
+      "edition_verse_id": "ASV1901:ACT.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And when it came to pass that Peter entered, Cornelius met him, and fell down at his feet, and worshipped him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.26",
+      "edition_verse_id": "ASV1901:ACT.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But Peter raised him up, saying, Stand up; I myself also am a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.27",
+      "edition_verse_id": "ASV1901:ACT.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And as he talked with him, he went in, and findeth many come together:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.28",
+      "edition_verse_id": "ASV1901:ACT.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and he said unto them, Ye yourselves know how it is an unlawful thing for a man that is a Jew to join himself or come unto one of another nation; and ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto me hath God showed that I should not call any man common or unclean:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.29",
+      "edition_verse_id": "ASV1901:ACT.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "wherefore also I came without gainsaying, when I was sent for. I ask therefore with what intent ye sent for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.30",
+      "edition_verse_id": "ASV1901:ACT.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Cornelius said, Four days ago, until this hour, I was keeping the ninth hour of prayer in my house; and behold, a man stood before me in bright apparel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.31",
+      "edition_verse_id": "ASV1901:ACT.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and saith, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.32",
+      "edition_verse_id": "ASV1901:ACT.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Send therefore to Joppa, and call unto thee Simon, who is surnamed Peter; he lodgeth in the house of Simon a tanner, by the sea side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.33",
+      "edition_verse_id": "ASV1901:ACT.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Forthwith therefore I sent to thee; and thou hast well done that thou art come. Now therefore we are all here present in the sight of God, to hear all things that have been commanded thee of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.34",
+      "edition_verse_id": "ASV1901:ACT.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Peter opened his mouth, and said,Of a truth I perceive that God is no respecter of persons:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.35",
+      "edition_verse_id": "ASV1901:ACT.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "but in every nation he that feareth him, and worketh righteousness, is acceptable to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.36",
+      "edition_verse_id": "ASV1901:ACT.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The word which he sent unto the children of Israel, preaching good tidings of peace by Jesus Christ (he is Lord of all)—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.37",
+      "edition_verse_id": "ASV1901:ACT.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "that saying ye yourselves know, which was published throughout all Judaea, beginning from Galilee, after the baptism which John preached;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.38",
+      "edition_verse_id": "ASV1901:ACT.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jesus of Nazareth, how God anointed him with the Holy Spirit and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.39",
+      "edition_verse_id": "ASV1901:ACT.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And we are witnesses of all things which he did both in the country of the Jews, and in Jerusalem; whom also they slew, hanging him on a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.40",
+      "edition_verse_id": "ASV1901:ACT.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Him God raised up the third day, and gave him to be made manifest,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.41",
+      "edition_verse_id": "ASV1901:ACT.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "not to all the people, but unto witnesses that were chosen before of God, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to us, who ate and drank with him after he rose from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.42",
+      "edition_verse_id": "ASV1901:ACT.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And he charged us to preach unto the people, and to testify that this is he who is ordained of God ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Judge of the living and the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.43",
+      "edition_verse_id": "ASV1901:ACT.10.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "To him bear all the prophets witness, that through his name every one that believeth on him shall receive remission of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.44",
+      "edition_verse_id": "ASV1901:ACT.10.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "While Peter yet spake these words, the Holy Spirit fell on all them that heard the word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.45",
+      "edition_verse_id": "ASV1901:ACT.10.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And they of the circumcision that believed were amazed, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.46",
+      "edition_verse_id": "ASV1901:ACT.10.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "For they heard them speak with tongues, and magnify God. Then answered Peter,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.47",
+      "edition_verse_id": "ASV1901:ACT.10.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Can any man forbid the water, that these should not be baptized, who have received the Holy Spirit as well as we?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.48",
+      "edition_verse_id": "ASV1901:ACT.10.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And he commanded them to be baptized in the name of Jesus Christ. Then prayed they him to tarry certain days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

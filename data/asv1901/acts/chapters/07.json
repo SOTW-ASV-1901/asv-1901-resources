@@ -1,0 +1,792 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "ACT.7.1",
+      "edition_verse_id": "ASV1901:ACT.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the high priest said, Are these things so?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.2",
+      "edition_verse_id": "ASV1901:ACT.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said,Brethren and fathers, hearken: The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Haran,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.3",
+      "edition_verse_id": "ASV1901:ACT.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and said unto him, Get thee out of thy land, and from thy kindred, and come into the land which I shall show thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.4",
+      "edition_verse_id": "ASV1901:ACT.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then came he out of the land of the Chaldaeans, and dwelt in Haran: and from thence, when his father was dead, ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " removed him into this land, wherein ye now dwell:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.5",
+      "edition_verse_id": "ASV1901:ACT.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and he gave him none inheritance in it, no, not so much as to set his foot on: and he promised that he would give it to him in possession, and to his seed after him, when ",
+          "kind": "text"
+        },
+        {
+          "text": "as yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " he had no child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.6",
+      "edition_verse_id": "ASV1901:ACT.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And God spake on this wise, that his seed should sojourn in a strange land, and that they should bring them into bondage, and treat them ill, four hundred years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.7",
+      "edition_verse_id": "ASV1901:ACT.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the nation to which they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.8",
+      "edition_verse_id": "ASV1901:ACT.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he gave him the covenant of circumcision: and so ",
+          "kind": "text"
+        },
+        {
+          "text": "Abraham",
+          "kind": "supplied"
+        },
+        {
+          "text": " begat Isaac, and circumcised him the eighth day; and Isaac ",
+          "kind": "text"
+        },
+        {
+          "text": "begat",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jacob, and Jacob the twelve patriarchs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.9",
+      "edition_verse_id": "ASV1901:ACT.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the patriarchs, moved with jealousy against Joseph, sold him into Egypt: and God was with him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.10",
+      "edition_verse_id": "ASV1901:ACT.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and delivered him out of all his afflictions, and gave him favor and wisdom before Pharaoh king of Egypt; and he made him governor over Egypt and all his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.11",
+      "edition_verse_id": "ASV1901:ACT.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now there came a famine over all Egypt and Canaan, and great affliction: and our fathers found no sustenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.12",
+      "edition_verse_id": "ASV1901:ACT.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But when Jacob heard that there was grain in Egypt, he sent forth our fathers the first time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.13",
+      "edition_verse_id": "ASV1901:ACT.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And at the second time Joseph was made known to his brethren; and Joseph’s race became manifest unto Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.14",
+      "edition_verse_id": "ASV1901:ACT.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Joseph sent, and called to him Jacob his father, and all his kindred, threescore and fifteen souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.15",
+      "edition_verse_id": "ASV1901:ACT.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Jacob went down into Egypt; and he died, himself and our fathers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.16",
+      "edition_verse_id": "ASV1901:ACT.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and they were carried over unto Shechem, and laid in the tomb that Abraham bought for a price in silver of the sons of Hamor in Shechem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.17",
+      "edition_verse_id": "ASV1901:ACT.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But as the time of the promise drew nigh which God vouchsafed unto Abraham, the people grew and multiplied in Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.18",
+      "edition_verse_id": "ASV1901:ACT.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "till there arose another king over Egypt, who knew not Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.19",
+      "edition_verse_id": "ASV1901:ACT.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The same dealt craftily with our race, and ill-treated our fathers, that they should cast out their babes to the end they might not live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.20",
+      "edition_verse_id": "ASV1901:ACT.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "At which season Moses was born, and was exceeding fair; and he was nourished three months in his father’s house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.21",
+      "edition_verse_id": "ASV1901:ACT.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and when he was cast out, Pharaoh’s daughter took him up, and nourished him for her own son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.22",
+      "edition_verse_id": "ASV1901:ACT.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Moses was instructed in all the wisdom of the Egyptians; and he was mighty in his words and works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.23",
+      "edition_verse_id": "ASV1901:ACT.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But when he was well-nigh forty years old, it came into his heart to visit his brethren the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.24",
+      "edition_verse_id": "ASV1901:ACT.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And seeing one ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": " suffer wrong, he defended him, and avenged him that was oppressed, smiting the Egyptian:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.25",
+      "edition_verse_id": "ASV1901:ACT.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "and he supposed that his brethren understood that God by his hand was giving them deliverance; but they understood not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.26",
+      "edition_verse_id": "ASV1901:ACT.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the day following he appeared unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.27",
+      "edition_verse_id": "ASV1901:ACT.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But he that did his neighbor wrong thrust him away, saying, Who made thee a ruler and a judge over us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.28",
+      "edition_verse_id": "ASV1901:ACT.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Wouldest thou kill me, as thou killedst the Egyptian yesterday?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.29",
+      "edition_verse_id": "ASV1901:ACT.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Moses fled at this saying, and became a sojourner in the land of Midian, where he begat two sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.30",
+      "edition_verse_id": "ASV1901:ACT.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And when forty years were fulfilled, an angel appeared to him in the wilderness of mount Sinai, in a flame of fire in a bush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.31",
+      "edition_verse_id": "ASV1901:ACT.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And when Moses saw it, he wondered at the sight: and as he drew near to behold, there came a voice of the Lord,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.32",
+      "edition_verse_id": "ASV1901:ACT.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I am the God of thy fathers, the God of Abraham, and of Isaac, and of Jacob. And Moses trembled, and durst not behold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.33",
+      "edition_verse_id": "ASV1901:ACT.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And the Lord said unto him, Loose the shoes from thy feet: for the place whereon thou standest is holy ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.34",
+      "edition_verse_id": "ASV1901:ACT.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I have surely seen the affliction of my people that is in Egypt, and have heard their groaning, and I am come down to deliver them: and now come, I will send thee into Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.35",
+      "edition_verse_id": "ASV1901:ACT.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge? him hath God sent ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " both a ruler and a deliverer with the hand of the angel that appeared to him in the bush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.36",
+      "edition_verse_id": "ASV1901:ACT.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "This man led them forth, having wrought wonders and signs in Egypt, and in the Red sea, and in the wilderness forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.37",
+      "edition_verse_id": "ASV1901:ACT.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "This is that Moses, who said unto the children of Israel, A prophet shall God raise up unto you from among your brethren, like unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.38",
+      "edition_verse_id": "ASV1901:ACT.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "This is he that was in the church in the wilderness with the angel that spake to him in the mount Sinai, and with our fathers: who received living oracles to give unto us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.39",
+      "edition_verse_id": "ASV1901:ACT.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "to whom our fathers would not be obedient, but thrust him from them, and turned back in their hearts unto Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.40",
+      "edition_verse_id": "ASV1901:ACT.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "saying unto Aaron, Make us gods that shall go before us: for as for this Moses, who led us forth out of the land of Egypt, we know not what is become of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.41",
+      "edition_verse_id": "ASV1901:ACT.7.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And they made a calf in those days, and brought a sacrifice unto the idol, and rejoiced in the works of their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.42",
+      "edition_verse_id": "ASV1901:ACT.7.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "But God turned, and gave them up to serve the host of heaven; as it is written in the book of the prophets,Did ye offer unto me slain beasts and sacrifices\nForty years in the wilderness, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.43",
+      "edition_verse_id": "ASV1901:ACT.7.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And ye took up the tabernacle of Moloch,\nAnd the star of the god Rephan,\nThe figures which ye made to worship them:\nAnd I will carry you away beyond Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.44",
+      "edition_verse_id": "ASV1901:ACT.7.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Our fathers had the tabernacle of the testimony in the wilderness, even as he appointed who spake unto Moses, that he should make it according to the figure that he had seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.45",
+      "edition_verse_id": "ASV1901:ACT.7.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Which also our fathers, in their turn, brought in with Joshua when they entered on the possession of the nations, that God thrust out before the face of our fathers, unto the days of David;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.46",
+      "edition_verse_id": "ASV1901:ACT.7.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "who found favor in the sight of God, and asked to find a habitation for the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.47",
+      "edition_verse_id": "ASV1901:ACT.7.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "But Solomon built him a house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.48",
+      "edition_verse_id": "ASV1901:ACT.7.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Howbeit the Most High dwelleth not in ",
+          "kind": "text"
+        },
+        {
+          "text": "houses",
+          "kind": "supplied"
+        },
+        {
+          "text": " made with hands; as saith the prophet,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.49",
+      "edition_verse_id": "ASV1901:ACT.7.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The heaven is my throne,\nAnd the earth the footstool of my feet:\nWhat manner of house will ye build me? saith the Lord:\nOr what is the place of my rest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.50",
+      "edition_verse_id": "ASV1901:ACT.7.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Did not my hand make all these things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.51",
+      "edition_verse_id": "ASV1901:ACT.7.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Spirit: as your fathers did, so do ye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.52",
+      "edition_verse_id": "ASV1901:ACT.7.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Which of the prophets did not your fathers persecute? and they killed them that showed before of the coming of the Righteous One; of whom ye have now become betrayers and murderers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.53",
+      "edition_verse_id": "ASV1901:ACT.7.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "ye who received the law as it was ordained by angels, and kept it not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.54",
+      "edition_verse_id": "ASV1901:ACT.7.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Now when they heard these things, they were cut to the heart, and they gnashed on him with their teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.55",
+      "edition_verse_id": "ASV1901:ACT.7.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "But he, being full of the Holy Spirit, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.56",
+      "edition_verse_id": "ASV1901:ACT.7.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "and said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.57",
+      "edition_verse_id": "ASV1901:ACT.7.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "But they cried out with a loud voice, and stopped their ears, and rushed upon him with one accord;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.58",
+      "edition_verse_id": "ASV1901:ACT.7.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "and they cast him out of the city, and stoned him: and the witnesses laid down their garments at the feet of a young man named Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.59",
+      "edition_verse_id": "ASV1901:ACT.7.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And they stoned Stephen, calling upon ",
+          "kind": "text"
+        },
+        {
+          "text": "the Lord",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and saying, Lord Jesus, receive my spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.60",
+      "edition_verse_id": "ASV1901:ACT.7.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

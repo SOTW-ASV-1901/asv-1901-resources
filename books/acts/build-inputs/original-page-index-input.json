@@ -1,0 +1,207 @@
+{
+  "source_pdf_page_range": [
+    1104,
+    1150
+  ],
+  "original_maps": [
+    1104,
+    1115,
+    1123,
+    1131,
+    1135,
+    1145
+  ],
+  "interleaves": [
+    1116,
+    1124,
+    1132,
+    1136,
+    1146
+  ],
+  "printed_scripture_pages": [
+    121,
+    156
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1105,
+      "first_verse": "ACT.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1106,
+      "first_verse": "ACT.1.20",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1107,
+      "first_verse": "ACT.2.22",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1108,
+      "first_verse": "ACT.3.4",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1109,
+      "first_verse": "ACT.4.7",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1110,
+      "first_verse": "ACT.4.34",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1111,
+      "first_verse": "ACT.5.26",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1112,
+      "first_verse": "ACT.6.9",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1113,
+      "first_verse": "ACT.7.27",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1114,
+      "first_verse": "ACT.7.56",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1117,
+      "first_verse": "ACT.8.27",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1118,
+      "first_verse": "ACT.9.17",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1119,
+      "first_verse": "ACT.10.3",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1120,
+      "first_verse": "ACT.10.36",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1121,
+      "first_verse": "ACT.11.20",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1122,
+      "first_verse": "ACT.12.16",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1125,
+      "first_verse": "ACT.13.16",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1126,
+      "first_verse": "ACT.13.46",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1127,
+      "first_verse": "ACT.14.22",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1128,
+      "first_verse": "ACT.15.21",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1129,
+      "first_verse": "ACT.16.9",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1130,
+      "first_verse": "ACT.16.37",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1133,
+      "first_verse": "ACT.17.23",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1134,
+      "first_verse": "ACT.18.16",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1137,
+      "first_verse": "ACT.19.16",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1138,
+      "first_verse": "ACT.20.3",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1139,
+      "first_verse": "ACT.20.31",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1140,
+      "first_verse": "ACT.21.22",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1141,
+      "first_verse": "ACT.22.7",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1142,
+      "first_verse": "ACT.23.8",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1143,
+      "first_verse": "ACT.23.35",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1144,
+      "first_verse": "ACT.25.3",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1147,
+      "first_verse": "ACT.26.2",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1148,
+      "first_verse": "ACT.26.30",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1149,
+      "first_verse": "ACT.27.28",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1150,
+      "first_verse": "ACT.28.14",
+      "continues_previous_scripture_page": true
+    }
+  ]
+}

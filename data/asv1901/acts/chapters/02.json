@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "ACT.2.1",
+      "edition_verse_id": "ASV1901:ACT.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when the day of Pentecost was now come, they were all together in one place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.2",
+      "edition_verse_id": "ASV1901:ACT.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And suddenly there came from heaven a sound as of the rushing of a mighty wind, and it filled all the house where they were sitting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.3",
+      "edition_verse_id": "ASV1901:ACT.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And there appeared unto them tongues parting asunder, like as of fire; and it sat upon each one of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.4",
+      "edition_verse_id": "ASV1901:ACT.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And they were all filled with the Holy Spirit, and began to speak with other tongues, as the Spirit gave them utterance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.5",
+      "edition_verse_id": "ASV1901:ACT.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now there were dwelling at Jerusalem Jews, devout men, from every nation under heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.6",
+      "edition_verse_id": "ASV1901:ACT.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when this sound was heard, the multitude came together, and were confounded, because that every man heard them speaking in his own language.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.7",
+      "edition_verse_id": "ASV1901:ACT.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they were all amazed and marvelled, saying, Behold, are not all these that speak Galilaeans?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.8",
+      "edition_verse_id": "ASV1901:ACT.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And how hear we, every man in our own language wherein we were born?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.9",
+      "edition_verse_id": "ASV1901:ACT.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Parthians and Medes and Elamites, and the dwellers in Mesopotamia, in Judaea and Cappadocia, in Pontus and Asia,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.10",
+      "edition_verse_id": "ASV1901:ACT.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "in Phrygia and Pamphylia, in Egypt and the parts of Libya about Cyrene, and sojourners from Rome, both Jews and proselytes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.11",
+      "edition_verse_id": "ASV1901:ACT.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Cretans and Arabians, we hear them speaking in our tongues the mighty works of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.12",
+      "edition_verse_id": "ASV1901:ACT.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they were all amazed, and were perplexed, saying one to another, What meaneth this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.13",
+      "edition_verse_id": "ASV1901:ACT.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But others mocking said, They are filled with new wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.14",
+      "edition_verse_id": "ASV1901:ACT.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But Peter, standing up with the eleven, lifted up his voice, and spake forth unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Ye men of Judaea, and all ye that dwell at Jerusalem, be this known unto you, and give ear unto my words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.15",
+      "edition_verse_id": "ASV1901:ACT.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For these are not drunken, as ye suppose; seeing it is ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " the third hour of the day;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.16",
+      "edition_verse_id": "ASV1901:ACT.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "but this is that which hath been spoken through the prophet Joel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.17",
+      "edition_verse_id": "ASV1901:ACT.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And it shall be in the last days, saith God,\nI will pour forth of my Spirit upon all flesh:\nAnd your sons and your daughters shall prophesy,\nAnd your young men shall see visions,\nAnd your old men shall dream dreams:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.18",
+      "edition_verse_id": "ASV1901:ACT.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Yea and on my servants and on my handmaidens in those days\nWill I pour forth of my Spirit; and they shall prophesy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.19",
+      "edition_verse_id": "ASV1901:ACT.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will show wonders in the heaven above,\nAnd signs on the earth beneath;\nBlood, and fire, and vapor of smoke:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.20",
+      "edition_verse_id": "ASV1901:ACT.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The sun shall be turned into darkness,\nAnd the moon into blood,\nBefore the day of the Lord come,\nThat great and notable ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.21",
+      "edition_verse_id": "ASV1901:ACT.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And it shall be, that whosoever shall call on the name of the Lord shall be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.22",
+      "edition_verse_id": "ASV1901:ACT.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Ye men of Israel, hear these words: Jesus of Nazareth, a man approved of God unto you by mighty works and wonders and signs which God did by him in the midst of you, even as ye yourselves know;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.23",
+      "edition_verse_id": "ASV1901:ACT.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "him, being delivered up by the determinate counsel and foreknowledge of God, ye by the hand of lawless men did crucify and slay:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.24",
+      "edition_verse_id": "ASV1901:ACT.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "whom God raised up, having loosed the pangs of death: because it was not possible that he should be holden of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.25",
+      "edition_verse_id": "ASV1901:ACT.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For David saith concerning him,I beheld the Lord always before my face;\nFor he is on my right hand, that I should not be moved:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.26",
+      "edition_verse_id": "ASV1901:ACT.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Therefore my heart was glad, and my tongue rejoiced;\nMoreover my flesh also shall dwell in hope:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.27",
+      "edition_verse_id": "ASV1901:ACT.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Because thou wilt not leave my soul unto Hades,\nNeither wilt thou give thy Holy One to see corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.28",
+      "edition_verse_id": "ASV1901:ACT.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thou madest known unto me the ways of life;\nThou shalt make me full of gladness with thy countenance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.29",
+      "edition_verse_id": "ASV1901:ACT.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Brethren, I may say unto you freely of the patriarch David, that he both died and was buried, and his tomb is with us unto this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.30",
+      "edition_verse_id": "ASV1901:ACT.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Being therefore a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins he would set ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon his throne;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.31",
+      "edition_verse_id": "ASV1901:ACT.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "he foreseeing ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " spake of the resurrection of the Christ, that neither was he left unto Hades, nor did his flesh see corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.32",
+      "edition_verse_id": "ASV1901:ACT.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "This Jesus did God raise up, whereof we all are witnesses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.33",
+      "edition_verse_id": "ASV1901:ACT.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Being therefore by the right hand of God exalted, and having received of the Father the promise of the Holy Spirit, he hath poured forth this, which ye see and hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.34",
+      "edition_verse_id": "ASV1901:ACT.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For David ascended not into the heavens: but he saith himself,The Lord said unto my Lord, Sit thou on my right hand,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.35",
+      "edition_verse_id": "ASV1901:ACT.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Till I make thine enemies the footstool of thy feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.36",
+      "edition_verse_id": "ASV1901:ACT.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Let all the house of Israel therefore know assuredly, that God hath made him both Lord and Christ, this Jesus whom ye crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.37",
+      "edition_verse_id": "ASV1901:ACT.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Now when they heard ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": ", they were pricked in their heart, and said unto Peter and the rest of the apostles, Brethren, what shall we do?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.38",
+      "edition_verse_id": "ASV1901:ACT.2.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Peter ",
+          "kind": "text"
+        },
+        {
+          "text": "said",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto them, Repent ye, and be baptized every one of you in the name of Jesus Christ unto the remission of your sins; and ye shall receive the gift of the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.39",
+      "edition_verse_id": "ASV1901:ACT.2.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "For to you is the promise, and to your children, and to all that are afar off, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " as many as the Lord our God shall call unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.40",
+      "edition_verse_id": "ASV1901:ACT.2.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And with many other words he testified, and exhorted them, saying, Save yourselves from this crooked generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.41",
+      "edition_verse_id": "ASV1901:ACT.2.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "They then that received his word were baptized: and there were added ",
+          "kind": "text"
+        },
+        {
+          "text": "unto them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in that day about three thousand souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.42",
+      "edition_verse_id": "ASV1901:ACT.2.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And they continued stedfastly in the apostles’ teaching and fellowship, in the breaking of bread and the prayers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.43",
+      "edition_verse_id": "ASV1901:ACT.2.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And fear came upon every soul: and many wonders and signs were done through the apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.2.44",
+      "edition_verse_id": "ASV1901:ACT.2.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And all that believed were together, and had all things common;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.45",
+      "edition_verse_id": "ASV1901:ACT.2.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "and they sold their possessions and goods, and parted them to all, according as any man had need.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.46",
+      "edition_verse_id": "ASV1901:ACT.2.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And day by day, continuing stedfastly with one accord in the temple, and breaking bread at home, they took their food with gladness and singleness of heart,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.2.47",
+      "edition_verse_id": "ASV1901:ACT.2.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "praising God, and having favor with all the people. And the Lord added to them day by day those that were saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

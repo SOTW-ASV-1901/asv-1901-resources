@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "apparatus": [
+    {
+      "passage": "ACT.8.37",
+      "source_pdf_page": 1117,
+      "note": "Original 1901 note reports some ancient authorities insert all or part of the traditional profession-of-faith verse.",
+      "main_text_status": "OMITTED_IN_PRINT"
+    },
+    {
+      "passage": "ACT.15.34",
+      "source_pdf_page": 1128,
+      "note": "Original 1901 note reports some ancient authorities insert traditional verse 15:34, with variations.",
+      "main_text_status": "OMITTED_IN_PRINT"
+    },
+    {
+      "passage": "ACT.24.7",
+      "source_pdf_page": 1143,
+      "note": "Original 1901 note records the expansion in traditional verse 24:7 as a variant.",
+      "main_text_status": "OMITTED_IN_PRINT"
+    },
+    {
+      "passage": "ACT.28.29",
+      "source_pdf_page": 1150,
+      "note": "Original 1901 note reports some ancient authorities insert traditional verse 28:29.",
+      "main_text_status": "OMITTED_IN_PRINT"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

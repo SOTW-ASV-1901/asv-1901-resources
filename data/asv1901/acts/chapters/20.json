@@ -1,0 +1,496 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "ACT.20.1",
+      "edition_verse_id": "ASV1901:ACT.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And after the uproar ceased, Paul having sent for the disciples and exhorted them, took leave of them, and departed to go into Macedonia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.20.2",
+      "edition_verse_id": "ASV1901:ACT.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when he had gone through those parts, and had given them much exhortation, he came into Greece.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.3",
+      "edition_verse_id": "ASV1901:ACT.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when he had spent three months ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and a plot was laid against him by the Jews as he was about to set sail for Syria, he determined to return through Macedonia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.4",
+      "edition_verse_id": "ASV1901:ACT.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And there accompanied him as far as Asia, Sopater of Beroea, ",
+          "kind": "text"
+        },
+        {
+          "text": "the son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Pyrrhus; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timothy; and of Asia, Tychicus and Trophimus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.5",
+      "edition_verse_id": "ASV1901:ACT.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But these had gone before, and were waiting for us at Troas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.6",
+      "edition_verse_id": "ASV1901:ACT.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we tarried seven days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.7",
+      "edition_verse_id": "ASV1901:ACT.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And upon the first day of the week, when we were gathered together to break bread, Paul discoursed with them, intending to depart on the morrow; and prolonged his speech until midnight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.20.8",
+      "edition_verse_id": "ASV1901:ACT.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And there were many lights in the upper chamber where we were gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.9",
+      "edition_verse_id": "ASV1901:ACT.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And there sat in the window a certain young man named Eutychus, borne down with deep sleep; and as Paul discoursed yet longer, being borne down by his sleep he fell down from the third story, and was taken up dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.10",
+      "edition_verse_id": "ASV1901:ACT.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Paul went down, and fell on him, and embracing him said, Make ye no ado; for his life is in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.11",
+      "edition_verse_id": "ASV1901:ACT.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when he was gone up, and had broken the bread, and eaten, and had talked with them a long while, even till break of day, so he departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.12",
+      "edition_verse_id": "ASV1901:ACT.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they brought the lad alive, and were not a little comforted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.13",
+      "edition_verse_id": "ASV1901:ACT.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But we, going before to the ship, set sail for Assos, there intending to take in Paul: for so had he appointed, intending himself to go by land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.20.14",
+      "edition_verse_id": "ASV1901:ACT.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when he met us at Assos, we took him in, and came to Mitylene.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.15",
+      "edition_verse_id": "ASV1901:ACT.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And sailing from thence, we came the following day over against Chios; and the next day we touched at Samos; and the day after we came to Miletus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.16",
+      "edition_verse_id": "ASV1901:ACT.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For Paul had determined to sail past Ephesus, that he might not have to spend time in Asia; for he was hastening, if it were possible for him, to be at Jerusalem the day of Pentecost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.17",
+      "edition_verse_id": "ASV1901:ACT.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And from Miletus he sent to Ephesus, and called to him the elders of the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.20.18",
+      "edition_verse_id": "ASV1901:ACT.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And when they were come to him, he said unto them,Ye yourselves know, from the first day that I set foot in Asia, after what manner I was with you all the time,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.19",
+      "edition_verse_id": "ASV1901:ACT.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "serving the Lord with all lowliness of mind, and with tears, and with trials which befell me by the plots of the Jews;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.20.20",
+      "edition_verse_id": "ASV1901:ACT.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "how I shrank not from declaring unto you anything that was profitable, and teaching you publicly, and from house to house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.21",
+      "edition_verse_id": "ASV1901:ACT.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "testifying both to Jews and to Greeks repentance toward God, and faith toward our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.22",
+      "edition_verse_id": "ASV1901:ACT.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.23",
+      "edition_verse_id": "ASV1901:ACT.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "save that the Holy Spirit testifieth unto me in every city, saying that bonds and afflictions abide me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.24",
+      "edition_verse_id": "ASV1901:ACT.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But I hold not my life of any account as dear unto myself, so that I may accomplish my course, and the ministry which I received from the Lord Jesus, to testify the gospel of the grace of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.25",
+      "edition_verse_id": "ASV1901:ACT.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And now, behold, I know that ye all, among whom I went about preaching the kingdom, shall see my face no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.26",
+      "edition_verse_id": "ASV1901:ACT.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Wherefore I testify unto you this day, that I am pure from the blood of all men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.27",
+      "edition_verse_id": "ASV1901:ACT.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For I shrank not from declaring unto you the whole counsel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.28",
+      "edition_verse_id": "ASV1901:ACT.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Take heed unto yourselves, and to all the flock, in which the Holy Spirit hath made you bishops, to feed the church of the Lord which he purchased with his own blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.29",
+      "edition_verse_id": "ASV1901:ACT.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I know that after my departing grievous wolves shall enter in among you, not sparing the flock;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.30",
+      "edition_verse_id": "ASV1901:ACT.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and from among your own selves shall men arise, speaking perverse things, to draw away the disciples after them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.31",
+      "edition_verse_id": "ASV1901:ACT.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Wherefore watch ye, remembering that by the space of three years I ceased not to admonish every one night and day with tears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.32",
+      "edition_verse_id": "ASV1901:ACT.20.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And now I commend you to God, and to the word of his grace, which is able to build ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " up, and to give ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " the inheritance among all them that are sanctified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.33",
+      "edition_verse_id": "ASV1901:ACT.20.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "I coveted no man’s silver, or gold, or apparel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.34",
+      "edition_verse_id": "ASV1901:ACT.20.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Ye yourselves know that these hands ministered unto my necessities, and to them that were with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.35",
+      "edition_verse_id": "ASV1901:ACT.20.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "In all things I gave you an example, that so laboring ye ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.36",
+      "edition_verse_id": "ASV1901:ACT.20.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And when he had thus spoken, he kneeled down and prayed with them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.20.37",
+      "edition_verse_id": "ASV1901:ACT.20.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And they all wept sore, and fell on Paul’s neck and kissed him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.20.38",
+      "edition_verse_id": "ASV1901:ACT.20.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "sorrowing most of all for the word which he had spoken, that they should behold his face no more. And they brought him on his way unto the ship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

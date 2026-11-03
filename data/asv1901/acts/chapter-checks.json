@@ -1,0 +1,170 @@
+{
+  "01": {
+    "chapter": 1,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 26
+  },
+  "02": {
+    "chapter": 2,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 47
+  },
+  "03": {
+    "chapter": 3,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 26
+  },
+  "04": {
+    "chapter": 4,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 37
+  },
+  "05": {
+    "chapter": 5,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 42
+  },
+  "06": {
+    "chapter": 6,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 15
+  },
+  "07": {
+    "chapter": 7,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 60
+  },
+  "08": {
+    "chapter": 8,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 39
+  },
+  "09": {
+    "chapter": 9,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 43
+  },
+  "10": {
+    "chapter": 10,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 48
+  },
+  "11": {
+    "chapter": 11,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 30
+  },
+  "12": {
+    "chapter": 12,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 25
+  },
+  "13": {
+    "chapter": 13,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 52
+  },
+  "14": {
+    "chapter": 14,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 28
+  },
+  "15": {
+    "chapter": 15,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 40
+  },
+  "16": {
+    "chapter": 16,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 40
+  },
+  "17": {
+    "chapter": 17,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 34
+  },
+  "18": {
+    "chapter": 18,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 28
+  },
+  "19": {
+    "chapter": 19,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 41
+  },
+  "20": {
+    "chapter": 20,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 38
+  },
+  "21": {
+    "chapter": 21,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 40
+  },
+  "22": {
+    "chapter": 22,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 30
+  },
+  "23": {
+    "chapter": 23,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 35
+  },
+  "24": {
+    "chapter": 24,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 26
+  },
+  "25": {
+    "chapter": 25,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 27
+  },
+  "26": {
+    "chapter": 26,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 32
+  },
+  "27": {
+    "chapter": 27,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 44
+  },
+  "28": {
+    "chapter": 28,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 30
+  }
+}

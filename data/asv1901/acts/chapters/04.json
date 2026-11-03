@@ -1,0 +1,484 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "ACT.4.1",
+      "edition_verse_id": "ASV1901:ACT.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And as they spake unto the people, the priests and the captain of the temple and the Sadducees came upon them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.2",
+      "edition_verse_id": "ASV1901:ACT.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "being sore troubled because they taught the people, and proclaimed in Jesus the resurrection from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.3",
+      "edition_verse_id": "ASV1901:ACT.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they laid hands on them, and put them in ward unto the morrow: for it was now eventide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.4",
+      "edition_verse_id": "ASV1901:ACT.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But many of them that heard the word believed; and the number of the men came to be about five thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.5",
+      "edition_verse_id": "ASV1901:ACT.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And it came to pass on the morrow, that their rulers and elders and scribes were gathered together in Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.6",
+      "edition_verse_id": "ASV1901:ACT.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and Annas the high priest ",
+          "kind": "text"
+        },
+        {
+          "text": "was there",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.7",
+      "edition_verse_id": "ASV1901:ACT.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when they had set them in the midst, they inquired, By what power, or in what name, have ye done this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.8",
+      "edition_verse_id": "ASV1901:ACT.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Peter, filled with the Holy Spirit, said unto them, Ye rulers of the people, and elders,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.9",
+      "edition_verse_id": "ASV1901:ACT.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "if we this day are examined concerning a good deed done to an impotent man, by what means this man is made whole;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.10",
+      "edition_verse_id": "ASV1901:ACT.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "be it known unto you all, and to all the people of Israel, that in the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " in him doth this man stand here before you whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.11",
+      "edition_verse_id": "ASV1901:ACT.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He is the stone which was set at nought of you the builders, which was made the head of the corner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.12",
+      "edition_verse_id": "ASV1901:ACT.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And in none other is there salvation: for neither is there any other name under heaven, that is given among men, wherein we must be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.13",
+      "edition_verse_id": "ASV1901:ACT.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now when they beheld the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.14",
+      "edition_verse_id": "ASV1901:ACT.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And seeing the man that was healed standing with them, they could say nothing against it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.15",
+      "edition_verse_id": "ASV1901:ACT.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But when they had commanded them to go aside out of the council, they conferred among themselves,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.16",
+      "edition_verse_id": "ASV1901:ACT.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "saying, What shall we do to these men? for that indeed a notable miracle hath been wrought through them, is manifest to all that dwell in Jerusalem; and we cannot deny it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.17",
+      "edition_verse_id": "ASV1901:ACT.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But that it spread no further among the people, let us threaten them, that they speak henceforth to no man in this name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.18",
+      "edition_verse_id": "ASV1901:ACT.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they called them, and charged them not to speak at all nor teach in the name of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.19",
+      "edition_verse_id": "ASV1901:ACT.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But Peter and John answered and said unto them, Whether it is right in the sight of God to hearken unto you rather than unto God, judge ye:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.20",
+      "edition_verse_id": "ASV1901:ACT.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "for we cannot but speak the things which we saw and heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.21",
+      "edition_verse_id": "ASV1901:ACT.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they, when they had further threatened them, let them go, finding nothing how they might punish them, because of the people; for all men glorified God for that which was done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.22",
+      "edition_verse_id": "ASV1901:ACT.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For the man was more than forty years old, on whom this miracle of healing was wrought.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.23",
+      "edition_verse_id": "ASV1901:ACT.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And being let go, they came to their own company, and reported all that the chief priests and the elders had said unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.24",
+      "edition_verse_id": "ASV1901:ACT.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they, when they heard it, lifted up their voice to God with one accord, and said, O Lord, thou that didst make the heaven and the earth and the sea, and all that in them is:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.25",
+      "edition_verse_id": "ASV1901:ACT.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "who by the Holy Spirit, ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mouth of our father David thy servant, didst say,Why did the Gentiles rage,\nAnd the peoples imagine vain things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.26",
+      "edition_verse_id": "ASV1901:ACT.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The kings of the earth set themselves in array,\nAnd the rulers were gathered together,\nAgainst the Lord, and against his Anointed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.27",
+      "edition_verse_id": "ASV1901:ACT.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "for of a truth in this city against thy holy Servant Jesus, whom thou didst anoint, both Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered together,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.28",
+      "edition_verse_id": "ASV1901:ACT.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "to do whatsoever thy hand and thy counsel foreordained to come to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.29",
+      "edition_verse_id": "ASV1901:ACT.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And now, Lord, look upon their threatenings: and grant unto thy servants to speak thy word with all boldness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.30",
+      "edition_verse_id": "ASV1901:ACT.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "while thou stretchest forth thy hand to heal; and that signs and wonders may be done through the name of thy holy Servant Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.31",
+      "edition_verse_id": "ASV1901:ACT.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And when they had prayed, the place was shaken wherein they were gathered together; and they were all filled with the Holy Spirit, and they spake the word of God with boldness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.32",
+      "edition_verse_id": "ASV1901:ACT.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And the multitude of them that believed were of one heart and soul: and not one ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": " said that aught of the things which he possessed was his own; but they had all things common.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.33",
+      "edition_verse_id": "ASV1901:ACT.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And with great power gave the apostles their witness of the resurrection of the Lord Jesus: and great grace was upon them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.34",
+      "edition_verse_id": "ASV1901:ACT.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For neither was there among them any that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.35",
+      "edition_verse_id": "ASV1901:ACT.4.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "and laid them at the apostles’ feet: and distribution was made unto each, according as any one had need.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.4.36",
+      "edition_verse_id": "ASV1901:ACT.4.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And Joseph, who by the apostles was surnamed Barnabas (which is, being interpreted, Son of exhortation), a Levite, a man of Cyprus by race,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.4.37",
+      "edition_verse_id": "ASV1901:ACT.4.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "having a field, sold it, and brought the money and laid it at the apostles’ feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

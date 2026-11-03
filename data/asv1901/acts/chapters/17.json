@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "ACT.17.1",
+      "edition_verse_id": "ASV1901:ACT.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.2",
+      "edition_verse_id": "ASV1901:ACT.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and Paul, as his custom was, went in unto them, and for three sabbath days reasoned with them from the scriptures,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.3",
+      "edition_verse_id": "ASV1901:ACT.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "opening and alleging that it behooved the Christ to suffer, and to rise again from the dead; and that this Jesus, whom, ",
+          "kind": "text"
+        },
+        {
+          "text": "said he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I proclaim unto you, is the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.4",
+      "edition_verse_id": "ASV1901:ACT.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And some of them were persuaded, and consorted with Paul and Silas; and of the devout Greeks a great multitude, and of the chief women not a few.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.5",
+      "edition_verse_id": "ASV1901:ACT.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But the Jews, being moved with jealousy, took unto them certain vile fellows of the rabble, and gathering a crowd, set the city on an uproar; and assaulting the house of Jason, they sought to bring them forth to the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.6",
+      "edition_verse_id": "ASV1901:ACT.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when they found them not, they dragged Jason and certain brethren before the rulers of the city, crying, These that have turned the world upside down are come hither also;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.7",
+      "edition_verse_id": "ASV1901:ACT.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "whom Jason hath received: and these all act contrary to the decrees of Caesar, saying that there is another king, ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.8",
+      "edition_verse_id": "ASV1901:ACT.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they troubled the multitude and the rulers of the city, when they heard these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.9",
+      "edition_verse_id": "ASV1901:ACT.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when they had taken security from Jason and the rest, they let them go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.10",
+      "edition_verse_id": "ASV1901:ACT.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the brethren immediately sent away Paul and Silas by night unto Beroea: who when they were come thither went into the synagogue of the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.11",
+      "edition_verse_id": "ASV1901:ACT.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now these were more noble than those in Thessalonica, in that they received the word with all readiness of mind, examining the scriptures daily, whether these things were so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.12",
+      "edition_verse_id": "ASV1901:ACT.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Many of them therefore believed; also of the Greek women of honorable estate, and of men, not a few.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.13",
+      "edition_verse_id": "ASV1901:ACT.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But when the Jews of Thessalonica had knowledge that the word of God was proclaimed of Paul at Beroea also, they came thither likewise, stirring up and troubling the multitudes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.14",
+      "edition_verse_id": "ASV1901:ACT.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And then immediately the brethren sent forth Paul to go as far as to the sea: and Silas and Timothy abode there still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.15",
+      "edition_verse_id": "ASV1901:ACT.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But they that conducted Paul brought him as far as Athens: and receiving a commandment unto Silas and Timothy that they should come to him with all speed, they departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.16",
+      "edition_verse_id": "ASV1901:ACT.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now while Paul waited for them at Athens, his spirit was provoked within him as he beheld the city full of idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.17",
+      "edition_verse_id": "ASV1901:ACT.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with them that met him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.18",
+      "edition_verse_id": "ASV1901:ACT.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And certain also of the Epicurean and Stoic philosophers encountered him. And some said, What would this babbler say? others, He seemeth to be a setter forth of strange gods: because he preached Jesus and the resurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.19",
+      "edition_verse_id": "ASV1901:ACT.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they took hold of him, and brought him unto the Areopagus, saying, May we know what this new teaching is, which is spoken by thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.20",
+      "edition_verse_id": "ASV1901:ACT.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For thou bringest certain strange things to our ears: we would know therefore what these things mean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.21",
+      "edition_verse_id": "ASV1901:ACT.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "(Now all the Athenians and the strangers sojourning there spent their time in nothing else, but either to tell or to hear some new thing.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.22",
+      "edition_verse_id": "ASV1901:ACT.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Paul stood in the midst of the Areopagus, and said,Ye men of Athens, in all things I perceive that ye are very religious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.23",
+      "edition_verse_id": "ASV1901:ACT.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For as I passed along, and observed the objects of your worship, I found also an altar with this inscription, To an Unknown God. What therefore ye worship in ignorance, this I set forth unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.24",
+      "edition_verse_id": "ASV1901:ACT.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The God that made the world and all things therein, he, being Lord of heaven and earth, dwelleth not in temples made with hands;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.25",
+      "edition_verse_id": "ASV1901:ACT.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "neither is he served by men’s hands, as though he needed anything, seeing he himself giveth to all life, and breath, and all things;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.26",
+      "edition_verse_id": "ASV1901:ACT.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and he made of one every nation of men to dwell on all the face of the earth, having determined ",
+          "kind": "text"
+        },
+        {
+          "text": "their",
+          "kind": "supplied"
+        },
+        {
+          "text": " appointed seasons, and the bounds of their habitation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.27",
+      "edition_verse_id": "ASV1901:ACT.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "that they should seek God, if haply they might feel after him and find him, though he is not far from each one of us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.28",
+      "edition_verse_id": "ASV1901:ACT.17.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "for in him we live, and move, and have our being; as certain even of your own poets have said,For we are also his offspring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.29",
+      "edition_verse_id": "ASV1901:ACT.17.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Being then the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and device of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.30",
+      "edition_verse_id": "ASV1901:ACT.17.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The times of ignorance therefore God overlooked; but now he commandeth men that they should all everywhere repent:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.31",
+      "edition_verse_id": "ASV1901:ACT.17.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "inasmuch as he hath appointed a day in which he will judge the world in righteousness by the man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.32",
+      "edition_verse_id": "ASV1901:ACT.17.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Now when they heard of the resurrection of the dead, some mocked; but others said, We will hear thee concerning this yet again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.33",
+      "edition_verse_id": "ASV1901:ACT.17.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Thus Paul went out from among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.34",
+      "edition_verse_id": "ASV1901:ACT.17.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But certain men clave unto him, and believed: among whom also was Dionysius the Areopagite, and a woman named Damaris, and others with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

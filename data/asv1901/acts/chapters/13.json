@@ -1,0 +1,728 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "ACT.13.1",
+      "edition_verse_id": "ASV1901:ACT.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now there were at Antioch, in the church that was ",
+          "kind": "text"
+        },
+        {
+          "text": "there",
+          "kind": "supplied"
+        },
+        {
+          "text": ", prophets and teachers, Barnabas, and Symeon that was called Niger, and Lucius of Cyrene, and Manaen the foster-brother of Herod the tetrarch, and Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.2",
+      "edition_verse_id": "ASV1901:ACT.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And as they ministered to the Lord, and fasted, the Holy Spirit said, Separate me Barnabas and Saul for the work whereunto I have called them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.3",
+      "edition_verse_id": "ASV1901:ACT.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then, when they had fasted and prayed and laid their hands on them, they sent them away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.4",
+      "edition_verse_id": "ASV1901:ACT.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So they, being sent forth by the Holy Spirit, went down to Seleucia; and from thence they sailed to Cyprus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.5",
+      "edition_verse_id": "ASV1901:ACT.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when they were at Salamis, they proclaimed the word of God in the synagogues of the Jews: and they had also John as their attendant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.6",
+      "edition_verse_id": "ASV1901:ACT.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when they had gone through the whole island unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Bar-Jesus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.7",
+      "edition_verse_id": "ASV1901:ACT.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "who was with the proconsul, Sergius Paulus, a man of understanding. The same called unto him Barnabas and Saul, and sought to hear the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.8",
+      "edition_verse_id": "ASV1901:ACT.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn aside the proconsul from the faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.9",
+      "edition_verse_id": "ASV1901:ACT.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But Saul, who is also ",
+          "kind": "text"
+        },
+        {
+          "text": "called",
+          "kind": "supplied"
+        },
+        {
+          "text": " Paul, filled with the Holy Spirit, fastened his eyes on him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.10",
+      "edition_verse_id": "ASV1901:ACT.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and said, O full of all guile and all villany, thou son of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.11",
+      "edition_verse_id": "ASV1901:ACT.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.12",
+      "edition_verse_id": "ASV1901:ACT.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the proconsul, when he saw what was done, believed, being astonished at the teaching of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.13",
+      "edition_verse_id": "ASV1901:ACT.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now Paul and his company set sail from Paphos, and came to Perga in Pamphylia: and John departed from them and returned to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.14",
+      "edition_verse_id": "ASV1901:ACT.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But they, passing through from Perga, came to Antioch of Pisidia; and they went into the synagogue on the sabbath day, and sat down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.15",
+      "edition_verse_id": "ASV1901:ACT.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Brethren, if ye have any word of exhortation for the people, say on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.16",
+      "edition_verse_id": "ASV1901:ACT.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Paul stood up, and beckoning with the hand said,Men of Israel, and ye that fear God, hearken:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.17",
+      "edition_verse_id": "ASV1901:ACT.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The God of this people Israel chose our fathers, and exalted the people when they sojourned in the land of Egypt, and with a high arm led he them forth out of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.18",
+      "edition_verse_id": "ASV1901:ACT.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And for about the time of forty years as a nursing-father bare he them in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.19",
+      "edition_verse_id": "ASV1901:ACT.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And when he had destroyed seven nations in the land of Canaan, he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " their land for an inheritance, for about four hundred and fifty years:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.20",
+      "edition_verse_id": "ASV1901:ACT.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and after these things he gave ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " judges until Samuel the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.21",
+      "edition_verse_id": "ASV1901:ACT.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And afterward they asked for a king: and God gave unto them Saul the son of Kish, a man of the tribe of Benjamin, for the space of forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.22",
+      "edition_verse_id": "ASV1901:ACT.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when he had removed him, he raised up David to be their king; to whom also he bare witness and said, I have found David the son of Jesse, a man after my heart, who shall do all my will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.23",
+      "edition_verse_id": "ASV1901:ACT.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Of this man’s seed hath God according to promise brought unto Israel a Saviour, Jesus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.24",
+      "edition_verse_id": "ASV1901:ACT.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "when John had first preached before his coming the baptism of repentance to all the people of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.25",
+      "edition_verse_id": "ASV1901:ACT.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And as John was fulfilling his course, he said, What suppose ye that I am? I am not ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ". But behold, there cometh one after me the shoes of whose feet I am not worthy to unloose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.26",
+      "edition_verse_id": "ASV1901:ACT.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Brethren, children of the stock of Abraham, and those among you that fear God, to us is the word of this salvation sent forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.27",
+      "edition_verse_id": "ASV1901:ACT.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For they that dwell in Jerusalem, and their rulers, because they knew him not, nor the voices of the prophets which are read every sabbath, fulfilled ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " by condemning ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.28",
+      "edition_verse_id": "ASV1901:ACT.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And though they found no cause of death ",
+          "kind": "text"
+        },
+        {
+          "text": "in him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", yet asked they of Pilate that he should be slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.29",
+      "edition_verse_id": "ASV1901:ACT.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when they had fulfilled all things that were written of him, they took him down from the tree, and laid him in a tomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.30",
+      "edition_verse_id": "ASV1901:ACT.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But God raised him from the dead:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.31",
+      "edition_verse_id": "ASV1901:ACT.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and he was seen for many days of them that came up with him from Galilee to Jerusalem, who are now his witnesses unto the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.32",
+      "edition_verse_id": "ASV1901:ACT.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And we bring you good tidings of the promise made unto the fathers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.33",
+      "edition_verse_id": "ASV1901:ACT.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "that God hath fulfilled the same unto our children, in that he raised up Jesus; as also it is written in the second psalm, Thou art my Son, this day have I begotten thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.34",
+      "edition_verse_id": "ASV1901:ACT.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And as concerning that he raised him up from the dead, now no more to return to corruption, he hath spoken on this wise, I will give you the holy and sure ",
+          "kind": "text"
+        },
+        {
+          "text": "blessings",
+          "kind": "supplied"
+        },
+        {
+          "text": " of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.35",
+      "edition_verse_id": "ASV1901:ACT.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Because he saith also in another ",
+          "kind": "text"
+        },
+        {
+          "text": "psalm",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Thou wilt not give thy Holy One to see corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.36",
+      "edition_verse_id": "ASV1901:ACT.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "For David, after he had in his own generation served the counsel of God, fell asleep, and was laid unto his fathers, and saw corruption:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.37",
+      "edition_verse_id": "ASV1901:ACT.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "but he whom God raised up saw no corruption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.38",
+      "edition_verse_id": "ASV1901:ACT.13.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Be it known unto you therefore, brethren, that through this man is proclaimed unto you remission of sins:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.39",
+      "edition_verse_id": "ASV1901:ACT.13.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and by him every one that believeth is justified from all things, from which ye could not be justified by the law of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.40",
+      "edition_verse_id": "ASV1901:ACT.13.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Beware therefore, lest that come upon ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " which is spoken in the prophets:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.41",
+      "edition_verse_id": "ASV1901:ACT.13.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Behold, ye despisers, and wonder, and perish;\nFor I work a work in your days,\nA work which ye shall in no wise believe, if one declare it unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.42",
+      "edition_verse_id": "ASV1901:ACT.13.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And as they went out, they besought that these words might be spoken to them the next sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.43",
+      "edition_verse_id": "ASV1901:ACT.13.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Now when the synagogue broke up, many of the Jews and of the devout proselytes followed Paul and Barnabas; who, speaking to them, urged them to continue in the grace of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.44",
+      "edition_verse_id": "ASV1901:ACT.13.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And the next sabbath almost the whole city was gathered together to hear the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.45",
+      "edition_verse_id": "ASV1901:ACT.13.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "But when the Jews saw the multitudes, they were filled with jealousy, and contradicted the things which were spoken by Paul, and blasphemed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.46",
+      "edition_verse_id": "ASV1901:ACT.13.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Paul and Barnabas spake out boldly, and said, It was necessary that the word of God should first be spoken to you. Seeing ye thrust it from you, and judge yourselves unworthy of eternal life, lo, we turn to the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.47",
+      "edition_verse_id": "ASV1901:ACT.13.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "For so hath the Lord commanded us, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ",I have set thee for a light of the Gentiles,\nThat thou shouldest be for salvation unto the uttermost part of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.48",
+      "edition_verse_id": "ASV1901:ACT.13.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And as the Gentiles heard this, they were glad, and glorified the word of God: and as many as were ordained to eternal life believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.13.49",
+      "edition_verse_id": "ASV1901:ACT.13.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And the word of the Lord was spread abroad throughout all the region.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.50",
+      "edition_verse_id": "ASV1901:ACT.13.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "But the Jews urged on the devout women of honorable estate, and the chief men of the city, and stirred up a persecution against Paul and Barnabas, and cast them out of their borders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.51",
+      "edition_verse_id": "ASV1901:ACT.13.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "But they shook off the dust of their feet against them, and came unto Iconium.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.13.52",
+      "edition_verse_id": "ASV1901:ACT.13.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And the disciples were filled with joy and with the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

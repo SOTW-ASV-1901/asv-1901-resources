@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "traditional_verse_positions": 1007,
+  "main_text_verse_count": 1003,
+  "omissions": [
+    {
+      "verse_id": "ACT.8.37",
+      "edition_verse_id": "ASV1901:ACT.8.37",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1117,
+      "source_note": "Traditional verse wording appears in original marginal apparatus, not as running main-text verse."
+    },
+    {
+      "verse_id": "ACT.15.34",
+      "edition_verse_id": "ASV1901:ACT.15.34",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1128,
+      "source_note": "Traditional verse wording appears in original marginal apparatus, not as running main-text verse."
+    },
+    {
+      "verse_id": "ACT.24.7",
+      "edition_verse_id": "ASV1901:ACT.24.7",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1143,
+      "source_note": "Traditional verse wording appears in original marginal apparatus, not as running main-text verse."
+    },
+    {
+      "verse_id": "ACT.28.29",
+      "edition_verse_id": "ASV1901:ACT.28.29",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1150,
+      "source_note": "Traditional verse wording appears in original marginal apparatus, not as running main-text verse."
+    }
+  ]
+}

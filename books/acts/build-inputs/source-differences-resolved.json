@@ -1,0 +1,338 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "ACT",
+  "difference_count": 44,
+  "typographical_or_orthographic_count": 42,
+  "different_words_or_hyphenation_count": 2,
+  "differences": [
+    {
+      "verse_id": "ACT.1.8",
+      "primary_usx": "But ye shall receive power, when the Holy Spirit is come upon you: and ye shall be my witnesses both in Jerusalem, and in all Judaea and Samaria, and unto the uttermost part of the earth.",
+      "comparison_usfm": "But ye shall receive power, when the Holy Spirit is come upon you: and ye shall be my witnesses both in Jerusalem, and in all Judæa and Samaria, and unto the uttermost part of the earth.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.1.13",
+      "primary_usx": "And when they were come in, they went up into the upper chamber, where they were abiding; both Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James the son of Alphaeus, and Simon the Zealot, and Judas the son of James.",
+      "comparison_usfm": "And when they were come in, they went up into the upper chamber, where they were abiding; both Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James the son of Alphæus, and Simon the Zealot, and Judas the son of James.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.2.7",
+      "primary_usx": "And they were all amazed and marvelled, saying, Behold, are not all these that speak Galilaeans?",
+      "comparison_usfm": "And they were all amazed and marvelled, saying, Behold, are not all these that speak Galilæans?",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.2.9",
+      "primary_usx": "Parthians and Medes and Elamites, and the dwellers in Mesopotamia, in Judaea and Cappadocia, in Pontus and Asia,",
+      "comparison_usfm": "Parthians and Medes and Elamites, and the dwellers in Mesopotamia, in Judæa and Cappadocia, in Pontus and Asia,",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.2.14",
+      "primary_usx": "But Peter, standing up with the eleven, lifted up his voice, and spake forth unto them, saying, Ye men of Judaea, and all ye that dwell at Jerusalem, be this known unto you, and give ear unto my words.",
+      "comparison_usfm": "But Peter, standing up with the eleven, lifted up his voice, and spake forth unto them, saying , Ye men of Judæa, and all ye that dwell at Jerusalem, be this known unto you, and give ear unto my words.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.4.28",
+      "primary_usx": "to do whatsoever thy hand and thy council foreordained to come to pass.",
+      "comparison_usfm": "to do whatsoever thy hand and thy counsel foreordained to come to pass.",
+      "kind": "different_words_or_hyphenation",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.6.5",
+      "primary_usx": "And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolaus a proselyte of Antioch;",
+      "comparison_usfm": "And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolaüs a proselyte of Antioch;",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.7.4",
+      "primary_usx": "Then came he out of the land of the Chaldaeans, and dwelt in Haran: and from thence, when his father was dead, God removed him into this land, wherein ye now dwell:",
+      "comparison_usfm": "Then came he out of the land of the Chaldæans, and dwelt in Haran: and from thence, when his father was dead, God removed him into this land, wherein ye now dwell:",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.8.1",
+      "primary_usx": "And Saul was consenting unto his death.And there arose on that day a great persecution against the church which was in Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.",
+      "comparison_usfm": "And Saul was consenting unto his death. And there arose on that day a great persecution against the church which was in Jerusalem; and they were all scattered abroad throughout the regions of Judæa and Samaria, except the apostles.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.8.40",
+      "primary_usx": "But Philip was found at Azotus: and passing through he preached the gospel to all the cities, till he came to Caesarea.",
+      "comparison_usfm": "But Philip was found at Azotus: and passing through he preached the gospel to all the cities, till he came to Cæsarea.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.9.30",
+      "primary_usx": "And when the brethren knew it, they brought him down to Caesarea, and sent him forth to Tarsus.",
+      "comparison_usfm": "And when the brethren knew it, they brought him down to Cæsarea, and sent him forth to Tarsus.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.9.31",
+      "primary_usx": "So the church throughout all Judaea and Galilee and Samaria had peace, being edified; and, walking in the fear of the Lord and in the comfort of the Holy Spirit, was multiplied.",
+      "comparison_usfm": "So the church throughout all Judæa and Galilee and Samaria had peace, being edified; and, walking in the fear of the Lord and in the comfort of the Holy Spirit, was multiplied.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.10.1",
+      "primary_usx": "Now there was a certain man in Caesarea, Cornelius by name, a centurion of the band called the Italian band,",
+      "comparison_usfm": "Now there was a certain man in Cæsarea, Cornelius by name, a centurion of the band called the Italian band ,",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.10.24",
+      "primary_usx": "And on the morrow they entered into Caesarea. And Cornelius was waiting for them, having called together his kinsmen and his near friends.",
+      "comparison_usfm": "And on the morrow they entered into Cæsarea. And Cornelius was waiting for them, having called together his kinsmen and his near friends.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.10.37",
+      "primary_usx": "that saying ye yourselves know, which was published throughout all Judaea, beginning from Galilee, after the baptism which John preached;",
+      "comparison_usfm": "that saying ye yourselves know, which was published throughout all Judæa, beginning from Galilee, after the baptism which John preached;",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.11.1",
+      "primary_usx": "Now the apostles and the brethren that were in Judaea heard that the Gentiles also had received the word of God.",
+      "comparison_usfm": "Now the apostles and the brethren that were in Judæa heard that the Gentiles also had received the word of God.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.11.11",
+      "primary_usx": "And behold, forthwith three men stood before the house in which we were, having been sent from Caesarea unto me.",
+      "comparison_usfm": "And behold, forthwith three men stood before the house in which we were, having been sent from Cæsarea unto me.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.11.29",
+      "primary_usx": "And the disciples, every man according to his ability, determined to send relief unto the brethren that dwelt in Judaea:",
+      "comparison_usfm": "And the disciples, every man according to his ability, determined to send relief unto the brethren that dwelt in Judæa:",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.12.19",
+      "primary_usx": "And when Herod had sought for him, and found him not, he examined the guards, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and tarried there.",
+      "comparison_usfm": "And when Herod had sought for him, and found him not, he examined the guards, and commanded that they should be put to death. And he went down from Judæa to Cæsarea, and tarried there.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.15.1",
+      "primary_usx": "And certain men came down from Judaea and taught the brethren, saying, Except ye be circumcised after the custom of Moses, ye cannot be saved.",
+      "comparison_usfm": "And certain men came down from Judæa and taught the brethren, saying , Except ye be circumcised after the custom of Moses, ye cannot be saved.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.17.7",
+      "primary_usx": "whom Jason hath received: and these all act contrary to the decrees of Caesar, saying that there is another king, one Jesus.",
+      "comparison_usfm": "whom Jason hath received: and these all act contrary to the decrees of Cæsar, saying that there is another king, one Jesus.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.17.23",
+      "primary_usx": "For as I passed along, and observed the objects of your worship, I found also an altar with this inscription, To an Unknown God. What therefore ye worship in ignorance, this I set forth unto you.",
+      "comparison_usfm": "For as I passed along, and observed the objects of your worship, I found also an altar with this inscription, TO AN UNKNOWN GOD. What therefore ye worship in ignorance, this I set forth unto you.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.18.18",
+      "primary_usx": "And Paul, having tarried after this yet many days, took his leave of the brethren, and sailed thence for Syria, and with him Priscilla and Aquila: having shorn his head in Cenchreae; for he had a vow.",
+      "comparison_usfm": "And Paul, having tarried after this yet many days, took his leave of the brethren, and sailed thence for Syria, and with him Priscilla and Aquila: having shorn his head in Cenchreæ; for he had a vow.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.18.22",
+      "primary_usx": "And when he had landed at Caesarea, he went up and saluted the church, and went down to Antioch.",
+      "comparison_usfm": "And when he had landed at Cæsarea, he went up and saluted the church, and went down to Antioch.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.21.8",
+      "primary_usx": "And on the morrow we departed, and came unto Caesarea: and entering into the house of Philip the evangelist, who was one of the seven, we abode with him.",
+      "comparison_usfm": "And on the morrow we departed, and came unto Cæsarea: and entering into the house of Philip the evangelist, who was one of the seven, we abode with him.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.21.10",
+      "primary_usx": "And as we tarried there some days, there came down from Judaea a certain prophet, named Agabus.",
+      "comparison_usfm": "And as we tarried there some days, there came down from Judæa a certain prophet, named Agabus.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.21.16",
+      "primary_usx": "And there went with us also certain of the disciples from Caesarea, bringing with them one Mnason of Cyprus, an early disciple, with whom we should lodge.",
+      "comparison_usfm": "And there went with us also certain of the disciples from Cæsarea, bringing with them one Mnason of Cyprus, an early disciple, with whom we should lodge.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.23.23",
+      "primary_usx": "And he called unto him two of the centurions, and said, Make ready two hundred soldiers to go as far as Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night:",
+      "comparison_usfm": "And he called unto him two of the centurions, and said, Make ready two hundred soldiers to go as far as Cæsarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night:",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.23.33",
+      "primary_usx": "and they, when they came to Caesarea and delivered the letter to the governor, presented Paul also before him.",
+      "comparison_usfm": "and they, when they came to Cæsarea and delivered the letter to the governor, presented Paul also before him.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.1",
+      "primary_usx": "Festus therefore, having come into the province, after three days went up to Jerusalem from Caesarea.",
+      "comparison_usfm": "Festus therefore, having come into the province, after three days went up to Jerusalem from Cæsarea.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.4",
+      "primary_usx": "Howbeit Festus answered, that Paul was kept in charge at Caesarea, and that he himself was about to depart thither shortly.",
+      "comparison_usfm": "Howbeit Festus answered, that Paul was kept in charge at Cæsarea, and that he himself was about to depart thither shortly.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.6",
+      "primary_usx": "And when he had tarried among them not more than eight or ten days, he went down unto Caesarea; and on the morrow he sat on the judgment-seat, and commanded Paul to be brought.",
+      "comparison_usfm": "And when he had tarried among them not more than eight or ten days, he went down unto Cæsarea; and on the morrow he sat on the judgment-seat, and commanded Paul to be brought.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.8",
+      "primary_usx": "while Paul said in his defence, Neither against the law of the Jews, nor against the temple, nor against Caesar, have I sinned at all.",
+      "comparison_usfm": "while Paul said in his defence, Neither against the law of the Jews, nor against the temple, nor against Cæsar, have I sinned at all.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.10",
+      "primary_usx": "But Paul said, I am standing before Caesar’s judgment-seat, where I ought to be judged: to the Jews have I done no wrong, as thou also very well knowest.",
+      "comparison_usfm": "But Paul said, I am standing before Cæsar’s judgment-seat, where I ought to be judged: to the Jews have I done no wrong, as thou also very well knowest.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.11",
+      "primary_usx": "If then I am a wrong-doer, and have committed anything worthy of death, I refuse not to die; but if none of those things is true whereof these accuse me, no man can give me up unto them. I appeal unto Caesar.",
+      "comparison_usfm": "If then I am a wrong-doer, and have committed anything worthy of death, I refuse not to die; but if none of those things is true whereof these accuse me, no man can give me up unto them. I appeal unto Cæsar.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.12",
+      "primary_usx": "Then Festus, when he had conferred with the council, answered, Thou hast appealed unto Caesar: unto Caesar shalt thou go.",
+      "comparison_usfm": "Then Festus, when he had conferred with the council, answered, Thou hast appealed unto Cæsar: unto Cæsar shalt thou go.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.13",
+      "primary_usx": "Now when certain days were passed, Agrippa the king and Bernice arrived at Caesarea, and saluted Festus.",
+      "comparison_usfm": "Now when certain days were passed, Agrippa the king and Bernice arrived at Cæsarea, and saluted Festus.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.25.21",
+      "primary_usx": "But when Paul had appealed to be kept for the decision of the emperor, I commanded him to be kept till I should send him to Caesar.",
+      "comparison_usfm": "But when Paul had appealed to be kept for the decision of the emperor, I commanded him to be kept till I should send him to Cæsar.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.26.20",
+      "primary_usx": "but declared both to them of Damascus first, and at Jerusalem, and throughout all the country of Judaea, and also to the Gentiles, that they should repent and turn to God, doing works worthy of repentance.",
+      "comparison_usfm": "but declared both to them of Damascus first, and at Jerusalem, and throughout all the country of Judæa, and also to the Gentiles, that they should repent and turn to God, doing works worthy of repentance.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.26.32",
+      "primary_usx": "And Agrippa said unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.",
+      "comparison_usfm": "And Agrippa said unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.27.24",
+      "primary_usx": "saying, Fear not, Paul; thou must stand before Caesar: and lo, God hath granted thee all them that sail with thee.",
+      "comparison_usfm": "saying, Fear not, Paul; thou must stand before Cæsar: and lo, God hath granted thee all them that sail with thee.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.28.6",
+      "primary_usx": "But they expected that he would have swollen, or fallen down dead suddenly: but when they were long in expectation and beheld nothing amiss came to him, they changed their minds, and said that he was a god.",
+      "comparison_usfm": "But they expected that he would have swollen, or fallen down dead suddenly: but when they were long in expectation and beheld nothing amiss come to him, they changed their minds, and said that he was a god.",
+      "kind": "different_words_or_hyphenation",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.28.19",
+      "primary_usx": "But when the Jews spake against it, I was constrained to appeal unto Caesar; not that I had aught whereof to accuse my nation.",
+      "comparison_usfm": "But when the Jews spake against it, I was constrained to appeal unto Cæsar; not that I had aught whereof to accuse my nation.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ACT.28.21",
+      "primary_usx": "And they said unto him, We neither received letters from Judaea concerning thee, nor did any of the brethren come hither and report or speak any harm of thee.",
+      "comparison_usfm": "And they said unto him, We neither received letters from Judæa concerning thee, nor did any of the brethren come hither and report or speak any harm of thee.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    }
+  ],
+  "print_backed_decisions": [
+    {
+      "verse": "ACT.4.28",
+      "source_phrase": "thy council foreordained",
+      "replace_with": "thy counsel foreordained",
+      "print_page": 1109,
+      "reason": "Original print reads counsel; primary USX has council."
+    },
+    {
+      "verse": "ACT.6.5",
+      "source_phrase": "Nicolaus a proselyte",
+      "replace_with": "Nicolaüs a proselyte",
+      "print_page": 1111,
+      "reason": "Historic printed name carries the diaeresis as in comparison witness."
+    }
+  ],
+  "additional_print_backed_uncorrected_readings": {
+    "ACT.28.6": "Original print has came (primary USX), comparison has come.",
+    "ROM.16.5": "Original print has Epaenetus and first-fruits (primary USX), comparison has Epænetus and firstfruits."
+  },
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

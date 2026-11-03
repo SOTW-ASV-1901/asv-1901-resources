@@ -1,0 +1,3 @@
+# Acts | Manual installation
+
+Extract and upload the complete `books/` and `data/` folders to the root of `SOTW-ASV-1901/asv-1901-resources`. Only add `books/acts/`, `data/asv1901/acts/`, and `data/asv1901/catalog-acts.json`; do not overwrite previous books or any other shared infrastructure. After GitHub Pages publishes the upload, evaluate the live verse-linked reader at `https://sotw-asv-1901.github.io/asv-1901-resources/books/acts/site/index.html`. This URL is not live until the manual upload is installed. Comparison requires GitHub Pages or another static HTTP server, not a GitHub `blob` view.
