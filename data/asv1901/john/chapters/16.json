@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "JHN.16.1",
+      "edition_verse_id": "ASV1901:JHN.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These things have I spoken unto you, that ye should not be caused to stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.2",
+      "edition_verse_id": "ASV1901:JHN.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They shall put you out of the synagogues: yea, the hour cometh, that whosoever killeth you shall think that he offereth service unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.3",
+      "edition_verse_id": "ASV1901:JHN.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And these things will they do, because they have not known the Father, nor me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.4",
+      "edition_verse_id": "ASV1901:JHN.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But these things have I spoken unto you, that when their hour is come, ye may remember them, how that I told you. And these things I said not unto you from the beginning, because I was with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.5",
+      "edition_verse_id": "ASV1901:JHN.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But now I go unto him that sent me; and none of you asketh me, Whither goest thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.6",
+      "edition_verse_id": "ASV1901:JHN.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But because I have spoken these things unto you, sorrow hath filled your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.7",
+      "edition_verse_id": "ASV1901:JHN.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Nevertheless I tell you the truth: It is expedient for you that I go away; for if I go not away, the Comforter will not come unto you; but if I go, I will send him unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.8",
+      "edition_verse_id": "ASV1901:JHN.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he, when he is come, will convict the world in respect of sin, and of righteousness, and of judgment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.9",
+      "edition_verse_id": "ASV1901:JHN.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "of sin, because they believe not on me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.10",
+      "edition_verse_id": "ASV1901:JHN.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "of righteousness, because I go to the Father, and ye behold me no more;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.11",
+      "edition_verse_id": "ASV1901:JHN.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "of judgment, because the prince of this world hath been judged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.12",
+      "edition_verse_id": "ASV1901:JHN.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I have yet many things to say unto you, but ye cannot bear them now.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.13",
+      "edition_verse_id": "ASV1901:JHN.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Howbeit when he, the Spirit of truth, is come, he shall guide you into all the truth: for he shall not speak from himself; but what things soever he shall hear, ",
+          "kind": "text"
+        },
+        {
+          "text": "these",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall he speak: and he shall declare unto you the things that are to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.14",
+      "edition_verse_id": "ASV1901:JHN.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He shall glorify me: for he shall take of mine, and shall declare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.15",
+      "edition_verse_id": "ASV1901:JHN.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "All things whatsoever the Father hath are mine: therefore said I, that he taketh of mine, and shall declare ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.16",
+      "edition_verse_id": "ASV1901:JHN.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A little while, and ye behold me no more; and again a little while, and ye shall see me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.17",
+      "edition_verse_id": "ASV1901:JHN.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his disciples therefore said one to another, What is this that he saith unto us, A little while, and ye behold me not; and again a little while, and ye shall see me: and, Because I go to the Father?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.18",
+      "edition_verse_id": "ASV1901:JHN.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They said therefore, What is this that he saith, A little while? We know not what he saith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.19",
+      "edition_verse_id": "ASV1901:JHN.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Jesus perceived that they were desirous to ask him, and he said unto them, Do ye inquire among yourselves concerning this, that I said, A little while, and ye behold me not, and again a little while, and ye shall see me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.20",
+      "edition_verse_id": "ASV1901:JHN.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, that ye shall weep and lament, but the world shall rejoice: ye shall be sorrowful, but your sorrow shall be turned into joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.21",
+      "edition_verse_id": "ASV1901:JHN.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "A woman when she is in travail hath sorrow, because her hour is come: but when she is delivered of the child, she remembereth no more the anguish, for the joy that a man is born into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.22",
+      "edition_verse_id": "ASV1901:JHN.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And ye therefore now have sorrow: but I will see you again, and your heart shall rejoice, and your joy no one taketh away from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.23",
+      "edition_verse_id": "ASV1901:JHN.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And in that day ye shall ask me no question. Verily, verily, I say unto you, If ye shall ask anything of the Father, he will give it you in my name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.24",
+      "edition_verse_id": "ASV1901:JHN.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be made full.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.25",
+      "edition_verse_id": "ASV1901:JHN.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "These things have I spoken unto you in dark sayings: the hour cometh, when I shall no more speak unto you in dark sayings, but shall tell you plainly of the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.26",
+      "edition_verse_id": "ASV1901:JHN.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "In that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.27",
+      "edition_verse_id": "ASV1901:JHN.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "for the Father himself loveth you, because ye have loved me, and have believed that I came forth from the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.28",
+      "edition_verse_id": "ASV1901:JHN.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I came out from the Father, and am come into the world: again, I leave the world, and go unto the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.29",
+      "edition_verse_id": "ASV1901:JHN.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "His disciples say, Lo, now speakest thou plainly, and speakest no dark saying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.30",
+      "edition_verse_id": "ASV1901:JHN.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Now know we that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.31",
+      "edition_verse_id": "ASV1901:JHN.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Jesus answered them, Do ye now believe?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.32",
+      "edition_verse_id": "ASV1901:JHN.16.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Behold, the hour cometh, yea, is come, that ye shall be scattered, every man to his own, and shall leave me alone: and ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " I am not alone, because the Father is with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.33",
+      "edition_verse_id": "ASV1901:JHN.16.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation: but be of good cheer; I have overcome the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

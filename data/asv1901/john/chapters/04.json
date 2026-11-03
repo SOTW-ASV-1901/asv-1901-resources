@@ -1,0 +1,712 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "JHN.4.1",
+      "edition_verse_id": "ASV1901:JHN.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When therefore the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.4.2",
+      "edition_verse_id": "ASV1901:JHN.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "(although Jesus himself baptized not, but his disciples),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.3",
+      "edition_verse_id": "ASV1901:JHN.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "he left Judaea, and departed again into Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.4",
+      "edition_verse_id": "ASV1901:JHN.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he must needs pass through Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.5",
+      "edition_verse_id": "ASV1901:JHN.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So he cometh to a city of Samaria, called Sychar, near to the parcel of ground that Jacob gave to his son Joseph:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.6",
+      "edition_verse_id": "ASV1901:JHN.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus by the well. It was about the sixth hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.7",
+      "edition_verse_id": "ASV1901:JHN.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.8",
+      "edition_verse_id": "ASV1901:JHN.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For his disciples were gone away into the city to buy food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.9",
+      "edition_verse_id": "ASV1901:JHN.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The Samaritan woman therefore saith unto him, How is it that thou, being a Jew, askest drink of me, who am a Samaritan woman? (For Jews have no dealings with Samaritans.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.10",
+      "edition_verse_id": "ASV1901:JHN.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.11",
+      "edition_verse_id": "ASV1901:JHN.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: whence then hast thou that living water?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.12",
+      "edition_verse_id": "ASV1901:JHN.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Art thou greater than our father Jacob, who gave us the well, and drank thereof himself, and his sons, and his cattle?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.13",
+      "edition_verse_id": "ASV1901:JHN.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto her, Every one that drinketh of this water shall thirst again:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.14",
+      "edition_verse_id": "ASV1901:JHN.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "but whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall become in him a well of water springing up unto eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.15",
+      "edition_verse_id": "ASV1901:JHN.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The woman saith unto him, Sir, give me this water, that I thirst not, neither come all the way hither to draw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.16",
+      "edition_verse_id": "ASV1901:JHN.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Go, call thy husband, and come hither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.17",
+      "edition_verse_id": "ASV1901:JHN.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The woman answered and said unto him, I have no husband. Jesus saith unto her, Thou saidst well, I have no husband:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.18",
+      "edition_verse_id": "ASV1901:JHN.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "for thou hast had five husbands; and he whom thou now hast is not thy husband: this hast thou said truly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.19",
+      "edition_verse_id": "ASV1901:JHN.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The woman saith unto him, Sir, I perceive that thou art a prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.20",
+      "edition_verse_id": "ASV1901:JHN.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.21",
+      "edition_verse_id": "ASV1901:JHN.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, Woman, believe me, the hour cometh, when neither in this mountain, nor in Jerusalem, shall ye worship the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.22",
+      "edition_verse_id": "ASV1901:JHN.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Ye worship that which ye know not: we worship that which we know; for salvation is from the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.23",
+      "edition_verse_id": "ASV1901:JHN.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and truth: for such doth the Father seek to be his worshippers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.24",
+      "edition_verse_id": "ASV1901:JHN.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "God is a Spirit: and they that worship him must worship in spirit and truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.25",
+      "edition_verse_id": "ASV1901:JHN.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The woman saith unto him, I know that Messiah cometh (he that is called Christ): when he is come, he will declare unto us all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.26",
+      "edition_verse_id": "ASV1901:JHN.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Jesus saith unto her, I that speak unto thee am ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.27",
+      "edition_verse_id": "ASV1901:JHN.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And upon this came his disciples; and they marvelled that he was speaking with a woman; yet no man said, What seekest thou? or, Why speakest thou with her?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.4.28",
+      "edition_verse_id": "ASV1901:JHN.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So the woman left her waterpot, and went away into the city, and saith to the people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.29",
+      "edition_verse_id": "ASV1901:JHN.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Come, see a man, who told me all things that ",
+          "kind": "text"
+        },
+        {
+          "text": "ever",
+          "kind": "supplied"
+        },
+        {
+          "text": " I did: can this be the Christ?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.30",
+      "edition_verse_id": "ASV1901:JHN.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They went out of the city, and were coming to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.31",
+      "edition_verse_id": "ASV1901:JHN.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "In the mean while the disciples prayed him, saying, Rabbi, eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.32",
+      "edition_verse_id": "ASV1901:JHN.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But he said unto them, I have meat to eat that ye know not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.33",
+      "edition_verse_id": "ASV1901:JHN.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The disciples therefore said one to another, Hath any man brought him ",
+          "kind": "text"
+        },
+        {
+          "text": "aught",
+          "kind": "supplied"
+        },
+        {
+          "text": " to eat?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.34",
+      "edition_verse_id": "ASV1901:JHN.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Jesus saith unto them, My meat is to do the will of him that sent me, and to accomplish his work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.35",
+      "edition_verse_id": "ASV1901:JHN.4.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Say not ye, There are yet four months, and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " cometh the harvest? behold, I say unto you, Lift up your eyes, and look on the fields, that they are white already unto harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.36",
+      "edition_verse_id": "ASV1901:JHN.4.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He that reapeth receiveth wages, and gathereth fruit unto life eternal; that he that soweth and he that reapeth may rejoice together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.37",
+      "edition_verse_id": "ASV1901:JHN.4.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For herein is the saying true, One soweth, and another reapeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.38",
+      "edition_verse_id": "ASV1901:JHN.4.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "I sent you to reap that whereon ye have not labored: others have labored, and ye are entered into their labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.39",
+      "edition_verse_id": "ASV1901:JHN.4.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And from that city many of the Samaritans believed on him because of the word of the woman, who testified, He told me all things that ",
+          "kind": "text"
+        },
+        {
+          "text": "ever",
+          "kind": "supplied"
+        },
+        {
+          "text": " I did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.4.40",
+      "edition_verse_id": "ASV1901:JHN.4.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "So when the Samaritans came unto him, they besought him to abide with them: and he abode there two days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.41",
+      "edition_verse_id": "ASV1901:JHN.4.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And many more believed because of his word;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.42",
+      "edition_verse_id": "ASV1901:JHN.4.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "and they said to the woman, Now we believe, not because of thy speaking: for we have heard for ourselves, and know that this is indeed the Saviour of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.43",
+      "edition_verse_id": "ASV1901:JHN.4.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And after the two days he went forth from thence into Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.4.44",
+      "edition_verse_id": "ASV1901:JHN.4.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "For Jesus himself testified, that a prophet hath no honor in his own country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.45",
+      "edition_verse_id": "ASV1901:JHN.4.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "So when he came into Galilee, the Galilaeans received him, having seen all the things that he did in Jerusalem at the feast: for they also went unto the feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.46",
+      "edition_verse_id": "ASV1901:JHN.4.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "He came therefore again unto Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.4.47",
+      "edition_verse_id": "ASV1901:JHN.4.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that he would come down, and heal his son; for he was at the point of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.48",
+      "edition_verse_id": "ASV1901:JHN.4.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Jesus therefore said unto him, Except ye see signs and wonders, ye will in no wise believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.49",
+      "edition_verse_id": "ASV1901:JHN.4.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The nobleman saith unto him, Sir, come down ere my child die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.50",
+      "edition_verse_id": "ASV1901:JHN.4.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Jesus saith unto him, Go thy way; thy son liveth. The man believed the word that Jesus spake unto him, and he went his way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.51",
+      "edition_verse_id": "ASV1901:JHN.4.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And as he was now going down, his servants met him, saying, that his son lived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.52",
+      "edition_verse_id": "ASV1901:JHN.4.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "So he inquired of them the hour when he began to amend. They said therefore unto him, Yesterday at the seventh hour the fever left him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.53",
+      "edition_verse_id": "ASV1901:JHN.4.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "So the father knew that ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": " at that hour in which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.4.54",
+      "edition_verse_id": "ASV1901:JHN.4.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "This is again the second sign that Jesus did, having come out of Judaea into Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

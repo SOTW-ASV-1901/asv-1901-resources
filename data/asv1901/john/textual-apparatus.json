@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "apparatus": [
+    {
+      "passage": "JHN.5.4",
+      "source_pdf_page": 1080,
+      "printed_note_anchor": "JHN.5.3",
+      "note": "The original ASV 1901 apparatus reports some authorities insert a statement about the moving of the water and an angel (traditional verse 5:4).",
+      "main_text_status": "NOT_PRESENT_IN_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "JHN.7.53-JHN.8.11",
+      "source_pdf_page": 1085,
+      "printed_note_anchor": "JHN.7.53",
+      "note": "Most of the ancient authorities omit John 7:53–8:11. Those which contain it vary much from each other.",
+      "main_text_status": "PRESENT_IN_1901_MAIN_TEXT_WITH_SQUARE_BRACKETS"
+    }
+  ],
+  "scope_note": "Selected high-impact original ASV 1901 marginal notes, with 271 complete digital USX note elements retained in untouched source file and historical pages. No modern textual-critical assessment."
+}

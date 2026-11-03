@@ -1,0 +1,5 @@
+# John | Source and validation scope
+
+John's original ASV 1901 printed Gospel contains 21 chapters with 878 main-text verses and one traditional verse-position, John 5:4, retained only in the apparatus. The printed text of John 7:53–8:11 remains in square brackets, with an explicit ancient-manuscript caution. Both original source witness files are unmodified. The USX/USFM word-for-word comparison finds 16 non-substantive typography cases and no substantive disagreement within common verses. All 135 supplied-word italic spans agree between the witnesses. The source pdf contains one original historical John map plus 28 original pages of Scripture, mapped physically to all 878 main-text verse positions.
+
+The archive is validated for schemas, checksums, original facsimile image identity and placement, selected full rendered-page comparisons, local reader resource loading and reproducible output. The archived 1901 print is the historical reference; full character-level proofreading, independently originated source witnesses, source-verified Strong's tagging, and hosted browser testing are beyond the validated scope.

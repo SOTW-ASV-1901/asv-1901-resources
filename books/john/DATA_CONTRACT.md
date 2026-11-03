@@ -1,0 +1,3 @@
+# John | ASV1901 data contract
+
+Verse ID: `JHN.{chapter}.{verse}`; edition ID: `ASV1901:JHN.{chapter}.{verse}`. Main-text 878 verses in 21 chapters. The historically absent John 5:4 is represented only in `verse-omissions.json` and the 1901 printed note; the historical bracketed unit John 7:53–8:11 remains in the main-text chapter records with retained square brackets and a cautionary notice in `textual-apparatus.json`. Supplied words have span kind `supplied` (historical italics). Original page index uses actual 1901 PDF physical page numbers including one historical map, with two physical pages for continued verses. Do not import unverified word-to-Strong's alignment; no global catalog modification or CGBC deployment.

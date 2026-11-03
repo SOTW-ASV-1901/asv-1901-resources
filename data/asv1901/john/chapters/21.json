@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "JHN.21.1",
+      "edition_verse_id": "ASV1901:JHN.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these things Jesus manifested himself again to the disciples at the sea of Tiberias; and he manifested ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " on this wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.2",
+      "edition_verse_id": "ASV1901:JHN.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the ",
+          "kind": "text"
+        },
+        {
+          "text": "sons",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Zebedee, and two other of his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.3",
+      "edition_verse_id": "ASV1901:JHN.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Simon Peter saith unto them, I go a fishing. They say unto him, We also come with thee. They went forth, and entered into the boat; and that night they took nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.4",
+      "edition_verse_id": "ASV1901:JHN.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But when day was now breaking, Jesus stood on the beach: yet the disciples knew not that it was Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.5",
+      "edition_verse_id": "ASV1901:JHN.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jesus therefore saith unto them, Children, have ye aught to eat? They answered him, No.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.6",
+      "edition_verse_id": "ASV1901:JHN.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said unto them, Cast the net on the right side of the boat, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.7",
+      "edition_verse_id": "ASV1901:JHN.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "That disciple therefore whom Jesus loved saith unto Peter, It is the Lord. So when Simon Peter heard that it was the Lord, he girt his coat about him (for he was naked), and cast himself into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.8",
+      "edition_verse_id": "ASV1901:JHN.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But the other disciples came in the little boat (for they were not far from the land, but about two hundred cubits off), dragging the net ",
+          "kind": "text"
+        },
+        {
+          "text": "full",
+          "kind": "supplied"
+        },
+        {
+          "text": " of fishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.9",
+      "edition_verse_id": "ASV1901:JHN.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So when they got out upon the land, they see a fire of coals there, and fish laid thereon, and bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.10",
+      "edition_verse_id": "ASV1901:JHN.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jesus saith unto them, Bring of the fish which ye have now taken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.11",
+      "edition_verse_id": "ASV1901:JHN.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Simon Peter therefore went up, and drew the net to land, full of great fishes, a hundred and fifty and three: and for all there were so many, the net was not rent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.12",
+      "edition_verse_id": "ASV1901:JHN.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Jesus saith unto them, Come ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " break your fast. And none of the disciples durst inquire of him, Who art thou? knowing that it was the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.13",
+      "edition_verse_id": "ASV1901:JHN.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jesus cometh, and taketh the bread, and giveth them, and the fish likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.14",
+      "edition_verse_id": "ASV1901:JHN.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "This is now the third time that Jesus was manifested to the disciples, after that he was risen from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.15",
+      "edition_verse_id": "ASV1901:JHN.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So when they had broken their fast, Jesus saith to Simon Peter, Simon, ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of John, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.16",
+      "edition_verse_id": "ASV1901:JHN.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He saith to him again a second time, Simon, ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of John, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Tend my sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.17",
+      "edition_verse_id": "ASV1901:JHN.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He saith unto him the third time, Simon, ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of John, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.18",
+      "edition_verse_id": "ASV1901:JHN.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.19",
+      "edition_verse_id": "ASV1901:JHN.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now this he spake, signifying by what manner of death he should glorify God. And when he had spoken this, he saith unto him, Follow me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.20",
+      "edition_verse_id": "ASV1901:JHN.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Peter, turning about, seeth the disciple whom Jesus loved following; who also leaned back on his breast at the supper, and said, Lord, who is he that betrayeth thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.21",
+      "edition_verse_id": "ASV1901:JHN.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Peter therefore seeing him saith to Jesus, Lord, and what shall this man do?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.22",
+      "edition_verse_id": "ASV1901:JHN.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Jesus saith unto him, If I will that he tarry till I come, what ",
+          "kind": "text"
+        },
+        {
+          "text": "is that",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thee? follow thou me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.23",
+      "edition_verse_id": "ASV1901:JHN.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "This saying therefore went forth among the brethren, that that disciple should not die: yet Jesus said not unto him, that he should not die; but, If I will that he tarry till I come, what ",
+          "kind": "text"
+        },
+        {
+          "text": "is that",
+          "kind": "supplied"
+        },
+        {
+          "text": " to thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.24",
+      "edition_verse_id": "ASV1901:JHN.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "This is the disciple that beareth witness of these things, and wrote these things: and we know that his witness is true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.25",
+      "edition_verse_id": "ASV1901:JHN.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And there are also many other things which Jesus did, the which if they should be written every one, I suppose that even the world itself would not contain the books that should be written.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

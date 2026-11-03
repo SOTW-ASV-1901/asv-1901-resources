@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "book_name": "John",
+  "book_order": 43,
+  "canonical_ids": "JHN.{chapter}.{verse}",
+  "edition_ids": "ASV1901:JHN.{chapter}.{verse}",
+  "chapter_count": 21,
+  "verse_count": 878,
+  "traditional_verse_positions": 879,
+  "omitted_from_1901_main_text": [
+    "JHN.5.4"
+  ],
+  "verse_omissions_path": "john/verse-omissions.json",
+  "textual_apparatus_path": "john/textual-apparatus.json",
+  "chapter_path_template": "john/chapters/{chapter:02d}.json",
+  "facsimile_index": "john/page-index.json",
+  "predecessor_book_code": "LUK",
+  "successor_book_code": "ACT",
+  "source_provenance": "books/john/SOURCE_INVENTORY.json",
+  "reader": "books/john/site/index.html",
+  "note": "Main text 878 verses, historical 5:4 note excluded, John 7:53–8:11 included with original brackets and caveat. No unverified Strong’s mappings."
+}

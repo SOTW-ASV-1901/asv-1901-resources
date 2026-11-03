@@ -1,0 +1,144 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "difference_count": 16,
+  "differences": [
+    {
+      "verse_id": "JHN.3.22",
+      "primary_usx": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.",
+      "comparison_usfm": "After these things came Jesus and his disciples into the land of Judæa; and there he tarried with them, and baptized.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.3.23",
+      "primary_usx": "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.",
+      "comparison_usfm": "And John also was baptizing in Ænon near to Salim, because there was much water there: and they came, and were baptized.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.4.3",
+      "primary_usx": "he left Judaea, and departed again into Galilee.",
+      "comparison_usfm": "he left Judæa, and departed again into Galilee.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.4.45",
+      "primary_usx": "So when he came into Galilee, the Galilaeans received him, having seen all the things that he did in Jerusalem at the feast: for they also went unto the feast.",
+      "comparison_usfm": "So when he came into Galilee, the Galilæans received him, having seen all the things that he did in Jerusalem at the feast: for they also went unto the feast.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.4.47",
+      "primary_usx": "When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son; for he was at the point of death.",
+      "comparison_usfm": "When he heard that Jesus was come out of Judæa into Galilee, he went unto him, and besought him that he would come down, and heal his son; for he was at the point of death.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.4.54",
+      "primary_usx": "This is again the second sign that Jesus did, having come out of Judaea into Galilee.",
+      "comparison_usfm": "This is again the second sign that Jesus did, having come out of Judæa into Galilee.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.7.1",
+      "primary_usx": "And after these things Jesus walked in Galilee: for he would not walk in Judaea, because the Jews sought to kill him.",
+      "comparison_usfm": "And after these things Jesus walked in Galilee: for he would not walk in Judæa, because the Jews sought to kill him.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.7.3",
+      "primary_usx": "His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may behold thy works which thou doest.",
+      "comparison_usfm": "His brethren therefore said unto him, Depart hence, and go into Judæa, that thy disciples also may behold thy works which thou doest.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.11.7",
+      "primary_usx": "Then after this he saith to the disciples, Let us go into Judaea again.",
+      "comparison_usfm": "Then after this he saith to the disciples, Let us go into Judæa again.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.18.28",
+      "primary_usx": "They lead Jesus therefore from Caiaphas into the Praetorium: and it was early; and they themselves entered not into the Praetorium, that they might not be defiled, but might eat the passover.",
+      "comparison_usfm": "They lead Jesus therefore from Caiaphas into the Prætorium: and it was early; and they themselves entered not into the Prætorium, that they might not be defiled, but might eat the passover.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.18.33",
+      "primary_usx": "Pilate therefore entered again into the Praetorium, and called Jesus, and said unto him, Art thou the King of the Jews?",
+      "comparison_usfm": "Pilate therefore entered again into the Prætorium, and called Jesus, and said unto him, Art thou the King of the Jews?",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.19.9",
+      "primary_usx": "and he entered into the Praetorium again, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.",
+      "comparison_usfm": "and he entered into the Prætorium again, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.19.12",
+      "primary_usx": "Upon this Pilate sought to release him: but the Jews cried out, saying, If thou release this man, thou art not Caesar’s friend: every one that maketh himself a king speaketh against Caesar.",
+      "comparison_usfm": "Upon this Pilate sought to release him: but the Jews cried out, saying, If thou release this man, thou art not Cæsar’s friend: every one that maketh himself a king speaketh against Cæsar.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.19.15",
+      "primary_usx": "They therefore cried out, Away with him, away with him, crucify him! Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.",
+      "comparison_usfm": "They therefore cried out, Away with him , away with him , crucify him! Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Cæsar.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.19.19",
+      "primary_usx": "And Pilate wrote a title also, and put it on the cross. And there was written, Jesus of Nazareth, the King of the Jews.",
+      "comparison_usfm": "And Pilate wrote a title also, and put it on the cross. And there was written, JESUS OF NAZARETH, THE KING OF THE JEWS.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    },
+    {
+      "verse_id": "JHN.19.38",
+      "primary_usx": "And after these things Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took away his body.",
+      "comparison_usfm": "And after these things Joseph of Arimathæa, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took away his body.",
+      "kind": "historical_ligature_or_print_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Print fidelity assessed; source files unchanged. Historical inscription capitals retained; ligatures documented."
+    }
+  ],
+  "print_small_caps_projection": [
+    {
+      "verse_id": "JHN.19.19",
+      "original_source_text": "Jesus of Nazareth, the King of the Jews",
+      "printed_small_capitals_projection": "JESUS OF NAZARETH, THE KING OF THE JEWS"
+    }
+  ],
+  "witness_independence": "NOT_ESTABLISHED",
+  "note": "All digital main-text disagreements typographic. One traditional verse in USFM only; original print appendix treatment preserved. Original witnesses unmodified."
+}

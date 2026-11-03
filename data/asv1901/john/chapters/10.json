@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "JHN.10.1",
+      "edition_verse_id": "ASV1901:JHN.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, He that entereth not by the door into the fold of the sheep, but climbeth up some other way, the same is a thief and a robber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.2",
+      "edition_verse_id": "ASV1901:JHN.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But he that entereth in by the door is the shepherd of the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.3",
+      "edition_verse_id": "ASV1901:JHN.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.4",
+      "edition_verse_id": "ASV1901:JHN.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When he hath put forth all his own, he goeth before them, and the sheep follow him: for they know his voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.5",
+      "edition_verse_id": "ASV1901:JHN.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.6",
+      "edition_verse_id": "ASV1901:JHN.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.7",
+      "edition_verse_id": "ASV1901:JHN.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jesus therefore said unto them again, Verily, verily, I say unto you, I am the door of the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.8",
+      "edition_verse_id": "ASV1901:JHN.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All that came before me are thieves and robbers: but the sheep did not hear them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.9",
+      "edition_verse_id": "ASV1901:JHN.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I am the door; by me if any man enter in, he shall be saved, and shall go in and go out, and shall find pasture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.10",
+      "edition_verse_id": "ASV1901:JHN.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The thief cometh not, but that he may steal, and kill, and destroy: I came that they may have life, and may have ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " abundantly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.11",
+      "edition_verse_id": "ASV1901:JHN.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I am the good shepherd: the good shepherd layeth down his life for the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.12",
+      "edition_verse_id": "ASV1901:JHN.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He that is a hireling, and not a shepherd, whose own the sheep are not, beholdeth the wolf coming, and leaveth the sheep, and fleeth, and the wolf snatcheth them, and scattereth ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.13",
+      "edition_verse_id": "ASV1901:JHN.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "he fleeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " because he is a hireling, and careth not for the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.14",
+      "edition_verse_id": "ASV1901:JHN.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I am the good shepherd; and I know mine own, and mine own know me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.15",
+      "edition_verse_id": "ASV1901:JHN.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "even as the Father knoweth me, and I know the Father; and I lay down my life for the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.16",
+      "edition_verse_id": "ASV1901:JHN.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and they shall become one flock, one shepherd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.17",
+      "edition_verse_id": "ASV1901:JHN.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore doth the Father love me, because I lay down my life, that I may take it again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.18",
+      "edition_verse_id": "ASV1901:JHN.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "No one taketh it away from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment received I from my Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.19",
+      "edition_verse_id": "ASV1901:JHN.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "There arose a division again among the Jews because of these words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.20",
+      "edition_verse_id": "ASV1901:JHN.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And many of them said, He hath a demon, and is mad; why hear ye him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.21",
+      "edition_verse_id": "ASV1901:JHN.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Others said, These are not the sayings of one possessed with a demon. Can a demon open the eyes of the blind?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.22",
+      "edition_verse_id": "ASV1901:JHN.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And it was the feast of the dedication at Jerusalem:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.23",
+      "edition_verse_id": "ASV1901:JHN.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "it was winter; and Jesus was walking in the temple in Solomon’s porch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.24",
+      "edition_verse_id": "ASV1901:JHN.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The Jews therefore came round about him, and said unto him, How long dost thou hold us in suspense? If thou art the Christ, tell us plainly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.25",
+      "edition_verse_id": "ASV1901:JHN.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Jesus answered them, I told you, and ye believe not: the works that I do in my Father’s name, these bear witness of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.26",
+      "edition_verse_id": "ASV1901:JHN.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But ye believe not, because ye are not of my sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.27",
+      "edition_verse_id": "ASV1901:JHN.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "My sheep hear my voice, and I know them, and they follow me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.28",
+      "edition_verse_id": "ASV1901:JHN.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and I give unto them eternal life; and they shall never perish, and no one shall snatch them out of my hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.29",
+      "edition_verse_id": "ASV1901:JHN.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "My Father, who hath given ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto me, is greater than all; and no one is able to snatch ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the Father’s hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.30",
+      "edition_verse_id": "ASV1901:JHN.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I and the Father are one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.31",
+      "edition_verse_id": "ASV1901:JHN.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The Jews took up stones again to stone him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.32",
+      "edition_verse_id": "ASV1901:JHN.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Jesus answered them, Many good works have I showed you from the Father; for which of those works do ye stone me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.33",
+      "edition_verse_id": "ASV1901:JHN.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The Jews answered him, For a good work we stone thee not, but for blasphemy; and because that thou, being a man, makest thyself God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.34",
+      "edition_verse_id": "ASV1901:JHN.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Jesus answered them, Is it not written in your law, I said, Ye are gods?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.35",
+      "edition_verse_id": "ASV1901:JHN.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "If he called them gods, unto whom the word of God came (and the scripture cannot be broken),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.36",
+      "edition_verse_id": "ASV1901:JHN.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "say ye of him, whom the Father sanctified and sent into the world, Thou blasphemest; because I said, I am ",
+          "kind": "text"
+        },
+        {
+          "text": "the",
+          "kind": "supplied"
+        },
+        {
+          "text": " Son of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.37",
+      "edition_verse_id": "ASV1901:JHN.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "If I do not the works of my Father, believe me not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.38",
+      "edition_verse_id": "ASV1901:JHN.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But if I do them, though ye believe not me, believe the works: that ye may know and understand that the Father is in me, and I in the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.39",
+      "edition_verse_id": "ASV1901:JHN.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "They sought again to take him: and he went forth out of their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.40",
+      "edition_verse_id": "ASV1901:JHN.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And he went away again beyond the Jordan into the place where John was at the first baptizing; and there he abode.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.41",
+      "edition_verse_id": "ASV1901:JHN.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And many came unto him; and they said, John indeed did no sign: but all things whatsoever John spake of this man were true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.42",
+      "edition_verse_id": "ASV1901:JHN.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And many believed on him there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

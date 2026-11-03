@@ -1,0 +1,664 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "JHN.1.1",
+      "edition_verse_id": "ASV1901:JHN.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.2",
+      "edition_verse_id": "ASV1901:JHN.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The same was in the beginning with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.3",
+      "edition_verse_id": "ASV1901:JHN.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "All things were made through him; and without him was not anything made that hath been made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.4",
+      "edition_verse_id": "ASV1901:JHN.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In him was life; and the life was the light of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.5",
+      "edition_verse_id": "ASV1901:JHN.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the light shineth in the darkness; and the darkness apprehended it not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.6",
+      "edition_verse_id": "ASV1901:JHN.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "There came a man, sent from God, whose name was John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.7",
+      "edition_verse_id": "ASV1901:JHN.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The same came for witness, that he might bear witness of the light, that all might believe through him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.8",
+      "edition_verse_id": "ASV1901:JHN.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He was not the light, but ",
+          "kind": "text"
+        },
+        {
+          "text": "came",
+          "kind": "supplied"
+        },
+        {
+          "text": " that he might bear witness of the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.9",
+      "edition_verse_id": "ASV1901:JHN.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "There was the true light, ",
+          "kind": "text"
+        },
+        {
+          "text": "even the light",
+          "kind": "supplied"
+        },
+        {
+          "text": " which lighteth every man, coming into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.10",
+      "edition_verse_id": "ASV1901:JHN.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He was in the world, and the world was made through him, and the world knew him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.11",
+      "edition_verse_id": "ASV1901:JHN.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He came unto his own, and they that were his own received him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.12",
+      "edition_verse_id": "ASV1901:JHN.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But as many as received him, to them gave he the right to become children of God, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to them that believe on his name:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.13",
+      "edition_verse_id": "ASV1901:JHN.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.14",
+      "edition_verse_id": "ASV1901:JHN.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the Word became flesh, and dwelt among us (and we beheld his glory, glory as of the only begotten from the Father), full of grace and truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.15",
+      "edition_verse_id": "ASV1901:JHN.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "John beareth witness of him, and crieth, saying, This was he of whom I said, He that cometh after me is become before me: for he was before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.16",
+      "edition_verse_id": "ASV1901:JHN.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For of his fulness we all received, and grace for grace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.17",
+      "edition_verse_id": "ASV1901:JHN.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the law was given through Moses; grace and truth came through Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.18",
+      "edition_verse_id": "ASV1901:JHN.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "No man hath seen God at any time; the only begotten Son, who is in the bosom of the Father, he hath declared ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.19",
+      "edition_verse_id": "ASV1901:JHN.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And this is the witness of John, when the Jews sent unto him from Jerusalem priests and Levites to ask him, Who art thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.20",
+      "edition_verse_id": "ASV1901:JHN.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he confessed, and denied not; and he confessed, I am not the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.21",
+      "edition_verse_id": "ASV1901:JHN.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they asked him, What then? Art thou Elijah? And he saith, I am not. Art thou the prophet? And he answered, No.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.22",
+      "edition_verse_id": "ASV1901:JHN.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "They said therefore unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.23",
+      "edition_verse_id": "ASV1901:JHN.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said Isaiah the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.24",
+      "edition_verse_id": "ASV1901:JHN.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they had been sent from the Pharisees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.25",
+      "edition_verse_id": "ASV1901:JHN.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they asked him, and said unto him, Why then baptizest thou, if thou art not the Christ, neither Elijah, neither the prophet?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.26",
+      "edition_verse_id": "ASV1901:JHN.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "John answered them, saying, I baptize in water: in the midst of you standeth one whom ye know not,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.27",
+      "edition_verse_id": "ASV1901:JHN.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that cometh after me, the latchet of whose shoe I am not worthy to unloose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.28",
+      "edition_verse_id": "ASV1901:JHN.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "These things were done in Bethany beyond the Jordan, where John was baptizing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.29",
+      "edition_verse_id": "ASV1901:JHN.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "On the morrow he seeth Jesus coming unto him, and saith, Behold, the Lamb of God, that taketh away the sin of the world!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.30",
+      "edition_verse_id": "ASV1901:JHN.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "This is he of whom I said, After me cometh a man who is become before me: for he was before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.31",
+      "edition_verse_id": "ASV1901:JHN.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And I knew him not; but that he should be made manifest to Israel, for this cause came I baptizing in water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.32",
+      "edition_verse_id": "ASV1901:JHN.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And John bare witness, saying, I have beheld the Spirit descending as a dove out of heaven; and it abode upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.33",
+      "edition_verse_id": "ASV1901:JHN.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And I knew him not: but he that sent me to baptize in water, he said unto me, Upon whomsoever thou shalt see the Spirit descending, and abiding upon him, the same is he that baptizeth in the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.34",
+      "edition_verse_id": "ASV1901:JHN.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And I have seen, and have borne witness that this is the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.35",
+      "edition_verse_id": "ASV1901:JHN.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Again on the morrow John was standing, and two of his disciples;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.36",
+      "edition_verse_id": "ASV1901:JHN.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "and he looked upon Jesus as he walked, and saith, Behold, the Lamb of God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.37",
+      "edition_verse_id": "ASV1901:JHN.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the two disciples heard him speak, and they followed Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.38",
+      "edition_verse_id": "ASV1901:JHN.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Jesus turned, and beheld them following, and saith unto them, What seek ye? And they said unto him, Rabbi (which is to say, being interpreted, Teacher), where abidest thou?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.39",
+      "edition_verse_id": "ASV1901:JHN.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "He saith unto them, Come, and ye shall see. They came therefore and saw where he abode; and they abode with him that day: it was about the tenth hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.40",
+      "edition_verse_id": "ASV1901:JHN.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "One of the two that heard John ",
+          "kind": "text"
+        },
+        {
+          "text": "speak",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and followed him, was Andrew, Simon Peter’s brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.41",
+      "edition_verse_id": "ASV1901:JHN.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "He findeth first his own brother Simon, and saith unto him, We have found the Messiah (which is, being interpreted, Christ).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.42",
+      "edition_verse_id": "ASV1901:JHN.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "He brought him unto Jesus. Jesus looked upon him, and said, Thou art Simon the son of John: thou shalt be called Cephas (which is by interpretation, Peter).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.43",
+      "edition_verse_id": "ASV1901:JHN.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "On the morrow he was minded to go forth into Galilee, and he findeth Philip: and Jesus saith unto him, Follow me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.44",
+      "edition_verse_id": "ASV1901:JHN.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Now Philip was from Bethsaida, of the city of Andrew and Peter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.45",
+      "edition_verse_id": "ASV1901:JHN.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, wrote, Jesus of Nazareth, the son of Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.46",
+      "edition_verse_id": "ASV1901:JHN.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Nathanael said unto him, Can any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.47",
+      "edition_verse_id": "ASV1901:JHN.1.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Jesus saw Nathanael coming to him, and saith of him, Behold, an Israelite indeed, in whom is no guile!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.48",
+      "edition_verse_id": "ASV1901:JHN.1.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before Philip called thee, when thou wast under the fig tree, I saw thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.49",
+      "edition_verse_id": "ASV1901:JHN.1.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Nathanael answered him, Rabbi, thou art the Son of God; thou art King of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.50",
+      "edition_verse_id": "ASV1901:JHN.1.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee underneath the fig tree, believest thou? thou shalt see greater things than these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.51",
+      "edition_verse_id": "ASV1901:JHN.1.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And he saith unto him, Verily, verily, I say unto you, Ye shall see the heaven opened, and the angels of God ascending and descending upon the Son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# John | Manual GitHub upload
+
+Extract and upload the complete root folders `books/` and `data/` into `SOTW-ASV-1901/asv-1901-resources`, using the repository root's **Add file → Upload files** (or equivalent), retaining paths and directory structure. Only three John-specific destination paths are new: `books/john/`, `data/asv1901/john/`, and `data/asv1901/catalog-john.json`. Do not overwrite any other book, any global index, or GitHub Pages settings. Verify the live hosted reader after manual upload at `https://sotw-asv-1901.github.io/asv-1901-resources/books/john/site/index.html`. This URL becomes functional only after installation, not as a pre-release availability claim.

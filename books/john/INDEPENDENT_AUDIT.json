@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "independent_audit_type": "LOCAL_UNPUBLISHED_BOOK_RELEASE",
+  "edition": "ASV1901",
+  "book": "JHN",
+  "chapters": 21,
+  "main_text_verses": 878,
+  "traditional_verse_positions": 879,
+  "intentional_1901_main_text_omissions": [
+    "JHN.5.4"
+  ],
+  "historical_bracketed_but_included_passage": "JHN.7.53-JHN.8.11",
+  "source_archive_sha256_and_integrity": "PASS_3_HASHES_2_ZIP_INTEGRITY",
+  "unaltered_primary_and_comparison_source_files": "PASS",
+  "original_page_image_stream_bytes_and_transforms": "PASS_29_OF_29",
+  "independent_rendered_page_pixels": "PASS_6_SELECTED_SOURCE_PAGES",
+  "reader_javascript_syntax": "PASS",
+  "reader_source_paths": "PASS",
+  "local_http_resources": "PASS_8_OF_8",
+  "schema_and_manifest": "PASS",
+  "original_page_to_verse_coverage": "PASS_878_OF_878",
+  "physically_page_spanning_verses": 21,
+  "source_digital_witness_typographical_differences": 16,
+  "original_print_small_capital_projections": 1,
+  "supplied_italics": "PASS_135_OF_135",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "complete_print_character_by_character_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "real_browser_test": "NOT_PERFORMED_LOCAL_BROWSER_NAVIGATION_BLOCKED_BY_ENVIRONMENT",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "release_paths": [
+    "books/john/",
+    "data/asv1901/john/",
+    "data/asv1901/catalog-john.json"
+  ],
+  "deployment": "NOT_AUTHORIZED_OR_ATTEMPTED"
+}

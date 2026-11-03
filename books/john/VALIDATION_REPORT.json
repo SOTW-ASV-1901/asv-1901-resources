@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "book_code": "JHN",
+  "edition_id": "ASV1901",
+  "book_order": 43,
+  "chapters": 21,
+  "main_text_verse_count": 878,
+  "traditional_verse_positions": 879,
+  "omitted_verse_ids": [
+    "JHN.5.4"
+  ],
+  "source_witness_typographic_differences": 16,
+  "non_substantive_differences": 16,
+  "italic_spans": 135,
+  "primary_usx_note_elements": 271,
+  "source_pdf_page_range": [
+    1074,
+    1102
+  ],
+  "historical_map_pages": 1,
+  "scripture_pages": 28,
+  "physical_pages": 29,
+  "page_spanning_verses": 21,
+  "facsimile_volumes": 2,
+  "page_index_coverage": "PASS_ALL_878_MAIN_TEXT_VERSES",
+  "comparison_witness_supplied_spans": "PASS_135_OF_135",
+  "original_print_small_capital_projections": 1,
+  "john_7_53_to_8_11_bracketed_in_main_text": true,
+  "main_text_character_by_character_print_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED"
+}

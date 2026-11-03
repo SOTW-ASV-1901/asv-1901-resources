@@ -1,0 +1,688 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "JHN.7.1",
+      "edition_verse_id": "ASV1901:JHN.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And after these things Jesus walked in Galilee: for he would not walk in Judaea, because the Jews sought to kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.2",
+      "edition_verse_id": "ASV1901:JHN.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now the feast of the Jews, the feast of tabernacles, was at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.3",
+      "edition_verse_id": "ASV1901:JHN.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may behold thy works which thou doest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.4",
+      "edition_verse_id": "ASV1901:JHN.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For no man doeth anything in secret, and himself seeketh to be known openly. If thou doest these things, manifest thyself to the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.5",
+      "edition_verse_id": "ASV1901:JHN.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For even his brethren did not believe on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.6",
+      "edition_verse_id": "ASV1901:JHN.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Jesus therefore saith unto them, My time is not yet come; but your time is always ready.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.7",
+      "edition_verse_id": "ASV1901:JHN.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The world cannot hate you; but me it hateth, because I testify of it, that its works are evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.8",
+      "edition_verse_id": "ASV1901:JHN.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Go ye up unto the feast: I go not up unto this feast; because my time is not yet fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.9",
+      "edition_verse_id": "ASV1901:JHN.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And having said these things unto them, he abode ",
+          "kind": "text"
+        },
+        {
+          "text": "still",
+          "kind": "supplied"
+        },
+        {
+          "text": " in Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.10",
+      "edition_verse_id": "ASV1901:JHN.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But when his brethren were gone up unto the feast, then went he also up, not publicly, but as it were in secret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.11",
+      "edition_verse_id": "ASV1901:JHN.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The Jews therefore sought him at the feast, and said, Where is he?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.12",
+      "edition_verse_id": "ASV1901:JHN.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And there was much murmuring among the multitudes concerning him: some said, He is a good man; others said, Not so, but he leadeth the multitude astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.13",
+      "edition_verse_id": "ASV1901:JHN.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Yet no man spake openly of him for fear of the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.14",
+      "edition_verse_id": "ASV1901:JHN.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But when it was now the midst of the feast Jesus went up into the temple, and taught.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.15",
+      "edition_verse_id": "ASV1901:JHN.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The Jews therefore marvelled, saying, How knoweth this man letters, having never learned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.16",
+      "edition_verse_id": "ASV1901:JHN.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jesus therefore answered them, and said, My teaching is not mine, but his that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.17",
+      "edition_verse_id": "ASV1901:JHN.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If any man willeth to do his will, he shall know of the teaching, whether it is of God, or ",
+          "kind": "text"
+        },
+        {
+          "text": "whether",
+          "kind": "supplied"
+        },
+        {
+          "text": " I speak from myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.18",
+      "edition_verse_id": "ASV1901:JHN.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He that speaketh from himself seeketh his own glory: but he that seeketh the glory of him that sent him, the same is true, and no unrighteousness is in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.19",
+      "edition_verse_id": "ASV1901:JHN.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Did not Moses give you the law, and ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " none of you doeth the law? Why seek ye to kill me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.20",
+      "edition_verse_id": "ASV1901:JHN.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The multitude answered, Thou hast a demon: who seeketh to kill thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.21",
+      "edition_verse_id": "ASV1901:JHN.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jesus answered and said unto them, I did one work, and ye all marvel because thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.22",
+      "edition_verse_id": "ASV1901:JHN.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Moses hath given you circumcision (not that it is of Moses, but of the fathers); and on the sabbath ye circumcise a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.23",
+      "edition_verse_id": "ASV1901:JHN.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If a man receiveth circumcision on the sabbath, that the law of Moses may not be broken; are ye wroth with me, because I made a man every whit whole on the sabbath?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.24",
+      "edition_verse_id": "ASV1901:JHN.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Judge not according to appearance, but judge righteous judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.25",
+      "edition_verse_id": "ASV1901:JHN.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Some therefore of them of Jerusalem said, Is not this he whom they seek to kill?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.26",
+      "edition_verse_id": "ASV1901:JHN.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And lo, he speaketh openly, and they say nothing unto him. Can it be that the rulers indeed know that this is the Christ?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.27",
+      "edition_verse_id": "ASV1901:JHN.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Howbeit we know this man whence he is: but when the Christ cometh, no one knoweth whence he is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.28",
+      "edition_verse_id": "ASV1901:JHN.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Jesus therefore cried in the temple, teaching and saying, Ye both know me, and know whence I am; and I am not come of myself, but he that sent me is true, whom ye know not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.29",
+      "edition_verse_id": "ASV1901:JHN.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I know him; because I am from him, and he sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.30",
+      "edition_verse_id": "ASV1901:JHN.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They sought therefore to take him: and no man laid his hand on him, because his hour was not yet come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.31",
+      "edition_verse_id": "ASV1901:JHN.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But of the multitude many believed on him; and they said, When the Christ shall come, will he do more signs than those which this man hath done?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.32",
+      "edition_verse_id": "ASV1901:JHN.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The Pharisees heard the multitude murmuring these things concerning him; and the chief priests and the Pharisees sent officers to take him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.33",
+      "edition_verse_id": "ASV1901:JHN.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Jesus therefore said, Yet a little while am I with you, and I go unto him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.34",
+      "edition_verse_id": "ASV1901:JHN.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Ye shall seek me, and shall not find me: and where I am, ye cannot come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.35",
+      "edition_verse_id": "ASV1901:JHN.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The Jews therefore said among themselves, Whither will this man go that we shall not find him? will he go unto the Dispersion among the Greeks, and teach the Greeks?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.36",
+      "edition_verse_id": "ASV1901:JHN.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "What is this word that he said, Ye shall seek me, and shall not find me; and where I am, ye cannot come?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.37",
+      "edition_verse_id": "ASV1901:JHN.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Now on the last day, the great ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me and drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.38",
+      "edition_verse_id": "ASV1901:JHN.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "He that believeth on me, as the scripture hath said, from within him shall flow rivers of living water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.39",
+      "edition_verse_id": "ASV1901:JHN.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But this spake he of the Spirit, which they that believed on him were to receive: for the Spirit was not yet ",
+          "kind": "text"
+        },
+        {
+          "text": "given",
+          "kind": "supplied"
+        },
+        {
+          "text": "; because Jesus was not yet glorified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.40",
+      "edition_verse_id": "ASV1901:JHN.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Some",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the multitude therefore, when they heard these words, said, This is of a truth the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.41",
+      "edition_verse_id": "ASV1901:JHN.7.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Others said, This is the Christ. But some said, What, doth the Christ come out of Galilee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.42",
+      "edition_verse_id": "ASV1901:JHN.7.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Hath not the scripture said that the Christ cometh of the seed of David, and from Bethlehem, the village where David was?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.43",
+      "edition_verse_id": "ASV1901:JHN.7.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "So there arose a division in the multitude because of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.44",
+      "edition_verse_id": "ASV1901:JHN.7.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And some of them would have taken him; but no man laid hands on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.45",
+      "edition_verse_id": "ASV1901:JHN.7.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "The officers therefore came to the chief priests and Pharisees; and they said unto them, Why did ye not bring him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.46",
+      "edition_verse_id": "ASV1901:JHN.7.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "The officers answered, Never man so spake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.47",
+      "edition_verse_id": "ASV1901:JHN.7.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The Pharisees therefore answered them, Are ye also led astray?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.48",
+      "edition_verse_id": "ASV1901:JHN.7.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Hath any of the rulers believed on him, or of the Pharisees?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.49",
+      "edition_verse_id": "ASV1901:JHN.7.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "But this multitude that knoweth not the law are accursed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.50",
+      "edition_verse_id": "ASV1901:JHN.7.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Nicodemus saith unto them (he that came to him before, being one of them),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.51",
+      "edition_verse_id": "ASV1901:JHN.7.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Doth our law judge a man, except it first hear from himself and know what he doeth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.52",
+      "edition_verse_id": "ASV1901:JHN.7.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "They answered and said unto him, Art thou also of Galilee? Search, and see that out of Galilee ariseth no prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.53",
+      "edition_verse_id": "ASV1901:JHN.7.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "[And they went every man unto his own house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

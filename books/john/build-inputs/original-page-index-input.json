@@ -1,0 +1,153 @@
+{
+  "source_pdf_page_range": [
+    1074,
+    1102
+  ],
+  "historical_map_page": 1074,
+  "printed_scripture_pages": [
+    93,
+    120
+  ],
+  "page_first_verse_and_continuations": [
+    {
+      "source_pdf_page": 1075,
+      "first_visible_verse": "JHN.1.1",
+      "continues_previous_page": false
+    },
+    {
+      "source_pdf_page": 1076,
+      "first_visible_verse": "JHN.1.29",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1077,
+      "first_visible_verse": "JHN.2.10",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1078,
+      "first_visible_verse": "JHN.3.17",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1079,
+      "first_visible_verse": "JHN.4.15",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1080,
+      "first_visible_verse": "JHN.4.50",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1081,
+      "first_visible_verse": "JHN.5.30",
+      "continues_previous_page": false
+    },
+    {
+      "source_pdf_page": 1082,
+      "first_visible_verse": "JHN.6.19",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1083,
+      "first_visible_verse": "JHN.6.52",
+      "continues_previous_page": false
+    },
+    {
+      "source_pdf_page": 1084,
+      "first_visible_verse": "JHN.7.17",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1085,
+      "first_visible_verse": "JHN.7.52",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1086,
+      "first_visible_verse": "JHN.8.33",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1087,
+      "first_visible_verse": "JHN.9.7",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1088,
+      "first_visible_verse": "JHN.10.3",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1089,
+      "first_visible_verse": "JHN.10.39",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1090,
+      "first_visible_verse": "JHN.11.34",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1091,
+      "first_visible_verse": "JHN.12.9",
+      "continues_previous_page": false
+    },
+    {
+      "source_pdf_page": 1092,
+      "first_visible_verse": "JHN.12.40",
+      "continues_previous_page": false
+    },
+    {
+      "source_pdf_page": 1093,
+      "first_visible_verse": "JHN.13.21",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1094,
+      "first_visible_verse": "JHN.14.16",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1095,
+      "first_visible_verse": "JHN.15.16",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1096,
+      "first_visible_verse": "JHN.16.20",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1097,
+      "first_visible_verse": "JHN.17.17",
+      "continues_previous_page": false
+    },
+    {
+      "source_pdf_page": 1098,
+      "first_visible_verse": "JHN.18.20",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1099,
+      "first_visible_verse": "JHN.19.10",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1100,
+      "first_visible_verse": "JHN.19.38",
+      "continues_previous_page": true
+    },
+    {
+      "source_pdf_page": 1101,
+      "first_visible_verse": "JHN.20.26",
+      "continues_previous_page": false
+    },
+    {
+      "source_pdf_page": 1102,
+      "first_visible_verse": "JHN.21.21",
+      "continues_previous_page": true
+    }
+  ]
+}

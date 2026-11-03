@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "traditional_verse_positions": 879,
+  "main_text_verse_count": 878,
+  "omissions": [
+    {
+      "verse_id": "JHN.5.4",
+      "edition_verse_id": "ASV1901:JHN.5.4",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1080,
+      "printed_new_testament_page": 98,
+      "apparatus_after_verse": "JHN.5.3",
+      "original_note_text": "Many ancient authorities insert, wholly or in part, waiting for the moving of the water: 4 for an angel of the Lord went down at certain seasons into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole, with whatsoever disease he was holden."
+    }
+  ]
+}

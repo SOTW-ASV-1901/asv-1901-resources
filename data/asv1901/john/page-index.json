@@ -1,0 +1,342 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1074,
+      "type": "map",
+      "printed_page": null,
+      "description": "Original historical map titled Palestine in the Gospel by John (period geography, not geocoded)",
+      "evidence_method": "Original 1901 John map inspected visually and retained without redraw.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1075,
+      "type": "scripture",
+      "printed_page": 93,
+      "first_verse": "JHN.1.1",
+      "last_verse": "JHN.1.29",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1076,
+      "type": "scripture",
+      "printed_page": 94,
+      "first_verse": "JHN.1.29",
+      "last_verse": "JHN.2.10",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1077,
+      "type": "scripture",
+      "printed_page": 95,
+      "first_verse": "JHN.2.10",
+      "last_verse": "JHN.3.17",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1078,
+      "type": "scripture",
+      "printed_page": 96,
+      "first_verse": "JHN.3.17",
+      "last_verse": "JHN.4.15",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1079,
+      "type": "scripture",
+      "printed_page": 97,
+      "first_verse": "JHN.4.15",
+      "last_verse": "JHN.4.50",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1080,
+      "type": "scripture",
+      "printed_page": 98,
+      "first_verse": "JHN.4.50",
+      "last_verse": "JHN.5.29",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1081,
+      "type": "scripture",
+      "printed_page": 99,
+      "first_verse": "JHN.5.30",
+      "last_verse": "JHN.6.19",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1082,
+      "type": "scripture",
+      "printed_page": 100,
+      "first_verse": "JHN.6.19",
+      "last_verse": "JHN.6.51",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1083,
+      "type": "scripture",
+      "printed_page": 101,
+      "first_verse": "JHN.6.52",
+      "last_verse": "JHN.7.17",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 1084,
+      "type": "scripture",
+      "printed_page": 102,
+      "first_verse": "JHN.7.17",
+      "last_verse": "JHN.7.52",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 1085,
+      "type": "scripture",
+      "printed_page": 103,
+      "first_verse": "JHN.7.52",
+      "last_verse": "JHN.8.33",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 1086,
+      "type": "scripture",
+      "printed_page": 104,
+      "first_verse": "JHN.8.33",
+      "last_verse": "JHN.9.7",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 13
+    },
+    {
+      "source_pdf_page": 1087,
+      "type": "scripture",
+      "printed_page": 105,
+      "first_verse": "JHN.9.7",
+      "last_verse": "JHN.10.3",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 14
+    },
+    {
+      "source_pdf_page": 1088,
+      "type": "scripture",
+      "printed_page": 106,
+      "first_verse": "JHN.10.3",
+      "last_verse": "JHN.10.39",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1074-1088.pdf",
+      "volume_pdf_page": 15
+    },
+    {
+      "source_pdf_page": 1089,
+      "type": "scripture",
+      "printed_page": 107,
+      "first_verse": "JHN.10.39",
+      "last_verse": "JHN.11.34",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1090,
+      "type": "scripture",
+      "printed_page": 108,
+      "first_verse": "JHN.11.34",
+      "last_verse": "JHN.12.8",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1091,
+      "type": "scripture",
+      "printed_page": 109,
+      "first_verse": "JHN.12.9",
+      "last_verse": "JHN.12.39",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1092,
+      "type": "scripture",
+      "printed_page": 110,
+      "first_verse": "JHN.12.40",
+      "last_verse": "JHN.13.21",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1093,
+      "type": "scripture",
+      "printed_page": 111,
+      "first_verse": "JHN.13.21",
+      "last_verse": "JHN.14.16",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1094,
+      "type": "scripture",
+      "printed_page": 112,
+      "first_verse": "JHN.14.16",
+      "last_verse": "JHN.15.16",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1095,
+      "type": "scripture",
+      "printed_page": 113,
+      "first_verse": "JHN.15.16",
+      "last_verse": "JHN.16.20",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1096,
+      "type": "scripture",
+      "printed_page": 114,
+      "first_verse": "JHN.16.20",
+      "last_verse": "JHN.17.16",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1097,
+      "type": "scripture",
+      "printed_page": 115,
+      "first_verse": "JHN.17.17",
+      "last_verse": "JHN.18.20",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1098,
+      "type": "scripture",
+      "printed_page": 116,
+      "first_verse": "JHN.18.20",
+      "last_verse": "JHN.19.10",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 1099,
+      "type": "scripture",
+      "printed_page": 117,
+      "first_verse": "JHN.19.10",
+      "last_verse": "JHN.19.38",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 1100,
+      "type": "scripture",
+      "printed_page": 118,
+      "first_verse": "JHN.19.38",
+      "last_verse": "JHN.20.25",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 1101,
+      "type": "scripture",
+      "printed_page": 119,
+      "first_verse": "JHN.20.26",
+      "last_verse": "JHN.21.21",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 13
+    },
+    {
+      "source_pdf_page": 1102,
+      "type": "scripture",
+      "printed_page": 120,
+      "first_verse": "JHN.21.21",
+      "last_verse": "JHN.21.25",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Original 1901 physical page openings and continuations inspected; not exhaustive character-by-character collation.",
+      "volume": "asv1901-john-pages-1089-1102.pdf",
+      "volume_pdf_page": 14
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-john-pages-1074-1088.pdf",
+      "first_source_pdf_page": 1074,
+      "last_source_pdf_page": 1088,
+      "bytes": 1767260,
+      "sha256": "d9cec165e34bbb2cd93939200bc4ad115eb0ee43169fb2ca01c3d1f052bef974"
+    },
+    {
+      "filename": "asv1901-john-pages-1089-1102.pdf",
+      "first_source_pdf_page": 1089,
+      "last_source_pdf_page": 1102,
+      "bytes": 1629135,
+      "sha256": "dc8fabf89f85e62fa61f24d3d38a67621cf4eb14bc30f241332529f78e22f765"
+    }
+  ],
+  "navigation_rule": "Ascending physical source PDF pages including John historical map; verse may cover two pages."
+}

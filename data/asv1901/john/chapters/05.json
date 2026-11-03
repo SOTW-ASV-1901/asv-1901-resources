@@ -1,0 +1,616 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JHN",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JHN.5.1",
+      "edition_verse_id": "ASV1901:JHN.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these things there was a feast of the Jews; and Jesus went up to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.2",
+      "edition_verse_id": "ASV1901:JHN.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now there is in Jerusalem by the sheep ",
+          "kind": "text"
+        },
+        {
+          "text": "gate",
+          "kind": "supplied"
+        },
+        {
+          "text": " a pool, which is called in Hebrew Bethesda, having five porches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.3",
+      "edition_verse_id": "ASV1901:JHN.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "In these lay a multitude of them that were sick, blind, halt, withered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.5",
+      "edition_verse_id": "ASV1901:JHN.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And a certain man was there, who had been thirty and eight years in his infirmity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.6",
+      "edition_verse_id": "ASV1901:JHN.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When Jesus saw him lying, and knew that he had been now a long time ",
+          "kind": "text"
+        },
+        {
+          "text": "in that case",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he saith unto him, Wouldest thou be made whole?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.7",
+      "edition_verse_id": "ASV1901:JHN.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The sick man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.8",
+      "edition_verse_id": "ASV1901:JHN.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jesus saith unto him, Arise, take up thy bed, and walk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.9",
+      "edition_verse_id": "ASV1901:JHN.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And straightway the man was made whole, and took up his bed and walked.Now it was the sabbath on that day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.10",
+      "edition_verse_id": "ASV1901:JHN.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So the Jews said unto him that was cured, It is the sabbath, and it is not lawful for thee to take up thy bed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.11",
+      "edition_verse_id": "ASV1901:JHN.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But he answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.12",
+      "edition_verse_id": "ASV1901:JHN.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They asked him, Who is the man that said unto thee, Take up ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " ",
+          "kind": "text"
+        },
+        {
+          "text": "bed",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and walk?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.13",
+      "edition_verse_id": "ASV1901:JHN.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But he that was healed knew not who it was; for Jesus had conveyed himself away, a multitude being in the place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.14",
+      "edition_verse_id": "ASV1901:JHN.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing befall thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.15",
+      "edition_verse_id": "ASV1901:JHN.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The man went away, and told the Jews that it was Jesus who had made him whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.16",
+      "edition_verse_id": "ASV1901:JHN.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And for this cause the Jews persecuted Jesus, because he did these things on the sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.17",
+      "edition_verse_id": "ASV1901:JHN.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But Jesus answered them, My Father worketh even until now, and I work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.18",
+      "edition_verse_id": "ASV1901:JHN.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For this cause therefore the Jews sought the more to kill him, because he not only brake the sabbath, but also called God his own Father, making himself equal with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.19",
+      "edition_verse_id": "ASV1901:JHN.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Jesus therefore answered and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father doing: for what things soever he doeth, these the Son also doeth in like manner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.20",
+      "edition_verse_id": "ASV1901:JHN.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For the Father loveth the Son, and showeth him all things that himself doeth: and greater works than these will he show him, that ye may marvel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.21",
+      "edition_verse_id": "ASV1901:JHN.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For as the Father raiseth the dead and giveth them life, even so the Son also giveth life to whom he will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.22",
+      "edition_verse_id": "ASV1901:JHN.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For neither doth the Father judge any man, but he hath given all judgment unto the Son;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.23",
+      "edition_verse_id": "ASV1901:JHN.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "that all may honor the Son, even as they honor the Father. He that honoreth not the Son honoreth not the Father that sent him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.24",
+      "edition_verse_id": "ASV1901:JHN.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, He that heareth my word, and believeth him that sent me, hath eternal life, and cometh not into judgment, but hath passed out of death into life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.25",
+      "edition_verse_id": "ASV1901:JHN.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Verily, verily, I say unto you, The hour cometh, and now is, when the dead shall hear the voice of the Son of God; and they that hear shall live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.26",
+      "edition_verse_id": "ASV1901:JHN.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For as the Father hath life in himself, even so gave he to the Son also to have life in himself:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.27",
+      "edition_verse_id": "ASV1901:JHN.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and he gave him authority to execute judgment, because he is a son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.28",
+      "edition_verse_id": "ASV1901:JHN.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Marvel not at this: for the hour cometh, in which all that are in the tombs shall hear his voice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.29",
+      "edition_verse_id": "ASV1901:JHN.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.30",
+      "edition_verse_id": "ASV1901:JHN.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I can of myself do nothing: as I hear, I judge: and my judgment is righteous; because I seek not mine own will, but the will of him that sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.31",
+      "edition_verse_id": "ASV1901:JHN.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "If I bear witness of myself, my witness is not true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.32",
+      "edition_verse_id": "ASV1901:JHN.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "It is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.33",
+      "edition_verse_id": "ASV1901:JHN.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Ye have sent unto John, and he hath borne witness unto the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.34",
+      "edition_verse_id": "ASV1901:JHN.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But the witness which I receive is not from man: howbeit I say these things, that ye may be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.35",
+      "edition_verse_id": "ASV1901:JHN.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "He was the lamp that burneth and shineth; and ye were willing to rejoice for a season in his light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.36",
+      "edition_verse_id": "ASV1901:JHN.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But the witness which I have is greater than ",
+          "kind": "text"
+        },
+        {
+          "text": "that of",
+          "kind": "supplied"
+        },
+        {
+          "text": " John; for the works which the Father hath given me to accomplish, the very works that I do, bear witness of me, that the Father hath sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.37",
+      "edition_verse_id": "ASV1901:JHN.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the Father that sent me, he hath borne witness of me. Ye have neither heard his voice at any time, nor seen his form.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.38",
+      "edition_verse_id": "ASV1901:JHN.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And ye have not his word abiding in you: for whom he sent, him ye believe not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.39",
+      "edition_verse_id": "ASV1901:JHN.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Ye search the scriptures, because ye think that in them ye have eternal life; and these are they which bear witness of me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.40",
+      "edition_verse_id": "ASV1901:JHN.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "and ye will not come to me, that ye may have life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.41",
+      "edition_verse_id": "ASV1901:JHN.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "I receive not glory from men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.42",
+      "edition_verse_id": "ASV1901:JHN.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "But I know you, that ye have not the love of God in yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.43",
+      "edition_verse_id": "ASV1901:JHN.5.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "I am come in my Father’s name, and ye receive me not: if another shall come in his own name, him ye will receive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.44",
+      "edition_verse_id": "ASV1901:JHN.5.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "How can ye believe, who receive glory one of another, and the glory that ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the only God ye seek not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.45",
+      "edition_verse_id": "ASV1901:JHN.5.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Think not that I will accuse you to the Father: there is one that accuseth you, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Moses, on whom ye have set your hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.46",
+      "edition_verse_id": "ASV1901:JHN.5.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "For if ye believed Moses, ye would believe me; for he wrote of me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.47",
+      "edition_verse_id": "ASV1901:JHN.5.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "But if ye believe not his writings, how shall ye believe my words?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
