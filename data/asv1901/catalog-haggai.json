@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HAG",
+  "book_name": "Haggai",
+  "book_order": 37,
+  "canonical_ids": "HAG.{chapter}.{verse}",
+  "edition_ids": "ASV1901:HAG.{chapter}.{verse}",
+  "chapter_count": 2,
+  "verse_count": 38,
+  "chapter_path_template": "haggai/chapters/{chapter:02d}.json",
+  "facsimile_index": "haggai/page-index.json",
+  "predecessor_book_code": "ZEP",
+  "successor_book_code": "ZEC",
+  "source_provenance": "books/haggai/SOURCE_INVENTORY.json",
+  "reader": "books/haggai/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

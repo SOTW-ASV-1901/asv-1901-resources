@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEP",
+  "book_name": "Zephaniah",
+  "book_order": 36,
+  "canonical_ids": "ZEP.{chapter}.{verse}",
+  "edition_ids": "ASV1901:ZEP.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 53,
+  "chapter_path_template": "zephaniah/chapters/{chapter:02d}.json",
+  "facsimile_index": "zephaniah/page-index.json",
+  "predecessor_book_code": "HAB",
+  "successor_book_code": "HAG",
+  "source_provenance": "books/zephaniah/SOURCE_INVENTORY.json",
+  "reader": "books/zephaniah/site/index.html",
+  "note": "Book-scoped edition catalog; no global catalog or unverified lexical alignment."
+}

@@ -1,0 +1,3 @@
+# Zephaniah validation report
+
+Independently checked 3 chapters, 53 verses, 7 translator-supplied italic spans, 3 original physical pages, and 2 observed verse continuations across physical Scripture pages. All source PDF pages matched in embedded raw image streams, placement and rendered pixels at 0.34×. Rebuilt every derived chapter and historical facsimile PDF byte-identically. Both digital witnesses agree on all verse wording and italicized supplied terms; source independence is not established. Schema, reader JavaScript, local HTTP, input source SHA and upload-path collision checks passed. No exhaustive character-by-character historical print collation or hosted interactive browser testing.

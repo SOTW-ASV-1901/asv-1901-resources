@@ -1,0 +1,36 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 949,
+      "type": "scripture",
+      "printed_page": 905,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ZEP.1.1",
+      "last_verse": "ZEP.2.2",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 950,
+      "type": "scripture",
+      "printed_page": 906,
+      "running_head_first_verse": "ZEP.2.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEP.2.2",
+      "last_verse": "ZEP.3.8",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    },
+    {
+      "source_pdf_page": 951,
+      "type": "scripture",
+      "printed_page": 907,
+      "running_head_first_verse": "ZEP.3.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEP.3.8",
+      "last_verse": "ZEP.3.20",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation."
+    }
+  ]
+}

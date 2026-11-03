@@ -1,0 +1,40 @@
+{
+  "status": "INDEPENDENTLY_VALIDATED",
+  "edition": "ASV1901",
+  "book": "ZEP",
+  "chapter_count": 3,
+  "verse_count": 53,
+  "source_hashes": {
+    "primary_usx": "e9a1c5754c54be87459137f3881a863cffc856399296028466ae2a63334c4f30",
+    "comparison_usfm": "a7ee3cec7aebc6078ef7da4a75ee6a7d97c837be10e76d732e9cab7d29c69c80",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/zephaniah/DATA_CONTRACT.md": "4cd72171c1dbd6cf16a18e09b7b74aac54825f016b038a7f0d27e43c41f7dfab",
+    "books/zephaniah/INSTALLATION_NOTES.md": "a3a258765cc3f77b1047c4dc56fab36d35e2079613d935f06c2445b0e213d0e6",
+    "books/zephaniah/README.md": "915602937b93959fc6da2ac24ae62b5b0ae458e9457d80ee6feddd400b30e0ac",
+    "books/zephaniah/SOURCE_INVENTORY.json": "e255203db08178c21318ff04f32367d59381adfd6987e9fe385959fc3cefd6d0",
+    "books/zephaniah/UPLOAD_PACKAGE_AUDIT.md": "203c2a139c80cd71c783445705fc858e81bcf7af1d65dd98c5bc4162567fe58e",
+    "books/zephaniah/VALIDATION_REPORT.json": "ec666f7c72fddcae63028d1bc2801df18bacfe77673be4121b6a926f912d449b",
+    "books/zephaniah/VALIDATION_REPORT.md": "8ce70b1aa899eadbffc16de415399d184a2502ba0a2ee4af09292f966cd9d6cf",
+    "books/zephaniah/build-inputs/chapter-checks.json": "ebdc4359313119cdd954e4b69cb70ea84360022cc6ffe8e941127222c92c0776",
+    "books/zephaniah/build-inputs/original-page-index-input.json": "d2747954e35d40f6fefc7f462b63d1e220e047c7aca1ac5c9d480445472bfc86",
+    "books/zephaniah/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/zephaniah/build-inputs/spanning-verses.json": "9f58cb45472f88ed15c46d636c8f3fb48bd9b55ec1c315ebfc18d05f4a6618b3",
+    "books/zephaniah/index.html": "284b9c5dc05eee035cb4a0f19603454b7fe6dba87bf4bbc1b0a1aa4662ae09e7",
+    "books/zephaniah/schemas/asv1901-zephaniah-chapter.schema.json": "7d4fa146767de822aa58bc70e648b32bc1e691764bf4cf4b26d063cb5bb84029",
+    "books/zephaniah/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/zephaniah/scripts/build_zephaniah.py": "a19eb1ebd3cffb78438fde7e9a3aa953bfc50347718bc4a39c64d96cf5b897e5",
+    "books/zephaniah/scripts/validate_release.py": "a4a88fb0cc1cd289ab6ca5aa3433d43ac77e24f897c3589e8d12aaff38ed95a8",
+    "books/zephaniah/site/index.html": "6e1207b6c8712e393b4ede4bcc6d13a7aabe315e35ca6cdcec04ed37102ae514",
+    "books/zephaniah/sources/asv1901-english-only/36-ZEP.usx": "e9a1c5754c54be87459137f3881a863cffc856399296028466ae2a63334c4f30",
+    "books/zephaniah/sources/comparison-only/37-ZEPeng-asv.usfm": "a7ee3cec7aebc6078ef7da4a75ee6a7d97c837be10e76d732e9cab7d29c69c80",
+    "data/asv1901/catalog-zephaniah.json": "3703ab68bc9f291ef419c2783e2a85bb85ee0c116bd3826e52eceacdd94e7b72",
+    "data/asv1901/zephaniah/chapter-checks.json": "ebdc4359313119cdd954e4b69cb70ea84360022cc6ffe8e941127222c92c0776",
+    "data/asv1901/zephaniah/chapters/01.json": "70b2ac0b103d360033814b9c95b32724ea18ec2b0aac4461e1684ab4ac92e279",
+    "data/asv1901/zephaniah/chapters/02.json": "d060273ee0265e1a6e0888a4122ffcce92b3ebc6eb613d3c7643b4b7740c5e64",
+    "data/asv1901/zephaniah/chapters/03.json": "2ea107e0e421312dec684a9202661e3170349110ddbcfab443426de9d89c0d03",
+    "data/asv1901/zephaniah/facsimile/asv1901-zephaniah-pages-949-951.pdf": "8089f69b708829a6bc156d153bba6d0ada2b144c3bedcb30317e5457c02da4fa",
+    "data/asv1901/zephaniah/page-index.json": "8bb6916dde6dd5b6321a6347dce35b17f025338f4cba5195770933e4e23a333c"
+  }
+}

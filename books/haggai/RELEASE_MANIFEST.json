@@ -1,0 +1,39 @@
+{
+  "status": "INDEPENDENTLY_VALIDATED",
+  "edition": "ASV1901",
+  "book": "HAG",
+  "chapter_count": 2,
+  "verse_count": 38,
+  "source_hashes": {
+    "primary_usx": "32ce0bebc59df8e985d62b452e37d72ce3ad07ace752f36cc1ab65de57576467",
+    "comparison_usfm": "917fbc50d5ee8c76a8b1a44ba33d1e2d4833b4ada1d08cbb2fd6d83f03ee5b12",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/haggai/DATA_CONTRACT.md": "eadfb49499b819786c9e7823bbc25a3f16cf7c578da9aa641cf8e747016552e9",
+    "books/haggai/INSTALLATION_NOTES.md": "8812e13dc9e53d3d6b98bde5ccdcb220f93758dc2da400bd7b3d2fb89c704851",
+    "books/haggai/README.md": "4106e624476f8de1cba3a91acb9f2b9c7a588651835a58ced236bdef45cf11d1",
+    "books/haggai/SOURCE_INVENTORY.json": "97eabb0b44d16e2edb29ac7df21d1dd651182599feb656e221befae4c233ca00",
+    "books/haggai/UPLOAD_PACKAGE_AUDIT.md": "b77b3c08b2eb79747b638d9e7eaba5f270b65a6e9d27f4ef66c39bca6073d5eb",
+    "books/haggai/VALIDATION_REPORT.json": "525e6f18d9f5f69758c6d63c98aa69ee7ede89ede861977edb7e8f65ffa8ef07",
+    "books/haggai/VALIDATION_REPORT.md": "cb44bfb3c59cfb80475f1c3b0f4d0a2823bd57a40c1854fa72b9b8163ffe8828",
+    "books/haggai/build-inputs/chapter-checks.json": "350e57cfbb5fb671943f32739f1bebcb4a91e1a5fb3817cffe09a6fc1ce68c7a",
+    "books/haggai/build-inputs/original-page-index-input.json": "490d9a0a7939afcdfb49bb75ad540a5b9414d07f9b6417f5c0c2ace06eb1ee3c",
+    "books/haggai/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/haggai/build-inputs/spanning-verses.json": "5d56b0d4d4b31a4e684f57ee247de1dd4a49ab96e0fff5a8b2ff2a1424d1153c",
+    "books/haggai/index.html": "27c9455ded930e6ce0f69ccb0664e889435c3e1652f3e44f5b4ccef98333f73e",
+    "books/haggai/schemas/asv1901-haggai-chapter.schema.json": "e58435df133f7c5d0801e83d881705688b40570a928de4f1a0157df33063ef47",
+    "books/haggai/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/haggai/scripts/build_haggai.py": "ed20a8c4e83b550659ac3793e4f060155ad48e5f8b7ef8dc4a1d9cf8a1d3a3e4",
+    "books/haggai/scripts/validate_release.py": "ed4c3ad2b3f356e9bd3ed7e2419fd23793357934a011c0e757abfa887b14cf4a",
+    "books/haggai/site/index.html": "1fc11ff4348051097f63133e15752c125fb4e734247d48c38f1f5001cd1c7dd2",
+    "books/haggai/sources/asv1901-english-only/37-HAG.usx": "32ce0bebc59df8e985d62b452e37d72ce3ad07ace752f36cc1ab65de57576467",
+    "books/haggai/sources/comparison-only/38-HAGeng-asv.usfm": "917fbc50d5ee8c76a8b1a44ba33d1e2d4833b4ada1d08cbb2fd6d83f03ee5b12",
+    "data/asv1901/catalog-haggai.json": "517774de3961eb53a048613ccee68871d64f02be71973ddf1398fb4891880805",
+    "data/asv1901/haggai/chapter-checks.json": "350e57cfbb5fb671943f32739f1bebcb4a91e1a5fb3817cffe09a6fc1ce68c7a",
+    "data/asv1901/haggai/chapters/01.json": "1fb17b48311bed99b6f086de7a0f8d1eb102ef00a0a665556bfd062daf0c68c3",
+    "data/asv1901/haggai/chapters/02.json": "c97a44e215e815ee5489ff4c0de8c026dac77fa4814caf06ed9969a2c133eafc",
+    "data/asv1901/haggai/facsimile/asv1901-haggai-pages-952-953.pdf": "b855c58b40213aeb1fecf970f1c33bd39d4011c803b4c98a22c6ee671aa9ab56",
+    "data/asv1901/haggai/page-index.json": "805c7e5190b0917b425ce6a15183cab540d4bd6118772b7e3ab289ccb1db3286"
+  }
+}

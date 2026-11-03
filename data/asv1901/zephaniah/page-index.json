@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEP",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 949,
+      "type": "scripture",
+      "printed_page": 905,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ZEP.1.1",
+      "last_verse": "ZEP.2.2",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-zephaniah-pages-949-951.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 950,
+      "type": "scripture",
+      "printed_page": 906,
+      "running_head_first_verse": "ZEP.2.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEP.2.2",
+      "last_verse": "ZEP.3.8",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-zephaniah-pages-949-951.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 951,
+      "type": "scripture",
+      "printed_page": 907,
+      "running_head_first_verse": "ZEP.3.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEP.3.8",
+      "last_verse": "ZEP.3.20",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-zephaniah-pages-949-951.pdf",
+      "volume_pdf_page": 3
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-zephaniah-pages-949-951.pdf",
+      "first_source_pdf_page": 949,
+      "last_source_pdf_page": 951,
+      "bytes": 309187,
+      "sha256": "8089f69b708829a6bc156d153bba6d0ada2b144c3bedcb30317e5457c02da4fa"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

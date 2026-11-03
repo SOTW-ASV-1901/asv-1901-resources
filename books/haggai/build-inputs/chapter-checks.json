@@ -1,0 +1,21 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      952
+    ],
+    "first": "HAG.1.1",
+    "last": "HAG.1.15"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement and physical verse boundaries visually inspected; no exhaustive character-by-character printed text comparison.",
+    "source_pdf_pages": [
+      952,
+      953
+    ],
+    "first": "HAG.2.1",
+    "last": "HAG.2.23"
+  }
+}

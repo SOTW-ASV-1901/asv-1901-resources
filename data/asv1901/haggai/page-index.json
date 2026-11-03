@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HAG",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 952,
+      "type": "scripture",
+      "printed_page": 908,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "HAG.1.1",
+      "last_verse": "HAG.2.5",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-haggai-pages-952-953.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 953,
+      "type": "scripture",
+      "printed_page": 909,
+      "running_head_first_verse": "HAG.2.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "HAG.2.5",
+      "last_verse": "HAG.2.23",
+      "evidence_method": "Original 1901 full-page scan inspected: first/last body lines in both columns and header; verified cross-page verse continuation. Not exhaustive word-for-word collation.",
+      "volume": "asv1901-haggai-pages-952-953.pdf",
+      "volume_pdf_page": 2
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-haggai-pages-952-953.pdf",
+      "first_source_pdf_page": 952,
+      "last_source_pdf_page": 953,
+      "bytes": 204395,
+      "sha256": "b855c58b40213aeb1fecf970f1c33bd39d4011c803b4c98a22c6ee671aa9ab56"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

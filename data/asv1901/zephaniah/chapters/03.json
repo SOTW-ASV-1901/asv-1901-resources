@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEP",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "ZEP.3.1",
+      "edition_verse_id": "ASV1901:ZEP.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to her that is rebellious and polluted! to the oppressing city!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEP.3.2",
+      "edition_verse_id": "ASV1901:ZEP.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "She obeyed not the voice; she received not correction; she trusted not in Jehovah; she drew not near to her God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.3",
+      "edition_verse_id": "ASV1901:ZEP.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Her princes in the midst of her are roaring lions; her judges are evening wolves; they leave nothing till the morrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.4",
+      "edition_verse_id": "ASV1901:ZEP.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Her prophets are light and treacherous persons; her priests have profaned the sanctuary, they have done violence to the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.5",
+      "edition_verse_id": "ASV1901:ZEP.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jehovah in the midst of her is righteous; he will not do iniquity; every morning doth he bring his justice to light, he faileth not; but the unjust knoweth no shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.6",
+      "edition_verse_id": "ASV1901:ZEP.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have cut off nations; their battlements are desolate; I have made their streets waste, so that none passeth by; their cities are destroyed, so that there is no man, so that there is no inhabitant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.7",
+      "edition_verse_id": "ASV1901:ZEP.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I said, Only fear thou me; receive correction; so her dwelling shall not be cut off, ",
+          "kind": "text"
+        },
+        {
+          "text": "according to",
+          "kind": "supplied"
+        },
+        {
+          "text": " all that I have appointed concerning her: but they rose early and corrupted all their doings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.8",
+      "edition_verse_id": "ASV1901:ZEP.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore wait ye for me, saith Jehovah, until the day that I rise up to the prey; for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger; for all the earth shall be devoured with the fire of my jealousy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEP.3.9",
+      "edition_verse_id": "ASV1901:ZEP.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For then will I turn to the peoples of a pure language, that they may all call upon the name of Jehovah, to serve him with one consent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEP.3.10",
+      "edition_verse_id": "ASV1901:ZEP.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.11",
+      "edition_verse_id": "ASV1901:ZEP.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In that day shalt thou not be put to shame for all thy doings, wherein thou hast transgressed against me; for then I will take away out of the midst of thee thy proudly exulting ones, and thou shalt no more be haughty in my holy mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.12",
+      "edition_verse_id": "ASV1901:ZEP.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But I will leave in the midst of thee an afflicted and poor people, and they shall take refuge in the name of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.13",
+      "edition_verse_id": "ASV1901:ZEP.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth; for they shall feed and lie down, and none shall make them afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.14",
+      "edition_verse_id": "ASV1901:ZEP.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEP.3.15",
+      "edition_verse_id": "ASV1901:ZEP.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Jehovah hath taken away thy judgments, he hath cast out thine enemy: the King of Israel, even Jehovah, is in the midst of thee; thou shalt not fear evil any more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.16",
+      "edition_verse_id": "ASV1901:ZEP.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In that day it shall be said to Jerusalem, Fear thou not; O Zion, let not thy hands be slack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.17",
+      "edition_verse_id": "ASV1901:ZEP.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Jehovah thy God is in the midst of thee, a mighty one who will save; he will rejoice over thee with joy; he will rest in his love; he will joy over thee with singing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.18",
+      "edition_verse_id": "ASV1901:ZEP.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will gather them that sorrow for the solemn assembly, who were of thee; ",
+          "kind": "text"
+        },
+        {
+          "text": "to whom",
+          "kind": "supplied"
+        },
+        {
+          "text": " the burden upon her was a reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.19",
+      "edition_verse_id": "ASV1901:ZEP.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Behold, at that time I will deal with all them that afflict thee; and I will save that which is lame, and gather that which was driven away; and I will make them a praise and a name, whose shame hath been in all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEP.3.20",
+      "edition_verse_id": "ASV1901:ZEP.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "At that time will I bring you in, and at that time will I gather you; for I will make you a name and a praise among all the peoples of the earth, when I bring back your captivity before your eyes, saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
