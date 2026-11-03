@@ -1,0 +1,40 @@
+{
+  "edition": "ASV1901",
+  "book_code": "LUK",
+  "original_print_pdf": {
+    "filename": "Bible_(1901_American_Standard_Version).pdf",
+    "sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "pdf_pages": 1310,
+    "included_in_release": false,
+    "source_url": "https://archive.org/details/holybible00newy",
+    "source_pdf_page_range": [
+      1036,
+      1072
+    ],
+    "printed_scripture_pages": [
+      57,
+      92
+    ]
+  },
+  "upstream_archives": {
+    "primary_english_usx_archive": {
+      "filename": "American-Standard-Version-Bible-master.zip",
+      "sha256": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247"
+    },
+    "comparison_usfm_archive": {
+      "filename": "eng-asv_usfm.zip",
+      "sha256": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+    }
+  },
+  "source_subfiles": {
+    "primary_usx": "books/luke/sources/asv1901-english-only/42-LUK.usx",
+    "comparison_usfm": "books/luke/sources/comparison-only/72-LUKeng-asv.usfm"
+  },
+  "source_subfile_hashes": {
+    "primary_usx": "106662a7447d29362e64ffeebc0b1b50aeb372a4abdf8d2e4ed9f85ef82209f8",
+    "comparison_usfm": "c0fc52bab1fc14b1c821f4a9baf0c9050a2c5c861174e3ca97be8f6501255ae6"
+  },
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "rights_note": "ASV 1901 historical text public domain in the United States; verify territorial law for overseas redistribution."
+}

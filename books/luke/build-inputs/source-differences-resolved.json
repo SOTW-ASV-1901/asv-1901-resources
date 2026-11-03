@@ -1,0 +1,234 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "difference_count": 26,
+  "differences": [
+    {
+      "verse_id": "LUK.1.5",
+      "primary_usx": "There was in the days of Herod, king of Judaea, a certain priest named Zacharias, of the course of Abijah: and he had a wife of the daughters of Aaron, and her name was Elisabeth.",
+      "comparison_usfm": "There was in the days of Herod, king of Judæa, a certain priest named Zacharias, of the course of Abijah: and he had a wife of the daughters of Aaron, and her name was Elisabeth.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.1.31",
+      "primary_usx": "And behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name Jesus.",
+      "comparison_usfm": "And behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.1.65",
+      "primary_usx": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.",
+      "comparison_usfm": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judæa.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.2.1",
+      "primary_usx": "Now it came to pass in those days, there went out a decree from Caesar Augustus, that all the world should be enrolled.",
+      "comparison_usfm": "Now it came to pass in those days, there went out a decree from Cæsar Augustus, that all the world should be enrolled.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.2.4",
+      "primary_usx": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, to the city of David, which is called Bethlehem, because he was of the house and family of David;",
+      "comparison_usfm": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judæa, to the city of David, which is called Bethlehem, because he was of the house and family of David;",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.2.21",
+      "primary_usx": "And when eight days were fulfilled for circumcising him, his name was called Jesus, which was so called by the angel before he was conceived in the womb.",
+      "comparison_usfm": "And when eight days were fulfilled for circumcising him, his name was called JESUS, which was so called by the angel before he was conceived in the womb.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.3.1",
+      "primary_usx": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,",
+      "comparison_usfm": "Now in the fifteenth year of the reign of Tiberius Cæsar, Pontius Pilate being governor of Judæa, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituræa and Trachonitis, and Lysanias tetrarch of Abilene,",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.5.17",
+      "primary_usx": "And it came to pass on one of those days, that he was teaching; and there were Pharisees and doctors of the law sitting by, who were come out of every village of Galilee and Judaea and Jerusalem: and the power of the Lord was with him to heal.",
+      "comparison_usfm": "And it came to pass on one of those days, that he was teaching; and there were Pharisees and doctors of the law sitting by, who were come out of every village of Galilee and Judæa and Jerusalem: and the power of the Lord was with him to heal.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.6.15",
+      "primary_usx": "and Matthew and Thomas, and James the son of Alphaeus, and Simon who was called the Zealot,",
+      "comparison_usfm": "and Matthew and Thomas, and James the son of Alphæus, and Simon who was called the Zealot,",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.6.17",
+      "primary_usx": "and he came down with them, and stood on a level place, and a great multitude of his disciples, and a great number of the people from all Judaea and Jerusalem, and the sea coast of Tyre and Sidon, who came to hear him, and to be healed of their diseases;",
+      "comparison_usfm": "and he came down with them, and stood on a level place, and a great multitude of his disciples, and a great number of the people from all Judæa and Jerusalem, and the sea coast of Tyre and Sidon, who came to hear him, and to be healed of their diseases;",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.7.17",
+      "primary_usx": "And this report went forth concerning him in the whole of Judaea, and all the region round about.",
+      "comparison_usfm": "And this report went forth concerning him in the whole of Judæa, and all the region round about.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.13.1",
+      "primary_usx": "Now there were some present at that very season who told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.",
+      "comparison_usfm": "Now there were some present at that very season who told him of the Galilæans, whose blood Pilate had mingled with their sacrifices.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.13.2",
+      "primary_usx": "And he answered and said unto them, Think ye that these Galilaeans were sinners above all the Galilaeans, because they have suffered these things?",
+      "comparison_usfm": "And he answered and said unto them, Think ye that these Galilæans were sinners above all the Galilæans, because they have suffered these things?",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.19.2",
+      "primary_usx": "And behold, a man called by name Zacchaeus; and he was a chief publican, and he was rich.",
+      "comparison_usfm": "And behold, a man called by name Zacchæus; and he was a chief publican, and he was rich.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.19.5",
+      "primary_usx": "And when Jesus came to the place, he looked up, and said unto him, Zacchaeus, make haste, and come down; for to-day I must abide at thy house.",
+      "comparison_usfm": "And when Jesus came to the place, he looked up, and said unto him, Zacchæus, make haste, and come down; for to-day I must abide at thy house.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.19.8",
+      "primary_usx": "And Zacchaeus stood, and said unto the Lord, Behold, Lord, the half of my goods I give to the poor; and if I have wrongfully exacted aught of any man, I restore fourfold.",
+      "comparison_usfm": "And Zacchæus stood, and said unto the Lord, Behold, Lord, the half of my goods I give to the poor; and if I have wrongfully exacted aught of any man, I restore fourfold.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.20.22",
+      "primary_usx": "Is it lawful for us to give tribute unto Caesar, or not?",
+      "comparison_usfm": "Is it lawful for us to give tribute unto Cæsar, or not?",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.20.24",
+      "primary_usx": "Show me a denarius. Whose image and superscription hath it? And they said, Caesar’s.",
+      "comparison_usfm": "Show me a denarius. Whose image and superscription hath it? And they said, Cæsar’s.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.20.25",
+      "primary_usx": "And he said unto them, Then render unto Caesar the things that are Caesar’s, and unto God the things that are God’s.",
+      "comparison_usfm": "And he said unto them, Then render unto Cæsar the things that are Cæsar’s, and unto God the things that are God’s.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.21.21",
+      "primary_usx": "Then let them that are in Judaea flee unto the mountains; and let them that are in the midst of her depart out; and let not them that are in the country enter therein.",
+      "comparison_usfm": "Then let them that are in Judæa flee unto the mountains; and let them that are in the midst of her depart out; and let not them that are in the country enter therein.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.22.59",
+      "primary_usx": "And after the space of about one hour another confidently affirmed, saying, Of a truth this man also was with him; for he is a Galilaean.",
+      "comparison_usfm": "And after the space of about one hour another confidently affirmed, saying, Of a truth this man also was with him; for he is a Galilæan.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.23.2",
+      "primary_usx": "And they began to accuse him, saying, We found this man perverting our nation, and forbidding to give tribute to Caesar, and saying that he himself is Christ a king.",
+      "comparison_usfm": "And they began to accuse him, saying, We found this man perverting our nation, and forbidding to give tribute to Cæsar, and saying that he himself is Christ a king.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.23.5",
+      "primary_usx": "But they were the more urgent, saying, He stirreth up the people, teaching throughout all Judaea, and beginning from Galilee even unto this place.",
+      "comparison_usfm": "But they were the more urgent, saying, He stirreth up the people, teaching throughout all Judæa, and beginning from Galilee even unto this place.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.23.6",
+      "primary_usx": "But when Pilate heard it, he asked whether the man were a Galilaean.",
+      "comparison_usfm": "But when Pilate heard it, he asked whether the man were a Galilæan.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.23.38",
+      "primary_usx": "And there was also a superscription over him, This is the King of the Jews.",
+      "comparison_usfm": "And there was also a superscription over him, THIS IS THE KING OF THE JEWS.",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    },
+    {
+      "verse_id": "LUK.23.51",
+      "primary_usx": "(he had not consented to their counsel and deed), a man of Arimathaea, a city of the Jews, who was looking for the kingdom of God:",
+      "comparison_usfm": "(he had not consented to their counsel and deed), a man of Arimathæa, a city of the Jews, who was looking for the kingdom of God:",
+      "kind": "historical_ligature_or_small_capitals",
+      "substantive_difference": false,
+      "resolution": "Both original digital files unchanged; source-print typography independently retained where verified."
+    }
+  ],
+  "print_small_caps_projection": [
+    {
+      "verse_id": "LUK.1.31",
+      "original_english": "Jesus",
+      "print_small_capital_projection": "JESUS"
+    },
+    {
+      "verse_id": "LUK.2.21",
+      "original_english": "Jesus",
+      "print_small_capital_projection": "JESUS"
+    },
+    {
+      "verse_id": "LUK.23.38",
+      "original_english": "This is the King of the Jews",
+      "print_small_capital_projection": "THIS IS THE KING OF THE JEWS"
+    }
+  ],
+  "witness_independence": "NOT_ESTABLISHED",
+  "note": "All 26 wording differences between digital witnesses are typographic; two additional comparison verses appear only in the original 1901 footnotes."
+}

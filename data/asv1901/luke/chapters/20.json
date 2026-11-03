@@ -1,0 +1,596 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "LUK.20.1",
+      "edition_verse_id": "ASV1901:LUK.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass, on one of the days, as he was teaching the people in the temple, and preaching the gospel, there came upon him the chief priests and the scribes with the elders;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.2",
+      "edition_verse_id": "ASV1901:LUK.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and they spake, saying unto him, Tell us: By what authority doest thou these things? or who is he that gave thee this authority?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.3",
+      "edition_verse_id": "ASV1901:LUK.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he answered and said unto them, I also will ask you a question; and tell me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.4",
+      "edition_verse_id": "ASV1901:LUK.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The baptism of John, was it from heaven, or from men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.5",
+      "edition_verse_id": "ASV1901:LUK.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why did ye not believe him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.6",
+      "edition_verse_id": "ASV1901:LUK.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But if we shall say, From men; all the people will stone us: for they are persuaded that John was a prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.7",
+      "edition_verse_id": "ASV1901:LUK.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And they answered, that they knew not whence ",
+          "kind": "text"
+        },
+        {
+          "text": "it was",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.8",
+      "edition_verse_id": "ASV1901:LUK.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Jesus said unto them, Neither tell I you by what authority I do these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.9",
+      "edition_verse_id": "ASV1901:LUK.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he began to speak unto the people this parable: A man planted a vineyard, and let it out to husbandmen, and went into another country for a long time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.10",
+      "edition_verse_id": "ASV1901:LUK.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And at the season he sent unto the husbandmen a servant, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.11",
+      "edition_verse_id": "ASV1901:LUK.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he sent yet another servant: and him also they beat, and handled him shamefully, and sent him away empty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.12",
+      "edition_verse_id": "ASV1901:LUK.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he sent yet a third: and him also they wounded, and cast him forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.13",
+      "edition_verse_id": "ASV1901:LUK.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the lord of the vineyard said, What shall I do? I will send my beloved son; it may be they will reverence him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.14",
+      "edition_verse_id": "ASV1901:LUK.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But when the husbandmen saw him, they reasoned one with another, saying, This is the heir; let us kill him, that the inheritance may be ours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.15",
+      "edition_verse_id": "ASV1901:LUK.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they cast him forth out of the vineyard, and killed him. What therefore will the lord of the vineyard do unto them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.16",
+      "edition_verse_id": "ASV1901:LUK.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He will come and destroy these husbandmen, and will give the vineyard unto others. And when they heard it, they said, God forbid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.17",
+      "edition_verse_id": "ASV1901:LUK.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But he looked upon them, and said, What then is this that is written,The stone which the builders rejected,\nThe same was made the head of the corner?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.18",
+      "edition_verse_id": "ASV1901:LUK.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Every one that falleth on that stone shall be broken to pieces; but on whomsoever it shall fall, it will scatter him as dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.19",
+      "edition_verse_id": "ASV1901:LUK.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the scribes and the chief priests sought to lay hands on him in that very hour; and they feared the people: for they perceived that he spake this parable against them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.20",
+      "edition_verse_id": "ASV1901:LUK.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And they watched him, and sent forth spies, who feigned themselves to be righteous, that they might take hold of his speech, so as to deliver him up to the rule and to the authority of the governor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.21",
+      "edition_verse_id": "ASV1901:LUK.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And they asked him, saying, Teacher, we know that thou sayest and teachest rightly, and acceptest not the person ",
+          "kind": "text"
+        },
+        {
+          "text": "of any",
+          "kind": "supplied"
+        },
+        {
+          "text": ", but of a truth teachest the way of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.22",
+      "edition_verse_id": "ASV1901:LUK.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Is it lawful for us to give tribute unto Caesar, or not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.23",
+      "edition_verse_id": "ASV1901:LUK.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But he perceived their craftiness, and said unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.24",
+      "edition_verse_id": "ASV1901:LUK.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Show me a denarius. Whose image and superscription hath it? And they said, Caesar’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.25",
+      "edition_verse_id": "ASV1901:LUK.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he said unto them, Then render unto Caesar the things that are Caesar’s, and unto God the things that are God’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.26",
+      "edition_verse_id": "ASV1901:LUK.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And they were not able to take hold of the saying before the people: and they marvelled at his answer, and held their peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.27",
+      "edition_verse_id": "ASV1901:LUK.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And there came to him certain of the Sadducees, they that say that there is no resurrection;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.28",
+      "edition_verse_id": "ASV1901:LUK.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and they asked him, saying, Teacher, Moses wrote unto us, that if a man’s brother die, having a wife, and he be childless, his brother should take the wife, and raise up seed unto his brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.29",
+      "edition_verse_id": "ASV1901:LUK.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "There were therefore seven brethren: and the first took a wife, and died childless;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.30",
+      "edition_verse_id": "ASV1901:LUK.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and the second:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.31",
+      "edition_verse_id": "ASV1901:LUK.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and the third took her; and likewise the seven also left no children, and died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.32",
+      "edition_verse_id": "ASV1901:LUK.20.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Afterward the woman also died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.33",
+      "edition_verse_id": "ASV1901:LUK.20.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "In the resurrection therefore whose wife of them shall she be? for the seven had her to wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.34",
+      "edition_verse_id": "ASV1901:LUK.20.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Jesus said unto them, The sons of this world marry, and are given in marriage:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.35",
+      "edition_verse_id": "ASV1901:LUK.20.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "but they that are accounted worthy to attain to that world, and the resurrection from the dead, neither marry, nor are given in marriage:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.36",
+      "edition_verse_id": "ASV1901:LUK.20.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "for neither can they die any more: for they are equal unto the angels; and are sons of God, being sons of the resurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.37",
+      "edition_verse_id": "ASV1901:LUK.20.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But that the dead are raised, even Moses showed, in ",
+          "kind": "text"
+        },
+        {
+          "text": "the place concerning",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.38",
+      "edition_verse_id": "ASV1901:LUK.20.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Now he is not the God of the dead, but of the living: for all live unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.39",
+      "edition_verse_id": "ASV1901:LUK.20.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And certain of the scribes answering said, Teacher, thou hast well said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.40",
+      "edition_verse_id": "ASV1901:LUK.20.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "For they durst not any more ask him any question.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.41",
+      "edition_verse_id": "ASV1901:LUK.20.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And he said unto them, How say they that the Christ is David’s son?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.42",
+      "edition_verse_id": "ASV1901:LUK.20.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "For David himself saith in the book of Psalms,The Lord said unto my Lord,\nSit thou on my right hand,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.43",
+      "edition_verse_id": "ASV1901:LUK.20.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Till I make thine enemies the footstool of thy feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.44",
+      "edition_verse_id": "ASV1901:LUK.20.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "David therefore calleth him Lord, and how is he his son?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.45",
+      "edition_verse_id": "ASV1901:LUK.20.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And in the hearing of all the people he said unto his disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.20.46",
+      "edition_verse_id": "ASV1901:LUK.20.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Beware of the scribes, who desire to walk in long robes, and love salutations in the marketplaces, and chief seats in the synagogues, and chief places at feasts;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.20.47",
+      "edition_verse_id": "ASV1901:LUK.20.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "who devour widows’ houses, and for a pretence make long prayers: these shall receive greater condemnation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

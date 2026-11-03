@@ -1,0 +1,676 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "LUK.23.1",
+      "edition_verse_id": "ASV1901:LUK.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the whole company of them rose up, and brought him before Pilate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.2",
+      "edition_verse_id": "ASV1901:LUK.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they began to accuse him, saying, We found this man perverting our nation, and forbidding to give tribute to Caesar, and saying that he himself is Christ a king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.3",
+      "edition_verse_id": "ASV1901:LUK.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.4",
+      "edition_verse_id": "ASV1901:LUK.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Pilate said unto the chief priests and the multitudes, I find no fault in this man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.5",
+      "edition_verse_id": "ASV1901:LUK.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But they were the more urgent, saying, He stirreth up the people, teaching throughout all Judaea, and beginning from Galilee even unto this place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.6",
+      "edition_verse_id": "ASV1901:LUK.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But when Pilate heard it, he asked whether the man were a Galilaean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.7",
+      "edition_verse_id": "ASV1901:LUK.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when he knew that he was of Herod’s jurisdiction, he sent him unto Herod, who himself also was at Jerusalem in these days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.8",
+      "edition_verse_id": "ASV1901:LUK.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now when Herod saw Jesus, he was exceeding glad: for he was of a long time desirous to see him, because he had heard concerning him; and he hoped to see some miracle done by him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.9",
+      "edition_verse_id": "ASV1901:LUK.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he questioned him in many words; but he answered him nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.10",
+      "edition_verse_id": "ASV1901:LUK.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the chief priests and the scribes stood, vehemently accusing him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.11",
+      "edition_verse_id": "ASV1901:LUK.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Herod with his soldiers set him at nought, and mocked him, and arraying him in gorgeous apparel sent him back to Pilate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.12",
+      "edition_verse_id": "ASV1901:LUK.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Herod and Pilate became friends with each other that very day: for before they were at enmity between themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.13",
+      "edition_verse_id": "ASV1901:LUK.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Pilate called together the chief priests and the rulers and the people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.14",
+      "edition_verse_id": "ASV1901:LUK.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and said unto them, Ye brought unto me this man, as one that perverteth the people: and behold, I, having examined him before you, found no fault in this man touching those things whereof ye accuse him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.15",
+      "edition_verse_id": "ASV1901:LUK.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "no, nor yet Herod: for he sent him back unto us; and behold, nothing worthy of death hath been done by him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.16",
+      "edition_verse_id": "ASV1901:LUK.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will therefore chastise him, and release him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.18",
+      "edition_verse_id": "ASV1901:LUK.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But they cried out all together, saying, Away with this man, and release unto us Barabbas:—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.19",
+      "edition_verse_id": "ASV1901:LUK.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "one who for a certain insurrection made in the city, and for murder, was cast into prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.20",
+      "edition_verse_id": "ASV1901:LUK.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Pilate spake unto them again, desiring to release Jesus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.21",
+      "edition_verse_id": "ASV1901:LUK.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "but they shouted, saying, Crucify, crucify him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.22",
+      "edition_verse_id": "ASV1901:LUK.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he said unto them the third time, Why, what evil hath this man done? I have found no cause of death in him: I will therefore chastise him and release him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.23",
+      "edition_verse_id": "ASV1901:LUK.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But they were urgent with loud voices, asking that he might be crucified. And their voices prevailed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.24",
+      "edition_verse_id": "ASV1901:LUK.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Pilate gave sentence that what they asked for should be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.25",
+      "edition_verse_id": "ASV1901:LUK.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he released him that for insurrection and murder had been cast into prison, whom they asked for; but Jesus he delivered up to their will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.26",
+      "edition_verse_id": "ASV1901:LUK.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And when they led him away, they laid hold upon one Simon of Cyrene, coming from the country, and laid on him the cross, to bear it after Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.27",
+      "edition_verse_id": "ASV1901:LUK.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And there followed him a great multitude of the people, and of women who bewailed and lamented him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.28",
+      "edition_verse_id": "ASV1901:LUK.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.29",
+      "edition_verse_id": "ASV1901:LUK.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For behold, the days are coming, in which they shall say, Blessed are the barren, and the wombs that never bare, and the breasts that never gave suck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.30",
+      "edition_verse_id": "ASV1901:LUK.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.31",
+      "edition_verse_id": "ASV1901:LUK.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For if they do these things in the green tree, what shall be done in the dry?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.32",
+      "edition_verse_id": "ASV1901:LUK.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And there were also two others, malefactors, led with him to be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.33",
+      "edition_verse_id": "ASV1901:LUK.23.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when they came unto the place which is called The skull, there they crucified him, and the malefactors, one on the right hand and the other on the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.34",
+      "edition_verse_id": "ASV1901:LUK.23.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Jesus said, Father, forgive them; for they know not what they do. And parting his garments among them, they cast lots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.35",
+      "edition_verse_id": "ASV1901:LUK.23.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the people stood beholding. And the rulers also scoffed at him, saying, He saved others; let him save himself, if this is the Christ of God, his chosen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.36",
+      "edition_verse_id": "ASV1901:LUK.23.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And the soldiers also mocked him, coming to him, offering him vinegar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.37",
+      "edition_verse_id": "ASV1901:LUK.23.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "and saying, If thou art the King of the Jews, save thyself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.38",
+      "edition_verse_id": "ASV1901:LUK.23.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And there was also a superscription over him, THIS IS THE KING OF THE JEWS.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.39",
+      "edition_verse_id": "ASV1901:LUK.23.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And one of the malefactors that were hanged railed on him, saying, Art not thou the Christ? save thyself and us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.40",
+      "edition_verse_id": "ASV1901:LUK.23.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But the other answered, and rebuking him said, Dost thou not even fear God, seeing thou art in the same condemnation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.41",
+      "edition_verse_id": "ASV1901:LUK.23.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.42",
+      "edition_verse_id": "ASV1901:LUK.23.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And he said, Jesus, remember me when thou comest in thy kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.43",
+      "edition_verse_id": "ASV1901:LUK.23.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he said unto him, Verily I say unto thee, To-day shalt thou be with me in Paradise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.44",
+      "edition_verse_id": "ASV1901:LUK.23.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And it was now about the sixth hour, and a darkness came over the whole land until the ninth hour,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.45",
+      "edition_verse_id": "ASV1901:LUK.23.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "the sun’s light failing: and the veil of the temple was rent in the midst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.46",
+      "edition_verse_id": "ASV1901:LUK.23.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And Jesus, crying with a loud voice, said, Father, into thy hands I commend my spirit: and having said this, he gave up the ghost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.47",
+      "edition_verse_id": "ASV1901:LUK.23.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.48",
+      "edition_verse_id": "ASV1901:LUK.23.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And all the multitudes that came together to this sight, when they beheld the things that were done, returned smiting their breasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.49",
+      "edition_verse_id": "ASV1901:LUK.23.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And all his acquaintance, and the women that followed with him from Galilee, stood afar off, seeing these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.50",
+      "edition_verse_id": "ASV1901:LUK.23.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And behold, a man named Joseph, who was a councillor, a good and righteous man",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.23.51",
+      "edition_verse_id": "ASV1901:LUK.23.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "(he had not consented to their counsel and deed), ",
+          "kind": "text"
+        },
+        {
+          "text": "a man",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Arimathaea, a city of the Jews, who was looking for the kingdom of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.52",
+      "edition_verse_id": "ASV1901:LUK.23.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "this man went to Pilate, and asked for the body of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.53",
+      "edition_verse_id": "ASV1901:LUK.23.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And he took it down, and wrapped it in a linen cloth, and laid him in a tomb that was hewn in stone, where never man had yet lain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.54",
+      "edition_verse_id": "ASV1901:LUK.23.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And it was the day of the Preparation, and the sabbath drew on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.55",
+      "edition_verse_id": "ASV1901:LUK.23.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "And the women, who had come with him out of Galilee, followed after, and beheld the tomb, and how his body was laid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.23.56",
+      "edition_verse_id": "ASV1901:LUK.23.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And they returned, and prepared spices and ointments.And on the sabbath they rested according to the commandment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

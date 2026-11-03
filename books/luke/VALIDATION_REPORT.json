@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "book_code": "LUK",
+  "edition_id": "ASV1901",
+  "book_order": 42,
+  "chapters": 24,
+  "main_text_verse_count": 1149,
+  "traditional_verse_positions": 1151,
+  "omitted_verse_ids": [
+    "LUK.17.36",
+    "LUK.23.17"
+  ],
+  "source_witness_differences": 26,
+  "non_substantive_differences": 26,
+  "italic_spans": 209,
+  "primary_usx_note_elements": 382,
+  "source_pdf_page_range": [
+    1036,
+    1072
+  ],
+  "historical_map_pages": 1,
+  "scripture_pages": 36,
+  "physical_pages": 37,
+  "page_spanning_verses": 29,
+  "facsimile_volumes": 2,
+  "page_index_coverage": "PASS_ALL_1149_MAIN_TEXT_VERSES",
+  "comparison_witness_supplied_span_equality": "PASS_209_USX_SEGMENTS_VS_208_USFM_RUNS_ONE_WHITESPACE_SPLIT",
+  "main_text_character_by_character_print_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED"
+}

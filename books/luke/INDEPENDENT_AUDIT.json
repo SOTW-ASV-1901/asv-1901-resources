@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "independent_audit_type": "LOCAL_UNPUBLISHED_BOOK_RELEASE",
+  "edition": "ASV1901",
+  "book": "LUK",
+  "chapters": 24,
+  "main_text_verses": 1149,
+  "traditional_verse_positions": 1151,
+  "intentional_print_main_text_omissions": [
+    "LUK.17.36",
+    "LUK.23.17"
+  ],
+  "source_archive_sha256_and_integrity": "PASS_3_SOURCE_HASHES_2_ZIP_INTEGRITY",
+  "unaltered_primary_and_comparison_source_files": "PASS",
+  "source_print_original_pages_image_stream_bytes_and_transforms": "PASS_37_OF_37",
+  "independent_rendered_page_pixels": "PASS_6_SELECTED_ORIGINAL_PAGES",
+  "reader_javascript_syntax": "PASS",
+  "reader_root_relative_resource_paths": "PASS",
+  "local_http_resources": "PASS_6_OF_6",
+  "schema_and_manifest": "PASS",
+  "original_page_to_verse_coverage": "PASS_1149_OF_1149",
+  "physically_page_spanning_verses": 29,
+  "source_digital_witness_typographical_differences": 26,
+  "original_print_small_capital_projections": 3,
+  "source_supplied_italics": "PASS_209_USX_SEGMENTS_MATCH_208_USFM_RUNS_WITH_ONE_WHITESPACE_SEGMENTATION_DIFFERENCE",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "complete_print_character_by_character_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "release_paths": [
+    "books/luke/",
+    "data/asv1901/luke/",
+    "data/asv1901/catalog-luke.json"
+  ],
+  "deployment": "NOT_AUTHORIZED_OR_ATTEMPTED"
+}

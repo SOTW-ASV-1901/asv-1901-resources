@@ -1,0 +1,25 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "record_type": "historical_print_main_text_omission",
+  "exceptions": [
+    {
+      "verse_id": "LUK.17.36",
+      "edition_verse_id": "ASV1901:LUK.17.36",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1062,
+      "printed_new_testament_page": 82,
+      "apparatus_after_verse": "LUK.17.35",
+      "original_note_text": "Some ancient authorities add verse 36 There shall be two men in the field; the one shall be taken, and the other shall be left. Mt. 24:40."
+    },
+    {
+      "verse_id": "LUK.23.17",
+      "edition_verse_id": "ASV1901:LUK.23.17",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1070,
+      "printed_new_testament_page": 90,
+      "apparatus_after_verse": "LUK.23.16",
+      "original_note_text": "Many ancient authorities insert verse 17 Now he must needs release unto them at the feast one prisoner. Others add the same words after verse 19."
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1036,
+      "type": "map",
+      "printed_page": null,
+      "description": "Original historical map associated with the Gospel by Luke, preserved directly before first Luke text page.",
+      "evidence_method": "Original 1901 map inspected visually and identified by printed Gospel by Luke title.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1037,
+      "type": "scripture",
+      "printed_page": 57,
+      "first_verse": "LUK.1.1",
+      "last_verse": "LUK.1.25",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1038,
+      "type": "scripture",
+      "printed_page": 58,
+      "first_verse": "LUK.1.26",
+      "last_verse": "LUK.1.61",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1039,
+      "type": "scripture",
+      "printed_page": 59,
+      "first_verse": "LUK.1.61",
+      "last_verse": "LUK.2.15",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1040,
+      "type": "scripture",
+      "printed_page": 60,
+      "first_verse": "LUK.2.15",
+      "last_verse": "LUK.2.47",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1041,
+      "type": "scripture",
+      "printed_page": 61,
+      "first_verse": "LUK.2.48",
+      "last_verse": "LUK.3.23",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1042,
+      "type": "scripture",
+      "printed_page": 62,
+      "first_verse": "LUK.3.23",
+      "last_verse": "LUK.4.18",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1043,
+      "type": "scripture",
+      "printed_page": 63,
+      "first_verse": "LUK.4.18",
+      "last_verse": "LUK.5.3",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1044,
+      "type": "scripture",
+      "printed_page": 64,
+      "first_verse": "LUK.5.4",
+      "last_verse": "LUK.5.34",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1045,
+      "type": "scripture",
+      "printed_page": 65,
+      "first_verse": "LUK.5.34",
+      "last_verse": "LUK.6.27",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 1046,
+      "type": "scripture",
+      "printed_page": 66,
+      "first_verse": "LUK.6.27",
+      "last_verse": "LUK.7.8",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 1047,
+      "type": "scripture",
+      "printed_page": 67,
+      "first_verse": "LUK.7.8",
+      "last_verse": "LUK.7.38",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 1048,
+      "type": "scripture",
+      "printed_page": 68,
+      "first_verse": "LUK.7.38",
+      "last_verse": "LUK.8.17",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 13
+    },
+    {
+      "source_pdf_page": 1049,
+      "type": "scripture",
+      "printed_page": 69,
+      "first_verse": "LUK.8.17",
+      "last_verse": "LUK.8.43",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 14
+    },
+    {
+      "source_pdf_page": 1050,
+      "type": "scripture",
+      "printed_page": 70,
+      "first_verse": "LUK.8.43",
+      "last_verse": "LUK.9.19",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 15
+    },
+    {
+      "source_pdf_page": 1051,
+      "type": "scripture",
+      "printed_page": 71,
+      "first_verse": "LUK.9.19",
+      "last_verse": "LUK.9.49",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 16
+    },
+    {
+      "source_pdf_page": 1052,
+      "type": "scripture",
+      "printed_page": 72,
+      "first_verse": "LUK.9.50",
+      "last_verse": "LUK.10.21",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 17
+    },
+    {
+      "source_pdf_page": 1053,
+      "type": "scripture",
+      "printed_page": 73,
+      "first_verse": "LUK.10.21",
+      "last_verse": "LUK.11.8",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 18
+    },
+    {
+      "source_pdf_page": 1054,
+      "type": "scripture",
+      "printed_page": 74,
+      "first_verse": "LUK.11.8",
+      "last_verse": "LUK.11.38",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1036-1054.pdf",
+      "volume_pdf_page": 19
+    },
+    {
+      "source_pdf_page": 1055,
+      "type": "scripture",
+      "printed_page": 75,
+      "first_verse": "LUK.11.38",
+      "last_verse": "LUK.12.15",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1056,
+      "type": "scripture",
+      "printed_page": 76,
+      "first_verse": "LUK.12.15",
+      "last_verse": "LUK.12.47",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1057,
+      "type": "scripture",
+      "printed_page": 77,
+      "first_verse": "LUK.12.47",
+      "last_verse": "LUK.13.18",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1058,
+      "type": "scripture",
+      "printed_page": 78,
+      "first_verse": "LUK.13.19",
+      "last_verse": "LUK.14.14",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1059,
+      "type": "scripture",
+      "printed_page": 79,
+      "first_verse": "LUK.14.14",
+      "last_verse": "LUK.15.12",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1060,
+      "type": "scripture",
+      "printed_page": 80,
+      "first_verse": "LUK.15.12",
+      "last_verse": "LUK.16.10",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1061,
+      "type": "scripture",
+      "printed_page": 81,
+      "first_verse": "LUK.16.10",
+      "last_verse": "LUK.17.10",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1062,
+      "type": "scripture",
+      "printed_page": 82,
+      "first_verse": "LUK.17.10",
+      "last_verse": "LUK.18.8",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1063,
+      "type": "scripture",
+      "printed_page": 83,
+      "first_verse": "LUK.18.8",
+      "last_verse": "LUK.18.43",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1064,
+      "type": "scripture",
+      "printed_page": 84,
+      "first_verse": "LUK.18.43",
+      "last_verse": "LUK.19.35",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 1065,
+      "type": "scripture",
+      "printed_page": 85,
+      "first_verse": "LUK.19.35",
+      "last_verse": "LUK.20.19",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 1066,
+      "type": "scripture",
+      "printed_page": 86,
+      "first_verse": "LUK.20.19",
+      "last_verse": "LUK.21.9",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 1067,
+      "type": "scripture",
+      "printed_page": 87,
+      "first_verse": "LUK.21.10",
+      "last_verse": "LUK.22.7",
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 13
+    },
+    {
+      "source_pdf_page": 1068,
+      "type": "scripture",
+      "printed_page": 88,
+      "first_verse": "LUK.22.7",
+      "last_verse": "LUK.22.40",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 14
+    },
+    {
+      "source_pdf_page": 1069,
+      "type": "scripture",
+      "printed_page": 89,
+      "first_verse": "LUK.22.40",
+      "last_verse": "LUK.23.5",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 15
+    },
+    {
+      "source_pdf_page": 1070,
+      "type": "scripture",
+      "printed_page": 90,
+      "first_verse": "LUK.23.5",
+      "last_verse": "LUK.23.41",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 16
+    },
+    {
+      "source_pdf_page": 1071,
+      "type": "scripture",
+      "printed_page": 91,
+      "first_verse": "LUK.23.41",
+      "last_verse": "LUK.24.19",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 17
+    },
+    {
+      "source_pdf_page": 1072,
+      "type": "scripture",
+      "printed_page": 92,
+      "first_verse": "LUK.24.19",
+      "last_verse": "LUK.24.53",
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "Independent original 1901 image inspection of physical page openings, chapter transitions and the first and last verse; not exhaustive character-by-character print proofreading.",
+      "volume": "asv1901-luke-pages-1055-1072.pdf",
+      "volume_pdf_page": 18
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-luke-pages-1036-1054.pdf",
+      "first_source_pdf_page": 1036,
+      "last_source_pdf_page": 1054,
+      "bytes": 2140506,
+      "sha256": "9ce59154016644895c3256b6f956da61246825026853b750609c1a35a42db065"
+    },
+    {
+      "filename": "asv1901-luke-pages-1055-1072.pdf",
+      "first_source_pdf_page": 1055,
+      "last_source_pdf_page": 1072,
+      "bytes": 2163124,
+      "sha256": "d69d3095d0ec6afefd7bf4231ac145234de6bf4017a69a4fbb8757da0ee88393"
+    }
+  ],
+  "navigation_rule": "ascending original physical scan pages, including Luke-associated historical map"
+}

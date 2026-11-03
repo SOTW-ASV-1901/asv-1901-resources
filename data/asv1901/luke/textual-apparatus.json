@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "apparatus": [
+    {
+      "passage": "LUK.22.43-LUK.22.44",
+      "source_pdf_page": 1069,
+      "note": "Many ancient authorities omit verses 43, 44.",
+      "main_text_status": "PRESENT_IN_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "LUK.23.34",
+      "source_pdf_page": 1070,
+      "note": "Some ancient authorities omit the prayer beginning Father, forgive them.",
+      "main_text_status": "PRESENT_IN_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "LUK.24.12",
+      "source_pdf_page": 1071,
+      "note": "Some ancient authorities omit verse 12.",
+      "main_text_status": "PRESENT_IN_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "LUK.24.40",
+      "source_pdf_page": 1072,
+      "note": "Some ancient authorities omit verse 40.",
+      "main_text_status": "PRESENT_IN_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "LUK.24.51",
+      "source_pdf_page": 1072,
+      "note": "Some ancient authorities omit the phrase and was carried up into heaven.",
+      "main_text_status": "PRESENT_IN_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "LUK.24.52",
+      "source_pdf_page": 1072,
+      "note": "Some ancient authorities omit the phrase worshipped him, and.",
+      "main_text_status": "PRESENT_IN_1901_MAIN_TEXT"
+    }
+  ],
+  "source_note": "Selected consequential original ASV printed notes; original 382 digital footnote elements preserved unmodified in USX and complete historical facsimiles. Not a modern independent textual-critical assessment."
+}

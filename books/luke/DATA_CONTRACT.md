@@ -1,0 +1,3 @@
+# Luke | ASV1901 data contract
+
+Canonical verse IDs: `LUK.chapter.verse`; edition-qualified IDs: `ASV1901:LUK.chapter.verse`. `spans[].kind = supplied` is historical translator-supplied italic text. Main text: 1,149 verses (24 chapters). Missing historical main-text positions: 17:36, 23:17. Do not fill these from USFM; expose their original notes separately. Selected historical cautions are in `textual-apparatus.json`. Historical page index maps actual physical pages; one verse can legitimately map to two consecutive pages. No new global catalog, no source-independent Strong's claims, and no CGBC player deployment.

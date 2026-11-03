@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "LUK.17.1",
+      "edition_verse_id": "ASV1901:LUK.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he said unto his disciples, It is impossible but that occasions of stumbling should come; but woe unto him, through whom they come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.2",
+      "edition_verse_id": "ASV1901:LUK.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It were well for him if a millstone were hanged about his neck, and he were thrown into the sea, rather than that he should cause one of these little ones to stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.3",
+      "edition_verse_id": "ASV1901:LUK.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Take heed to yourselves: if thy brother sin, rebuke him; and if he repent, forgive him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.4",
+      "edition_verse_id": "ASV1901:LUK.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And if he sin against thee seven times in the day, and seven times turn again to thee, saying, I repent; thou shalt forgive him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.5",
+      "edition_verse_id": "ASV1901:LUK.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the apostles said unto the Lord, Increase our faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.6",
+      "edition_verse_id": "ASV1901:LUK.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Lord said, If ye had faith as a grain of mustard seed, ye would say unto this sycamine tree, Be thou rooted up, and be thou planted in the sea; and it would obey you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.7",
+      "edition_verse_id": "ASV1901:LUK.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But who is there of you, having a servant plowing or keeping sheep, that will say unto him, when he is come in from the field, Come straightway and sit down to meat;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.8",
+      "edition_verse_id": "ASV1901:LUK.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.9",
+      "edition_verse_id": "ASV1901:LUK.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Doth he thank the servant because he did the things that were commanded?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.10",
+      "edition_verse_id": "ASV1901:LUK.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Even so ye also, when ye shall have done all the things that are commanded you, say, We are unprofitable servants; we have done that which it was our duty to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.11",
+      "edition_verse_id": "ASV1901:LUK.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And it came to pass, as they were on the way to Jerusalem, that he was passing along the borders of Samaria and Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.12",
+      "edition_verse_id": "ASV1901:LUK.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And as he entered into a certain village, there met him ten men that were lepers, who stood afar off:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.13",
+      "edition_verse_id": "ASV1901:LUK.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and they lifted up their voices, saying, Jesus, Master, have mercy on us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.14",
+      "edition_verse_id": "ASV1901:LUK.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when he saw them, he said unto them, Go and show yourselves unto the priests. And it came to pass, as they went, they were cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.15",
+      "edition_verse_id": "ASV1901:LUK.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And one of them, when he saw that he was healed, turned back, with a loud voice glorifying God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.16",
+      "edition_verse_id": "ASV1901:LUK.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and he fell upon his face at his feet, giving him thanks: and he was a Samaritan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.17",
+      "edition_verse_id": "ASV1901:LUK.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jesus answering said, Were not the ten cleansed? but where are the nine?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.18",
+      "edition_verse_id": "ASV1901:LUK.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Were there none found that returned to give glory to God, save this stranger?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.19",
+      "edition_verse_id": "ASV1901:LUK.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he said unto him, Arise, and go thy way: thy faith hath made thee whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.20",
+      "edition_verse_id": "ASV1901:LUK.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And being asked by the Pharisees, when the kingdom of God cometh, he answered them and said, The kingdom of God cometh not with observation:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.21",
+      "edition_verse_id": "ASV1901:LUK.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "neither shall they say, Lo, here! or, There! for lo, the kingdom of God is within you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.22",
+      "edition_verse_id": "ASV1901:LUK.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.23",
+      "edition_verse_id": "ASV1901:LUK.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And they shall say to you, Lo, there! Lo, here! go not away, nor follow after ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.24",
+      "edition_verse_id": "ASV1901:LUK.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "for as the lightning, when it lighteneth out of the one part under the heaven, shineth unto the other part under heaven; so shall the Son of man be in his day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.25",
+      "edition_verse_id": "ASV1901:LUK.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But first must he suffer many things and be rejected of this generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.26",
+      "edition_verse_id": "ASV1901:LUK.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And as it came to pass in the days of Noah, even so shall it be also in the days of the Son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.27",
+      "edition_verse_id": "ASV1901:LUK.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They ate, they drank, they married, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.28",
+      "edition_verse_id": "ASV1901:LUK.17.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Likewise even as it came to pass in the days of Lot; they ate, they drank, they bought, they sold, they planted, they builded;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.29",
+      "edition_verse_id": "ASV1901:LUK.17.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "but in the day that Lot went out from Sodom it rained fire and brimstone from heaven, and destroyed them all:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.30",
+      "edition_verse_id": "ASV1901:LUK.17.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "after the same manner shall it be in the day that the Son of man is revealed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.31",
+      "edition_verse_id": "ASV1901:LUK.17.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "In that day, he that shall be on the housetop, and his goods in the house, let him not go down to take them away: and let him that is in the field likewise not return back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.32",
+      "edition_verse_id": "ASV1901:LUK.17.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Remember Lot’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.33",
+      "edition_verse_id": "ASV1901:LUK.17.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Whosoever shall seek to gain his life shall lose it: but whosoever shall lose ",
+          "kind": "text"
+        },
+        {
+          "text": "his life",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall preserve it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.34",
+      "edition_verse_id": "ASV1901:LUK.17.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I say unto you, In that night there shall be two men on one bed; the one shall be taken, and the other shall be left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.35",
+      "edition_verse_id": "ASV1901:LUK.17.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "There shall be two women grinding together; the one shall be taken, and the other shall be left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.37",
+      "edition_verse_id": "ASV1901:LUK.17.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And they answering say unto him, Where, Lord? And he said unto them, Where the body ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": ", thither will the eagles also be gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "LUK",
+  "book_name": "Luke",
+  "book_order": 42,
+  "canonical_ids": "LUK.{chapter}.{verse}",
+  "edition_ids": "ASV1901:LUK.{chapter}.{verse}",
+  "chapter_count": 24,
+  "verse_count": 1149,
+  "traditional_verse_positions": 1151,
+  "omitted_from_1901_main_text": [
+    "LUK.17.36",
+    "LUK.23.17"
+  ],
+  "verse_omissions_path": "luke/verse-omissions.json",
+  "textual_apparatus_path": "luke/textual-apparatus.json",
+  "chapter_path_template": "luke/chapters/{chapter:02d}.json",
+  "facsimile_index": "luke/page-index.json",
+  "predecessor_book_code": "MRK",
+  "successor_book_code": "JHN",
+  "source_provenance": "books/luke/SOURCE_INVENTORY.json",
+  "reader": "books/luke/site/index.html",
+  "note": "Two historical main-text verse omissions; original 1901 variant notes and small-capital print artifacts preserved. No unverified lexical Strong’s alignment."
+}
