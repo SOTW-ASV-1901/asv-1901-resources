@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "book_code": "MRK",
+  "edition_id": "ASV1901",
+  "book_order": 41,
+  "chapters": 16,
+  "main_text_verse_count": 673,
+  "traditional_verse_positions": 678,
+  "omitted_verse_ids": [
+    "MRK.7.16",
+    "MRK.9.44",
+    "MRK.9.46",
+    "MRK.11.26",
+    "MRK.15.28"
+  ],
+  "source_witness_differences": 17,
+  "non_substantive_differences": 17,
+  "italic_spans": 95,
+  "primary_usx_notes": 240,
+  "page_index_coverage": "PASS_ALL_673_MAIN_TEXT_VERSES",
+  "original_pdf_page_range": [
+    1012,
+    1034
+  ],
+  "historical_map_pages": 1,
+  "scripture_pages": 22,
+  "physical_pages": 23,
+  "page_spanning_verses": 19,
+  "facsimile_volumes": 2,
+  "manuscript_variant_note": "MRK.16.9-MRK.16.20 preserved from 1901 main text and annotated",
+  "main_text_character_by_character_print_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED"
+}

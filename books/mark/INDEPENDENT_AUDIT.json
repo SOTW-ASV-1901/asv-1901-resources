@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "verification_date": "2026-11-03",
+  "source_inputs_sha256_verified": [
+    "original_1901_complete_pdf",
+    "english_only_usx",
+    "english_comparison_usfm"
+  ],
+  "original_print_comparison": {
+    "pages_compared": 23,
+    "embedded_image_streams_and_placements": "PASS_23_OF_23",
+    "page_text_layer": "PASS_23_OF_23",
+    "page_dimensions": "PASS_23_OF_23",
+    "rendered_image_pixel_equality_selected_pages": [
+      1012,
+      1013,
+      1018,
+      1024,
+      1033,
+      1034
+    ]
+  },
+  "scripture": {
+    "chapters": 16,
+    "main_text_verses": 673,
+    "traditional_positions": 678,
+    "five_omitted_verse_positions": "SOURCE_FOOTNOTE_ONLY",
+    "mark_16_9_to_20": "MAIN_TEXT_WITH_HISTORICAL_MANUSCRIPT_NOTE",
+    "verse_to_scanned_page_coverage": "PASS_673_OF_673",
+    "original_supplied_italic_spans_verified_against_second_witness": "PASS_95_OF_95"
+  },
+  "software": {
+    "json_schemas": "PASS",
+    "reader_javascript_syntax": "PASS",
+    "local_http_resource_loads": "PASS_5_OF_5",
+    "source_rebuild": "BYTE_IDENTICAL_FOR_ALL_FILES"
+  },
+  "right_and_provenance": {
+    "parent_original_pdf_embedded_in_zip": false,
+    "word_to_strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+    "copyright_note": "United States public domain status for original ASV 1901, territorial reuse separately assessable",
+    "source_witness_independence": "NOT_ESTABLISHED"
+  },
+  "limits": [
+    "No exhaustive character-by-character proofread against all original print words.",
+    "No deployed GitHub hosted-browser interaction test.",
+    "No critical Greek textual analysis asserted from historical ASV apparatus."
+  ],
+  "release_scope": "Additive book-specific files; no existing GitHub repository content modified by assistant."
+}

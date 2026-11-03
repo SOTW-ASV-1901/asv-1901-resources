@@ -1,0 +1,31 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "traditional_verse_positions": 678,
+  "printed_main_text_verses": 673,
+  "chapter_traditional_verse_counts": {
+    "1": 45,
+    "2": 28,
+    "3": 35,
+    "4": 41,
+    "5": 43,
+    "6": 56,
+    "7": 37,
+    "8": 38,
+    "9": 50,
+    "10": 52,
+    "11": 33,
+    "12": 44,
+    "13": 37,
+    "14": 72,
+    "15": 47,
+    "16": 20
+  },
+  "omitted_verse_ids": [
+    "MRK.7.16",
+    "MRK.9.44",
+    "MRK.9.46",
+    "MRK.11.26",
+    "MRK.15.28"
+  ]
+}

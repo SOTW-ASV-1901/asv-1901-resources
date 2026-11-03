@@ -1,0 +1,145 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "differences": [
+    {
+      "verse_id": "MRK.1.5",
+      "primary_usx": "And there went out unto him all the country of Judaea, and all they of Jerusalem; and they were baptized of him in the river Jordan, confessing their sins.",
+      "comparison_usfm": "And there went out unto him all the country of Judæa, and all they of Jerusalem; and they were baptized of him in the river Jordan, confessing their sins.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.2.14",
+      "primary_usx": "And as he passed by, he saw Levi the son of Alphaeus sitting at the place of toll, and he saith unto him, Follow me. And he arose and followed him.",
+      "comparison_usfm": "And as he passed by, he saw Levi the son of Alphæus sitting at the place of toll, and he saith unto him, Follow me. And he arose and followed him.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.3.7",
+      "primary_usx": "And Jesus with his disciples withdrew to the sea: and a great multitude from Galilee followed; and from Judaea,",
+      "comparison_usfm": "And Jesus with his disciples withdrew to the sea: and a great multitude from Galilee followed; and from Judæa,",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.3.8",
+      "primary_usx": "and from Jerusalem, and from Idumaea, and beyond the Jordan, and about Tyre and Sidon, a great multitude, hearing what great things he did, came unto him.",
+      "comparison_usfm": "and from Jerusalem, and from Idumæa, and beyond the Jordan, and about Tyre and Sidon, a great multitude, hearing what great things he did, came unto him.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.3.18",
+      "primary_usx": "and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Cananaean,",
+      "comparison_usfm": "and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphæus, and Thaddæus, and Simon the Cananæan,",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.5.22",
+      "primary_usx": "And there cometh one of the rulers of the synagogue, Jairus by name; and seeing him, he falleth at his feet,",
+      "comparison_usfm": "And there cometh one of the rulers of the synagogue, Jaïrus by name; and seeing him, he falleth at his feet,",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.8.27",
+      "primary_usx": "And Jesus went forth, and his disciples, into the villages of Caesarea Philippi: and on the way he asked his disciples, saying unto them, Who do men say that I am?",
+      "comparison_usfm": "And Jesus went forth, and his disciples, into the villages of Cæsarea Philippi: and on the way he asked his disciples, saying unto them, Who do men say that I am?",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.10.1",
+      "primary_usx": "And he arose from thence, and cometh into the borders of Judaea and beyond the Jordan: and multitudes come together unto him again; and, as he was wont, he taught them again.",
+      "comparison_usfm": "And he arose from thence, and cometh into the borders of Judæa and beyond the Jordan: and multitudes come together unto him again; and, as he was wont, he taught them again.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.10.46",
+      "primary_usx": "And they come to Jericho: and as he went out from Jericho, with his disciples and a great multitude, the son of Timaeus, Bartimaeus, a blind beggar, was sitting by the way side.",
+      "comparison_usfm": "And they come to Jericho: and as he went out from Jericho, with his disciples and a great multitude, the son of Timæus, Bartimæus, a blind beggar, was sitting by the way side.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.12.14",
+      "primary_usx": "And when they were come, they say unto him, Teacher, we know that thou art true, and carest not for any one; for thou regardest not the person of men, but of a truth teachest the way of God: Is it lawful to give tribute unto Caesar, or not?",
+      "comparison_usfm": "And when they were come, they say unto him, Teacher, we know that thou art true, and carest not for any one; for thou regardest not the person of men, but of a truth teachest the way of God: Is it lawful to give tribute unto Cæsar, or not?",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.12.16",
+      "primary_usx": "And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Caesar’s.",
+      "comparison_usfm": "And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Cæsar’s.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.12.17",
+      "primary_usx": "And Jesus said unto them, Render unto Caesar the things that are Caesar’s, and unto God the things that are God’s. And they marvelled greatly at him.",
+      "comparison_usfm": "And Jesus said unto them, Render unto Cæsar the things that are Cæsar’s, and unto God the things that are God’s. And they marvelled greatly at him.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.13.14",
+      "primary_usx": "But when ye see the abomination of desolation standing where he ought not (let him that readeth understand), then let them that are in Judaea flee unto the mountains:",
+      "comparison_usfm": "But when ye see the abomination of desolation standing where he ought not (let him that readeth understand), then let them that are in Judæa flee unto the mountains:",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.14.70",
+      "primary_usx": "But he again denied it. And after a little while again they that stood by said to Peter, Of a truth thou art one of them; for thou art a Galilaean.",
+      "comparison_usfm": "But he again denied it. And after a little while again they that stood by said to Peter, Of a truth thou art one of them; for thou art a Galilæan.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.15.16",
+      "primary_usx": "And the soldiers led him away within the court, which is the Praetorium; and they call together the whole band.",
+      "comparison_usfm": "And the soldiers led him away within the court, which is the Prætorium; and they call together the whole band.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.15.26",
+      "primary_usx": "And the superscription of his accusation was written over, the King of the Jews.",
+      "comparison_usfm": "And the superscription of his accusation was written over, THE KING OF THE JEWS.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Original 1901 print uses small capitals for the inscription, reproduced as uppercase in derived text. Preserve both unmodified witnesses.",
+      "substantive_difference": false
+    },
+    {
+      "verse_id": "MRK.15.43",
+      "primary_usx": "there came Joseph of Arimathaea, a councillor of honorable estate, who also himself was looking for the kingdom of God; and he boldly went in unto Pilate, and asked for the body of Jesus.",
+      "comparison_usfm": "there came Joseph of Arimathæa, a councillor of honorable estate, who also himself was looking for the kingdom of God; and he boldly went in unto Pilate, and asked for the body of Jesus.",
+      "kind": "historical_ligature_diacritic_or_capitals",
+      "resolution": "Retain primary USX wording while documenting the comparison edition typography. The original facsimile remains the appearance authority.",
+      "substantive_difference": false
+    }
+  ],
+  "difference_count": 17,
+  "status": "TYPOGRAPHIC_ONLY_NOT_SUBSTANTIVE",
+  "warning": "The two digital witnesses are not established as independently produced transcriptions. Exact 1901 facsimile retained; no exhaustive character-by-character printed proofread."
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "apparatus": [
+    {
+      "passage": "MRK.16.9-MRK.16.20",
+      "main_text_status": "PRESENT_IN_ASV1901_MAIN_TEXT",
+      "source_pdf_page": 1033,
+      "printed_new_testament_page": 55,
+      "note": "The two oldest Greek manuscripts, and some other authorities, omit from verse 9 to the end. Some other authorities have a different ending to the Gospel.",
+      "evidence_status": "Original ASV 1901 English-only USX note confirmed against historical printed page; not an independent current critical edition judgment.",
+      "display_rule": "Preserve verses in 1901 main text and present a visible manuscript-variant notice."
+    }
+  ]
+}

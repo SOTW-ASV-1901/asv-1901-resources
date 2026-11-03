@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "book_name": "Mark",
+  "book_order": 41,
+  "canonical_ids": "MRK.{chapter}.{verse}",
+  "edition_ids": "ASV1901:MRK.{chapter}.{verse}",
+  "chapter_count": 16,
+  "verse_count": 673,
+  "traditional_verse_positions": 678,
+  "omitted_from_1901_main_text": [
+    "MRK.7.16",
+    "MRK.9.44",
+    "MRK.9.46",
+    "MRK.11.26",
+    "MRK.15.28"
+  ],
+  "verse_omissions_path": "mark/verse-omissions.json",
+  "textual_apparatus_path": "mark/textual-apparatus.json",
+  "chapter_path_template": "mark/chapters/{chapter:02d}.json",
+  "facsimile_index": "mark/page-index.json",
+  "predecessor_book_code": "MAT",
+  "successor_book_code": "LUK",
+  "source_provenance": "books/mark/SOURCE_INVENTORY.json",
+  "reader": "books/mark/site/index.html",
+  "note": "Original 1901 ASV main text omits five traditional Mark verses documented in print apparatus; Mark 16:9–20 remains in main text with a printed manuscript warning. No unverified Strong’s alignments."
+}

@@ -1,0 +1,460 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "MRK.3.1",
+      "edition_verse_id": "ASV1901:MRK.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he entered again into the synagogue; and there was a man there who had his hand withered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.2",
+      "edition_verse_id": "ASV1901:MRK.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.3",
+      "edition_verse_id": "ASV1901:MRK.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he saith unto the man that had his hand withered, Stand forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.4",
+      "edition_verse_id": "ASV1901:MRK.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he saith unto them, Is it lawful on the sabbath day to do good, or to do harm? to save a life, or to kill? But they held their peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.5",
+      "edition_verse_id": "ASV1901:MRK.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when he had looked round about on them with anger, being grieved at the hardening of their heart, he saith unto the man, Stretch forth thy hand. And he stretched it forth; and his hand was restored.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.6",
+      "edition_verse_id": "ASV1901:MRK.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Pharisees went out, and straightway with the Herodians took counsel against him, how they might destroy him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.7",
+      "edition_verse_id": "ASV1901:MRK.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Jesus with his disciples withdrew to the sea: and a great multitude from Galilee followed; and from Judaea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.8",
+      "edition_verse_id": "ASV1901:MRK.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and from Jerusalem, and from Idumaea, and beyond the Jordan, and about Tyre and Sidon, a great multitude, hearing what great things he did, came unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.9",
+      "edition_verse_id": "ASV1901:MRK.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he spake to his disciples, that a little boat should wait on him because of the crowd, lest they should throng him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.10",
+      "edition_verse_id": "ASV1901:MRK.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "for he had healed many; insomuch that as many as had plagues pressed upon him that they might touch him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.11",
+      "edition_verse_id": "ASV1901:MRK.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the unclean spirits, whensoever they beheld him, fell down before him, and cried, saying, Thou art the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.12",
+      "edition_verse_id": "ASV1901:MRK.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he charged them much that they should not make him known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.13",
+      "edition_verse_id": "ASV1901:MRK.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he goeth up into the mountain, and calleth unto him whom he himself would; and they went unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.14",
+      "edition_verse_id": "ASV1901:MRK.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he appointed twelve, that they might be with him, and that he might send them forth to preach,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.15",
+      "edition_verse_id": "ASV1901:MRK.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and to have authority to cast out demons:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.16",
+      "edition_verse_id": "ASV1901:MRK.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and Simon he surnamed Peter;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.17",
+      "edition_verse_id": "ASV1901:MRK.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and James the ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Zebedee, and John the brother of James; and them he surnamed Boanerges, which is, Sons of thunder:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.18",
+      "edition_verse_id": "ASV1901:MRK.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Alphaeus, and Thaddaeus, and Simon the Cananaean,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.19",
+      "edition_verse_id": "ASV1901:MRK.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and Judas Iscariot, who also betrayed him.And he cometh into a house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.20",
+      "edition_verse_id": "ASV1901:MRK.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the multitude cometh together again, so that they could not so much as eat bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.21",
+      "edition_verse_id": "ASV1901:MRK.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when his friends heard it, they went out to lay hold on him: for they said, He is beside himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.22",
+      "edition_verse_id": "ASV1901:MRK.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the scribes that came down from Jerusalem said, He hath Beelzebub, and, By the prince of the demons casteth he out the demons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.23",
+      "edition_verse_id": "ASV1901:MRK.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.24",
+      "edition_verse_id": "ASV1901:MRK.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And if a kingdom be divided against itself, that kingdom cannot stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.25",
+      "edition_verse_id": "ASV1901:MRK.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And if a house be divided against itself, that house will not be able to stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.26",
+      "edition_verse_id": "ASV1901:MRK.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And if Satan hath risen up against himself, and is divided, he cannot stand, but hath an end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.27",
+      "edition_verse_id": "ASV1901:MRK.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But no one can enter into the house of the strong ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and spoil his goods, except he first bind the strong ",
+          "kind": "text"
+        },
+        {
+          "text": "man",
+          "kind": "supplied"
+        },
+        {
+          "text": "; and then he will spoil his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.28",
+      "edition_verse_id": "ASV1901:MRK.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Verily I say unto you, All their sins shall be forgiven unto the sons of men, and their blasphemies wherewith soever they shall blaspheme:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.29",
+      "edition_verse_id": "ASV1901:MRK.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "but whosoever shall blaspheme against the Holy Spirit hath never forgiveness, but is guilty of an eternal sin:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.30",
+      "edition_verse_id": "ASV1901:MRK.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "because they said, He hath an unclean spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.31",
+      "edition_verse_id": "ASV1901:MRK.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And there come his mother and his brethren; and, standing without, they sent unto him, calling him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.32",
+      "edition_verse_id": "ASV1901:MRK.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And a multitude was sitting about him; and they say unto him, Behold, thy mother and thy brethren without seek for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.33",
+      "edition_verse_id": "ASV1901:MRK.3.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he answereth them, and saith, Who is my mother and my brethren?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.34",
+      "edition_verse_id": "ASV1901:MRK.3.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And looking round on them that sat round about him, he saith, Behold, my mother and my brethren!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.35",
+      "edition_verse_id": "ASV1901:MRK.3.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For whosoever shall do the will of God, the same is my brother, and sister, and mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

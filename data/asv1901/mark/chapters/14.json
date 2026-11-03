@@ -1,0 +1,992 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "MRK.14.1",
+      "edition_verse_id": "ASV1901:MRK.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now after two days was ",
+          "kind": "text"
+        },
+        {
+          "text": "the feast of",
+          "kind": "supplied"
+        },
+        {
+          "text": " the passover and the unleavened bread: and the chief priests and the scribes sought how they might take him with subtlety, and kill him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.2",
+      "edition_verse_id": "ASV1901:MRK.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "for they said, Not during the feast, lest haply there shall be a tumult of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.3",
+      "edition_verse_id": "ASV1901:MRK.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And while he was in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster cruse of ointment of pure nard very costly; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " she brake the cruse, and poured it over his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.4",
+      "edition_verse_id": "ASV1901:MRK.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But there were some that had indignation among themselves, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", To what purpose hath this waste of the ointment been made?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.5",
+      "edition_verse_id": "ASV1901:MRK.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For this ointment might have been sold for above three hundred shillings, and given to the poor. And they murmured against her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.6",
+      "edition_verse_id": "ASV1901:MRK.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.7",
+      "edition_verse_id": "ASV1901:MRK.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For ye have the poor always with you, and whensoever ye will ye can do them good: but me ye have not always.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.8",
+      "edition_verse_id": "ASV1901:MRK.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "She hath done what she could; she hath anointed my body beforehand for the burying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.9",
+      "edition_verse_id": "ASV1901:MRK.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And verily I say unto you, Wheresoever the gospel shall be preached throughout the whole world, that also which this woman hath done shall be spoken of for a memorial of her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.10",
+      "edition_verse_id": "ASV1901:MRK.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Judas Iscariot, he that was one of the twelve, went away unto the chief priests, that he might deliver him unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.11",
+      "edition_verse_id": "ASV1901:MRK.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they, when they heard it, were glad, and promised to give him money. And he sought how he might conveniently deliver him ",
+          "kind": "text"
+        },
+        {
+          "text": "unto them",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.12",
+      "edition_verse_id": "ASV1901:MRK.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And on the first day of unleavened bread, when they sacrificed the passover, his disciples say unto him, Where wilt thou that we go and make ready that thou mayest eat the passover?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.13",
+      "edition_verse_id": "ASV1901:MRK.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he sendeth two of his disciples, and saith unto them, Go into the city, and there shall meet you a man bearing a pitcher of water: follow him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.14",
+      "edition_verse_id": "ASV1901:MRK.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and wheresoever he shall enter in, say to the master of the house, The Teacher saith, Where is my guest-chamber, where I shall eat the passover with my disciples?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.15",
+      "edition_verse_id": "ASV1901:MRK.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he will himself show you a large upper room furnished ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " ready: and there make ready for us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.16",
+      "edition_verse_id": "ASV1901:MRK.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.17",
+      "edition_verse_id": "ASV1901:MRK.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And when it was evening he cometh with the twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.18",
+      "edition_verse_id": "ASV1901:MRK.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And as they sat and were eating, Jesus said, Verily I say unto you, One of you shall betray me, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that eateth with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.19",
+      "edition_verse_id": "ASV1901:MRK.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They began to be sorrowful, and to say unto him one by one, Is it I?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.20",
+      "edition_verse_id": "ASV1901:MRK.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he said unto them, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one of the twelve, he that dippeth with me in the dish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.21",
+      "edition_verse_id": "ASV1901:MRK.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For the Son of man goeth, even as it is written of him: but woe unto that man through whom the Son of man is betrayed! good were it for that man if he had not been born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.22",
+      "edition_verse_id": "ASV1901:MRK.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And as they were eating, he took bread, and when he had blessed, he brake it, and gave to them, and said, Take ye: this is my body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.23",
+      "edition_verse_id": "ASV1901:MRK.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he took a cup, and when he had given thanks, he gave to them: and they all drank of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.24",
+      "edition_verse_id": "ASV1901:MRK.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he said unto them, This is my blood of the covenant, which is poured out for many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.25",
+      "edition_verse_id": "ASV1901:MRK.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Verily I say unto you, I shall no more drink of the fruit of the vine, until that day when I drink it new in the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.26",
+      "edition_verse_id": "ASV1901:MRK.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And when they had sung a hymn, they went out unto the mount of Olives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.27",
+      "edition_verse_id": "ASV1901:MRK.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Jesus saith unto them, All ye shall be offended: for it is written, I will smite the shepherd, and the sheep shall be scattered abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.28",
+      "edition_verse_id": "ASV1901:MRK.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Howbeit, after I am raised up, I will go before you into Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.29",
+      "edition_verse_id": "ASV1901:MRK.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But Peter said unto him, Although all shall be offended, yet will not I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.30",
+      "edition_verse_id": "ASV1901:MRK.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And Jesus saith unto him, Verily I say unto thee, that thou to-day, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " this night, before the cock crow twice, shalt deny me thrice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.31",
+      "edition_verse_id": "ASV1901:MRK.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But he spake exceeding vehemently, If I must die with thee, I will not deny thee. And in like manner also said they all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.32",
+      "edition_verse_id": "ASV1901:MRK.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they come unto a place which was named Gethsemane: and he saith unto his disciples, Sit ye here, while I pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.33",
+      "edition_verse_id": "ASV1901:MRK.14.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And he taketh with him Peter and James and John, and began to be greatly amazed, and sore troubled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.34",
+      "edition_verse_id": "ASV1901:MRK.14.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he saith unto them, My soul is exceeding sorrowful even unto death: abide ye here, and watch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.35",
+      "edition_verse_id": "ASV1901:MRK.14.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass away from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.36",
+      "edition_verse_id": "ASV1901:MRK.14.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And he said, Abba, Father, all things are possible unto thee; remove this cup from me: howbeit not what I will, but what thou wilt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.37",
+      "edition_verse_id": "ASV1901:MRK.14.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest thou not watch one hour?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.38",
+      "edition_verse_id": "ASV1901:MRK.14.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.39",
+      "edition_verse_id": "ASV1901:MRK.14.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And again he went away, and prayed, saying the same words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.40",
+      "edition_verse_id": "ASV1901:MRK.14.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And again he came, and found them sleeping, for their eyes were very heavy; and they knew not what to answer him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.41",
+      "edition_verse_id": "ASV1901:MRK.14.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And he cometh the third time, and saith unto them, Sleep on now, and take your rest: it is enough; the hour is come; behold, the Son of man is betrayed into the hands of sinners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.42",
+      "edition_verse_id": "ASV1901:MRK.14.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Arise, let us be going: behold, he that betrayeth me is at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.43",
+      "edition_verse_id": "ASV1901:MRK.14.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And straightway, while he yet spake, cometh Judas, one of the twelve, and with him a multitude with swords and staves, from the chief priests and the scribes and the elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.44",
+      "edition_verse_id": "ASV1901:MRK.14.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Now he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that is he; take him, and lead him away safely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.45",
+      "edition_verse_id": "ASV1901:MRK.14.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And when he was come, straightway he came to him, and saith, Rabbi; and kissed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.46",
+      "edition_verse_id": "ASV1901:MRK.14.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And they laid hands on him, and took him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.47",
+      "edition_verse_id": "ASV1901:MRK.14.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "But a certain one of them that stood by drew his sword, and smote the servant of the high priest, and struck off his ear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.48",
+      "edition_verse_id": "ASV1901:MRK.14.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto them, Are ye come out, as against a robber, with swords and staves to seize me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.49",
+      "edition_verse_id": "ASV1901:MRK.14.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "I was daily with you in the temple teaching, and ye took me not: but ",
+          "kind": "text"
+        },
+        {
+          "text": "this is done",
+          "kind": "supplied"
+        },
+        {
+          "text": " that the scriptures might be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.50",
+      "edition_verse_id": "ASV1901:MRK.14.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And they all left him, and fled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.51",
+      "edition_verse_id": "ASV1901:MRK.14.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And a certain young man followed with him, having a linen cloth cast about him, over ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " naked ",
+          "kind": "text"
+        },
+        {
+          "text": "body",
+          "kind": "supplied"
+        },
+        {
+          "text": ": and they lay hold on him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.52",
+      "edition_verse_id": "ASV1901:MRK.14.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "but he left the linen cloth, and fled naked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.53",
+      "edition_verse_id": "ASV1901:MRK.14.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And they led Jesus away to the high priest: and there come together with him all the chief priests and the elders and the scribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.54",
+      "edition_verse_id": "ASV1901:MRK.14.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "And Peter had followed him afar off, even within, into the court of the high priest; and he was sitting with the officers, and warming himself in the light ",
+          "kind": "text"
+        },
+        {
+          "text": "of the fire",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.55",
+      "edition_verse_id": "ASV1901:MRK.14.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "Now the chief priests and the whole council sought witness against Jesus to put him to death; and found it not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.56",
+      "edition_verse_id": "ASV1901:MRK.14.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "For many bare false witness against him, and their witness agreed not together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.57",
+      "edition_verse_id": "ASV1901:MRK.14.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And there stood up certain, and bare false witness against him, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.58",
+      "edition_verse_id": "ASV1901:MRK.14.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "We heard him say, I will destroy this temple that is made with hands, and in three days I will build another made without hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.59",
+      "edition_verse_id": "ASV1901:MRK.14.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "And not even so did their witness agree together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.60",
+      "edition_verse_id": "ASV1901:MRK.14.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.61",
+      "edition_verse_id": "ASV1901:MRK.14.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "But he held his peace, and answered nothing. Again the high priest asked him, and saith unto him, Art thou the Christ, the Son of the Blessed?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.62",
+      "edition_verse_id": "ASV1901:MRK.14.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "And Jesus said, I am: and ye shall see the Son of man sitting at the right hand of Power, and coming with the clouds of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.63",
+      "edition_verse_id": "ASV1901:MRK.14.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "And the high priest rent his clothes, and saith, What further need have we of witnesses?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.64",
+      "edition_verse_id": "ASV1901:MRK.14.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "Ye have heard the blasphemy: what think ye? And they all condemned him to be worthy of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.65",
+      "edition_verse_id": "ASV1901:MRK.14.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the officers received him with blows of their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.66",
+      "edition_verse_id": "ASV1901:MRK.14.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "And as Peter was beneath in the court, there cometh one of the maids of the high priest;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.67",
+      "edition_verse_id": "ASV1901:MRK.14.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "and seeing Peter warming himself, she looked upon him, and saith, Thou also wast with the Nazarene, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.68",
+      "edition_verse_id": "ASV1901:MRK.14.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "But he denied, saying, I neither know, nor understand what thou sayest: and he went out into the porch; and the cock crew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.69",
+      "edition_verse_id": "ASV1901:MRK.14.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "And the maid saw him, and began again to say to them that stood by, This is ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.70",
+      "edition_verse_id": "ASV1901:MRK.14.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "But he again denied it. And after a little while again they that stood by said to Peter, Of a truth thou art ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " of them; for thou art a Galilaean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.71",
+      "edition_verse_id": "ASV1901:MRK.14.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "But he began to curse, and to swear, I know not this man of whom ye speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.72",
+      "edition_verse_id": "ASV1901:MRK.14.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "And straightway the second time the cock crew. And Peter called to mind the word, how that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

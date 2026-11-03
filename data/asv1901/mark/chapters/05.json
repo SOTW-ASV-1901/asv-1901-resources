@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "MRK.5.1",
+      "edition_verse_id": "ASV1901:MRK.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And they came to the other side of the sea, into the country of the Gerasenes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.2",
+      "edition_verse_id": "ASV1901:MRK.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when he was come out of the boat, straightway there met him out of the tombs a man with an unclean spirit,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.3",
+      "edition_verse_id": "ASV1901:MRK.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "who had his dwelling in the tombs: and no man could any more bind him, no, not with a chain;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.4",
+      "edition_verse_id": "ASV1901:MRK.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "because that he had been often bound with fetters and chains, and the chains had been rent asunder by him, and the fetters broken in pieces: and no man had strength to tame him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.5",
+      "edition_verse_id": "ASV1901:MRK.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And always, night and day, in the tombs and in the mountains, he was crying out, and cutting himself with stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.6",
+      "edition_verse_id": "ASV1901:MRK.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when he saw Jesus from afar, he ran and worshipped him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.7",
+      "edition_verse_id": "ASV1901:MRK.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and crying out with a loud voice, he saith, What have I to do with thee, Jesus, thou Son of the Most High God? I adjure thee by God, torment me not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.8",
+      "edition_verse_id": "ASV1901:MRK.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For he said unto him, Come forth, thou unclean spirit, out of the man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.9",
+      "edition_verse_id": "ASV1901:MRK.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he asked him, What is thy name? And he saith unto him, My name is Legion; for we are many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.10",
+      "edition_verse_id": "ASV1901:MRK.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he besought him much that he would not send them away out of the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.11",
+      "edition_verse_id": "ASV1901:MRK.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now there was there on the mountain side a great herd of swine feeding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.12",
+      "edition_verse_id": "ASV1901:MRK.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they besought him, saying, Send us into the swine, that we may enter into them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.13",
+      "edition_verse_id": "ASV1901:MRK.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he gave them leave. And the unclean spirits came out, and entered into the swine: and the herd rushed down the steep into the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "in number",
+          "kind": "supplied"
+        },
+        {
+          "text": " about two thousand; and they were drowned in the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.14",
+      "edition_verse_id": "ASV1901:MRK.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And they that fed them fled, and told it in the city, and in the country. And they came to see what it was that had come to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.15",
+      "edition_verse_id": "ASV1901:MRK.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they come to Jesus, and behold him that was possessed with demons sitting, clothed and in his right mind, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " him that had the legion: and they were afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.16",
+      "edition_verse_id": "ASV1901:MRK.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they that saw it declared unto them how it befell him that was possessed with demons, and concerning the swine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.17",
+      "edition_verse_id": "ASV1901:MRK.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And they began to beseech him to depart from their borders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.18",
+      "edition_verse_id": "ASV1901:MRK.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And as he was entering into the boat, he that had been possessed with demons besought him that he might be with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.19",
+      "edition_verse_id": "ASV1901:MRK.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he suffered him not, but saith unto him, Go to thy house unto thy friends, and tell them how great things the Lord hath done for thee, and ",
+          "kind": "text"
+        },
+        {
+          "text": "how",
+          "kind": "supplied"
+        },
+        {
+          "text": " he had mercy on thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.20",
+      "edition_verse_id": "ASV1901:MRK.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he went his way, and began to publish in Decapolis how great things Jesus had done for him: and all men marvelled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.21",
+      "edition_verse_id": "ASV1901:MRK.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when Jesus had crossed over again in the boat unto the other side, a great multitude was gathered unto him; and he was by the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.22",
+      "edition_verse_id": "ASV1901:MRK.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And there cometh one of the rulers of the synagogue, Jairus by name; and seeing him, he falleth at his feet,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.23",
+      "edition_verse_id": "ASV1901:MRK.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and beseecheth him much, saying, My little daughter is at the point of death: ",
+          "kind": "text"
+        },
+        {
+          "text": "I pray thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that thou come and lay thy hands on her, that she may be made whole, and live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.24",
+      "edition_verse_id": "ASV1901:MRK.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he went with him; and a great multitude followed him, and they thronged him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.25",
+      "edition_verse_id": "ASV1901:MRK.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And a woman, who had an issue of blood twelve years,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.26",
+      "edition_verse_id": "ASV1901:MRK.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.27",
+      "edition_verse_id": "ASV1901:MRK.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "having heard the things concerning Jesus, came in the crowd behind, and touched his garment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.28",
+      "edition_verse_id": "ASV1901:MRK.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For she said, If I touch but his garments, I shall be made whole.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.29",
+      "edition_verse_id": "ASV1901:MRK.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of her plague.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.30",
+      "edition_verse_id": "ASV1901:MRK.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And straightway Jesus, perceiving in himself that the power ",
+          "kind": "text"
+        },
+        {
+          "text": "proceeding",
+          "kind": "supplied"
+        },
+        {
+          "text": " from him had gone forth, turned him about in the crowd, and said, Who touched my garments?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.31",
+      "edition_verse_id": "ASV1901:MRK.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.32",
+      "edition_verse_id": "ASV1901:MRK.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he looked round about to see her that had done this thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.33",
+      "edition_verse_id": "ASV1901:MRK.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But the woman fearing and trembling, knowing what had been done to her, came and fell down before him, and told him all the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.34",
+      "edition_verse_id": "ASV1901:MRK.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.35",
+      "edition_verse_id": "ASV1901:MRK.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "While he yet spake, they come from the ruler of the synagogue’s ",
+          "kind": "text"
+        },
+        {
+          "text": "house",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying, Thy daughter is dead: why troublest thou the Teacher any further?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.36",
+      "edition_verse_id": "ASV1901:MRK.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But Jesus, not heeding the word spoken, saith unto the ruler of the synagogue, Fear not, only believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.37",
+      "edition_verse_id": "ASV1901:MRK.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he suffered no man to follow with him, save Peter, and James, and John the brother of James.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.38",
+      "edition_verse_id": "ASV1901:MRK.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And they come to the house of the ruler of the synagogue; and he beholdeth a tumult, and ",
+          "kind": "text"
+        },
+        {
+          "text": "many",
+          "kind": "supplied"
+        },
+        {
+          "text": " weeping and wailing greatly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.39",
+      "edition_verse_id": "ASV1901:MRK.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And when he was entered in, he saith unto them, Why make ye a tumult, and weep? the child is not dead, but sleepeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.40",
+      "edition_verse_id": "ASV1901:MRK.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And they laughed him to scorn. But he, having put them all forth, taketh the father of the child and her mother and them that were with him, and goeth in where the child was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.41",
+      "edition_verse_id": "ASV1901:MRK.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And taking the child by the hand, he saith unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, Arise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.42",
+      "edition_verse_id": "ASV1901:MRK.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And straightway the damsel rose up, and walked; for she was twelve years old. And they were amazed straightway with a great amazement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.43",
+      "edition_verse_id": "ASV1901:MRK.5.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And he charged them much that no man should know this: and he commanded that ",
+          "kind": "text"
+        },
+        {
+          "text": "something",
+          "kind": "supplied"
+        },
+        {
+          "text": " should be given her to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MRK",
+  "traditional_verse_positions": 678,
+  "main_text_verse_count": 673,
+  "omissions": [
+    {
+      "verse_id": "MRK.7.16",
+      "edition_verse_id": "ASV1901:MRK.7.16",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1021,
+      "printed_new_testament_page": 43,
+      "apparatus_after_verse": "MRK.7.15",
+      "evidence": "Many ancient authorities insert verse 16 in the printed footnote."
+    },
+    {
+      "verse_id": "MRK.9.44",
+      "edition_verse_id": "ASV1901:MRK.9.44",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1024,
+      "printed_new_testament_page": 46,
+      "apparatus_after_verse": "MRK.9.43",
+      "evidence": "Verses 44 and 46 (identical with verse 48) are omitted by the best ancient authorities."
+    },
+    {
+      "verse_id": "MRK.9.46",
+      "edition_verse_id": "ASV1901:MRK.9.46",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1024,
+      "printed_new_testament_page": 46,
+      "apparatus_after_verse": "MRK.9.43",
+      "evidence": "Verses 44 and 46 (identical with verse 48) are omitted by the best ancient authorities."
+    },
+    {
+      "verse_id": "MRK.11.26",
+      "edition_verse_id": "ASV1901:MRK.11.26",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1027,
+      "printed_new_testament_page": 49,
+      "apparatus_after_verse": "MRK.11.25",
+      "evidence": "Many ancient authorities add verse 26 in the printed footnote."
+    },
+    {
+      "verse_id": "MRK.15.28",
+      "edition_verse_id": "ASV1901:MRK.15.28",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1032,
+      "printed_new_testament_page": 54,
+      "apparatus_after_verse": "MRK.15.27",
+      "evidence": "Many ancient authorities insert verse 28 in the printed footnote."
+    }
+  ]
+}
