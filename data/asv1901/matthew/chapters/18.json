@@ -1,0 +1,448 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "MAT.18.1",
+      "edition_verse_id": "ASV1901:MAT.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In that hour came the disciples unto Jesus, saying, Who then is greatest in the kingdom of heaven?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.2",
+      "edition_verse_id": "ASV1901:MAT.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he called to him a little child, and set him in the midst of them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.3",
+      "edition_verse_id": "ASV1901:MAT.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and said, Verily I say unto you, Except ye turn, and become as little children, ye shall in no wise enter into the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.4",
+      "edition_verse_id": "ASV1901:MAT.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Whosoever therefore shall humble himself as this little child, the same is the greatest in the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.5",
+      "edition_verse_id": "ASV1901:MAT.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And whoso shall receive one such little child in my name receiveth me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.6",
+      "edition_verse_id": "ASV1901:MAT.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "but whoso shall cause one of these little ones that believe on me to stumble, it is profitable for him that a great millstone should be hanged about his neck, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he should be sunk in the depth of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.7",
+      "edition_verse_id": "ASV1901:MAT.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Woe unto the world because of occasions of stumbling! for it must needs be that the occasions come; but woe to that man through whom the occasion cometh!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.8",
+      "edition_verse_id": "ASV1901:MAT.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And if thy hand or thy foot causeth thee to stumble, cut it off, and cast it from thee: it is good for thee to enter into life maimed or halt, rather than having two hands or two feet to be cast into the eternal fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.9",
+      "edition_verse_id": "ASV1901:MAT.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And if thine eye causeth thee to stumble, pluck it out, and cast it from thee: it is good for thee to enter into life with one eye, rather than having two eyes to be cast into the hell of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.10",
+      "edition_verse_id": "ASV1901:MAT.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "See that ye despise not one of these little ones: for I say unto you, that in heaven their angels do always behold the face of my Father who is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.12",
+      "edition_verse_id": "ASV1901:MAT.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "How think ye? if any man have a hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and go unto the mountains, and seek that which goeth astray?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.13",
+      "edition_verse_id": "ASV1901:MAT.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And if so be that he find it, verily I say unto you, he rejoiceth over it more than over the ninety and nine which have not gone astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.14",
+      "edition_verse_id": "ASV1901:MAT.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Even so it is not the will of your Father who is in heaven, that one of these little ones should perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.15",
+      "edition_verse_id": "ASV1901:MAT.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And if thy brother sin against thee, go, show him his fault between thee and him alone: if he hear thee, thou hast gained thy brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.16",
+      "edition_verse_id": "ASV1901:MAT.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But if he hear ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, take with thee one or two more, that at the mouth of two witnesses or three every word may be established.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.17",
+      "edition_verse_id": "ASV1901:MAT.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And if he refuse to hear them, tell it unto the church: and if he refuse to hear the church also, let him be unto thee as the Gentile and the publican.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.18",
+      "edition_verse_id": "ASV1901:MAT.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Verily I say unto you, What things soever ye shall bind on earth shall be bound in heaven; and what things soever ye shall loose on earth shall be loosed in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.19",
+      "edition_verse_id": "ASV1901:MAT.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Again I say unto you, that if two of you shall agree on earth as touching anything that they shall ask, it shall be done for them of my Father who is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.20",
+      "edition_verse_id": "ASV1901:MAT.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For where two or three are gathered together in my name, there am I in the midst of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.21",
+      "edition_verse_id": "ASV1901:MAT.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then came Peter and said to him, Lord, how oft shall my brother sin against me, and I forgive him? until seven times?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.22",
+      "edition_verse_id": "ASV1901:MAT.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Jesus saith unto him, I say not unto thee, Until seven times; but, Until seventy times seven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.23",
+      "edition_verse_id": "ASV1901:MAT.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Therefore is the kingdom of heaven likened unto a certain king, who would make a reckoning with his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.24",
+      "edition_verse_id": "ASV1901:MAT.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when he had begun to reckon, one was brought unto him, that owed him ten thousand talents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.25",
+      "edition_verse_id": "ASV1901:MAT.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But forasmuch as he had not ",
+          "kind": "text"
+        },
+        {
+          "text": "wherewith",
+          "kind": "supplied"
+        },
+        {
+          "text": " to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.26",
+      "edition_verse_id": "ASV1901:MAT.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The servant therefore fell down and worshipped him, saying, Lord, have patience with me, and I will pay thee all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.27",
+      "edition_verse_id": "ASV1901:MAT.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the lord of that servant, being moved with compassion, released him, and forgave him the debt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.28",
+      "edition_verse_id": "ASV1901:MAT.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But that servant went out, and found one of his fellow-servants, who owed him a hundred shillings: and he laid hold on him, and took ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the throat, saying, Pay what thou owest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.29",
+      "edition_verse_id": "ASV1901:MAT.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So his fellow-servant fell down and besought him, saying, Have patience with me, and I will pay thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.30",
+      "edition_verse_id": "ASV1901:MAT.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And he would not: but went and cast him into prison, till he should pay that which was due.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.31",
+      "edition_verse_id": "ASV1901:MAT.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So when his fellow-servants saw what was done, they were exceeding sorry, and came and told unto their lord all that was done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.32",
+      "edition_verse_id": "ASV1901:MAT.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then his lord called him unto him, and saith to him, Thou wicked servant, I forgave thee all that debt, because thou besoughtest me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.33",
+      "edition_verse_id": "ASV1901:MAT.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "shouldest not thou also have had mercy on thy fellow-servant, even as I had mercy on thee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.34",
+      "edition_verse_id": "ASV1901:MAT.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.35",
+      "edition_verse_id": "ASV1901:MAT.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "So shall also my heavenly Father do unto you, if ye forgive not every one his brother from your hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

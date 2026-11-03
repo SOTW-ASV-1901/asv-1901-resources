@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "canonical_verse_positions": 1071,
+  "main_text_verse_count": 1068,
+  "omissions": [
+    {
+      "verse_id": "MAT.17.21",
+      "edition_verse_id": "ASV1901:MAT.17.21",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 995,
+      "new_testament_printed_page": 19,
+      "apparatus_after_verse": "MAT.17.20",
+      "evidence": "Many authorities, some ancient, insert verse 21 as a textual variant in a footnote after Matthew 17:20; not included in main Scripture body."
+    },
+    {
+      "verse_id": "MAT.18.11",
+      "edition_verse_id": "ASV1901:MAT.18.11",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 996,
+      "new_testament_printed_page": 20,
+      "apparatus_after_verse": "MAT.18.10",
+      "evidence": "Many authorities, some ancient, insert verse 11 as a textual variant in a footnote after Matthew 18:10; not included in main Scripture body."
+    },
+    {
+      "verse_id": "MAT.23.14",
+      "edition_verse_id": "ASV1901:MAT.23.14",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1002,
+      "new_testament_printed_page": 26,
+      "apparatus_after_verse": "MAT.23.13",
+      "evidence": "Some authorities insert verse 14 here or after verse 12 as a textual variant in a footnote after Matthew 23:13; not included in main Scripture body."
+    }
+  ]
+}

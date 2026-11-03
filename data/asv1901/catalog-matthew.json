@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "book_name": "Matthew",
+  "book_order": 40,
+  "canonical_ids": "MAT.{chapter}.{verse}",
+  "edition_ids": "ASV1901:MAT.{chapter}.{verse}",
+  "chapter_count": 28,
+  "verse_count": 1068,
+  "traditional_verse_positions": 1071,
+  "omitted_from_1901_main_text": [
+    "MAT.17.21",
+    "MAT.18.11",
+    "MAT.23.14"
+  ],
+  "verse_omissions_path": "matthew/verse-omissions.json",
+  "chapter_path_template": "matthew/chapters/{chapter:02d}.json",
+  "facsimile_index": "matthew/page-index.json",
+  "predecessor_book_code": "MAL",
+  "successor_book_code": "MRK",
+  "source_provenance": "books/matthew/SOURCE_INVENTORY.json",
+  "reader": "books/matthew/site/index.html",
+  "note": "Book-specific ASV1901 catalog. Three traditionally numbered Matthew verses appear only in 1901 print notes; do not invent missing verse content. No global catalog and no unverified lexical word alignment."
+}

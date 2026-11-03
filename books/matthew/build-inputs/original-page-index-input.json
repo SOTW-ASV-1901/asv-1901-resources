@@ -1,0 +1,353 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 976,
+      "type": "map",
+      "printed_page": null,
+      "description": "Original 1901 Palestine map illustrating the Gospel by Matthew, immediately before the first printed Matthew Scripture page. Full original scan page retained.",
+      "evidence_method": "Visually inspected original complete 1901 scan; front-of-book map directly labels the Gospel by Matthew."
+    },
+    {
+      "source_pdf_page": 977,
+      "type": "scripture",
+      "printed_page": 1,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MAT.1.1",
+      "last_verse": "MAT.2.2",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 978,
+      "type": "scripture",
+      "printed_page": 2,
+      "running_head_first_verse": "MAT.2.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.2.2",
+      "last_verse": "MAT.3.4",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 979,
+      "type": "scripture",
+      "printed_page": 3,
+      "running_head_first_verse": "MAT.3.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.3.4",
+      "last_verse": "MAT.4.16",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 980,
+      "type": "scripture",
+      "printed_page": 4,
+      "running_head_first_verse": "MAT.4.17",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MAT.4.17",
+      "last_verse": "MAT.5.21",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 981,
+      "type": "scripture",
+      "printed_page": 5,
+      "running_head_first_verse": "MAT.5.22",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.5.21",
+      "last_verse": "MAT.6.3",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 982,
+      "type": "scripture",
+      "printed_page": 6,
+      "running_head_first_verse": "MAT.6.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.6.3",
+      "last_verse": "MAT.6.34",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 983,
+      "type": "scripture",
+      "printed_page": 7,
+      "running_head_first_verse": "MAT.7.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MAT.7.1",
+      "last_verse": "MAT.8.7",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 984,
+      "type": "scripture",
+      "printed_page": 8,
+      "running_head_first_verse": "MAT.8.8",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.8.7",
+      "last_verse": "MAT.9.4",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 985,
+      "type": "scripture",
+      "printed_page": 9,
+      "running_head_first_verse": "MAT.9.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.9.4",
+      "last_verse": "MAT.9.35",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 986,
+      "type": "scripture",
+      "printed_page": 10,
+      "running_head_first_verse": "MAT.9.36",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.9.35",
+      "last_verse": "MAT.10.29",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 987,
+      "type": "scripture",
+      "printed_page": 11,
+      "running_head_first_verse": "MAT.10.30",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.10.29",
+      "last_verse": "MAT.11.20",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 988,
+      "type": "scripture",
+      "printed_page": 12,
+      "running_head_first_verse": "MAT.11.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.11.20",
+      "last_verse": "MAT.12.20",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 989,
+      "type": "scripture",
+      "printed_page": 13,
+      "running_head_first_verse": "MAT.12.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.12.20",
+      "last_verse": "MAT.12.48",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 990,
+      "type": "scripture",
+      "printed_page": 14,
+      "running_head_first_verse": "MAT.12.49",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.12.48",
+      "last_verse": "MAT.13.29",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 991,
+      "type": "scripture",
+      "printed_page": 15,
+      "running_head_first_verse": "MAT.13.30",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.13.29",
+      "last_verse": "MAT.13.58",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 992,
+      "type": "scripture",
+      "printed_page": 16,
+      "running_head_first_verse": "MAT.14.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.13.58",
+      "last_verse": "MAT.14.36",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 993,
+      "type": "scripture",
+      "printed_page": 17,
+      "running_head_first_verse": "MAT.15.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.14.36",
+      "last_verse": "MAT.15.35",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 994,
+      "type": "scripture",
+      "printed_page": 18,
+      "running_head_first_verse": "MAT.15.36",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.15.35",
+      "last_verse": "MAT.16.27",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 995,
+      "type": "scripture",
+      "printed_page": 19,
+      "running_head_first_verse": "MAT.16.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.16.27",
+      "last_verse": "MAT.18.3",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 996,
+      "type": "scripture",
+      "printed_page": 20,
+      "running_head_first_verse": "MAT.18.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.18.3",
+      "last_verse": "MAT.18.30",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 997,
+      "type": "scripture",
+      "printed_page": 21,
+      "running_head_first_verse": "MAT.18.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.18.30",
+      "last_verse": "MAT.19.24",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 998,
+      "type": "scripture",
+      "printed_page": 22,
+      "running_head_first_verse": "MAT.19.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.19.24",
+      "last_verse": "MAT.20.27",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 999,
+      "type": "scripture",
+      "printed_page": 23,
+      "running_head_first_verse": "MAT.20.28",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.20.27",
+      "last_verse": "MAT.21.24",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1000,
+      "type": "scripture",
+      "printed_page": 24,
+      "running_head_first_verse": "MAT.21.25",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.21.24",
+      "last_verse": "MAT.22.9",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1001,
+      "type": "scripture",
+      "printed_page": 25,
+      "running_head_first_verse": "MAT.22.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.22.9",
+      "last_verse": "MAT.23.2",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1002,
+      "type": "scripture",
+      "printed_page": 26,
+      "running_head_first_verse": "MAT.23.3",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MAT.23.3",
+      "last_verse": "MAT.23.35",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1003,
+      "type": "scripture",
+      "printed_page": 27,
+      "running_head_first_verse": "MAT.23.36",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.23.35",
+      "last_verse": "MAT.24.30",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1004,
+      "type": "scripture",
+      "printed_page": 28,
+      "running_head_first_verse": "MAT.24.31",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.24.30",
+      "last_verse": "MAT.25.17",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1005,
+      "type": "scripture",
+      "printed_page": 29,
+      "running_head_first_verse": "MAT.25.18",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.25.17",
+      "last_verse": "MAT.26.3",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1006,
+      "type": "scripture",
+      "printed_page": 30,
+      "running_head_first_verse": "MAT.26.4",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.26.3",
+      "last_verse": "MAT.26.36",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1007,
+      "type": "scripture",
+      "printed_page": 31,
+      "running_head_first_verse": "MAT.26.37",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.26.36",
+      "last_verse": "MAT.26.68",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1008,
+      "type": "scripture",
+      "printed_page": 32,
+      "running_head_first_verse": "MAT.26.69",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.26.68",
+      "last_verse": "MAT.27.26",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1009,
+      "type": "scripture",
+      "printed_page": 33,
+      "running_head_first_verse": "MAT.27.27",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MAT.27.27",
+      "last_verse": "MAT.27.61",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 1010,
+      "type": "scripture",
+      "printed_page": 34,
+      "running_head_first_verse": "MAT.27.62",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAT.27.61",
+      "last_verse": "MAT.28.20",
+      "evidence_method": "Original 1901 source page inspected at text opening and ending, correcting misleading running headers. Chapter/page boundary collation, not exhaustive character-by-character proofreading."
+    }
+  ]
+}

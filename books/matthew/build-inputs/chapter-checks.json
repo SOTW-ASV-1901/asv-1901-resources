@@ -1,0 +1,320 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      977
+    ],
+    "first": "MAT.1.1",
+    "last": "MAT.1.25",
+    "missing_main_text_verse_numbers": []
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      977,
+      978
+    ],
+    "first": "MAT.2.1",
+    "last": "MAT.2.23",
+    "missing_main_text_verse_numbers": []
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      978,
+      979
+    ],
+    "first": "MAT.3.1",
+    "last": "MAT.3.17",
+    "missing_main_text_verse_numbers": []
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      979,
+      980
+    ],
+    "first": "MAT.4.1",
+    "last": "MAT.4.25",
+    "missing_main_text_verse_numbers": []
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      980,
+      981
+    ],
+    "first": "MAT.5.1",
+    "last": "MAT.5.48",
+    "missing_main_text_verse_numbers": []
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      981,
+      982
+    ],
+    "first": "MAT.6.1",
+    "last": "MAT.6.34",
+    "missing_main_text_verse_numbers": []
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      983
+    ],
+    "first": "MAT.7.1",
+    "last": "MAT.7.29",
+    "missing_main_text_verse_numbers": []
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      983,
+      984
+    ],
+    "first": "MAT.8.1",
+    "last": "MAT.8.34",
+    "missing_main_text_verse_numbers": []
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      984,
+      985,
+      986
+    ],
+    "first": "MAT.9.1",
+    "last": "MAT.9.38",
+    "missing_main_text_verse_numbers": []
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      986,
+      987
+    ],
+    "first": "MAT.10.1",
+    "last": "MAT.10.42",
+    "missing_main_text_verse_numbers": []
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      987,
+      988
+    ],
+    "first": "MAT.11.1",
+    "last": "MAT.11.30",
+    "missing_main_text_verse_numbers": []
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      988,
+      989,
+      990
+    ],
+    "first": "MAT.12.1",
+    "last": "MAT.12.50",
+    "missing_main_text_verse_numbers": []
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      990,
+      991,
+      992
+    ],
+    "first": "MAT.13.1",
+    "last": "MAT.13.58",
+    "missing_main_text_verse_numbers": []
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      992,
+      993
+    ],
+    "first": "MAT.14.1",
+    "last": "MAT.14.36",
+    "missing_main_text_verse_numbers": []
+  },
+  "15": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      993,
+      994
+    ],
+    "first": "MAT.15.1",
+    "last": "MAT.15.39",
+    "missing_main_text_verse_numbers": []
+  },
+  "16": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      994,
+      995
+    ],
+    "first": "MAT.16.1",
+    "last": "MAT.16.28",
+    "missing_main_text_verse_numbers": []
+  },
+  "17": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      995
+    ],
+    "first": "MAT.17.1",
+    "last": "MAT.17.27",
+    "missing_main_text_verse_numbers": [
+      "MAT.17.21"
+    ]
+  },
+  "18": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      995,
+      996,
+      997
+    ],
+    "first": "MAT.18.1",
+    "last": "MAT.18.35",
+    "missing_main_text_verse_numbers": [
+      "MAT.18.11"
+    ]
+  },
+  "19": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      997,
+      998
+    ],
+    "first": "MAT.19.1",
+    "last": "MAT.19.30",
+    "missing_main_text_verse_numbers": []
+  },
+  "20": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      998,
+      999
+    ],
+    "first": "MAT.20.1",
+    "last": "MAT.20.34",
+    "missing_main_text_verse_numbers": []
+  },
+  "21": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      999,
+      1000
+    ],
+    "first": "MAT.21.1",
+    "last": "MAT.21.46",
+    "missing_main_text_verse_numbers": []
+  },
+  "22": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      1000,
+      1001
+    ],
+    "first": "MAT.22.1",
+    "last": "MAT.22.46",
+    "missing_main_text_verse_numbers": []
+  },
+  "23": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      1001,
+      1002,
+      1003
+    ],
+    "first": "MAT.23.1",
+    "last": "MAT.23.39",
+    "missing_main_text_verse_numbers": [
+      "MAT.23.14"
+    ]
+  },
+  "24": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      1003,
+      1004
+    ],
+    "first": "MAT.24.1",
+    "last": "MAT.24.51",
+    "missing_main_text_verse_numbers": []
+  },
+  "25": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      1004,
+      1005
+    ],
+    "first": "MAT.25.1",
+    "last": "MAT.25.46",
+    "missing_main_text_verse_numbers": []
+  },
+  "26": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      1005,
+      1006,
+      1007,
+      1008
+    ],
+    "first": "MAT.26.1",
+    "last": "MAT.26.75",
+    "missing_main_text_verse_numbers": []
+  },
+  "27": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      1008,
+      1009,
+      1010
+    ],
+    "first": "MAT.27.1",
+    "last": "MAT.27.66",
+    "missing_main_text_verse_numbers": []
+  },
+  "28": {
+    "original_print_chapter_checked": true,
+    "method": "Chapter presence, printed chapter sequence, and page-boundary continuity inspected in original 1901 whole-page source; no exhaustive character-by-character proofreading.",
+    "source_pdf_pages": [
+      1010
+    ],
+    "first": "MAT.28.1",
+    "last": "MAT.28.20",
+    "missing_main_text_verse_numbers": []
+  }
+}

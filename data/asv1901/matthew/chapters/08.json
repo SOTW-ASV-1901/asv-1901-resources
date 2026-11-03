@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "MAT.8.1",
+      "edition_verse_id": "ASV1901:MAT.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And when he was come down from the mountain, great multitudes followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.8.2",
+      "edition_verse_id": "ASV1901:MAT.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And behold, there came to him a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.3",
+      "edition_verse_id": "ASV1901:MAT.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he stretched forth his hand, and touched him, saying, I will; be thou made clean. And straightway his leprosy was cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.4",
+      "edition_verse_id": "ASV1901:MAT.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jesus saith unto him, See thou tell no man; but go, show thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.5",
+      "edition_verse_id": "ASV1901:MAT.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when he was entered into Capernaum, there came unto him a centurion, beseeching him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.8.6",
+      "edition_verse_id": "ASV1901:MAT.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and saying, Lord, my servant lieth in the house sick of the palsy, grievously tormented.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.7",
+      "edition_verse_id": "ASV1901:MAT.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he saith unto him, I will come and heal him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.8",
+      "edition_verse_id": "ASV1901:MAT.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof; but only say the word, and my servant shall be healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.9",
+      "edition_verse_id": "ASV1901:MAT.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For I also am a man under authority, having under myself soldiers: and I say to this one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.10",
+      "edition_verse_id": "ASV1901:MAT.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.11",
+      "edition_verse_id": "ASV1901:MAT.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I say unto you, that many shall come from the east and the west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.12",
+      "edition_verse_id": "ASV1901:MAT.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "but the sons of the kingdom shall be cast forth into the outer darkness: there shall be the weeping and the gnashing of teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.13",
+      "edition_verse_id": "ASV1901:MAT.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And Jesus said unto the centurion, Go thy way; as thou hast believed, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " be it done unto thee. And the servant was healed in that hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.14",
+      "edition_verse_id": "ASV1901:MAT.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when Jesus was come into Peter’s house, he saw his wife’s mother lying sick of a fever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.8.15",
+      "edition_verse_id": "ASV1901:MAT.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he touched her hand, and the fever left her; and she arose, and ministered unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.16",
+      "edition_verse_id": "ASV1901:MAT.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when even was come, they brought unto him many possessed with demons: and he cast out the spirits with a word, and healed all that were sick:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.17",
+      "edition_verse_id": "ASV1901:MAT.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "that it might be fulfilled which was spoken through Isaiah the prophet, saying, Himself took our infirmities, and bare our diseases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.18",
+      "edition_verse_id": "ASV1901:MAT.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.8.19",
+      "edition_verse_id": "ASV1901:MAT.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And there came a scribe, and said unto him, Teacher, I will follow thee whithersoever thou goest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.20",
+      "edition_verse_id": "ASV1901:MAT.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Jesus saith unto him, The foxes have holes, and the birds of the heaven ",
+          "kind": "text"
+        },
+        {
+          "text": "have",
+          "kind": "supplied"
+        },
+        {
+          "text": " nests; but the Son of man hath not where to lay his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.21",
+      "edition_verse_id": "ASV1901:MAT.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And another of the disciples said unto him, Lord, suffer me first to go and bury my father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.22",
+      "edition_verse_id": "ASV1901:MAT.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But Jesus saith unto him, Follow me; and leave the dead to bury their own dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.23",
+      "edition_verse_id": "ASV1901:MAT.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when he was entered into a boat, his disciples followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.8.24",
+      "edition_verse_id": "ASV1901:MAT.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And behold, there arose a great tempest in the sea, insomuch that the boat was covered with the waves: but he was asleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.25",
+      "edition_verse_id": "ASV1901:MAT.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And they came to him, and awoke him, saying, Save, Lord; we perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.26",
+      "edition_verse_id": "ASV1901:MAT.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.27",
+      "edition_verse_id": "ASV1901:MAT.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.28",
+      "edition_verse_id": "ASV1901:MAT.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And when he was come to the other side into the country of the Gadarenes, there met him two possessed with demons, coming forth out of the tombs, exceeding fierce, so that no man could pass by that way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.8.29",
+      "edition_verse_id": "ASV1901:MAT.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And behold, they cried out, saying, What have we to do with thee, thou Son of God? art thou come hither to torment us before the time?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.30",
+      "edition_verse_id": "ASV1901:MAT.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Now there was afar off from them a herd of many swine feeding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.31",
+      "edition_verse_id": "ASV1901:MAT.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the demons besought him, saying, If thou cast us out, send us away into the herd of swine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.32",
+      "edition_verse_id": "ASV1901:MAT.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he said unto them, Go. And they came out, and went into the swine: and behold, the whole herd rushed down the steep into the sea, and perished in the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.33",
+      "edition_verse_id": "ASV1901:MAT.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they that fed them fled, and went away into the city, and told everything, and what was befallen to them that were possessed with demons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.8.34",
+      "edition_verse_id": "ASV1901:MAT.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And behold, all the city came out to meet Jesus: and when they saw him, they besought ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " that he would depart from their borders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

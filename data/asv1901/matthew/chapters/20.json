@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "MAT.20.1",
+      "edition_verse_id": "ASV1901:MAT.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the kingdom of heaven is like unto a man that was a householder, who went out early in the morning to hire laborers into his vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.2",
+      "edition_verse_id": "ASV1901:MAT.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when he had agreed with the laborers for a shilling a day, he sent them into his vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.3",
+      "edition_verse_id": "ASV1901:MAT.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he went out about the third hour, and saw others standing in the marketplace idle;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.4",
+      "edition_verse_id": "ASV1901:MAT.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and to them he said, Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.5",
+      "edition_verse_id": "ASV1901:MAT.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Again he went out about the sixth and the ninth hour, and did likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.6",
+      "edition_verse_id": "ASV1901:MAT.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And about the eleventh ",
+          "kind": "text"
+        },
+        {
+          "text": "hour",
+          "kind": "supplied"
+        },
+        {
+          "text": " he went out, and found others standing; and he saith unto them, Why stand ye here all the day idle?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.7",
+      "edition_verse_id": "ASV1901:MAT.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.8",
+      "edition_verse_id": "ASV1901:MAT.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when even was come, the lord of the vineyard saith unto his steward, Call the laborers, and pay them their hire, beginning from the last unto the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.9",
+      "edition_verse_id": "ASV1901:MAT.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when they came that ",
+          "kind": "text"
+        },
+        {
+          "text": "were hired",
+          "kind": "supplied"
+        },
+        {
+          "text": " about the eleventh hour, they received every man a shilling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.10",
+      "edition_verse_id": "ASV1901:MAT.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And when the first came, they supposed that they would receive more; and they likewise received every man a shilling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.11",
+      "edition_verse_id": "ASV1901:MAT.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when they received it, they murmured against the householder,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.12",
+      "edition_verse_id": "ASV1901:MAT.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "saying, These last have spent ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " one hour, and thou hast made them equal unto us, who have borne the burden of the day and the scorching heat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.13",
+      "edition_verse_id": "ASV1901:MAT.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But he answered and said to one of them, Friend, I do thee no wrong: didst not thou agree with me for a shilling?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.14",
+      "edition_verse_id": "ASV1901:MAT.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Take up that which is thine, and go thy way; it is my will to give unto this last, even as unto thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.15",
+      "edition_verse_id": "ASV1901:MAT.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Is it not lawful for me to do what I will with mine own? or is thine eye evil, because I am good?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.16",
+      "edition_verse_id": "ASV1901:MAT.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So the last shall be first, and the first last.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.17",
+      "edition_verse_id": "ASV1901:MAT.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And as Jesus was going up to Jerusalem, he took the twelve disciples apart, and on the way he said unto them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.20.18",
+      "edition_verse_id": "ASV1901:MAT.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests and scribes; and they shall condemn him to death,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.19",
+      "edition_verse_id": "ASV1901:MAT.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and shall deliver him unto the Gentiles to mock, and to scourge, and to crucify: and the third day he shall be raised up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.20",
+      "edition_verse_id": "ASV1901:MAT.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then came to him the mother of the sons of Zebedee with her sons, worshipping ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and asking a certain thing of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.20.21",
+      "edition_verse_id": "ASV1901:MAT.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And he said unto her, What wouldest thou? She saith unto him, Command that these my two sons may sit, one on thy right hand, and one on thy left hand, in thy kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.22",
+      "edition_verse_id": "ASV1901:MAT.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But Jesus answered and said, Ye know not what ye ask. Are ye able to drink the cup that I am about to drink? They say unto him, We are able.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.23",
+      "edition_verse_id": "ASV1901:MAT.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He saith unto them, My cup indeed ye shall drink: but to sit on my right hand, and on ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " left hand, is not mine to give; but ",
+          "kind": "text"
+        },
+        {
+          "text": "it is for them",
+          "kind": "supplied"
+        },
+        {
+          "text": " for whom it hath been prepared of my Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.24",
+      "edition_verse_id": "ASV1901:MAT.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when the ten heard it, they were moved with indignation concerning the two brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.25",
+      "edition_verse_id": "ASV1901:MAT.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But Jesus called them unto him, and said, Ye know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.26",
+      "edition_verse_id": "ASV1901:MAT.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Not so shall it be among you: but whosoever would become great among you shall be your minister;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.27",
+      "edition_verse_id": "ASV1901:MAT.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and whosoever would be first among you shall be your servant:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.28",
+      "edition_verse_id": "ASV1901:MAT.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.29",
+      "edition_verse_id": "ASV1901:MAT.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And as they went out from Jericho, a great multitude followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.20.30",
+      "edition_verse_id": "ASV1901:MAT.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And behold, two blind men sitting by the way side, when they heard that Jesus was passing by, cried out, saying, Lord, have mercy on us, thou son of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.31",
+      "edition_verse_id": "ASV1901:MAT.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the multitude rebuked them, that they should hold their peace: but they cried out the more, saying, Lord, have mercy on us, thou son of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.32",
+      "edition_verse_id": "ASV1901:MAT.20.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Jesus stood still, and called them, and said, What will ye that I should do unto you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.33",
+      "edition_verse_id": "ASV1901:MAT.20.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "They say unto him, Lord, that our eyes may be opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.20.34",
+      "edition_verse_id": "ASV1901:MAT.20.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And Jesus, being moved with compassion, touched their eyes; and straightway they received their sight, and followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

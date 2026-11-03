@@ -1,0 +1,676 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "MAT.24.1",
+      "edition_verse_id": "ASV1901:MAT.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jesus went out from the temple, and was going on his way; and his disciples came to him to show him the buildings of the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.2",
+      "edition_verse_id": "ASV1901:MAT.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But he answered and said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.3",
+      "edition_verse_id": "ASV1901:MAT.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And as he sat on the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the sign of thy coming, and of the end of the world?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.4",
+      "edition_verse_id": "ASV1901:MAT.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Jesus answered and said unto them, Take heed that no man lead you astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.5",
+      "edition_verse_id": "ASV1901:MAT.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For many shall come in my name, saying, I am the Christ; and shall lead many astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.6",
+      "edition_verse_id": "ASV1901:MAT.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And ye shall hear of wars and rumors of wars; see that ye be not troubled: for ",
+          "kind": "text"
+        },
+        {
+          "text": "these things",
+          "kind": "supplied"
+        },
+        {
+          "text": " must needs come to pass; but the end is not yet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.7",
+      "edition_verse_id": "ASV1901:MAT.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For nation shall rise against nation, and kingdom against kingdom; and there shall be famines and earthquakes in divers places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.8",
+      "edition_verse_id": "ASV1901:MAT.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But all these things are the beginning of travail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.9",
+      "edition_verse_id": "ASV1901:MAT.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then shall they deliver you up unto tribulation, and shall kill you: and ye shall be hated of all the nations for my name’s sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.10",
+      "edition_verse_id": "ASV1901:MAT.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And then shall many stumble, and shall deliver up one another, and shall hate one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.11",
+      "edition_verse_id": "ASV1901:MAT.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And many false prophets shall arise, and shall lead many astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.12",
+      "edition_verse_id": "ASV1901:MAT.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And because iniquity shall be multiplied, the love of the many shall wax cold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.13",
+      "edition_verse_id": "ASV1901:MAT.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But he that endureth to the end, the same shall be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.14",
+      "edition_verse_id": "ASV1901:MAT.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And this gospel of the kingdom shall be preached in the whole world for a testimony unto all the nations; and then shall the end come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.15",
+      "edition_verse_id": "ASV1901:MAT.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When therefore ye see the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place (let him that readeth understand),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.16",
+      "edition_verse_id": "ASV1901:MAT.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "then let them that are in Judæa flee unto the mountains:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.17",
+      "edition_verse_id": "ASV1901:MAT.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "let him that is on the housetop not go down to take out the things that are in his house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.18",
+      "edition_verse_id": "ASV1901:MAT.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and let him that is in the field not return back to take his cloak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.19",
+      "edition_verse_id": "ASV1901:MAT.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But woe unto them that are with child and to them that give suck in those days!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.20",
+      "edition_verse_id": "ASV1901:MAT.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And pray ye that your flight be not in the winter, neither on a sabbath:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.21",
+      "edition_verse_id": "ASV1901:MAT.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "for then shall be great tribulation, such as hath not been from the beginning of the world until now, no, nor ever shall be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.22",
+      "edition_verse_id": "ASV1901:MAT.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And except those days had been shortened, no flesh would have been saved: but for the elect’s sake those days shall be shortened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.23",
+      "edition_verse_id": "ASV1901:MAT.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then if any man shall say unto you, Lo, here is the Christ, or, Here; believe ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.24",
+      "edition_verse_id": "ASV1901:MAT.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For there shall arise false Christs, and false prophets, and shall show great signs and wonders; so as to lead astray, if possible, even the elect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.25",
+      "edition_verse_id": "ASV1901:MAT.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Behold, I have told you beforehand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.26",
+      "edition_verse_id": "ASV1901:MAT.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If therefore they shall say unto you, Behold, he is in the wilderness; go not forth: Behold, he is in the inner chambers; believe ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.27",
+      "edition_verse_id": "ASV1901:MAT.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For as the lightning cometh forth from the east, and is seen even unto the west; so shall be the coming of the Son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.28",
+      "edition_verse_id": "ASV1901:MAT.24.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Wheresoever the carcase is, there will the eagles be gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.29",
+      "edition_verse_id": "ASV1901:MAT.24.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But immediately after the tribulation of those days the sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.30",
+      "edition_verse_id": "ASV1901:MAT.24.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming on the clouds of heaven with power and great glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.31",
+      "edition_verse_id": "ASV1901:MAT.24.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And he shall send forth his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.32",
+      "edition_verse_id": "ASV1901:MAT.24.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Now from the fig tree learn her parable: when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.33",
+      "edition_verse_id": "ASV1901:MAT.24.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "even so ye also, when ye see all these things, know ye that he is nigh, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " at the doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.34",
+      "edition_verse_id": "ASV1901:MAT.24.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Verily I say unto you, This generation shall not pass away, till all these things be accomplished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.35",
+      "edition_verse_id": "ASV1901:MAT.24.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Heaven and earth shall pass away, but my words shall not pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.36",
+      "edition_verse_id": "ASV1901:MAT.24.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But of that day and hour knoweth no one, not even the angels of heaven, neither the Son, but the Father only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.37",
+      "edition_verse_id": "ASV1901:MAT.24.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And as ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " the days of Noah, so shall be the coming of the Son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.38",
+      "edition_verse_id": "ASV1901:MAT.24.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ark,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.39",
+      "edition_verse_id": "ASV1901:MAT.24.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and they knew not until the flood came, and took them all away; so shall be the coming of the Son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.40",
+      "edition_verse_id": "ASV1901:MAT.24.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then shall two men be in the field; one is taken, and one is left:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.41",
+      "edition_verse_id": "ASV1901:MAT.24.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "two women ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " grinding at the mill; one is taken, and one is left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.42",
+      "edition_verse_id": "ASV1901:MAT.24.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Watch therefore: for ye know not on what day your Lord cometh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.43",
+      "edition_verse_id": "ASV1901:MAT.24.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "But know this, that if the master of the house had known in what watch the thief was coming, he would have watched, and would not have suffered his house to be broken through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.44",
+      "edition_verse_id": "ASV1901:MAT.24.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Therefore be ye also ready; for in an hour that ye think not the Son of man cometh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.45",
+      "edition_verse_id": "ASV1901:MAT.24.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Who then is the faithful and wise servant, whom his lord hath set over his household, to give them their food in due season?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.24.46",
+      "edition_verse_id": "ASV1901:MAT.24.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Blessed is that servant, whom his lord when he cometh shall find so doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.47",
+      "edition_verse_id": "ASV1901:MAT.24.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Verily I say unto you, that he will set him over all that he hath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.48",
+      "edition_verse_id": "ASV1901:MAT.24.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "But if that evil servant shall say in his heart, My lord tarrieth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.49",
+      "edition_verse_id": "ASV1901:MAT.24.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "and shall begin to beat his fellow-servants, and shall eat and drink with the drunken;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.50",
+      "edition_verse_id": "ASV1901:MAT.24.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "the lord of that servant shall come in a day when he expecteth not, and in an hour when he knoweth not,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.24.51",
+      "edition_verse_id": "ASV1901:MAT.24.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "and shall cut him asunder, and appoint his portion with the hypocrites: there shall be the weeping and the gnashing of teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

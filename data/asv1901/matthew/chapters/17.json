@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "MAT.17.1",
+      "edition_verse_id": "ASV1901:MAT.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And after six days Jesus taketh with him Peter, and James, and John his brother, and bringeth them up into a high mountain apart:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.2",
+      "edition_verse_id": "ASV1901:MAT.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and he was transfigured before them; and his face did shine as the sun, and his garments became white as the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.3",
+      "edition_verse_id": "ASV1901:MAT.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And behold, there appeared unto them Moses and Elijah talking with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.4",
+      "edition_verse_id": "ASV1901:MAT.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Peter answered, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, I will make here three tabernacles; one for thee, and one for Moses, and one for Elijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.5",
+      "edition_verse_id": "ASV1901:MAT.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "While he was yet speaking, behold, a bright cloud overshadowed them: and behold, a voice out of the cloud, saying, This is my beloved Son, in whom I am well pleased; hear ye him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.6",
+      "edition_verse_id": "ASV1901:MAT.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when the disciples heard it, they fell on their face, and were sore afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.7",
+      "edition_verse_id": "ASV1901:MAT.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Jesus came and touched them and said, Arise, and be not afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.8",
+      "edition_verse_id": "ASV1901:MAT.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And lifting up their eyes, they saw no one, save Jesus only.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.9",
+      "edition_verse_id": "ASV1901:MAT.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And as they were coming down from the mountain, Jesus commanded them, saying, Tell the vision to no man, until the Son of man be risen from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.10",
+      "edition_verse_id": "ASV1901:MAT.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And his disciples asked him, saying, Why then say the scribes that Elijah must first come?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.11",
+      "edition_verse_id": "ASV1901:MAT.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he answered and said, Elijah indeed cometh, and shall restore all things:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.12",
+      "edition_verse_id": "ASV1901:MAT.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "but I say unto you, that Elijah is come already, and they knew him not, but did unto him whatsoever they would. Even so shall the Son of man also suffer of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.13",
+      "edition_verse_id": "ASV1901:MAT.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then understood the disciples that he spake unto them of John the Baptist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.14",
+      "edition_verse_id": "ASV1901:MAT.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And when they were come to the multitude, there came to him a man, kneeling to him, and saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.15",
+      "edition_verse_id": "ASV1901:MAT.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Lord, have mercy on my son: for he is epileptic, and suffereth grievously; for oft-times he falleth into the fire, and oft-times into the water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.16",
+      "edition_verse_id": "ASV1901:MAT.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I brought him to thy disciples, and they could not cure him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.17",
+      "edition_verse_id": "ASV1901:MAT.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I bear with you? bring him hither to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.18",
+      "edition_verse_id": "ASV1901:MAT.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Jesus rebuked him; and the demon went out of him: and the boy was cured from that hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.19",
+      "edition_verse_id": "ASV1901:MAT.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then came the disciples to Jesus apart, and said, Why could not we cast it out?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.20",
+      "edition_verse_id": "ASV1901:MAT.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he saith unto them, Because of your little faith: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.22",
+      "edition_verse_id": "ASV1901:MAT.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And while they abode in Galilee, Jesus said unto them, The Son of man shall be delivered up into the hands of men;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.23",
+      "edition_verse_id": "ASV1901:MAT.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and they shall kill him, and the third day he shall be raised up. And they were exceeding sorry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.24",
+      "edition_verse_id": "ASV1901:MAT.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when they were come to Capernaum, they that received the half-shekel came to Peter, and said, Doth not your teacher pay the half-shekel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.25",
+      "edition_verse_id": "ASV1901:MAT.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He saith, Yea. And when he came into the house, Jesus spake first to him, saying, What thinkest thou, Simon? the kings of the earth, from whom do they receive toll or tribute? from their sons, or from strangers?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.26",
+      "edition_verse_id": "ASV1901:MAT.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And when he said, From strangers, Jesus said unto him, Therefore the sons are free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.27",
+      "edition_verse_id": "ASV1901:MAT.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But, lest we cause them to stumble, go thou to the sea, and cast a hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a shekel: that take, and give unto them for me and thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

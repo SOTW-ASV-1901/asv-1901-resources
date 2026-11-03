@@ -1,0 +1,368 @@
+{
+  "MAT.1.21": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Jesus",
+          "to": "JESUS",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 977,
+      "printed_page": 1,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.1.25": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Jesus",
+          "to": "JESUS",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 977,
+      "printed_page": 1,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.2.1": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 977,
+      "printed_page": 1,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.2.5": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 978,
+      "printed_page": 2,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.2.22": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 978,
+      "printed_page": 2,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.3.1": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 978,
+      "printed_page": 2,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.3.5": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 979,
+      "printed_page": 3,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.4.25": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 980,
+      "printed_page": 4,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.10.3": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Alphaeus",
+          "to": "Alphæus",
+          "expected_count": 1
+        },
+        {
+          "from": "Thaddaeus",
+          "to": "Thaddæus",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 986,
+      "printed_page": 10,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.10.4": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Cananaean",
+          "to": "Cananæan",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 986,
+      "printed_page": 10,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.16.13": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Caesarea",
+          "to": "Cæsarea",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 994,
+      "printed_page": 18,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.19.1": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 997,
+      "printed_page": 21,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.22.17": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Caesar",
+          "to": "Cæsar",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 1001,
+      "printed_page": 25,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.22.21": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Caesar",
+          "to": "Cæsar",
+          "expected_count": 3
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 1001,
+      "printed_page": 25,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.24.16": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Judaea",
+          "to": "Judæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 1003,
+      "printed_page": 27,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.26.69": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Galilaean",
+          "to": "Galilæan",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 1008,
+      "printed_page": 32,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.27.27": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Praetorium",
+          "to": "Prætorium",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 1009,
+      "printed_page": 33,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.27.37": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "This is Jesus the King of the Jews",
+          "to": "THIS IS JESUS THE KING OF THE JEWS",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 1009,
+      "printed_page": 33,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  },
+  "MAT.27.57": {
+    "original_print_checked": true,
+    "decision": "correct_derived_typography_to_1901_printing",
+    "correction_to_derived_data": {
+      "replacements": [
+        {
+          "from": "Arimathaea",
+          "to": "Arimathæa",
+          "expected_count": 1
+        }
+      ]
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 1009,
+      "printed_page": 33,
+      "note": "Original 1901 page inspected; typography is reproduced as æ ligatures or small capitals represented by uppercase in this plain-text projection. Both original witness files remain byte-unchanged."
+    }
+  }
+}

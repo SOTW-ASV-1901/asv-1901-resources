@@ -1,0 +1,3 @@
+# Matthew | American Standard Version (1901)
+
+28 chapters, 1,071 verses. Original 1901 scan: PDF page 976 (Gospel of Matthew map), and Matthew Scripture pages 977–1010 (New Testament printed pages 1–34). Original whole pages and verified verse boundaries preserved. Translator-supplied italics are marked with structured spans; source disagreements are separately documented. Original digital witness files remain unchanged. No unverified Strong’s word alignments. Digital witness independence not established. The original print is inspected at chapter and page level, not exhaustively character proofread. New Testament preface at source PDF pages 967–975 remains in original complete scan, and the subsequent Mark map on 1012 is reserved for Mark.

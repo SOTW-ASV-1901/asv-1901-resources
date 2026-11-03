@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAT",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "MAT.1.1",
+      "edition_verse_id": "ASV1901:MAT.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.2",
+      "edition_verse_id": "ASV1901:MAT.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judah and his brethren;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.3",
+      "edition_verse_id": "ASV1901:MAT.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and Judah begat Perez and Zerah of Tamar; and Perez begat Hezron; and Hezron begat Ram;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.4",
+      "edition_verse_id": "ASV1901:MAT.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and Ram begat Amminadab; and Amminadab begat Nahshon; and Nahshon begat Salmon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.5",
+      "edition_verse_id": "ASV1901:MAT.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and Salmon begat Boaz of Rahab; and Boaz begat Obed of Ruth; and Obed begat Jesse;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.6",
+      "edition_verse_id": "ASV1901:MAT.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and Jesse begat David the king.And David begat Solomon of her ",
+          "kind": "text"
+        },
+        {
+          "text": "that had been the wife",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Uriah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.7",
+      "edition_verse_id": "ASV1901:MAT.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and Solomon begat Rehoboam; and Rehoboam begat Abijah; and Abijah begat Asa;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.8",
+      "edition_verse_id": "ASV1901:MAT.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and Asa begat Jehoshaphat; and Jehoshaphat begat Joram; and Joram begat Uzziah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.9",
+      "edition_verse_id": "ASV1901:MAT.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and Uzziah begat Jotham; and Jotham begat Ahaz; and Ahaz begat Hezekiah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.10",
+      "edition_verse_id": "ASV1901:MAT.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and Hezekiah begat Manasseh; and Manasseh begat Amon; and Amon begat Josiah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.11",
+      "edition_verse_id": "ASV1901:MAT.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and Josiah begat Jechoniah and his brethren, at the time of the carrying away to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.12",
+      "edition_verse_id": "ASV1901:MAT.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And after the carrying away to Babylon, Jechoniah begat Shealtiel; and Shealtiel begat Zerubbabel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.13",
+      "edition_verse_id": "ASV1901:MAT.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and Zerubbabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.14",
+      "edition_verse_id": "ASV1901:MAT.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.15",
+      "edition_verse_id": "ASV1901:MAT.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.16",
+      "edition_verse_id": "ASV1901:MAT.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.17",
+      "edition_verse_id": "ASV1901:MAT.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So all the generations from Abraham unto David are fourteen generations; and from David unto the carrying away to Babylon fourteen generations; and from the carrying away to Babylon unto the Christ fourteen generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.18",
+      "edition_verse_id": "ASV1901:MAT.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now the birth of Jesus Christ was on this wise: When his mother Mary had been betrothed to Joseph, before they came together she was found with child of the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.19",
+      "edition_verse_id": "ASV1901:MAT.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Joseph her husband, being a righteous man, and not willing to make her a public example, was minded to put her away privily.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.20",
+      "edition_verse_id": "ASV1901:MAT.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But when he thought on these things, behold, an angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.21",
+      "edition_verse_id": "ASV1901:MAT.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And she shall bring forth a son; and thou shalt call his name JESUS; for it is he that shall save his people from their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.22",
+      "edition_verse_id": "ASV1901:MAT.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now all this is come to pass, that it might be fulfilled which was spoken by the Lord through the prophet, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.23",
+      "edition_verse_id": "ASV1901:MAT.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Behold, the virgin shall be with child, and shall bring forth a son,\nAnd they shall call his name Immanuel;which is, being interpreted, God with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.24",
+      "edition_verse_id": "ASV1901:MAT.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took unto him his wife;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.25",
+      "edition_verse_id": "ASV1901:MAT.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "and knew her not till she had brought forth a son: and he called his name JESUS.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

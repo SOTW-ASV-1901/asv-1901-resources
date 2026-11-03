@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "book_code": "MAT",
+  "edition_id": "ASV1901",
+  "book_order": 40,
+  "chapters": 28,
+  "main_text_verse_count": 1068,
+  "traditional_verse_positions": 1071,
+  "main_text_omitted_verse_numbers": [
+    "MAT.17.21",
+    "MAT.18.11",
+    "MAT.23.14"
+  ],
+  "verse_omissions_status": "SOURCE_PRINT_TEXTUAL_APPARATUS_ONLY",
+  "italic_spans": 108,
+  "source_witness_typography_differences": 19,
+  "resolution_status": "PRINT_BACKED_AND_DOCUMENTED",
+  "source_pdf_pages": [
+    976,
+    1010
+  ],
+  "scripture_original_pdf_pages": [
+    977,
+    1010
+  ],
+  "new_testament_printed_scripture_pages": [
+    1,
+    34
+  ],
+  "original_1901_map_pdf_page": 976,
+  "original_physical_pages": 35,
+  "page_spanning_main_text_verses": 29,
+  "facsimile_volumes": 2,
+  "page_index_coverage": "PASS_ALL_1068_MAIN_TEXT_VERSES",
+  "embedded_original_page_image_streams_and_placements": "PASS_35_OF_35",
+  "rendered_page_pixel_comparisons_at_0_28x": "PASS_6_SELECTED_PAGES",
+  "supplied_italics_vs_comparison_source": "PASS_108_OF_108",
+  "reader_js_syntax": "PASS",
+  "local_http_resources": "PASS",
+  "schemas": "PASS",
+  "reproducible_data_pdf_manifest": "PASS",
+  "prior_release_path_collisions": "NONE",
+  "historical_print_character_by_character_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "release_source_note": "Original upstream USX and USFM witnesses are preserved byte-for-byte. Three traditionally numbered verses are present only as print-apparatus notices, never invented in main text. The print small capitals are rendered as uppercase in plain text; ligatures are retained where checked. Historical comparison and accurate page boundaries verified at chapter and scan-page level, not full character-by-character proofreading. No GitHub files modified."
+}
