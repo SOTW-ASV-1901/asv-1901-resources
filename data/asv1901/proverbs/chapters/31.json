@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "chapter": 31,
+  "verses": [
+    {
+      "id": "PRO.31.1",
+      "edition_verse_id": "ASV1901:PRO.31.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The words of king Lemuel; the oracle which his mother taught him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.2",
+      "edition_verse_id": "ASV1901:PRO.31.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "What, my son? and what, O son of my womb?\nAnd what, O son of my vows?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.3",
+      "edition_verse_id": "ASV1901:PRO.31.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Give not thy strength unto women,\nNor thy ways to that which destroyeth kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.4",
+      "edition_verse_id": "ASV1901:PRO.31.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "It is not for kings, O Lemuel, it is not for kings to drink wine;\nNor for princes ",
+          "kind": "text"
+        },
+        {
+          "text": "to say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Where is strong drink?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.5",
+      "edition_verse_id": "ASV1901:PRO.31.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Lest they drink, and forget the law,\nAnd pervert the justice ",
+          "kind": "text"
+        },
+        {
+          "text": "due",
+          "kind": "supplied"
+        },
+        {
+          "text": " to any that is afflicted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.6",
+      "edition_verse_id": "ASV1901:PRO.31.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Give strong drink unto him that is ready to perish,\nAnd wine unto the bitter in soul:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.7",
+      "edition_verse_id": "ASV1901:PRO.31.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let him drink, and forget his poverty,\nAnd remember his misery no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.8",
+      "edition_verse_id": "ASV1901:PRO.31.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Open thy mouth for the dumb,\nIn the cause of all such as are left desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.9",
+      "edition_verse_id": "ASV1901:PRO.31.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Open thy mouth, judge righteously,\nAnd minister justice to the poor and needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.10",
+      "edition_verse_id": "ASV1901:PRO.31.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "A worthy woman who can find?\nFor her price is far above rubies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.11",
+      "edition_verse_id": "ASV1901:PRO.31.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The heart of her husband trusteth in her,\nAnd he shall have no lack of gain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.12",
+      "edition_verse_id": "ASV1901:PRO.31.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "She doeth him good and not evil\nAll the days of her life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.13",
+      "edition_verse_id": "ASV1901:PRO.31.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "She seeketh wool and flax,\nAnd worketh willingly with her hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.14",
+      "edition_verse_id": "ASV1901:PRO.31.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "She is like the merchant-ships;\nShe bringeth her bread from afar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.15",
+      "edition_verse_id": "ASV1901:PRO.31.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "She riseth also while it is yet night,\nAnd giveth food to her household,\nAnd their task to her maidens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.16",
+      "edition_verse_id": "ASV1901:PRO.31.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "She considereth a field, and buyeth it;\nWith the fruit of her hands she planteth a vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.17",
+      "edition_verse_id": "ASV1901:PRO.31.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "She girdeth her loins with strength,\nAnd maketh strong her arms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.18",
+      "edition_verse_id": "ASV1901:PRO.31.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "She perceiveth that her merchandise is profitable;\nHer lamp goeth not out by night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.19",
+      "edition_verse_id": "ASV1901:PRO.31.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "She layeth her hands to the distaff,\nAnd her hands hold the spindle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.20",
+      "edition_verse_id": "ASV1901:PRO.31.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "She stretcheth out her hand to the poor;\nYea, she reacheth forth her hands to the needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.21",
+      "edition_verse_id": "ASV1901:PRO.31.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "She is not afraid of the snow for her household;\nFor all her household are clothed with scarlet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.22",
+      "edition_verse_id": "ASV1901:PRO.31.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "She maketh for herself carpets of tapestry;\nHer clothing is fine linen and purple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.23",
+      "edition_verse_id": "ASV1901:PRO.31.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Her husband is known in the gates,\nWhen he sitteth among the elders of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.24",
+      "edition_verse_id": "ASV1901:PRO.31.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "She maketh linen garments and selleth them,\nAnd delivereth girdles unto the merchant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.25",
+      "edition_verse_id": "ASV1901:PRO.31.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Strength and dignity are her clothing;\nAnd she laugheth at the time to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.26",
+      "edition_verse_id": "ASV1901:PRO.31.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "She openeth her mouth with wisdom;\nAnd the law of kindness is on her tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.27",
+      "edition_verse_id": "ASV1901:PRO.31.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "She looketh well to the ways of her household,\nAnd eateth not the bread of idleness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.28",
+      "edition_verse_id": "ASV1901:PRO.31.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Her children rise up, and call her blessed;\nHer husband ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and he praiseth her, ",
+          "kind": "text"
+        },
+        {
+          "text": "saying",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.29",
+      "edition_verse_id": "ASV1901:PRO.31.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Many daughters have done worthily,\nBut thou excellest them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.30",
+      "edition_verse_id": "ASV1901:PRO.31.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Grace is deceitful, and beauty is vain;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " a woman that feareth Jehovah, she shall be praised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.31",
+      "edition_verse_id": "ASV1901:PRO.31.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Give her of the fruit of her hands;\nAnd let her works praise her in the gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

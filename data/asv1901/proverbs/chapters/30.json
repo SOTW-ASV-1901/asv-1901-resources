@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "PRO.30.1",
+      "edition_verse_id": "ASV1901:PRO.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The words of Agur the son of Jakeh; the oracle.\nThe man saith unto Ithiel, unto Ithiel and Ucal:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.2",
+      "edition_verse_id": "ASV1901:PRO.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Surely I am more brutish than any man,\nAnd have not the understanding of a man;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.3",
+      "edition_verse_id": "ASV1901:PRO.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I have not learned wisdom,Neither have I the knowledge of the Holy One.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.4",
+      "edition_verse_id": "ASV1901:PRO.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who hath ascended up into heaven, and descended?\nWho hath gathered the wind in his fists?\nWho hath bound the waters in his garment?\nWho hath established all the ends of the earth?\nWhat is his name, and what is his son’s name, if thou knowest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.5",
+      "edition_verse_id": "ASV1901:PRO.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Every word of God is tried:\nHe is a shield unto them that take refuge in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.6",
+      "edition_verse_id": "ASV1901:PRO.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Add thou not unto his words,\nLest he reprove thee, and thou be found a liar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.7",
+      "edition_verse_id": "ASV1901:PRO.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Two things have I asked of thee;\nDeny me ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " not before I die:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.8",
+      "edition_verse_id": "ASV1901:PRO.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Remove far from me falsehood and lies;\nGive me neither poverty nor riches;\nFeed me with the food that is needful for me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.9",
+      "edition_verse_id": "ASV1901:PRO.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Lest I be full, and deny ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and say, Who is Jehovah?\nOr lest I be poor, and steal,\nAnd use profanely the name of my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.10",
+      "edition_verse_id": "ASV1901:PRO.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Slander not a servant unto his master,\nLest he curse thee, and thou be held guilty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.11",
+      "edition_verse_id": "ASV1901:PRO.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "There is a generation that curse their father,\nAnd bless not their mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.12",
+      "edition_verse_id": "ASV1901:PRO.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "There is a generation that are pure in their own eyes,\nAnd ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " are not washed from their filthiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.13",
+      "edition_verse_id": "ASV1901:PRO.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "There is a generation, oh how lofty are their eyes!\nAnd their eyelids are lifted up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.14",
+      "edition_verse_id": "ASV1901:PRO.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "There is a generation whose teeth are ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " swords, and their jaw teeth ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " knives,\nTo devour the poor from off the earth, and the needy from among men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.15",
+      "edition_verse_id": "ASV1901:PRO.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The horseleach hath two daughters, ",
+          "kind": "text"
+        },
+        {
+          "text": "crying",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Give, give.\nThere are three things that are never satisfied,",
+          "kind": "text"
+        },
+        {
+          "text": "Yea",
+          "kind": "supplied"
+        },
+        {
+          "text": ", four that say not, Enough:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.16",
+      "edition_verse_id": "ASV1901:PRO.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Sheol; and the barren womb;\nThe earth that is not satisfied with water;\nAnd the fire that saith not, Enough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.17",
+      "edition_verse_id": "ASV1901:PRO.30.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The eye that mocketh at his father,\nAnd despiseth to obey his mother,\nThe ravens of the valley shall pick it out,\nAnd the young eagles shall eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.18",
+      "edition_verse_id": "ASV1901:PRO.30.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "There are three things which are too wonderful for me,\nYea, four which I know not:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.19",
+      "edition_verse_id": "ASV1901:PRO.30.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The way of an eagle in the air;\nThe way of a serpent upon a rock;\nThe way of a ship in the midst of the sea;\nAnd the way of a man with a maiden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.20",
+      "edition_verse_id": "ASV1901:PRO.30.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So is the way of an adulterous woman;\nShe eateth, and wipeth her mouth,\nAnd saith, I have done no wickedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.21",
+      "edition_verse_id": "ASV1901:PRO.30.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For three things the earth doth tremble,\nAnd for four, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " it cannot bear:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.22",
+      "edition_verse_id": "ASV1901:PRO.30.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For a servant when he is king;\nAnd a fool when he is filled with food;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.23",
+      "edition_verse_id": "ASV1901:PRO.30.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For an odious woman when she is married;\nAnd a handmaid that is heir to her mistress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.24",
+      "edition_verse_id": "ASV1901:PRO.30.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "There are four things which are little upon the earth,\nBut they are exceeding wise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.25",
+      "edition_verse_id": "ASV1901:PRO.30.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The ants are a people not strong,\nYet they provide their food in the summer;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.26",
+      "edition_verse_id": "ASV1901:PRO.30.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The conies are but a feeble folk,\nYet make they their houses in the rocks;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.27",
+      "edition_verse_id": "ASV1901:PRO.30.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The locusts have no king,\nYet go they forth all of them by bands;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.28",
+      "edition_verse_id": "ASV1901:PRO.30.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The lizard taketh hold with her hands,\nYet is she in kings’ palaces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.29",
+      "edition_verse_id": "ASV1901:PRO.30.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "There are three things which are stately in their march,\nYea, four which are stately in going:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.30",
+      "edition_verse_id": "ASV1901:PRO.30.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The lion, which is mightiest among beasts,\nAnd turneth not away for any;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.31",
+      "edition_verse_id": "ASV1901:PRO.30.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The greyhound; the he-goat also;\nAnd the king against whom there is no rising up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.32",
+      "edition_verse_id": "ASV1901:PRO.30.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If thou hast done foolishly in lifting up thyself,\nOr if thou hast thought evil,",
+          "kind": "text"
+        },
+        {
+          "text": "Lay",
+          "kind": "supplied"
+        },
+        {
+          "text": " thy hand upon thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.30.33",
+      "edition_verse_id": "ASV1901:PRO.30.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For the churning of milk bringeth forth butter,\nAnd the wringing of the nose bringeth forth blood;\nSo the forcing of wrath bringeth forth strife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

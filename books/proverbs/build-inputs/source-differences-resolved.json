@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "book_code": "PRO",
+  "source_print_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_witness_differences": 2,
+  "dispositions": [
+    {
+      "verse_id": "PRO.14.10",
+      "primary_usx": "inter-meddle",
+      "comparison_usfm": "intermeddle",
+      "derived_reading": "inter-meddle",
+      "source_pdf_page": 683,
+      "printed_page": 641,
+      "evidence": "The original image has inter- at the end of one physical line and meddle on the next. A physical line-break hyphen cannot alone settle whether the intended running spelling included a hyphen.",
+      "resolution": "PRESERVE_PRIMARY_USX_WITH_PRINT_LINE_BREAK_AMBIGUITY",
+      "uncertainty": "Orthographic hyphenation not independently settled by the line break."
+    },
+    {
+      "verse_id": "PRO.27.1",
+      "primary_usx": "tomorrow",
+      "comparison_usfm": "to-morrow",
+      "derived_reading": "to-morrow",
+      "source_pdf_page": 696,
+      "printed_page": 654,
+      "corroboration_pdf_page": 673,
+      "corroboration_verse": "PRO.3.28",
+      "evidence": "Original print has to- / morrow across physical lines in 27:1; independent same-edition 3:28 prints to-morrow unbroken.",
+      "resolution": "USE_COMPARISON_USFM_PRINT_CORROBORATED",
+      "uncertainty": "The line-break on 27:1 alone would not determine orthography."
+    }
+  ],
+  "source_witness_files_preserved_unchanged": true
+}

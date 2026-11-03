@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "PRO.28.1",
+      "edition_verse_id": "ASV1901:PRO.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The wicked flee when no man pursueth;\nBut the righteous are bold as a lion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.2",
+      "edition_verse_id": "ASV1901:PRO.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For the transgression of a land many are the princes thereof;\nBut by men of understanding ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " knowledge the state ",
+          "kind": "text"
+        },
+        {
+          "text": "thereof",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be prolonged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.3",
+      "edition_verse_id": "ASV1901:PRO.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A needy man that oppresseth the poor\nIs ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " a sweeping rain which leaveth no food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.4",
+      "edition_verse_id": "ASV1901:PRO.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They that forsake the law praise the wicked;\nBut such as keep the law contend with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.5",
+      "edition_verse_id": "ASV1901:PRO.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Evil men understand not justice;\nBut they that seek Jehovah understand all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.6",
+      "edition_verse_id": "ASV1901:PRO.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Better is the poor that walketh in his integrity,\nThan he that is perverse in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " ways, though he be rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.7",
+      "edition_verse_id": "ASV1901:PRO.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Whoso keepeth the law is a wise son;\nBut he that is a companion of gluttons shameth his father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.8",
+      "edition_verse_id": "ASV1901:PRO.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He that augmenteth his substance by interest and increase,\nGathereth it for him that hath pity on the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.9",
+      "edition_verse_id": "ASV1901:PRO.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He that turneth away his ear from hearing the law,\nEven his prayer is an abomination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.10",
+      "edition_verse_id": "ASV1901:PRO.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Whoso causeth the upright to go astray in an evil way,\nHe shall fall himself into his own pit;\nBut the perfect shall inherit good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.11",
+      "edition_verse_id": "ASV1901:PRO.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The rich man is wise in his own conceit;\nBut the poor that hath understanding searcheth him out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.12",
+      "edition_verse_id": "ASV1901:PRO.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When the righteous triumph, there is great glory;\nBut when the wicked rise, men hide themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.13",
+      "edition_verse_id": "ASV1901:PRO.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He that covereth his transgressions shall not prosper;\nBut whoso confesseth and forsaketh them shall obtain mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.14",
+      "edition_verse_id": "ASV1901:PRO.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Happy is the man that feareth alway;\nBut he that hardeneth his heart shall fall into mischief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.15",
+      "edition_verse_id": "ASV1901:PRO.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " a roaring lion, and a ranging bear,",
+          "kind": "text"
+        },
+        {
+          "text": "So is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a wicked ruler over a poor people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.16",
+      "edition_verse_id": "ASV1901:PRO.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The prince that lacketh understanding is also a great oppressor;",
+          "kind": "text"
+        },
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " he that hateth covetousness shall prolong his days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.17",
+      "edition_verse_id": "ASV1901:PRO.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "A man that is laden with the blood of any person\nShall flee unto the pit; let no man stay him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.18",
+      "edition_verse_id": "ASV1901:PRO.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Whoso walketh uprightly shall be delivered;\nBut he that is perverse in ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " ways shall fall at once.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.19",
+      "edition_verse_id": "ASV1901:PRO.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He that tilleth his land shall have plenty of bread;\nBut he that followeth after vain ",
+          "kind": "text"
+        },
+        {
+          "text": "persons",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall have poverty enough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.20",
+      "edition_verse_id": "ASV1901:PRO.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "A faithful man shall abound with blessings;\nBut he that maketh haste to be rich shall not be unpunished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.21",
+      "edition_verse_id": "ASV1901:PRO.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "To have respect of persons is not good;Neither that a man should transgress for a piece of bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.22",
+      "edition_verse_id": "ASV1901:PRO.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He that hath an evil eye hasteth after riches,\nAnd knoweth not that want shall come upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.23",
+      "edition_verse_id": "ASV1901:PRO.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He that rebuketh a man shall afterward find more favor\nThan he that flattereth with the tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.24",
+      "edition_verse_id": "ASV1901:PRO.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Whoso robbeth his father or his mother, and saith, It is no transgression,\nThe same is the companion of a destroyer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.25",
+      "edition_verse_id": "ASV1901:PRO.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He that is of a greedy spirit stirreth up strife;\nBut he that putteth his trust in Jehovah shall be made fat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.26",
+      "edition_verse_id": "ASV1901:PRO.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He that trusteth in his own heart is a fool;\nBut whoso walketh wisely, he shall be delivered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.27",
+      "edition_verse_id": "ASV1901:PRO.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He that giveth unto the poor shall not lack;\nBut he that hideth his eyes shall have many a curse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.28.28",
+      "edition_verse_id": "ASV1901:PRO.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When the wicked rise, men hide themselves;\nBut when they perish, the righteous increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

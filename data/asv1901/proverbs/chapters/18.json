@@ -1,0 +1,376 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "PRO.18.1",
+      "edition_verse_id": "ASV1901:PRO.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "He that separateth himself seeketh ",
+          "kind": "text"
+        },
+        {
+          "text": "his own",
+          "kind": "supplied"
+        },
+        {
+          "text": " desire,\nAnd rageth against all sound wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.2",
+      "edition_verse_id": "ASV1901:PRO.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A fool hath no delight in understanding,\nBut only that his heart may reveal itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.3",
+      "edition_verse_id": "ASV1901:PRO.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When the wicked cometh, there cometh also contempt,\nAnd with ignominy ",
+          "kind": "text"
+        },
+        {
+          "text": "cometh",
+          "kind": "supplied"
+        },
+        {
+          "text": " reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.4",
+      "edition_verse_id": "ASV1901:PRO.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The words of a man’s mouth are ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " deep waters;The wellspring of wisdom is ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a flowing brook.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.5",
+      "edition_verse_id": "ASV1901:PRO.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "To respect the person of the wicked is not good,",
+          "kind": "text"
+        },
+        {
+          "text": "Nor",
+          "kind": "supplied"
+        },
+        {
+          "text": " to turn aside the righteous in judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.6",
+      "edition_verse_id": "ASV1901:PRO.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "A fool’s lips enter into contention,\nAnd his mouth calleth for stripes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.7",
+      "edition_verse_id": "ASV1901:PRO.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A fool’s mouth is his destruction,\nAnd his lips are the snare of his soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.8",
+      "edition_verse_id": "ASV1901:PRO.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The words of a whisperer are as dainty morsels,\nAnd they go down into the innermost parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.9",
+      "edition_verse_id": "ASV1901:PRO.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He also that is slack in his work\nIs brother to him that is a destroyer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.10",
+      "edition_verse_id": "ASV1901:PRO.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The name of Jehovah is a strong tower;\nThe righteous runneth into it, and is safe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.11",
+      "edition_verse_id": "ASV1901:PRO.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The rich man’s wealth is his strong city,\nAnd as a high wall in his own imagination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.12",
+      "edition_verse_id": "ASV1901:PRO.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Before destruction the heart of man is haughty;\nAnd before honor ",
+          "kind": "text"
+        },
+        {
+          "text": "goeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " humility.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.13",
+      "edition_verse_id": "ASV1901:PRO.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He that giveth answer before he heareth,\nIt is folly and shame unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.14",
+      "edition_verse_id": "ASV1901:PRO.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The spirit of a man will sustain his infirmity;\nBut a broken spirit who can bear?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.15",
+      "edition_verse_id": "ASV1901:PRO.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The heart of the prudent getteth knowledge;\nAnd the ear of the wise seeketh knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.16",
+      "edition_verse_id": "ASV1901:PRO.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A man’s gift maketh room for him,\nAnd bringeth him before great men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.17",
+      "edition_verse_id": "ASV1901:PRO.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He that pleadeth his cause first ",
+          "kind": "text"
+        },
+        {
+          "text": "seemeth",
+          "kind": "supplied"
+        },
+        {
+          "text": " just;\nBut his neighbor cometh and searcheth him out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.18",
+      "edition_verse_id": "ASV1901:PRO.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The lot causeth contentions to cease,\nAnd parteth between the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.19",
+      "edition_verse_id": "ASV1901:PRO.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A brother offended ",
+          "kind": "text"
+        },
+        {
+          "text": "is harder to be won",
+          "kind": "supplied"
+        },
+        {
+          "text": " than a strong city;\nAnd ",
+          "kind": "text"
+        },
+        {
+          "text": "such",
+          "kind": "supplied"
+        },
+        {
+          "text": " contentions are like the bars of a castle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.20",
+      "edition_verse_id": "ASV1901:PRO.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "A man’s belly shall be filled with the fruit of his mouth;\nWith the increase of his lips shall he be satisfied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.21",
+      "edition_verse_id": "ASV1901:PRO.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Death and life are in the power of the tongue;\nAnd they that love it shall eat the fruit thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.22",
+      "edition_verse_id": "ASV1901:PRO.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Whoso findeth a wife findeth a good thing,\nAnd obtaineth favor of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.23",
+      "edition_verse_id": "ASV1901:PRO.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The poor useth entreaties;\nBut the rich answereth roughly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.24",
+      "edition_verse_id": "ASV1901:PRO.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He that maketh many friends ",
+          "kind": "text"
+        },
+        {
+          "text": "doeth it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to his own destruction;\nBut there is a friend that sticketh closer than a brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

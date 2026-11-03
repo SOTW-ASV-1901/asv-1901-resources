@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "PRO.26.1",
+      "edition_verse_id": "ASV1901:PRO.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "As snow in summer, and as rain in harvest,\nSo honor is not seemly for a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.2",
+      "edition_verse_id": "ASV1901:PRO.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As the sparrow in her wandering, as the swallow in her flying,\nSo the curse that is causeless alighteth not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.3",
+      "edition_verse_id": "ASV1901:PRO.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A whip for the horse, a bridle for the ass,\nAnd a rod for the back of fools.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.4",
+      "edition_verse_id": "ASV1901:PRO.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Answer not a fool according to his folly,\nLest thou also be like unto him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.5",
+      "edition_verse_id": "ASV1901:PRO.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Answer a fool according to his folly,\nLest he be wise in his own conceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.6",
+      "edition_verse_id": "ASV1901:PRO.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He that sendeth a message by the hand of a fool\nCutteth off ",
+          "kind": "text"
+        },
+        {
+          "text": "his own",
+          "kind": "supplied"
+        },
+        {
+          "text": " feet, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " drinketh in damage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.7",
+      "edition_verse_id": "ASV1901:PRO.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The legs of the lame hang loose;\nSo is a parable in the mouth of fools.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.8",
+      "edition_verse_id": "ASV1901:PRO.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As one that bindeth a stone in a sling,\nSo is he that giveth honor to a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.9",
+      "edition_verse_id": "ASV1901:PRO.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " a thorn that goeth up into the hand of a drunkard,\nSo is a parable in the mouth of fools.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.10",
+      "edition_verse_id": "ASV1901:PRO.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " an archer that woundeth all,\nSo is he that hireth a fool and he that hireth them that pass by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.11",
+      "edition_verse_id": "ASV1901:PRO.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As a dog that returneth to his vomit,",
+          "kind": "text"
+        },
+        {
+          "text": "So is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a fool that repeateth his folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.12",
+      "edition_verse_id": "ASV1901:PRO.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Seest thou a man wise in his own conceit?\nThere is more hope of a fool than of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.13",
+      "edition_verse_id": "ASV1901:PRO.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The sluggard saith, There is a lion in the way;\nA lion is in the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.14",
+      "edition_verse_id": "ASV1901:PRO.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " the door turneth upon its hinges,\nSo doth the sluggard upon his bed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.15",
+      "edition_verse_id": "ASV1901:PRO.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The sluggard burieth his hand in the dish;\nIt wearieth him to bring it again to his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.16",
+      "edition_verse_id": "ASV1901:PRO.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The sluggard is wiser in his own conceit\nThan seven men that can render a reason.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.17",
+      "edition_verse_id": "ASV1901:PRO.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He that passeth by, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " vexeth himself with strife belonging not to him,\nIs ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " one that taketh a dog by the ears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.18",
+      "edition_verse_id": "ASV1901:PRO.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As a madman who casteth firebrands,\nArrows, and death,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.19",
+      "edition_verse_id": "ASV1901:PRO.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So is the man that deceiveth his neighbor,\nAnd saith, Am not I in sport?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.20",
+      "edition_verse_id": "ASV1901:PRO.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For lack of wood the fire goeth out;\nAnd where there is no whisperer, contention ceaseth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.21",
+      "edition_verse_id": "ASV1901:PRO.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " coals are to hot embers, and wood to fire,\nSo is a contentious man to inflame strife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.22",
+      "edition_verse_id": "ASV1901:PRO.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The words of a whisperer are as dainty morsels,\nAnd they go down into the innermost parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.23",
+      "edition_verse_id": "ASV1901:PRO.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Fervent lips and a wicked heart\nAre ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " an earthen vessel overlaid with silver dross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.24",
+      "edition_verse_id": "ASV1901:PRO.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He that hateth dissembleth with his lips;\nBut he layeth up deceit within him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.25",
+      "edition_verse_id": "ASV1901:PRO.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When he speaketh fair, believe him not;\nFor there are seven abominations in his heart:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.26",
+      "edition_verse_id": "ASV1901:PRO.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Though ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " hatred cover itself with guile,\nHis wickedness shall be openly showed before the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.27",
+      "edition_verse_id": "ASV1901:PRO.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Whoso diggeth a pit shall fall therein;\nAnd he that rolleth a stone, it shall return upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.28",
+      "edition_verse_id": "ASV1901:PRO.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "A lying tongue hateth those whom it hath wounded;\nAnd a flattering mouth worketh ruin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

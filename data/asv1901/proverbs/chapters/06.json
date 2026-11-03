@@ -1,0 +1,448 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "PRO.6.1",
+      "edition_verse_id": "ASV1901:PRO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My son, if thou art become surety for thy neighbor,\nIf thou hast stricken thy hands for a stranger;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.2",
+      "edition_verse_id": "ASV1901:PRO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Thou art snared with the words of thy mouth,\nThou art taken with the words of thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.3",
+      "edition_verse_id": "ASV1901:PRO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Do this now, my son, and deliver thyself,\nSeeing thou art come into the hand of thy neighbor:\nGo, humble thyself, and importune thy neighbor;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.4",
+      "edition_verse_id": "ASV1901:PRO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Give not sleep to thine eyes,\nNor slumber to thine eyelids;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.5",
+      "edition_verse_id": "ASV1901:PRO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Deliver thyself as a roe from the hand ",
+          "kind": "text"
+        },
+        {
+          "text": "of the hunter",
+          "kind": "supplied"
+        },
+        {
+          "text": ",\nAnd as a bird from the hand of the fowler.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.6",
+      "edition_verse_id": "ASV1901:PRO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Go to the ant, thou sluggard;\nConsider her ways, and be wise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.7",
+      "edition_verse_id": "ASV1901:PRO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Which having no chief,\nOverseer, or ruler,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.8",
+      "edition_verse_id": "ASV1901:PRO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Provideth her bread in the summer,\nAnd gathereth her food in the harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.9",
+      "edition_verse_id": "ASV1901:PRO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "How long wilt thou sleep, O sluggard?\nWhen wilt thou arise out of thy sleep?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.10",
+      "edition_verse_id": "ASV1901:PRO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " a little sleep, a little slumber,\nA little folding of the hands to sleep:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.11",
+      "edition_verse_id": "ASV1901:PRO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So shall thy poverty come as a robber,\nAnd thy want as an armed man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.12",
+      "edition_verse_id": "ASV1901:PRO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "A worthless person, a man of iniquity,\nIs he that walketh with a perverse mouth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.13",
+      "edition_verse_id": "ASV1901:PRO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "That winketh with his eyes, that speaketh with his feet,\nThat maketh signs with his fingers;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.14",
+      "edition_verse_id": "ASV1901:PRO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In whose heart is perverseness,\nWho deviseth evil continually,\nWho soweth discord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.15",
+      "edition_verse_id": "ASV1901:PRO.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Therefore shall his calamity come suddenly;\nOn a sudden shall he be broken, and that without remedy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.16",
+      "edition_verse_id": "ASV1901:PRO.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "There are six things which Jehovah hateth;\nYea, seven which are an abomination unto him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.17",
+      "edition_verse_id": "ASV1901:PRO.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Haughty eyes, a lying tongue,\nAnd hands that shed innocent blood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.18",
+      "edition_verse_id": "ASV1901:PRO.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "A heart that deviseth wicked purposes,\nFeet that are swift in running to mischief,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.19",
+      "edition_verse_id": "ASV1901:PRO.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A false witness that uttereth lies,\nAnd he that soweth discord among brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.20",
+      "edition_verse_id": "ASV1901:PRO.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My son, keep the commandment of thy father,\nAnd forsake not the law of thy mother:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.21",
+      "edition_verse_id": "ASV1901:PRO.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Bind them continually upon thy heart;\nTie them about thy neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.22",
+      "edition_verse_id": "ASV1901:PRO.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When thou walkest, it shall lead thee;\nWhen thou sleepest, it shall watch over thee;\nAnd when thou awakest, it shall talk with thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.23",
+      "edition_verse_id": "ASV1901:PRO.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For the commandment is a lamp; and the law is light;\nAnd reproofs of instruction are the way of life:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.24",
+      "edition_verse_id": "ASV1901:PRO.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "To keep thee from the evil woman,\nFrom the flattery of the foreigner’s tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.25",
+      "edition_verse_id": "ASV1901:PRO.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Lust not after her beauty in thy heart;\nNeither let her take thee with her eyelids.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.26",
+      "edition_verse_id": "ASV1901:PRO.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For on account of a harlot ",
+          "kind": "text"
+        },
+        {
+          "text": "a man is brought",
+          "kind": "supplied"
+        },
+        {
+          "text": " to a piece of bread;\nAnd the adulteress hunteth for the precious life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.27",
+      "edition_verse_id": "ASV1901:PRO.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Can a man take fire in his bosom,\nAnd his clothes not be burned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.28",
+      "edition_verse_id": "ASV1901:PRO.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Or can one walk upon hot coals,\nAnd his feet not be scorched?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.29",
+      "edition_verse_id": "ASV1901:PRO.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So he that goeth in to his neighbor’s wife;\nWhosoever toucheth her shall not be unpunished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.30",
+      "edition_verse_id": "ASV1901:PRO.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Men do not despise a thief, if he steal\nTo satisfy himself when he is hungry:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.31",
+      "edition_verse_id": "ASV1901:PRO.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But if he be found, he shall restore sevenfold;\nHe shall give all the substance of his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.32",
+      "edition_verse_id": "ASV1901:PRO.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He that committeth adultery with a woman is void of understanding:\nHe doeth it who would destroy his own soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.33",
+      "edition_verse_id": "ASV1901:PRO.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Wounds and dishonor shall he get;\nAnd his reproach shall not be wiped away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.34",
+      "edition_verse_id": "ASV1901:PRO.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For jealousy is the rage of a man;\nAnd he will not spare in the day of vengeance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.35",
+      "edition_verse_id": "ASV1901:PRO.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "He will not regard any ransom;\nNeither will he rest content, though thou givest many gifts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

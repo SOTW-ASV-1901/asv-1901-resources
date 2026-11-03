@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "book_name": "Proverbs",
+  "book_order": 20,
+  "canonical_ids": "PRO.{chapter}.{verse}",
+  "edition_ids": "ASV1901:PRO.{chapter}.{verse}",
+  "chapter_count": 31,
+  "verse_count": 915,
+  "chapter_path_template": "proverbs/chapters/{chapter:02d}.json",
+  "facsimile_index": "proverbs/page-index.json",
+  "predecessor_book_code": "PSA",
+  "successor_book_code": "ECC",
+  "source_provenance": "books/proverbs/SOURCE_INVENTORY.json",
+  "reader": "books/proverbs/site/index.html",
+  "note": "Book-specific catalog; 915 verse positions, no omissions in the paired digital witnesses. Historical source PDF not bundled. Original-language alignment not imported."
+}

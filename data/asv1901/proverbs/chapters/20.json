@@ -1,0 +1,432 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "PRO.20.1",
+      "edition_verse_id": "ASV1901:PRO.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Wine is a mocker, strong drink a brawler;\nAnd whosoever erreth thereby is not wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.2",
+      "edition_verse_id": "ASV1901:PRO.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The terror of a king is as the roaring of a lion:\nHe that provoketh him to anger sinneth ",
+          "kind": "text"
+        },
+        {
+          "text": "against",
+          "kind": "supplied"
+        },
+        {
+          "text": " his own life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.3",
+      "edition_verse_id": "ASV1901:PRO.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "It is an honor for a man to keep aloof from strife;\nBut every fool will be quarrelling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.4",
+      "edition_verse_id": "ASV1901:PRO.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The sluggard will not plow by reason of the winter;Therefore he shall beg in harvest, and have nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.5",
+      "edition_verse_id": "ASV1901:PRO.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Counsel in the heart of man is ",
+          "kind": "text"
+        },
+        {
+          "text": "like",
+          "kind": "supplied"
+        },
+        {
+          "text": " deep water;\nBut a man of understanding will draw it out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.6",
+      "edition_verse_id": "ASV1901:PRO.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Most men will proclaim every one his own kindness;\nBut a faithful man who can find?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.7",
+      "edition_verse_id": "ASV1901:PRO.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A righteous man that walketh in his integrity,\nBlessed are his children after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.8",
+      "edition_verse_id": "ASV1901:PRO.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "A king that sitteth on the throne of judgmentScattereth away all evil with his eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.9",
+      "edition_verse_id": "ASV1901:PRO.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who can say, I have made my heart clean,\nI am pure from my sin?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.10",
+      "edition_verse_id": "ASV1901:PRO.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Diverse weights, and diverse measures,\nBoth of them alike are an abomination to Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.11",
+      "edition_verse_id": "ASV1901:PRO.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Even a child maketh himself known by his doings,\nWhether his work be pure, and whether it be right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.12",
+      "edition_verse_id": "ASV1901:PRO.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The hearing ear, and the seeing eye,\nJehovah hath made even both of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.13",
+      "edition_verse_id": "ASV1901:PRO.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Love not sleep, lest thou come to poverty;\nOpen thine eyes, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou shalt be satisfied with bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.14",
+      "edition_verse_id": "ASV1901:PRO.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "It is bad, it is bad, saith the buyer;\nBut when he is gone his way, then he boasteth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.15",
+      "edition_verse_id": "ASV1901:PRO.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "There is gold, and abundance of rubies;\nBut the lips of knowledge are a precious jewel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.16",
+      "edition_verse_id": "ASV1901:PRO.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Take his garment that is surety for a stranger;\nAnd hold him in pledge ",
+          "kind": "text"
+        },
+        {
+          "text": "that is surety",
+          "kind": "supplied"
+        },
+        {
+          "text": " for foreigners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.17",
+      "edition_verse_id": "ASV1901:PRO.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Bread of falsehood is sweet to a man;\nBut afterwards his mouth shall be filled with gravel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.18",
+      "edition_verse_id": "ASV1901:PRO.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Every purpose is established by counsel;\nAnd by wise guidance make thou war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.19",
+      "edition_verse_id": "ASV1901:PRO.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He that goeth about as a tale-bearer revealeth secrets;\nTherefore company not with him that openeth wide his lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.20",
+      "edition_verse_id": "ASV1901:PRO.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Whoso curseth his father or his mother,\nHis lamp shall be put out in blackness of darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.21",
+      "edition_verse_id": "ASV1901:PRO.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "An inheritance ",
+          "kind": "text"
+        },
+        {
+          "text": "may be",
+          "kind": "supplied"
+        },
+        {
+          "text": " gotten hastily at the beginning;\nBut the end thereof shall not be blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.22",
+      "edition_verse_id": "ASV1901:PRO.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Say not thou, I will recompense evil:\nWait for Jehovah, and he will save thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.23",
+      "edition_verse_id": "ASV1901:PRO.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Diverse weights are an abomination to Jehovah;\nAnd a false balance is not good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.24",
+      "edition_verse_id": "ASV1901:PRO.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "A man’s goings are of Jehovah;\nHow then can man understand his way?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.25",
+      "edition_verse_id": "ASV1901:PRO.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It is a snare to a man rashly to say, ",
+          "kind": "text"
+        },
+        {
+          "text": "It is",
+          "kind": "supplied"
+        },
+        {
+          "text": " holy,\nAnd after vows to make inquiry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.26",
+      "edition_verse_id": "ASV1901:PRO.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "A wise king winnoweth the wicked,\nAnd bringeth the ",
+          "kind": "text"
+        },
+        {
+          "text": "threshing",
+          "kind": "supplied"
+        },
+        {
+          "text": "-wheel over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.27",
+      "edition_verse_id": "ASV1901:PRO.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The spirit of man is the lamp of Jehovah,\nSearching all his innermost parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.28",
+      "edition_verse_id": "ASV1901:PRO.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Kindness and truth preserve the king;\nAnd his throne is upholden by kindness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.29",
+      "edition_verse_id": "ASV1901:PRO.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The glory of young men is their strength;\nAnd the beauty of old men is the hoary head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.30",
+      "edition_verse_id": "ASV1901:PRO.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Stripes that wound cleanse away evil;\nAnd strokes ",
+          "kind": "text"
+        },
+        {
+          "text": "reach",
+          "kind": "supplied"
+        },
+        {
+          "text": " the innermost parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

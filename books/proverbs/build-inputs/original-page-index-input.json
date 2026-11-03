@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PRO",
+  "source_pdf_first_page": 671,
+  "source_pdf_last_page": 701,
+  "pages": [
+    {
+      "source_pdf_page": 671,
+      "first_physical_verse": "PRO.1.1",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 672,
+      "first_physical_verse": "PRO.1.27",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 673,
+      "first_physical_verse": "PRO.3.3",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 674,
+      "first_physical_verse": "PRO.3.34",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 675,
+      "first_physical_verse": "PRO.5.5",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 676,
+      "first_physical_verse": "PRO.6.13",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 677,
+      "first_physical_verse": "PRO.7.8",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 678,
+      "first_physical_verse": "PRO.8.12",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 679,
+      "first_physical_verse": "PRO.9.6",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 680,
+      "first_physical_verse": "PRO.10.17",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 681,
+      "first_physical_verse": "PRO.11.14",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 682,
+      "first_physical_verse": "PRO.12.12",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 683,
+      "first_physical_verse": "PRO.13.13",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 684,
+      "first_physical_verse": "PRO.14.17",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 685,
+      "first_physical_verse": "PRO.15.12",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 686,
+      "first_physical_verse": "PRO.16.9",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 687,
+      "first_physical_verse": "PRO.17.7",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 688,
+      "first_physical_verse": "PRO.18.8",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 689,
+      "first_physical_verse": "PRO.19.14",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 690,
+      "first_physical_verse": "PRO.20.13",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 691,
+      "first_physical_verse": "PRO.21.13",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 692,
+      "first_physical_verse": "PRO.22.12",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 693,
+      "first_physical_verse": "PRO.23.14",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 694,
+      "first_physical_verse": "PRO.24.11",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 695,
+      "first_physical_verse": "PRO.25.4",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 696,
+      "first_physical_verse": "PRO.26.5",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 697,
+      "first_physical_verse": "PRO.27.8",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 698,
+      "first_physical_verse": "PRO.28.9",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 699,
+      "first_physical_verse": "PRO.29.9",
+      "begins_with_verse_continuation": false
+    },
+    {
+      "source_pdf_page": 700,
+      "first_physical_verse": "PRO.30.8",
+      "begins_with_verse_continuation": true
+    },
+    {
+      "source_pdf_page": 701,
+      "first_physical_verse": "PRO.31.1",
+      "begins_with_verse_continuation": false
+    }
+  ],
+  "method": "Visual scan page headings, first textual lines, last textual lines and verse continuations; not verse-level original-print text proofreading."
+}

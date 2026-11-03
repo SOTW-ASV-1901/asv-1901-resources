@@ -1,0 +1,40 @@
+{
+  "edition": "ASV1901",
+  "book_code": "PRO",
+  "original_print_pdf": {
+    "filename": "Bible_(1901_American_Standard_Version).pdf",
+    "sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "pdf_pages": 1310,
+    "included_in_release": false,
+    "source_url": "https://archive.org/details/holybible00newy",
+    "printed_proverbs_page_range": [
+      629,
+      659
+    ],
+    "source_pdf_page_range": [
+      671,
+      701
+    ]
+  },
+  "upstream_archives": {
+    "primary_english_usx_archive": {
+      "filename": "American-Standard-Version-Bible-master.zip",
+      "sha256": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247"
+    },
+    "comparison_usfm_archive": {
+      "filename": "eng-asv_usfm.zip",
+      "sha256": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+    }
+  },
+  "source_subfiles": {
+    "primary_usx": "books/proverbs/sources/asv1901-english-only/20-PRO.usx",
+    "comparison_usfm": "books/proverbs/sources/comparison-only/21-PROeng-asv.usfm"
+  },
+  "source_subfile_hashes": {
+    "primary_usx": "f677068bbe97eff1f6c89276b0d8fb49c7f9496e31e782a22b32ff67f8378e3f",
+    "comparison_usfm": "54051e13569cca63fc49b5bb79ef062181d21ae1807ed00ecf49f6a1c8272b3f"
+  },
+  "digital_source_witness_independence": "NOT_ESTABLISHED",
+  "rights_note": "The original ASV 1901 text is public domain in the United States; verify territorial laws for reuse abroad. Source editions and archive scan provenance retained.",
+  "strongs_alignment": "NOT_IMPORTED_UNVERIFIED"
+}

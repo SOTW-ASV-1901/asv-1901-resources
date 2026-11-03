@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "book_code": "PRO",
+  "edition_id": "ASV1901",
+  "book_order": 20,
+  "chapters": 31,
+  "main_text_verse_count": 915,
+  "italic_spans": 209,
+  "primary_usx_notes_preserved_in_original_source": 395,
+  "digital_witness_differences": 2,
+  "differences_documented": 2,
+  "supplied_italics_vs_comparison_source": "PASS_209_OF_209",
+  "original_1901_scan_sha256_verified": true,
+  "source_pdf_pages": [
+    671,
+    701
+  ],
+  "printed_page_range": [
+    629,
+    659
+  ],
+  "physical_pages": 31,
+  "page_spanning_verses": 8,
+  "facsimile_volumes": 2,
+  "page_index_coverage": "PASS_ALL_915_VERSES",
+  "original_pdf_included": false,
+  "main_text_character_by_character_print_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "original_source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "validation_boundaries": "Content and facsimile locally tested; production GitHub not modified"
+}
