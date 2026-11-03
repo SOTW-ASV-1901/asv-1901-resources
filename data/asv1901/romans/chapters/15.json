@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "ROM.15.1",
+      "edition_verse_id": "ASV1901:ROM.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now we that are strong ought to bear the infirmities of the weak, and not to please ourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.2",
+      "edition_verse_id": "ASV1901:ROM.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let each one of us please his neighbor for that which is good, unto edifying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.3",
+      "edition_verse_id": "ASV1901:ROM.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Christ also pleased not himself; but, as it is written, The reproaches of them that reproached thee fell upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.4",
+      "edition_verse_id": "ASV1901:ROM.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For whatsoever things were written aforetime were written for our learning, that through patience and through comfort of the scriptures we might have hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.5",
+      "edition_verse_id": "ASV1901:ROM.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now the God of patience and of comfort grant you to be of the same mind one with another according to Christ Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.6",
+      "edition_verse_id": "ASV1901:ROM.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "that with one accord ye may with one mouth glorify the God and Father of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.7",
+      "edition_verse_id": "ASV1901:ROM.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wherefore receive ye one another, even as Christ also received you, to the glory of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.8",
+      "edition_verse_id": "ASV1901:ROM.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For I say that Christ hath been made a minister of the circumcision for the truth of God, that he might confirm the promises ",
+          "kind": "text"
+        },
+        {
+          "text": "given",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto the fathers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.9",
+      "edition_verse_id": "ASV1901:ROM.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and that the Gentiles might glorify God for his mercy; as it is written,Therefore will I give praise unto thee among the Gentiles,\nAnd sing unto thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.10",
+      "edition_verse_id": "ASV1901:ROM.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And again he saith,Rejoice, ye Gentiles, with his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.11",
+      "edition_verse_id": "ASV1901:ROM.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And again,Praise the Lord, all ye Gentiles;\nAnd let all the peoples praise him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.12",
+      "edition_verse_id": "ASV1901:ROM.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And again, Isaiah saith,There shall be the root of Jesse,\nAnd he that ariseth to rule over the Gentiles;\nOn him shall the Gentiles hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.13",
+      "edition_verse_id": "ASV1901:ROM.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, in the power of the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.14",
+      "edition_verse_id": "ASV1901:ROM.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I myself also am persuaded of you, my brethren, that ye yourselves are full of goodness, filled with all knowledge, able also to admonish one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.15",
+      "edition_verse_id": "ASV1901:ROM.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But I write the more boldly unto you in some measure, as putting you again in remembrance, because of the grace that was given me of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.16",
+      "edition_verse_id": "ASV1901:ROM.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "that I should be a minister of Christ Jesus unto the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be made acceptable, being sanctified by the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.17",
+      "edition_verse_id": "ASV1901:ROM.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I have therefore my glorying in Christ Jesus in things pertaining to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.18",
+      "edition_verse_id": "ASV1901:ROM.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I will not dare to speak of any things save those which Christ wrought through me, for the obedience of the Gentiles, by word and deed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.19",
+      "edition_verse_id": "ASV1901:ROM.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "in the power of signs and wonders, in the power of the Holy Spirit; so that from Jerusalem, and round about even unto Illyricum, I have fully preached the gospel of Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.20",
+      "edition_verse_id": "ASV1901:ROM.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "yea, making it my aim so to preach the gospel, not where Christ was ",
+          "kind": "text"
+        },
+        {
+          "text": "already",
+          "kind": "supplied"
+        },
+        {
+          "text": " named, that I might not build upon another man’s foundation;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.21",
+      "edition_verse_id": "ASV1901:ROM.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "but, as it is written,They shall see, to whom no tidings of him came,\nAnd they who have not heard shall understand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.22",
+      "edition_verse_id": "ASV1901:ROM.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Wherefore also I was hindered these many times from coming to you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.23",
+      "edition_verse_id": "ASV1901:ROM.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "but now, having no more any place in these regions, and having these many years a longing to come unto you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.24",
+      "edition_verse_id": "ASV1901:ROM.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "whensoever I go unto Spain (for I hope to see you in my journey, and to be brought on my way thitherward by you, if first in some measure I shall have been satisfied with your company)—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.25",
+      "edition_verse_id": "ASV1901:ROM.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "but now, ",
+          "kind": "text"
+        },
+        {
+          "text": "I say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I go unto Jerusalem, ministering unto the saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.26",
+      "edition_verse_id": "ASV1901:ROM.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For it hath been the good pleasure of Macedonia and Achaia to make a certain contribution for the poor among the saints that are at Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.27",
+      "edition_verse_id": "ASV1901:ROM.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Yea, it hath been their good pleasure; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, they owe it ",
+          "kind": "text"
+        },
+        {
+          "text": "to them",
+          "kind": "supplied"
+        },
+        {
+          "text": " also to minister unto them in carnal things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.28",
+      "edition_verse_id": "ASV1901:ROM.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When therefore I have accomplished this, and have sealed to them this fruit, I will go on by you unto Spain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.29",
+      "edition_verse_id": "ASV1901:ROM.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And I know that, when I come unto you, I shall come in the fulness of the blessing of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.30",
+      "edition_verse_id": "ASV1901:ROM.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Now I beseech you, brethren, by our Lord Jesus Christ, and by the love of the Spirit, that ye strive together with me in your prayers to God for me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.15.31",
+      "edition_verse_id": "ASV1901:ROM.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "that I may be delivered from them that are disobedient in Judaea, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " my ministration which ",
+          "kind": "text"
+        },
+        {
+          "text": "I have",
+          "kind": "supplied"
+        },
+        {
+          "text": " for Jerusalem may be acceptable to the saints;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.32",
+      "edition_verse_id": "ASV1901:ROM.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "that I may come unto you in joy through the will of God, and together with you find rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.15.33",
+      "edition_verse_id": "ASV1901:ROM.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Now the God of peace be with you all. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "ROM.2.1",
+      "edition_verse_id": "ASV1901:ROM.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Wherefore thou art without excuse, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest dost practise the same things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.2",
+      "edition_verse_id": "ASV1901:ROM.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And we know that the judgment of God is according to truth against them that practise such things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.3",
+      "edition_verse_id": "ASV1901:ROM.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And reckonest thou this, O man, who judgest them that practise such things, and doest the same, that thou shalt escape the judgment of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.4",
+      "edition_verse_id": "ASV1901:ROM.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Or despisest thou the riches of his goodness and forbearance and longsuffering, not knowing that the goodness of God leadeth thee to repentance?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.5",
+      "edition_verse_id": "ASV1901:ROM.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "but after thy hardness and impenitent heart treasurest up for thyself wrath in the day of wrath and revelation of the righteous judgment of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.6",
+      "edition_verse_id": "ASV1901:ROM.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "who will render to every man according to his works:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.7",
+      "edition_verse_id": "ASV1901:ROM.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "to them that by patience in well-doing seek for glory and honor and incorruption, eternal life:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.8",
+      "edition_verse_id": "ASV1901:ROM.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "but unto them that are factious, and obey not the truth, but obey unrighteousness, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " wrath and indignation,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.9",
+      "edition_verse_id": "ASV1901:ROM.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "tribulation and anguish, upon every soul of man that worketh evil, of the Jew first, and also of the Greek;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.10",
+      "edition_verse_id": "ASV1901:ROM.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but glory and honor and peace to every man that worketh good, to the Jew first, and also to the Greek:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.11",
+      "edition_verse_id": "ASV1901:ROM.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "for there is no respect of persons with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.12",
+      "edition_verse_id": "ASV1901:ROM.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For as many as have sinned without the law shall also perish without the law: and as many as have sinned under the law shall be judged by the law;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.13",
+      "edition_verse_id": "ASV1901:ROM.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "for not the hearers of the law are just before God, but the doers of the law shall be justified;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.14",
+      "edition_verse_id": "ASV1901:ROM.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "(for when Gentiles that have not the law do by nature the things of the law, these, not having the law, are the law unto themselves;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.15",
+      "edition_verse_id": "ASV1901:ROM.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "in that they show the work of the law written in their hearts, their conscience bearing witness therewith, and their thoughts one with another accusing or else excusing ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ");",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.16",
+      "edition_verse_id": "ASV1901:ROM.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "in the day when God shall judge the secrets of men, according to my gospel, by Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.17",
+      "edition_verse_id": "ASV1901:ROM.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if thou bearest the name of a Jew, and restest upon the law, and gloriest in God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.18",
+      "edition_verse_id": "ASV1901:ROM.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and knowest his will, and approvest the things that are excellent, being instructed out of the law,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.19",
+      "edition_verse_id": "ASV1901:ROM.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and art confident that thou thyself art a guide of the blind, a light of them that are in darkness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.20",
+      "edition_verse_id": "ASV1901:ROM.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "a corrector of the foolish, a teacher of babes, having in the law the form of knowledge and of the truth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.21",
+      "edition_verse_id": "ASV1901:ROM.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "thou therefore that teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.22",
+      "edition_verse_id": "ASV1901:ROM.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou rob temples?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.23",
+      "edition_verse_id": "ASV1901:ROM.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "thou who gloriest in the law, through thy transgression of the law dishonorest thou God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.24",
+      "edition_verse_id": "ASV1901:ROM.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For the name of God is blasphemed among the Gentiles because of you, even as it is written.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.25",
+      "edition_verse_id": "ASV1901:ROM.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For circumcision indeed profiteth, if thou be a doer of the law: but if thou be a transgressor of the law, thy circumcision is become uncircumcision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.26",
+      "edition_verse_id": "ASV1901:ROM.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If therefore the uncircumcision keep the ordinances of the law, shall not his uncircumcision be reckoned for circumcision?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.27",
+      "edition_verse_id": "ASV1901:ROM.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and shall not the uncircumcision which is by nature, if it fulfil the law, judge thee, who with the letter and circumcision art a transgressor of the law?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.28",
+      "edition_verse_id": "ASV1901:ROM.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For he is not a Jew who is one outwardly; neither is that circumcision which is outward in the flesh:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.29",
+      "edition_verse_id": "ASV1901:ROM.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "but he is a Jew who is one inwardly; and circumcision is that of the heart, in the spirit not in the letter; whose praise is not of men, but of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Romans | ASV1901 data contract
+
+Canonical verse IDs `ROM.{chapter}.{verse}` and edition IDs `ASV1901:ROM.{chapter}.{verse}`. 432 main-text verses in 16 chapters. Historically absent traditional verses ROM.16.24 are referenced in `verse-omissions.json`, never inserted as Scripture. Selected historically printed variants are in `textual-apparatus.json`; all original printed notes remain in the scanned pages and original USX source. Span `kind=supplied` is reserved for translated words italicized by original translators. All page IDs are original source PDF page numbers, not recomputed PDF split page numbers. Original maps and interleaves are non-Scripture. Do not import unverified Strong's links or alter the global catalog/CGBC player.

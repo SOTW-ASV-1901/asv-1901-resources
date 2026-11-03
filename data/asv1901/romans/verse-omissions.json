@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "traditional_verse_positions": 433,
+  "main_text_verse_count": 432,
+  "omissions": [
+    {
+      "verse_id": "ROM.16.24",
+      "edition_verse_id": "ASV1901:ROM.16.24",
+      "status": "NOT_IN_1901_MAIN_TEXT",
+      "source_pdf_page": 1165,
+      "source_note": "Traditional verse wording appears in original marginal apparatus, not as running main-text verse."
+    }
+  ]
+}

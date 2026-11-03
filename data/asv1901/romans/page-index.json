@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1151,
+      "type": "scripture",
+      "printed_page": 157,
+      "first_verse": "ROM.1.1",
+      "last_verse": "ROM.1.23",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1152,
+      "type": "scripture",
+      "printed_page": 158,
+      "first_verse": "ROM.1.24",
+      "last_verse": "ROM.2.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1153,
+      "type": "scripture",
+      "printed_page": 159,
+      "first_verse": "ROM.2.19",
+      "last_verse": "ROM.3.21",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1154,
+      "type": "scripture",
+      "printed_page": 160,
+      "first_verse": "ROM.3.21",
+      "last_verse": "ROM.4.19",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1155,
+      "type": "scripture",
+      "printed_page": 161,
+      "first_verse": "ROM.4.19",
+      "last_verse": "ROM.5.21",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1156,
+      "type": "scripture",
+      "printed_page": 162,
+      "first_verse": "ROM.6.1",
+      "last_verse": "ROM.7.6",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1157,
+      "type": "scripture",
+      "printed_page": 163,
+      "first_verse": "ROM.7.6",
+      "last_verse": "ROM.8.13",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1158,
+      "type": "scripture",
+      "printed_page": 164,
+      "first_verse": "ROM.8.14",
+      "last_verse": "ROM.9.1",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1159,
+      "type": "scripture",
+      "printed_page": 165,
+      "first_verse": "ROM.9.1",
+      "last_verse": "ROM.9.31",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1160,
+      "type": "scripture",
+      "printed_page": 166,
+      "first_verse": "ROM.9.31",
+      "last_verse": "ROM.11.8",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 1161,
+      "type": "scripture",
+      "printed_page": 167,
+      "first_verse": "ROM.11.8",
+      "last_verse": "ROM.11.36",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 1162,
+      "type": "scripture",
+      "printed_page": 168,
+      "first_verse": "ROM.12.1",
+      "last_verse": "ROM.13.9",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 12
+    },
+    {
+      "source_pdf_page": 1163,
+      "type": "scripture",
+      "printed_page": 169,
+      "first_verse": "ROM.13.9",
+      "last_verse": "ROM.14.23",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 13
+    },
+    {
+      "source_pdf_page": 1164,
+      "type": "scripture",
+      "printed_page": 170,
+      "first_verse": "ROM.15.1",
+      "last_verse": "ROM.15.26",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 14
+    },
+    {
+      "source_pdf_page": 1165,
+      "type": "scripture",
+      "printed_page": 171,
+      "first_verse": "ROM.15.26",
+      "last_verse": "ROM.16.25",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 15
+    },
+    {
+      "source_pdf_page": 1166,
+      "type": "scripture",
+      "printed_page": 172,
+      "first_verse": "ROM.16.25",
+      "last_verse": "ROM.16.27",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-romans-pages-1151-1166.pdf",
+      "volume_pdf_page": 16
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-romans-pages-1151-1166.pdf",
+      "first_source_pdf_page": 1151,
+      "last_source_pdf_page": 1166,
+      "bytes": 1854914,
+      "sha256": "f8dc94a91680406cb4d4ea508ee20fb0eea54b2f8069b183eaee75d30c95f68d"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

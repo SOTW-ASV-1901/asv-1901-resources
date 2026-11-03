@@ -1,0 +1,5 @@
+# Romans | Validation boundaries
+
+Counts: 16 chapters; 432 original ASV1901 main-text verses; 433 traditional verse numbering positions, with historically omitted main-text positions ROM.16.24. The complete corresponding physical pages are preserved, including original margin and other apparatus. Original PDF pages 1151–1166, printed NT Scripture pages 157–172. No map or blank interleaf occurs inside this book in the original printing. 
+
+Both original digital witnesses are retained byte-for-byte, and documentary print-backed repairs (if any) apply only to generated chapter text. All translator-supplied italic spans are compared to the other witness. The PDF image streams and placements, selected rendered images, complete verse-to-page index, chapter schema, reader resources, source hashes, and deterministic regeneration are verified in the independent audit. It does not claim that all original pages were exhaustively character-proofread or the public GitHub Pages reader was tested before deployment. Historical manuscript notes describe the 1901 editors' printed annotations and are not modern critical judgments.

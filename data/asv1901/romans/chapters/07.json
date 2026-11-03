@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "ROM.7.1",
+      "edition_verse_id": "ASV1901:ROM.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Or are ye ignorant, brethren (for I speak to men who know the law), that the law hath dominion over a man for so long time as he liveth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.7.2",
+      "edition_verse_id": "ASV1901:ROM.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For the woman that hath a husband is bound by law to the husband while he liveth; but if the husband die, she is discharged from the law of the husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.3",
+      "edition_verse_id": "ASV1901:ROM.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So then if, while the husband liveth, she be joined to another man, she shall be called an adulteress: but if the husband die, she is free from the law, so that she is no adulteress, though she be joined to another man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.4",
+      "edition_verse_id": "ASV1901:ROM.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Wherefore, my brethren, ye also were made dead to the law through the body of Christ; that ye should be joined to another, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him who was raised from the dead, that we might bring forth fruit unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.5",
+      "edition_verse_id": "ASV1901:ROM.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For when we were in the flesh, the sinful passions, which were through the law, wrought in our members to bring forth fruit unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.6",
+      "edition_verse_id": "ASV1901:ROM.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But now we have been discharged from the law, having died to that wherein we were held; so that we serve in newness of the spirit, and not in oldness of the letter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.7",
+      "edition_verse_id": "ASV1901:ROM.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "What shall we say then? Is the law sin? God forbid. Howbeit, I had not known sin, except through the law: for I had not known coveting, except the law had said, Thou shalt not covet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.7.8",
+      "edition_verse_id": "ASV1901:ROM.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "but sin, finding occasion, wrought in me through the commandment all manner of coveting: for apart from the law sin ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.9",
+      "edition_verse_id": "ASV1901:ROM.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And I was alive apart from the law once: but when the commandment came, sin revived, and I died;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.10",
+      "edition_verse_id": "ASV1901:ROM.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and the commandment, which ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto life, this I found ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto death:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.11",
+      "edition_verse_id": "ASV1901:ROM.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "for sin, finding occasion, through the commandment beguiled me, and through it slew me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.12",
+      "edition_verse_id": "ASV1901:ROM.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So that the law is holy, and the commandment holy, and righteous, and good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.13",
+      "edition_verse_id": "ASV1901:ROM.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Did then that which is good become death unto me? God forbid. But sin, that it might be shown to be sin, by working death to me through that which is good;—that through the commandment sin might become exceeding sinful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.14",
+      "edition_verse_id": "ASV1901:ROM.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For we know that the law is spiritual: but I am carnal, sold under sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.15",
+      "edition_verse_id": "ASV1901:ROM.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For that which I do I know not: for not what I would, that do I practise; but what I hate, that I do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.16",
+      "edition_verse_id": "ASV1901:ROM.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But if what I would not, that I do, I consent unto the law that it is good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.17",
+      "edition_verse_id": "ASV1901:ROM.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So now it is no more I that do it, but sin which dwelleth in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.18",
+      "edition_verse_id": "ASV1901:ROM.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I know that in me, that is, in my flesh, dwelleth no good thing: for to will is present with me, but to do that which is good ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.19",
+      "edition_verse_id": "ASV1901:ROM.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the good which I would I do not: but the evil which I would not, that I practise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.20",
+      "edition_verse_id": "ASV1901:ROM.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But if what I would not, that I do, it is no more I that do it, but sin which dwelleth in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.21",
+      "edition_verse_id": "ASV1901:ROM.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I find then the law, that, to me who would do good, evil is present.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.22",
+      "edition_verse_id": "ASV1901:ROM.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I delight in the law of God after the inward man:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.23",
+      "edition_verse_id": "ASV1901:ROM.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.24",
+      "edition_verse_id": "ASV1901:ROM.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Wretched man that I am! who shall deliver me out of the body of this death?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.7.25",
+      "edition_verse_id": "ASV1901:ROM.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I thank God through Jesus Christ our Lord. So then I of myself with the mind, indeed, serve the law of God; but with the flesh the law of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

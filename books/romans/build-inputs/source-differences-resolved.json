@@ -1,0 +1,43 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "difference_count": 4,
+  "typographical_or_orthographic_count": 3,
+  "different_words_or_hyphenation_count": 1,
+  "differences": [
+    {
+      "verse_id": "ROM.15.31",
+      "primary_usx": "that I may be delivered from them that are disobedient in Judaea, and that my ministration which I have for Jerusalem may be acceptable to the saints;",
+      "comparison_usfm": "that I may be delivered from them that are disobedient in Judæa, and that my ministration which I have for Jerusalem may be acceptable to the saints;",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ROM.16.1",
+      "primary_usx": "I commend unto you Phoebe our sister, who is a servant of the church that is at Cenchreae:",
+      "comparison_usfm": "I commend unto you Phoebe our sister, who is a servant of the church that is at Cenchreæ:",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ROM.16.5",
+      "primary_usx": "and salute the church that is in their house. Salute Epaenetus my beloved, who is the first-fruits of Asia unto Christ.",
+      "comparison_usfm": "and salute the church that is in their house. Salute Epænetus my beloved, who is the firstfruits of Asia unto Christ.",
+      "kind": "different_words_or_hyphenation",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "ROM.16.12",
+      "primary_usx": "Salute Tryphaena and Tryphosa, who labor in the Lord. Salute Persis the beloved, who labored much in the Lord.",
+      "comparison_usfm": "Salute Tryphæna and Tryphosa, who labor in the Lord. Salute Persis the beloved, who labored much in the Lord.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    }
+  ],
+  "print_backed_decisions": [],
+  "additional_print_backed_uncorrected_readings": {
+    "ACT.28.6": "Original print has came (primary USX), comparison has come.",
+    "ROM.16.5": "Original print has Epaenetus and first-fruits (primary USX), comparison has Epænetus and firstfruits."
+  },
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

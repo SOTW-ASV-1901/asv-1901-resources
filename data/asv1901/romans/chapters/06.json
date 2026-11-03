@@ -1,0 +1,348 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "ROM.6.1",
+      "edition_verse_id": "ASV1901:ROM.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "What shall we say then? Shall we continue in sin, that grace may abound?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.2",
+      "edition_verse_id": "ASV1901:ROM.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "God forbid. We who died to sin, how shall we any longer live therein?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.3",
+      "edition_verse_id": "ASV1901:ROM.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Or are ye ignorant that all we who were baptized into Christ Jesus were baptized into his death?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.4",
+      "edition_verse_id": "ASV1901:ROM.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We were buried therefore with him through baptism into death: that like as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.5",
+      "edition_verse_id": "ASV1901:ROM.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For if we have become united with ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the likeness of his death, we shall be also ",
+          "kind": "text"
+        },
+        {
+          "text": "in the likeness",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his resurrection;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.6",
+      "edition_verse_id": "ASV1901:ROM.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "knowing this, that our old man was crucified with ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that the body of sin might be done away, that so we should no longer be in bondage to sin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.7",
+      "edition_verse_id": "ASV1901:ROM.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "for he that hath died is justified from sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.8",
+      "edition_verse_id": "ASV1901:ROM.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But if we died with Christ, we believe that we shall also live with him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.9",
+      "edition_verse_id": "ASV1901:ROM.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "knowing that Christ being raised from the dead dieth no more; death no more hath dominion over him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.10",
+      "edition_verse_id": "ASV1901:ROM.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the death that he died, he died unto sin once: but the life that he liveth, he liveth unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.11",
+      "edition_verse_id": "ASV1901:ROM.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Even so reckon ye also yourselves to be dead unto sin, but alive unto God in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.12",
+      "edition_verse_id": "ASV1901:ROM.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let not sin therefore reign in your mortal body, that ye should obey the lusts thereof:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.13",
+      "edition_verse_id": "ASV1901:ROM.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "neither present your members unto sin ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " instruments of unrighteousness; but present yourselves unto God, as alive from the dead, and your members ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " instruments of righteousness unto God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.14",
+      "edition_verse_id": "ASV1901:ROM.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For sin shall not have dominion over you: for ye are not under law, but under grace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.15",
+      "edition_verse_id": "ASV1901:ROM.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What then? shall we sin, because we are not under law, but under grace? God forbid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.16",
+      "edition_verse_id": "ASV1901:ROM.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Know ye not, that to whom ye present yourselves ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants unto obedience, his servants ye are whom ye obey; whether of sin unto death, or of obedience unto righteousness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.17",
+      "edition_verse_id": "ASV1901:ROM.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But thanks be to God, that, whereas ye were servants of sin, ye became obedient from the heart to that form of teaching whereunto ye were delivered;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.18",
+      "edition_verse_id": "ASV1901:ROM.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and being made free from sin, ye became servants of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.19",
+      "edition_verse_id": "ASV1901:ROM.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I speak after the manner of men because of the infirmity of your flesh: for as ye presented your members ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants to uncleanness and to iniquity unto iniquity, even so now present your members ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants to righteousness unto sanctification.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.20",
+      "edition_verse_id": "ASV1901:ROM.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For when ye were servants of sin, ye were free in regard of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.21",
+      "edition_verse_id": "ASV1901:ROM.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "What fruit then had ye at that time in the things whereof ye are now ashamed? for the end of those things is death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.22",
+      "edition_verse_id": "ASV1901:ROM.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But now being made free from sin and become servants to God, ye have your fruit unto sanctification, and the end eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.23",
+      "edition_verse_id": "ASV1901:ROM.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For the wages of sin is death; but the free gift of God is eternal life in Christ Jesus our Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

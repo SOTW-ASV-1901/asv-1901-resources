@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "ROM.16.1",
+      "edition_verse_id": "ASV1901:ROM.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I commend unto you Phoebe our sister, who is a servant of the church that is at Cenchreae:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.2",
+      "edition_verse_id": "ASV1901:ROM.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that ye receive her in the Lord, worthily of the saints, and that ye assist her in whatsoever matter she may have need of you: for she herself also hath been a helper of many, and of mine own self.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.3",
+      "edition_verse_id": "ASV1901:ROM.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Salute Prisca and Aquila my fellow-workers in Christ Jesus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.4",
+      "edition_verse_id": "ASV1901:ROM.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "who for my life laid down their own necks; unto whom not only I give thanks, but also all the churches of the Gentiles:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.5",
+      "edition_verse_id": "ASV1901:ROM.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and ",
+          "kind": "text"
+        },
+        {
+          "text": "salute",
+          "kind": "supplied"
+        },
+        {
+          "text": " the church that is in their house. Salute Epaenetus my beloved, who is the first-fruits of Asia unto Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.6",
+      "edition_verse_id": "ASV1901:ROM.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Salute Mary, who bestowed much labor on you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.7",
+      "edition_verse_id": "ASV1901:ROM.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Salute Andronicus and Junias, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also have been in Christ before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.8",
+      "edition_verse_id": "ASV1901:ROM.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Salute Ampliatus my beloved in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.9",
+      "edition_verse_id": "ASV1901:ROM.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Salute Urbanus our fellow-worker in Christ, and Stachys my beloved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.10",
+      "edition_verse_id": "ASV1901:ROM.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Salute Apelles the approved in Christ. Salute them that are of the ",
+          "kind": "text"
+        },
+        {
+          "text": "household",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Aristobulus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.11",
+      "edition_verse_id": "ASV1901:ROM.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Salute Herodion my kinsman. Salute them of the ",
+          "kind": "text"
+        },
+        {
+          "text": "household",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Narcissus, that are in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.12",
+      "edition_verse_id": "ASV1901:ROM.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Salute Tryphaena and Tryphosa, who labor in the Lord. Salute Persis the beloved, who labored much in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.13",
+      "edition_verse_id": "ASV1901:ROM.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Salute Rufus the chosen in the Lord, and his mother and mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.14",
+      "edition_verse_id": "ASV1901:ROM.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Salute Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brethren that are with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.15",
+      "edition_verse_id": "ASV1901:ROM.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Salute Philologus and Julia, Nereus and his sister, and Olympas, and all the saints that are with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.16",
+      "edition_verse_id": "ASV1901:ROM.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Salute one another with a holy kiss. All the churches of Christ salute you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.17",
+      "edition_verse_id": "ASV1901:ROM.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now I beseech you, brethren, mark them that are causing the divisions and occasions of stumbling, contrary to the doctrine which ye learned: and turn away from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.18",
+      "edition_verse_id": "ASV1901:ROM.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For they that are such serve not our Lord Christ, but their own belly; and by their smooth and fair speech they beguile the hearts of the innocent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.19",
+      "edition_verse_id": "ASV1901:ROM.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For your obedience is come abroad unto all men. I rejoice therefore over you: but I would have you wise unto that which is good, and simple unto that which is evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.20",
+      "edition_verse_id": "ASV1901:ROM.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the God of peace shall bruise Satan under your feet shortly.The grace of our Lord Jesus Christ be with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.21",
+      "edition_verse_id": "ASV1901:ROM.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Timothy my fellow-worker saluteth you; and Lucius and Jason and Sosipater, my kinsmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.22",
+      "edition_verse_id": "ASV1901:ROM.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I Tertius, who write the epistle, salute you in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.23",
+      "edition_verse_id": "ASV1901:ROM.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Gaius my host, and of the whole church, saluteth you. Erastus the treasurer of the city saluteth you, and Quartus the brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.25",
+      "edition_verse_id": "ASV1901:ROM.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now to him that is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery which hath been kept in silence through times eternal,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.26",
+      "edition_verse_id": "ASV1901:ROM.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "but now is manifested, and by the scriptures of the prophets, according to the commandment of the eternal God, is made known unto all the nations unto obedience of faith:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.27",
+      "edition_verse_id": "ASV1901:ROM.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "to the only wise God, through Jesus Christ, to whom be the glory for ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

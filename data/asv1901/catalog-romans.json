@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ROM",
+  "book_name": "Romans",
+  "book_order": 45,
+  "canonical_ids": "ROM.{chapter}.{verse}",
+  "edition_ids": "ASV1901:ROM.{chapter}.{verse}",
+  "chapter_count": 16,
+  "verse_count": 432,
+  "traditional_verse_positions": 433,
+  "omitted_from_1901_main_text": [
+    "ROM.16.24"
+  ],
+  "verse_omissions_path": "romans/verse-omissions.json",
+  "textual_apparatus_path": "romans/textual-apparatus.json",
+  "chapter_path_template": "romans/chapters/{chapter:02d}.json",
+  "facsimile_index": "romans/page-index.json",
+  "predecessor_book_code": "ACT",
+  "successor_book_code": "1CO",
+  "source_provenance": "books/romans/SOURCE_INVENTORY.json",
+  "reader": "books/romans/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

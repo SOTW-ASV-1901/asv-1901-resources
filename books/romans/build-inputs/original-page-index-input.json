@@ -1,0 +1,94 @@
+{
+  "source_pdf_page_range": [
+    1151,
+    1166
+  ],
+  "original_maps": [],
+  "interleaves": [],
+  "printed_scripture_pages": [
+    157,
+    172
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1151,
+      "first_verse": "ROM.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1152,
+      "first_verse": "ROM.1.24",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1153,
+      "first_verse": "ROM.2.19",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1154,
+      "first_verse": "ROM.3.21",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1155,
+      "first_verse": "ROM.4.19",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1156,
+      "first_verse": "ROM.6.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1157,
+      "first_verse": "ROM.7.6",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1158,
+      "first_verse": "ROM.8.14",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1159,
+      "first_verse": "ROM.9.1",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1160,
+      "first_verse": "ROM.9.31",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1161,
+      "first_verse": "ROM.11.8",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1162,
+      "first_verse": "ROM.12.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1163,
+      "first_verse": "ROM.13.9",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1164,
+      "first_verse": "ROM.15.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1165,
+      "first_verse": "ROM.15.26",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1166,
+      "first_verse": "ROM.16.25",
+      "continues_previous_scripture_page": true
+    }
+  ]
+}
