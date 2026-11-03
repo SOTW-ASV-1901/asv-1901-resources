@@ -1,0 +1,36 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 964,
+      "type": "scripture",
+      "printed_page": 920,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MAL.1.1",
+      "last_verse": "MAL.2.4",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 965,
+      "type": "scripture",
+      "printed_page": 921,
+      "running_head_first_verse": "MAL.2.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAL.2.4",
+      "last_verse": "MAL.3.9",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 966,
+      "type": "scripture",
+      "printed_page": 922,
+      "running_head_first_verse": "MAL.3.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAL.3.9",
+      "last_verse": "MAL.4.6",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    }
+  ]
+}

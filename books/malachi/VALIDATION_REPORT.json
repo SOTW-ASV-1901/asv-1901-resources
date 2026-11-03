@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "book_code": "MAL",
+  "chapters": 4,
+  "verses": 55,
+  "italics": 8,
+  "pages": 3,
+  "two_page_verses": 2,
+  "pdf_volumes": 1,
+  "original_print_pdf_pages": [
+    964,
+    966
+  ],
+  "original_printed_page_numbers": [
+    920,
+    922
+  ],
+  "source_witness_italics": "PASS",
+  "digital_text_differences": 0,
+  "source_resolution": "DIGITAL_SOURCES_AGREE",
+  "original_scan_page_index": "PASS",
+  "whole_page_image_streams_and_placements": "PASS_3_OF_3",
+  "full_page_renders_at_0_33x": "PASS_3_OF_3",
+  "rebuild_byte_identical": "PASS",
+  "schema_validation": "PASS",
+  "reader_js_syntax": "PASS",
+  "local_http_resources": "PASS",
+  "source_hashes": "PASS",
+  "zip_integrity": "PASS",
+  "non_exhaustive_print_proofreading": "NOT_PERFORMED",
+  "hosted_browser_test": "NOT_PERFORMED",
+  "witness_independence": "NOT_ESTABLISHED",
+  "unverified_strongs_word_tags": "NOT_IMPORTED",
+  "report_note": "Original chapter and verse boundaries visually reviewed, not exhaustive character-by-character text collation. Print source retained intact as whole-page facsimile. No public GitHub files modified."
+}

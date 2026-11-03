@@ -1,0 +1,106 @@
+{
+  "source_document": "Bible_(1901_American_Standard_Version).pdf",
+  "source_pdf_page_numbering": "one-based",
+  "pages": [
+    {
+      "source_pdf_page": 954,
+      "type": "scripture",
+      "printed_page": 910,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ZEC.1.1",
+      "last_verse": "ZEC.1.20",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 955,
+      "type": "scripture",
+      "printed_page": 911,
+      "running_head_first_verse": "ZEC.1.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.1.20",
+      "last_verse": "ZEC.4.2",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 956,
+      "type": "scripture",
+      "printed_page": 912,
+      "running_head_first_verse": "ZEC.4.3",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.4.2",
+      "last_verse": "ZEC.6.5",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 957,
+      "type": "scripture",
+      "printed_page": 913,
+      "running_head_first_verse": "ZEC.6.6",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.6.5",
+      "last_verse": "ZEC.7.14",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 958,
+      "type": "scripture",
+      "printed_page": 914,
+      "running_head_first_verse": "ZEC.8.1",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.7.14",
+      "last_verse": "ZEC.9.1",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 959,
+      "type": "scripture",
+      "printed_page": 915,
+      "running_head_first_verse": "ZEC.9.2",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.9.1",
+      "last_verse": "ZEC.10.6",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 960,
+      "type": "scripture",
+      "printed_page": 916,
+      "running_head_first_verse": "ZEC.10.7",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.10.6",
+      "last_verse": "ZEC.11.17",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 961,
+      "type": "scripture",
+      "printed_page": 917,
+      "running_head_first_verse": "ZEC.12.1",
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "ZEC.12.1",
+      "last_verse": "ZEC.13.8",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 962,
+      "type": "scripture",
+      "printed_page": 918,
+      "running_head_first_verse": "ZEC.13.9",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.13.8",
+      "last_verse": "ZEC.14.20",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    },
+    {
+      "source_pdf_page": 963,
+      "type": "scripture",
+      "printed_page": 919,
+      "running_head_first_verse": "ZEC.14.21",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "ZEC.14.20",
+      "last_verse": "ZEC.14.21",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading."
+    }
+  ]
+}

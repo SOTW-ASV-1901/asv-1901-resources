@@ -1,0 +1,16 @@
+{
+  "ZEC.14.20": {
+    "original_print_checked": true,
+    "decision": "correct_derived_text_to_printed_small_caps",
+    "correction_to_derived_data": {
+      "from": "Holy unto Jehovah",
+      "to": "HOLY UNTO JEHOVAH"
+    },
+    "evidence": {
+      "source_document": "Bible_(1901_American_Standard_Version).pdf",
+      "source_pdf_page": 963,
+      "printed_page": 919,
+      "note": "Original 1901 edition has small-capital words H\u1d0f\u029f\u028f \u1d1c\u0274\u1d1b\u1d0f J\u1d07\u029c\u1d0f\u1d20\u1d00\u029c; uppercase digital rendering preserves the typographical distinction. The original primary USX is retained unchanged."
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEC",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "ZEC.12.1",
+      "edition_verse_id": "ASV1901:ZEC.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The burden of the word of Jehovah concerning Israel.",
+          "kind": "text"
+        },
+        {
+          "text": "Thus",
+          "kind": "supplied"
+        },
+        {
+          "text": " saith Jehovah, who stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.12.2",
+      "edition_verse_id": "ASV1901:ZEC.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold, I will make Jerusalem a cup of reeling unto all the peoples round about, and upon Judah also shall it be in the siege against Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.12.3",
+      "edition_verse_id": "ASV1901:ZEC.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, that I will make Jerusalem a burdensome stone for all the peoples; all that burden themselves with it shall be sore wounded; and all the nations of the earth shall be gathered together against it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.4",
+      "edition_verse_id": "ASV1901:ZEC.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In that day, saith Jehovah, I will smite every horse with terror, and his rider with madness; and I will open mine eyes upon the house of Judah, and will smite every horse of the peoples with blindness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.5",
+      "edition_verse_id": "ASV1901:ZEC.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the chieftains of Judah shall say in their heart, The inhabitants of Jerusalem are my strength in Jehovah of hosts their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.6",
+      "edition_verse_id": "ASV1901:ZEC.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In that day will I make the chieftains of Judah like a pan of fire among wood, and like a flaming torch among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and ",
+          "kind": "text"
+        },
+        {
+          "text": "they of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jerusalem shall yet again dwell in their own place, even in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.7",
+      "edition_verse_id": "ASV1901:ZEC.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jehovah also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified above Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.8",
+      "edition_verse_id": "ASV1901:ZEC.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In that day shall Jehovah defend the inhabitants of Jerusalem; and he that is feeble among them at that day shall be as David; and the house of David shall be as God, as the angel of Jehovah before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.9",
+      "edition_verse_id": "ASV1901:ZEC.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.10",
+      "edition_verse_id": "ASV1901:ZEC.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplication; and they shall look unto me whom they have pierced; and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his first-born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.12.11",
+      "edition_verse_id": "ASV1901:ZEC.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.12",
+      "edition_verse_id": "ASV1901:ZEC.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.13",
+      "edition_verse_id": "ASV1901:ZEC.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "the family of the house of Levi apart, and their wives apart; the family of the Shimeites apart, and their wives apart;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.12.14",
+      "edition_verse_id": "ASV1901:ZEC.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "all the families that remain, every family apart, and their wives apart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      954,
+      955
+    ],
+    "first": "ZEC.1.1",
+    "last": "ZEC.1.21"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      955
+    ],
+    "first": "ZEC.2.1",
+    "last": "ZEC.2.13"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      955
+    ],
+    "first": "ZEC.3.1",
+    "last": "ZEC.3.10"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      955,
+      956
+    ],
+    "first": "ZEC.4.1",
+    "last": "ZEC.4.14"
+  },
+  "05": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      956
+    ],
+    "first": "ZEC.5.1",
+    "last": "ZEC.5.11"
+  },
+  "06": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      956,
+      957
+    ],
+    "first": "ZEC.6.1",
+    "last": "ZEC.6.15"
+  },
+  "07": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      957,
+      958
+    ],
+    "first": "ZEC.7.1",
+    "last": "ZEC.7.14"
+  },
+  "08": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      958
+    ],
+    "first": "ZEC.8.1",
+    "last": "ZEC.8.23"
+  },
+  "09": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      958,
+      959
+    ],
+    "first": "ZEC.9.1",
+    "last": "ZEC.9.17"
+  },
+  "10": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      959,
+      960
+    ],
+    "first": "ZEC.10.1",
+    "last": "ZEC.10.12"
+  },
+  "11": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      960
+    ],
+    "first": "ZEC.11.1",
+    "last": "ZEC.11.17"
+  },
+  "12": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      961
+    ],
+    "first": "ZEC.12.1",
+    "last": "ZEC.12.14"
+  },
+  "13": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      961,
+      962
+    ],
+    "first": "ZEC.13.1",
+    "last": "ZEC.13.9"
+  },
+  "14": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      962,
+      963
+    ],
+    "first": "ZEC.14.1",
+    "last": "ZEC.14.21"
+  }
+}

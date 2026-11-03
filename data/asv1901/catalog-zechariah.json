@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEC",
+  "book_name": "Zechariah",
+  "book_order": 38,
+  "canonical_ids": "ZEC.{chapter}.{verse}",
+  "edition_ids": "ASV1901:ZEC.{chapter}.{verse}",
+  "chapter_count": 14,
+  "verse_count": 211,
+  "chapter_path_template": "zechariah/chapters/{chapter:02d}.json",
+  "facsimile_index": "zechariah/page-index.json",
+  "predecessor_book_code": "HAG",
+  "successor_book_code": "MAL",
+  "source_provenance": "books/zechariah/SOURCE_INVENTORY.json",
+  "reader": "books/zechariah/site/index.html",
+  "note": "Book-scoped ASV1901 catalog; no global catalog or unverified lexical alignment"
+}

@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAL",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "MAL.1.1",
+      "edition_verse_id": "ASV1901:MAL.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The burden of the word of Jehovah to Israel by Malachi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.1.2",
+      "edition_verse_id": "ASV1901:MAL.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I have loved you, saith Jehovah. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith Jehovah: yet I loved Jacob;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.1.3",
+      "edition_verse_id": "ASV1901:MAL.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "but Esau I hated, and made his mountains a desolation, and ",
+          "kind": "text"
+        },
+        {
+          "text": "gave",
+          "kind": "supplied"
+        },
+        {
+          "text": " his heritage to the jackals of the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.4",
+      "edition_verse_id": "ASV1901:MAL.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Whereas Edom saith, We are beaten down, but we will return and build the waste places; thus saith Jehovah of hosts, They shall build, but I will throw down; and men shall call them The border of wickedness, and The people against whom Jehovah hath indignation for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.5",
+      "edition_verse_id": "ASV1901:MAL.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And your eyes shall see, and ye shall say, Jehovah be magnified beyond the border of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.6",
+      "edition_verse_id": "ASV1901:MAL.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "A son honoreth his father, and a servant his master: if then I am a father, where is mine honor? and if I am a master, where is my fear? saith Jehovah of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAL.1.7",
+      "edition_verse_id": "ASV1901:MAL.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ye offer polluted bread upon mine altar. And ye say, Wherein have we polluted thee? In that ye say, The table of Jehovah is contemptible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.8",
+      "edition_verse_id": "ASV1901:MAL.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when ye offer the blind for sacrifice, it is no evil! and when ye offer the lame and sick, it is no evil! Present it now unto thy governor; will he be pleased with thee? or will he accept thy person? saith Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.9",
+      "edition_verse_id": "ASV1901:MAL.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And now, I pray you, entreat the favor of God, that he may be gracious unto us: this hath been by your means: will he accept any of your persons? saith Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.10",
+      "edition_verse_id": "ASV1901:MAL.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Oh that there were one among you that would shut the doors, that ye might not kindle ",
+          "kind": "text"
+        },
+        {
+          "text": "fire on",
+          "kind": "supplied"
+        },
+        {
+          "text": " mine altar in vain! I have no pleasure in you, saith Jehovah of hosts, neither will I accept an offering at your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.11",
+      "edition_verse_id": "ASV1901:MAL.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For from the rising of the sun even unto the going down of the same my name ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " great among the Gentiles; and in every place incense ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " offered unto my name, and a pure offering: for my name ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " great among the Gentiles, saith Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.12",
+      "edition_verse_id": "ASV1901:MAL.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But ye profane it, in that ye say, The table of Jehovah is polluted, and the fruit thereof, even its food, is contemptible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.13",
+      "edition_verse_id": "ASV1901:MAL.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Ye say also, Behold, what a weariness is it! and ye have snuffed at it, saith Jehovah of hosts; and ye have brought that which was taken by violence, and the lame, and the sick; thus ye bring the offering: should I accept this at your hand? saith Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAL.1.14",
+      "edition_verse_id": "ASV1901:MAL.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But cursed be the deceiver, who hath in his flock a male, and voweth, and sacrificeth unto the Lord a blemished thing; for I am a great King, saith Jehovah of hosts, and my name is terrible among the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

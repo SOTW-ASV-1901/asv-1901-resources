@@ -1,0 +1,40 @@
+{
+  "01": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      964
+    ],
+    "first": "MAL.1.1",
+    "last": "MAL.1.14"
+  },
+  "02": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      964,
+      965
+    ],
+    "first": "MAL.2.1",
+    "last": "MAL.2.17"
+  },
+  "03": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      965,
+      966
+    ],
+    "first": "MAL.3.1",
+    "last": "MAL.3.18"
+  },
+  "04": {
+    "original_print_chapter_checked": true,
+    "method": "Original chapter placement verified against chapter-level historical print pages and source boundaries; not exhaustive character-by-character collation.",
+    "source_pdf_pages": [
+      966
+    ],
+    "first": "MAL.4.1",
+    "last": "MAL.4.6"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEC",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "ZEC.7.1",
+      "edition_verse_id": "ASV1901:ZEC.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it came to pass in the fourth year of king Darius, that the word of Jehovah came unto Zechariah in the fourth ",
+          "kind": "text"
+        },
+        {
+          "text": "day",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the ninth month, even in Chislev.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.7.2",
+      "edition_verse_id": "ASV1901:ZEC.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now ",
+          "kind": "text"
+        },
+        {
+          "text": "they of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Beth-el had sent Sharezer and Regem-melech, and their men, to entreat the favor of Jehovah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.3",
+      "edition_verse_id": "ASV1901:ZEC.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to speak unto the priests of the house of Jehovah of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.4",
+      "edition_verse_id": "ASV1901:ZEC.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then came the word of Jehovah of hosts unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.5",
+      "edition_verse_id": "ASV1901:ZEC.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and in the seventh ",
+          "kind": "text"
+        },
+        {
+          "text": "month",
+          "kind": "supplied"
+        },
+        {
+          "text": ", even these seventy years, did ye at all fast unto me, even to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.6",
+      "edition_verse_id": "ASV1901:ZEC.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when ye eat, and when ye drink, do not ye eat for yourselves, and drink for yourselves?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.7",
+      "edition_verse_id": "ASV1901:ZEC.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Should ye",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "hear",
+          "kind": "supplied"
+        },
+        {
+          "text": " the words which Jehovah cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, and the South and the lowland were inhabited?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.8",
+      "edition_verse_id": "ASV1901:ZEC.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the word of Jehovah came unto Zechariah, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.7.9",
+      "edition_verse_id": "ASV1901:ZEC.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Thus hath Jehovah of hosts spoken, saying, Execute true judgment, and show kindness and compassion every man to his brother;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.10",
+      "edition_verse_id": "ASV1901:ZEC.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and oppress not the widow, nor the fatherless, the sojourner, nor the poor; and let none of you devise evil against his brother in your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.11",
+      "edition_verse_id": "ASV1901:ZEC.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they might not hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.12",
+      "edition_verse_id": "ASV1901:ZEC.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which Jehovah of hosts had sent by his Spirit by the former prophets: therefore there came great wrath from Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.13",
+      "edition_verse_id": "ASV1901:ZEC.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it is come to pass that, as he cried, and they would not hear, so they shall cry, and I will not hear, said Jehovah of hosts;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.7.14",
+      "edition_verse_id": "ASV1901:ZEC.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "but I will scatter them with a whirlwind among all the nations which they have not known. Thus the land was desolate after them, so that no man passed through nor returned: for they laid the pleasant land desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "MAL",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 964,
+      "type": "scripture",
+      "printed_page": 920,
+      "running_head_first_verse": null,
+      "page_begins_with_verse_continuation": false,
+      "first_verse": "MAL.1.1",
+      "last_verse": "MAL.2.4",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading.",
+      "volume": "asv1901-malachi-pages-964-966.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 965,
+      "type": "scripture",
+      "printed_page": 921,
+      "running_head_first_verse": "MAL.2.5",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAL.2.4",
+      "last_verse": "MAL.3.9",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading.",
+      "volume": "asv1901-malachi-pages-964-966.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 966,
+      "type": "scripture",
+      "printed_page": 922,
+      "running_head_first_verse": "MAL.3.10",
+      "page_begins_with_verse_continuation": true,
+      "first_verse": "MAL.3.9",
+      "last_verse": "MAL.4.6",
+      "evidence_method": "Original 1901 scanned page inspected at head, column endings and next-page continuation. Boundary evidence checked by page contact review; not exhaustive character-by-character proofreading.",
+      "volume": "asv1901-malachi-pages-964-966.pdf",
+      "volume_pdf_page": 3
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-malachi-pages-964-966.pdf",
+      "first_source_pdf_page": 964,
+      "last_source_pdf_page": 966,
+      "bytes": 315463,
+      "sha256": "d2669d64f7090ef39ce65abd5810dda51ea5c815c5999f7257328b352b552def"
+    }
+  ],
+  "navigation_rule": "ordered source PDF pages; lower number first"
+}

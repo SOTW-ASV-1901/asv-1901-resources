@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEC",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "ZEC.4.1",
+      "edition_verse_id": "ASV1901:ZEC.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.4.2",
+      "edition_verse_id": "ASV1901:ZEC.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said unto me, What seest thou? And I said, I have seen, and, behold, a candlestick all of gold, with its bowl upon the top of it, and its seven lamps thereon; there are seven pipes to each of the lamps, which are upon the top thereof;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.3",
+      "edition_verse_id": "ASV1901:ZEC.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and two olive-trees by it, one upon the right side of the bowl, and the other upon the left side thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.4",
+      "edition_verse_id": "ASV1901:ZEC.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I answered and spake to the angel that talked with me, saying, What are these, my lord?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.5",
+      "edition_verse_id": "ASV1901:ZEC.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the angel that talked with me answered and said unto me, Knowest thou not what these are? And I said, No, my lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.6",
+      "edition_verse_id": "ASV1901:ZEC.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then he answered and spake unto me, saying, This is the word of Jehovah unto Zerubbabel, saying, Not by might, nor by power, but by my Spirit, saith Jehovah of hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.7",
+      "edition_verse_id": "ASV1901:ZEC.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Who art thou, O great mountain? before Zerubbabel ",
+          "kind": "text"
+        },
+        {
+          "text": "thou shalt become",
+          "kind": "supplied"
+        },
+        {
+          "text": " a plain; and he shall bring forth the top stone with shoutings of Grace, grace, unto it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.8",
+      "edition_verse_id": "ASV1901:ZEC.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Moreover the word of Jehovah came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.9",
+      "edition_verse_id": "ASV1901:ZEC.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that Jehovah of hosts hath sent me unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.10",
+      "edition_verse_id": "ASV1901:ZEC.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For who hath despised the day of small things? for these seven shall rejoice, and shall see the plummet in the hand of Zerubbabel; ",
+          "kind": "text"
+        },
+        {
+          "text": "these are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the eyes of Jehovah, which run to and fro through the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.11",
+      "edition_verse_id": "ASV1901:ZEC.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then answered I, and said unto him, What are these two olive-trees upon the right side of the candlestick and upon the left side thereof?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.4.12",
+      "edition_verse_id": "ASV1901:ZEC.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I answered the second time, and said unto him, What are these two olive-branches, which are beside the two golden spouts, that empty the golden ",
+          "kind": "text"
+        },
+        {
+          "text": "oil",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of themselves?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.13",
+      "edition_verse_id": "ASV1901:ZEC.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he answered me and said, Knowest thou not what these are? And I said, No, my lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.4.14",
+      "edition_verse_id": "ASV1901:ZEC.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then said he, These are the two anointed ones, that stand by the Lord of the whole earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "ZEC",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "ZEC.6.1",
+      "edition_verse_id": "ASV1901:ZEC.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And again I lifted up mine eyes, and saw, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.6.2",
+      "edition_verse_id": "ASV1901:ZEC.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In the first chariot were red horses; and in the second chariot black horses;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.3",
+      "edition_verse_id": "ASV1901:ZEC.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and in the third chariot white horses; and in the fourth chariot grizzled strong horses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.4",
+      "edition_verse_id": "ASV1901:ZEC.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then I answered and said unto the angel that talked with me, What are these, my lord?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.5",
+      "edition_verse_id": "ASV1901:ZEC.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the angel answered and said unto me, These are the four winds of heaven, which go forth from standing before the Lord of all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.6",
+      "edition_verse_id": "ASV1901:ZEC.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The chariot",
+          "kind": "supplied"
+        },
+        {
+          "text": " wherein are the black horses goeth forth toward the north country; and the white went forth after them; and the grizzled went forth toward the south country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.7",
+      "edition_verse_id": "ASV1901:ZEC.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the strong went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.8",
+      "edition_verse_id": "ASV1901:ZEC.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then cried he to me, and spake unto me, saying, Behold, they that go toward the north country have quieted my spirit in the north country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.9",
+      "edition_verse_id": "ASV1901:ZEC.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the word of Jehovah came unto me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.6.10",
+      "edition_verse_id": "ASV1901:ZEC.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah; and come thou the same day, and go into the house of Josiah the son of Zephaniah, whither they are come from Babylon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.11",
+      "edition_verse_id": "ASV1901:ZEC.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "yea, take ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": " silver and gold, and make crowns, and set them upon the head of Joshua the son of Jehozadak, the high priest;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.12",
+      "edition_verse_id": "ASV1901:ZEC.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and speak unto him, saying, Thus speaketh Jehovah of hosts, saying, Behold, the man whose name is the Branch: and he shall grow up out of his place; and he shall build the temple of Jehovah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.13",
+      "edition_verse_id": "ASV1901:ZEC.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "even he shall build the temple of Jehovah; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne; and the counsel of peace shall be between them both.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.14",
+      "edition_verse_id": "ASV1901:ZEC.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of Jehovah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.6.15",
+      "edition_verse_id": "ASV1901:ZEC.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they that are far off shall come and build in the temple of Jehovah; and ye shall know that Jehovah of hosts hath sent me unto you. And ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall come to pass, if ye will diligently obey the voice of Jehovah your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

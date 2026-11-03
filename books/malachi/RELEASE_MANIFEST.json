@@ -1,0 +1,40 @@
+{
+  "status": "STRUCTURALLY_BUILT_FROM_DECLARED_SOURCE",
+  "edition": "ASV1901",
+  "book": "MAL",
+  "chapter_count": 4,
+  "verse_count": 55,
+  "source_hashes": {
+    "primary_usx": "dd23837abdcf80e911fb5c03bd9f4764aa385be8f92e809ccae423ddb5c96f5d",
+    "comparison_usfm": "c7ada0bae6eebc689405ffa6f1a16e496ee2e5286aedf288652baa1bfd4717e9",
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d"
+  },
+  "files": {
+    "books/malachi/DATA_CONTRACT.md": "d5059a942ddee79d2854913abb14610a883803502a84cb449aaabb4965659be9",
+    "books/malachi/INSTALLATION_NOTES.md": "26afa5c5e654a022a1387a9a8250422993459e8ac3b05c428e19a3f3e392aeee",
+    "books/malachi/README.md": "5d711a46c92cd0209ecb4fe5a8a5020781cd0b7b1b3ca855ae015311fb34c874",
+    "books/malachi/SOURCE_INVENTORY.json": "30873208f55a32e459c9b7b0781086b1c0b059d1c8109174a5b77361c893cfa3",
+    "books/malachi/UPLOAD_PACKAGE_AUDIT.md": "620a0699cebabcaf9b391383c7f41ccfc6ff8285e1154592cb87149bd694e83e",
+    "books/malachi/VALIDATION_REPORT.json": "c90b4e1127b72fd4e3e8ae4a052afb4ef37be5a644831172ca27d5379cd22564",
+    "books/malachi/VALIDATION_REPORT.md": "d26fb175f45a16f2f87517eddfa6b090f5eee7adab96e537db6399c151b4d334",
+    "books/malachi/build-inputs/chapter-checks.json": "eb4983dda99d45b5a3457cf5d5369454c50426fe314ae941222a1ea79bcac54f",
+    "books/malachi/build-inputs/original-page-index-input.json": "94c7a77a1636c5dd728d473bd6aca1829ed19371a69491a55a5599db184296d7",
+    "books/malachi/build-inputs/source-differences-resolved.json": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "books/malachi/index.html": "b5ce0afe41e2491ce6241314cfbaa23b179449f97d6d25abc7022a6776350918",
+    "books/malachi/schemas/asv1901-malachi-chapter.schema.json": "1981bc2b321fcdade196924f8f0d2b6e27666938ee7d639fe4864f366917e384",
+    "books/malachi/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/malachi/scripts/build_malachi.py": "294ab5a423ec1e87067228853d73c538c86d42942c6b59fea4a3674bcd0f8a65",
+    "books/malachi/scripts/validate_release.py": "a5eb42b5581a659d9c06763147b43e8e5db574b78dbfff4be09aa566063fd3c7",
+    "books/malachi/site/index.html": "92aa64343f4021126cef889da2422584a154a533cf73487fb88d9be88f4e2caa",
+    "books/malachi/sources/asv1901-english-only/39-MAL.usx": "dd23837abdcf80e911fb5c03bd9f4764aa385be8f92e809ccae423ddb5c96f5d",
+    "books/malachi/sources/comparison-only/40-MALeng-asv.usfm": "c7ada0bae6eebc689405ffa6f1a16e496ee2e5286aedf288652baa1bfd4717e9",
+    "data/asv1901/malachi/chapter-checks.json": "eb4983dda99d45b5a3457cf5d5369454c50426fe314ae941222a1ea79bcac54f",
+    "data/asv1901/malachi/chapters/01.json": "dc786ff224a8398e280727a7bfa3d155b29c69c308d5ea46514389fdbc55127e",
+    "data/asv1901/malachi/chapters/02.json": "7ed9f63f239da24e118f1665ad37cc9197f0ae5dbaacfb1809b64d5f50862777",
+    "data/asv1901/malachi/chapters/03.json": "f729339479ea3c646cbce030a3d9437859254c89ea5a0d765fd3a25b1478336a",
+    "data/asv1901/malachi/chapters/04.json": "697ba67610bed785f704170c5c17ba525a38f084594632465b38a00b02b47876",
+    "data/asv1901/malachi/facsimile/asv1901-malachi-pages-964-966.pdf": "d2669d64f7090ef39ce65abd5810dda51ea5c815c5999f7257328b352b552def",
+    "data/asv1901/malachi/page-index.json": "7b135599e1ace540670d2619ea10bc2b3e556c3def1f731054d0519ebc197574",
+    "data/asv1901/catalog-malachi.json": "f265d1388628c90337a553dc7b2eeeaaa4400971f0eb12243bf241d411489133"
+  }
+}
