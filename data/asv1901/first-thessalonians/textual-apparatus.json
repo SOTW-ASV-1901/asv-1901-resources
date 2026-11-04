@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1TH",
+  "apparatus": [
+    {
+      "passage": "1TH.2.7",
+      "source_pdf_page": 1212,
+      "note": "The original 1901 marginal apparatus records: “Most of the ancient authorities read babes.”",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_MANUSCRIPT_VARIANT_NOTE"
+    },
+    {
+      "passage": "1TH.5.14",
+      "source_pdf_page": 1214,
+      "note": "The 1901 printing has faint- at a physical line break followed by hearted; this does not establish underlying lexical hyphenation. Primary USX retains faint-hearted; USFM uses fainthearted. No forced correction.",
+      "main_text_status": "SOURCE_PRINT_LINE_BREAK_AMBIGUITY_DOCUMENTED"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

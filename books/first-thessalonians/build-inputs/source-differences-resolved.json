@@ -1,0 +1,36 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "1TH",
+  "difference_count": 2,
+  "typographical_or_orthographic_count": 1,
+  "different_words_or_hyphenation_count": 1,
+  "differences": [
+    {
+      "verse_id": "1TH.2.14",
+      "primary_usx": "For ye, brethren, became imitators of the churches of God which are in Judaea in Christ Jesus: for ye also suffered the same things of your own countrymen, even as they did of the Jews;",
+      "comparison_usfm": "For ye, brethren, became imitators of the churches of God which are in Judæa in Christ Jesus: for ye also suffered the same things of your own countrymen, even as they did of the Jews;",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "Typography resolved where supported by print; uncertain hyphenation retained as original USX with explicit ambiguity notice. Upstream witnesses unchanged."
+    },
+    {
+      "verse_id": "1TH.5.14",
+      "primary_usx": "And we exhort you, brethren, admonish the disorderly, encourage the faint-hearted, support the weak, be longsuffering toward all.",
+      "comparison_usfm": "And we exhort you, brethren, admonish the disorderly, encourage the fainthearted, support the weak, be longsuffering toward all.",
+      "kind": "different_words_or_hyphenation",
+      "source_locked_resolution": "Typography resolved where supported by print; uncertain hyphenation retained as original USX with explicit ambiguity notice. Upstream witnesses unchanged."
+    }
+  ],
+  "print_backed_decisions": [
+    {
+      "verse": "1TH.2.14",
+      "source_phrase": "Judaea",
+      "replace_with": "Judæa",
+      "print_page": 1213,
+      "reason": "The original 1901 printing uses the historical ligature Judæa in 1 Thessalonians 2:14; two source witnesses retained byte-for-byte."
+    }
+  ],
+  "additional_print_backed_uncorrected_readings": {
+    "1TH.5.14": "Original line break faint-/hearted does not distinguish lexical hyphenation; primary USX faint-hearted retained without asserting print-proof."
+  },
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

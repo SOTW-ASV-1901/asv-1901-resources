@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1TH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1TH.2.1",
+      "edition_verse_id": "ASV1901:1TH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For yourselves, brethren, know our entering in unto you, that it hath not been found vain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.2",
+      "edition_verse_id": "ASV1901:1TH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "but having suffered before and been shamefully treated, as ye know, at Philippi, we waxed bold in our God to speak unto you the gospel of God in much conflict.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.3",
+      "edition_verse_id": "ASV1901:1TH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For our exhortation ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " not of error, nor of uncleanness, nor in guile:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.4",
+      "edition_verse_id": "ASV1901:1TH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "but even as we have been approved of God to be intrusted with the gospel, so we speak; not as pleasing men, but God who proveth our hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.5",
+      "edition_verse_id": "ASV1901:1TH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For neither at any time were we found using words of flattery, as ye know, nor a cloak of covetousness, God is witness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.6",
+      "edition_verse_id": "ASV1901:1TH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "nor seeking glory of men, neither from you nor from others, when we might have claimed authority as apostles of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.7",
+      "edition_verse_id": "ASV1901:1TH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But we were gentle in the midst of you, as when a nurse cherisheth her own children:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.8",
+      "edition_verse_id": "ASV1901:1TH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "even so, being affectionately desirous of you, we were well pleased to impart unto you, not the gospel of God only, but also our own souls, because ye were become very dear to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.9",
+      "edition_verse_id": "ASV1901:1TH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For ye remember, brethren, our labor and travail: working night and day, that we might not burden any of you, we preached unto you the gospel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.10",
+      "edition_verse_id": "ASV1901:1TH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Ye are witnesses, and God ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": ", how holily and righteously and unblamably we behaved ourselves toward you that believe:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.11",
+      "edition_verse_id": "ASV1901:1TH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "as ye know how we ",
+          "kind": "text"
+        },
+        {
+          "text": "dealt with",
+          "kind": "supplied"
+        },
+        {
+          "text": " each one of you, as a father with his own children, exhorting you, and encouraging ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and testifying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.12",
+      "edition_verse_id": "ASV1901:1TH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "to the end that ye should walk worthily of God, who calleth you into his own kingdom and glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.13",
+      "edition_verse_id": "ASV1901:1TH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And for this cause we also thank God without ceasing, that, when ye received from us the word of the message, ",
+          "kind": "text"
+        },
+        {
+          "text": "even the word",
+          "kind": "supplied"
+        },
+        {
+          "text": " of God, ye accepted ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " not ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the word of men, but, as it is in truth, the word of God, which also worketh in you that believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.14",
+      "edition_verse_id": "ASV1901:1TH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For ye, brethren, became imitators of the churches of God which are in Judæa in Christ Jesus: for ye also suffered the same things of your own countrymen, even as they did of the Jews;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.15",
+      "edition_verse_id": "ASV1901:1TH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "who both killed the Lord Jesus and the prophets, and drove out us, and please not God, and are contrary to all men;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.16",
+      "edition_verse_id": "ASV1901:1TH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "forbidding us to speak to the Gentiles that they may be saved; to fill up their sins always: but the wrath is come upon them to the uttermost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.17",
+      "edition_verse_id": "ASV1901:1TH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But we, brethren, being bereaved of you for a short season, in presence not in heart, endeavored the more exceedingly to see your face with great desire:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.18",
+      "edition_verse_id": "ASV1901:1TH.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "because we would fain have come unto you, I Paul once and again; and Satan hindered us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.19",
+      "edition_verse_id": "ASV1901:1TH.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For what is our hope, or joy, or crown of glorying? Are not even ye, before our Lord Jesus at his coming?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.20",
+      "edition_verse_id": "ASV1901:1TH.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For ye are our glory and our joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
