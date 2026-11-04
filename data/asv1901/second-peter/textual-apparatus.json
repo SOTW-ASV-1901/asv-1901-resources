@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2PE",
+  "apparatus": [
+    {
+      "passage": "2PE.1.1",
+      "source_pdf_page": 1250,
+      "note": "The original 1901 margin gives the proper-name alternative “Or, Symeon. See Acts 15.14” and other translation alternatives. This does not change the printed main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2PE.2.4",
+      "source_pdf_page": 1251,
+      "note": "The original printed margin gives “Gr. Tartarus” and alternatives concerning the confinement of sinful angels; a separate note mentions some ancient authorities reading “chains.” These remain original apparatus.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_AND_MANUSCRIPT_NOTES"
+    },
+    {
+      "passage": "2PE.3.10",
+      "source_pdf_page": 1252,
+      "note": "The original 1901 main text reads “burned up”; its printed footnote states “The most ancient manuscripts read discovered.” No later manuscript judgment is imported into the verse text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "2PE.3.18",
+      "source_pdf_page": 1252,
+      "note": "The original margin notes Greek wording of the closing phrase as “unto the day of eternity.” This is a translation note, not a replacement for the main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

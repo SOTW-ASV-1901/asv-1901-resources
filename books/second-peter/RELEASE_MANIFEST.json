@@ -1,0 +1,43 @@
+{
+  "status": "STRUCTURALLY_BUILT_FROM_DECLARED_SOURCE",
+  "edition": "ASV1901",
+  "book": "2PE",
+  "chapter_count": 3,
+  "verse_count": 61,
+  "source_hashes": {
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "primary_usx": "70725d1b7021916affaf398fbe371f6ac2f7d8c1bdbd8c892b1e33c82582b924",
+    "comparison_usfm": "aaf4d3a8531a92c7dd6b7f2ea47ca7ea7ebe601269dbddb4919356d8e12c6b81"
+  },
+  "files": {
+    "books/second-peter/DATA_CONTRACT.md": "0aa8b2a9f302590d8f6e48ee2a7d1ccc1f5c33eafa9e538974c84e014994a43e",
+    "books/second-peter/INDEPENDENT_AUDIT.json": "99dcabe232e3e8b67ba5d688e57534d41bc9c06269376ef143a24ff0b8ae923d",
+    "books/second-peter/INSTALLATION_NOTES.md": "32d1154eb0b76a06c3b02966615a0db7fa993c22177a1154afc4572932c9f5f1",
+    "books/second-peter/README.md": "27275469ba78f73a0cf46decf1dc8144a8a7eb9538278dcbfb6504b6df0e8f8a",
+    "books/second-peter/SOURCE_INVENTORY.json": "09c941edb46822667062204a45817b54cd8594fcb50b563f70d344c152185b76",
+    "books/second-peter/UPLOAD_PACKAGE_AUDIT.md": "fd7a7410c812ff2dc450334fa91fb4cfa19ccb29654bcd9799c321dae5af829c",
+    "books/second-peter/VALIDATION_REPORT.json": "a9b827d44714a78d4837171fe0d80f1efbde9acdd66573dfc9eda5b5d2acb6fb",
+    "books/second-peter/VALIDATION_REPORT.md": "1b5906265d8fe432e41330a64dc56d6f334e296ee73fbc14384244ab521d8d4b",
+    "books/second-peter/build-inputs/book-plan.json": "42c6bb959e240c1ed7d0fe9898e9296b97df39a29a335cc9d76c6360bec9c1a1",
+    "books/second-peter/build-inputs/chapter-counts.json": "2069a10c6c44d156486df2c53731d8fc419cf4e98bb7cebfe71d2e98a36a8dd1",
+    "books/second-peter/build-inputs/original-page-index-input.json": "a90930ac3c93709fb38d749bc26e74e2f99e8c9f1c5f170f71b226ba305212f4",
+    "books/second-peter/build-inputs/source-differences-resolved.json": "69b82d7164b7420b6256f1f9cbe9f357bfb88172f4c1cd5f783fb10375dac251",
+    "books/second-peter/index.html": "a78672fff91ce9a9b0c4162e865262ea71adb1ec83c43a2506458a143f718693",
+    "books/second-peter/schemas/asv1901-second-peter-chapter.schema.json": "eac152c63f6969d1982692ea95768a0a8e25c059619c1f118b75f43a4de39893",
+    "books/second-peter/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/second-peter/scripts/build_second-peter.py": "6872ac0745196d52678234e70287fc2484cf2bb5760f8b0d43b6bc3e0b30a5de",
+    "books/second-peter/scripts/validate_release.py": "6f164e5c206fbcd83cb5df2338f5e0c5478bbde9ca7e695686f09a5b9222c89d",
+    "books/second-peter/site/index.html": "036ea165c2bc145e6eeec2fbe2bc23a228149f9b3b906ecd8973d0de9d4d829a",
+    "books/second-peter/sources/asv1901-english-only/61-2PE.usx": "70725d1b7021916affaf398fbe371f6ac2f7d8c1bdbd8c892b1e33c82582b924",
+    "books/second-peter/sources/comparison-only/91-2PEeng-asv.usfm": "aaf4d3a8531a92c7dd6b7f2ea47ca7ea7ebe601269dbddb4919356d8e12c6b81",
+    "data/asv1901/catalog-second-peter.json": "acea6fc4c3077192c7c082b015a193f98c4eaa73e73fbc6646ccb7fd1f3f6521",
+    "data/asv1901/second-peter/chapter-checks.json": "3547061590fa0399da9939544584b137020e9202cd6a599527e0cf81acf48750",
+    "data/asv1901/second-peter/chapters/01.json": "e5e3ee46b79d997ed321356b422e0f5a064d1c03ba35ea804c96a99d1c3f87aa",
+    "data/asv1901/second-peter/chapters/02.json": "45ea9c442484cacb48a0e7dc47b9480c7006cd05b71184dc91745bfa145cd68d",
+    "data/asv1901/second-peter/chapters/03.json": "e68fe1ad1539b232b27420ce4b33580038c148c95eddcd467bc02f411efc5515",
+    "data/asv1901/second-peter/facsimile/asv1901-second-peter-pages-1250-1252.pdf": "2735156cbbf30aa024cbbe879e3a31ffc9ebc87b68433f343e019166b4b43070",
+    "data/asv1901/second-peter/page-index.json": "fecd5a65e28edf1f2b2252a93ab0151f3c7cfd64f6f82b5e1858a95d84a73784",
+    "data/asv1901/second-peter/textual-apparatus.json": "542b38abfcc1ad6f5d975a6e4572dfbf8e640a6d6dc3ec0f8fd4b6ae378d5544",
+    "data/asv1901/second-peter/verse-omissions.json": "552f015354d650fab3d5fe25d0f6ab35c9b930de9f3bae5dc076ee8e658d9eab"
+  }
+}

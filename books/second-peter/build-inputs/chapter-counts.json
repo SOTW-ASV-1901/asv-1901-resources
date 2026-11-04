@@ -1,0 +1,12 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "2PE",
+  "chapter_traditional_verse_counts": {
+    "1": 21,
+    "2": 22,
+    "3": 18
+  },
+  "traditional_verse_positions": 61,
+  "main_text_verse_count": 61,
+  "omitted_verse_ids": []
+}

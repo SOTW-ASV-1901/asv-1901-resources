@@ -1,0 +1,88 @@
+{
+  "code": "2PE",
+  "slug": "second-peter",
+  "name": "2 Peter",
+  "order": 61,
+  "predecessor": "1PE",
+  "successor": "1JN",
+  "usx": "61-2PE.usx",
+  "usfm": "91-2PEeng-asv.usfm",
+  "chapter_counts": [
+    21,
+    22,
+    18
+  ],
+  "first_pdf": 1250,
+  "last_pdf": 1252,
+  "first_print": 256,
+  "scripture": [
+    [
+      1250,
+      1,
+      1,
+      0
+    ],
+    [
+      1251,
+      2,
+      1,
+      0
+    ],
+    [
+      1252,
+      3,
+      1,
+      0
+    ]
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "note_verse": [
+    3,
+    10
+  ],
+  "note_text": "2 Peter 3:10 retains “burned up” in the original 1901 main text, while its printed margin reports “The most ancient manuscripts read discovered.” This must remain separate manuscript apparatus.",
+  "other_apparatus": [
+    {
+      "passage": "2PE.1.1",
+      "source_pdf_page": 1250,
+      "note": "The original 1901 margin gives the proper-name alternative “Or, Symeon. See Acts 15.14” and other translation alternatives. This does not change the printed main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2PE.2.4",
+      "source_pdf_page": 1251,
+      "note": "The original printed margin gives “Gr. Tartarus” and alternatives concerning the confinement of sinful angels; a separate note mentions some ancient authorities reading “chains.” These remain original apparatus.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_AND_MANUSCRIPT_NOTES"
+    },
+    {
+      "passage": "2PE.3.10",
+      "source_pdf_page": 1252,
+      "note": "The original 1901 main text reads “burned up”; its printed footnote states “The most ancient manuscripts read discovered.” No later manuscript judgment is imported into the verse text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "2PE.3.18",
+      "source_pdf_page": 1252,
+      "note": "The original margin notes Greek wording of the closing phrase as “unto the day of eternity.” This is a translation note, not a replacement for the main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    }
+  ],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1250,
+      1252
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "70725d1b7021916affaf398fbe371f6ac2f7d8c1bdbd8c892b1e33c82582b924",
+  "comparison_usfm_sha256": "aaf4d3a8531a92c7dd6b7f2ea47ca7ea7ebe601269dbddb4919356d8e12c6b81"
+}
