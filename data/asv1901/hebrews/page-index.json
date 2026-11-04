@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1229,
+      "type": "scripture",
+      "printed_page": 235,
+      "first_verse": "HEB.1.1",
+      "last_verse": "HEB.2.4",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1230,
+      "type": "scripture",
+      "printed_page": 236,
+      "first_verse": "HEB.2.5",
+      "last_verse": "HEB.3.11",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1231,
+      "type": "scripture",
+      "printed_page": 237,
+      "first_verse": "HEB.3.12",
+      "last_verse": "HEB.5.4",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1232,
+      "type": "scripture",
+      "printed_page": 238,
+      "first_verse": "HEB.5.4",
+      "last_verse": "HEB.6.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1233,
+      "type": "scripture",
+      "printed_page": 239,
+      "first_verse": "HEB.6.18",
+      "last_verse": "HEB.8.1",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1234,
+      "type": "scripture",
+      "printed_page": 240,
+      "first_verse": "HEB.8.1",
+      "last_verse": "HEB.9.10",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1235,
+      "type": "scripture",
+      "printed_page": 241,
+      "first_verse": "HEB.9.10",
+      "last_verse": "HEB.10.6",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1236,
+      "type": "scripture",
+      "printed_page": 242,
+      "first_verse": "HEB.10.7",
+      "last_verse": "HEB.10.36",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1237,
+      "type": "scripture",
+      "printed_page": 243,
+      "first_verse": "HEB.10.36",
+      "last_verse": "HEB.11.23",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1238,
+      "type": "scripture",
+      "printed_page": 244,
+      "first_verse": "HEB.11.23",
+      "last_verse": "HEB.12.9",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 1239,
+      "type": "scripture",
+      "printed_page": 245,
+      "first_verse": "HEB.12.9",
+      "last_verse": "HEB.13.5",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 1240,
+      "type": "scripture",
+      "printed_page": 246,
+      "first_verse": "HEB.13.6",
+      "last_verse": "HEB.13.25",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-hebrews-pages-1229-1240.pdf",
+      "volume_pdf_page": 12
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-hebrews-pages-1229-1240.pdf",
+      "first_source_pdf_page": 1229,
+      "last_source_pdf_page": 1240,
+      "bytes": 1408378,
+      "sha256": "8f6740fbf81590121ed0f82d8be5a91dbbe29c7ad1c9f8e83a4671e247f2eff8"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

@@ -1,0 +1,508 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "HEB.12.1",
+      "edition_verse_id": "ASV1901:HEB.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Therefore let us also, seeing we are compassed about with so great a cloud of witnesses, lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.2",
+      "edition_verse_id": "ASV1901:HEB.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "looking unto Jesus the author and perfecter of ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " faith, who for the joy that was set before him endured the cross, despising shame, and hath sat down at the right hand of the throne of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.3",
+      "edition_verse_id": "ASV1901:HEB.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For consider him that hath endured such gainsaying of sinners against himself, that ye wax not weary, fainting in your souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.4",
+      "edition_verse_id": "ASV1901:HEB.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ye have not yet resisted unto blood, striving against sin:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.5",
+      "edition_verse_id": "ASV1901:HEB.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and ye have forgotten the exhortation which reasoneth with you as with sons,My son, regard not lightly the chastening of the Lord,\nNor faint when thou art reproved of him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.6",
+      "edition_verse_id": "ASV1901:HEB.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For whom the Lord loveth he chasteneth,\nAnd scourgeth every son whom he receiveth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.7",
+      "edition_verse_id": "ASV1901:HEB.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "It is for chastening that ye endure; God dealeth with you as with sons; for what son is there whom ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " father chasteneth not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.8",
+      "edition_verse_id": "ASV1901:HEB.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But if ye are without chastening, whereof all have been made partakers, then are ye bastards, and not sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.9",
+      "edition_verse_id": "ASV1901:HEB.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Furthermore, we had the fathers of our flesh to chasten us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.10",
+      "edition_verse_id": "ASV1901:HEB.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For they indeed for a few days chastened ",
+          "kind": "text"
+        },
+        {
+          "text": "us",
+          "kind": "supplied"
+        },
+        {
+          "text": " as seemed good to them; but he for ",
+          "kind": "text"
+        },
+        {
+          "text": "our",
+          "kind": "supplied"
+        },
+        {
+          "text": " profit, that ",
+          "kind": "text"
+        },
+        {
+          "text": "we",
+          "kind": "supplied"
+        },
+        {
+          "text": " may be partakers of his holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.11",
+      "edition_verse_id": "ASV1901:HEB.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "All chastening seemeth for the present to be not joyous but grievous; yet afterward it yieldeth peaceable fruit unto them that have been exercised thereby, ",
+          "kind": "text"
+        },
+        {
+          "text": "even the fruit",
+          "kind": "supplied"
+        },
+        {
+          "text": " of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.12",
+      "edition_verse_id": "ASV1901:HEB.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wherefore lift up the hands that hang down, and the palsied knees;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.13",
+      "edition_verse_id": "ASV1901:HEB.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and make straight paths for your feet, that that which is lame be not turned out of the way, but rather be healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.14",
+      "edition_verse_id": "ASV1901:HEB.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Follow after peace with all men, and the sanctification without which no man shall see the Lord:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.15",
+      "edition_verse_id": "ASV1901:HEB.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "looking carefully lest ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " any man that falleth short of the grace of God; lest any root of bitterness springing up trouble ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and thereby the many be defiled;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.16",
+      "edition_verse_id": "ASV1901:HEB.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "lest ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " any fornicator, or profane person, as Esau, who for one mess of meat sold his own birthright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.17",
+      "edition_verse_id": "ASV1901:HEB.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For ye know that even when he afterward desired to inherit the blessing, he was rejected; for he found no place for a change of mind ",
+          "kind": "text"
+        },
+        {
+          "text": "in his father",
+          "kind": "supplied"
+        },
+        {
+          "text": ", though he sought it diligently with tears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.18",
+      "edition_verse_id": "ASV1901:HEB.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For ye are not come unto ",
+          "kind": "text"
+        },
+        {
+          "text": "a mount",
+          "kind": "supplied"
+        },
+        {
+          "text": " that might be touched, and that burned with fire, and unto blackness, and darkness, and tempest,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.19",
+      "edition_verse_id": "ASV1901:HEB.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and the sound of a trumpet, and the voice of words; which ",
+          "kind": "text"
+        },
+        {
+          "text": "voice",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that heard entreated that no word more should be spoken unto them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.20",
+      "edition_verse_id": "ASV1901:HEB.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "for they could not endure that which was enjoined, If even a beast touch the mountain, it shall be stoned;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.21",
+      "edition_verse_id": "ASV1901:HEB.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and so fearful was the appearance, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " Moses said, I exceedingly fear and quake:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.22",
+      "edition_verse_id": "ASV1901:HEB.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "but ye are come unto mount Zion, and unto the city of the living God, the heavenly Jerusalem, and to innumerable hosts of angels,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.23",
+      "edition_verse_id": "ASV1901:HEB.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "to the general assembly and church of the firstborn who are enrolled in heaven, and to God the Judge of all, and to the spirits of just men made perfect,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.24",
+      "edition_verse_id": "ASV1901:HEB.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and to Jesus the mediator of a new covenant, and to the blood of sprinkling that speaketh better than ",
+          "kind": "text"
+        },
+        {
+          "text": "that of",
+          "kind": "supplied"
+        },
+        {
+          "text": " Abel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.25",
+      "edition_verse_id": "ASV1901:HEB.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "See that ye refuse not him that speaketh. For if they escaped not when they refused him that warned ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " on earth, much more ",
+          "kind": "text"
+        },
+        {
+          "text": "shall not",
+          "kind": "supplied"
+        },
+        {
+          "text": " we ",
+          "kind": "text"
+        },
+        {
+          "text": "escape",
+          "kind": "supplied"
+        },
+        {
+          "text": " who turn away from him that ",
+          "kind": "text"
+        },
+        {
+          "text": "warneth",
+          "kind": "supplied"
+        },
+        {
+          "text": " from heaven:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.26",
+      "edition_verse_id": "ASV1901:HEB.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "whose voice then shook the earth: but now he hath promised, saying, Yet once more will I make to tremble not the earth only, but also the heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.27",
+      "edition_verse_id": "ASV1901:HEB.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And this ",
+          "kind": "text"
+        },
+        {
+          "text": "word",
+          "kind": "supplied"
+        },
+        {
+          "text": ", Yet once more, signifieth the removing of those things that are shaken, as of things that have been made, that those things which are not shaken may remain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.28",
+      "edition_verse_id": "ASV1901:HEB.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Wherefore, receiving a kingdom that cannot be shaken, let us have grace, whereby we may offer service well-pleasing to God with reverence and awe:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.29",
+      "edition_verse_id": "ASV1901:HEB.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "for our God is a consuming fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

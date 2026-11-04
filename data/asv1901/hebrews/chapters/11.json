@@ -1,0 +1,580 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "HEB.11.1",
+      "edition_verse_id": "ASV1901:HEB.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now faith is assurance of ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " hoped for, a conviction of things not seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.11.2",
+      "edition_verse_id": "ASV1901:HEB.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For therein the elders had witness borne to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.3",
+      "edition_verse_id": "ASV1901:HEB.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "By faith we understand that the worlds have been framed by the word of God, so that what is seen hath not been made out of things which appear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.4",
+      "edition_verse_id": "ASV1901:HEB.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "By faith Abel offered unto God a more excellent sacrifice than Cain, through which he had witness borne to him that he was righteous, God bearing witness in respect of his gifts: and through it he being dead yet speaketh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.5",
+      "edition_verse_id": "ASV1901:HEB.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By faith Enoch was translated that he should not see death; and he was not found, because God translated him: for he hath had witness borne to him that before his translation he had been well-pleasing unto God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.6",
+      "edition_verse_id": "ASV1901:HEB.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and without faith it is impossible to be well-pleasing ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": "; for he that cometh to God must believe that he is, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " he is a rewarder of them that seek after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.7",
+      "edition_verse_id": "ASV1901:HEB.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "By faith Noah, being warned ",
+          "kind": "text"
+        },
+        {
+          "text": "of God",
+          "kind": "supplied"
+        },
+        {
+          "text": " concerning things not seen as yet, moved with godly fear, prepared an ark to the saving of his house; through which he condemned the world, and became heir of the righteousness which is according to faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.8",
+      "edition_verse_id": "ASV1901:HEB.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "By faith Abraham, when he was called, obeyed to go out unto a place which he was to receive for an inheritance; and he went out, not knowing whither he went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.9",
+      "edition_verse_id": "ASV1901:HEB.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "By faith he became a sojourner in the land of promise, as in a ",
+          "kind": "text"
+        },
+        {
+          "text": "land",
+          "kind": "supplied"
+        },
+        {
+          "text": " not his own, dwelling in tents, with Isaac and Jacob, the heirs with him of the same promise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.10",
+      "edition_verse_id": "ASV1901:HEB.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "for he looked for the city which hath the foundations, whose builder and maker is God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.11",
+      "edition_verse_id": "ASV1901:HEB.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "By faith even Sarah herself received power to conceive seed when she was past age, since she counted him faithful who had promised:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.12",
+      "edition_verse_id": "ASV1901:HEB.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "wherefore also there sprang of one, and him as good as dead, ",
+          "kind": "text"
+        },
+        {
+          "text": "so many",
+          "kind": "supplied"
+        },
+        {
+          "text": " as the stars of heaven in multitude, and as the sand, which is by the sea-shore, innumerable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.13",
+      "edition_verse_id": "ASV1901:HEB.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "These all died in faith, not having received the promises, but having seen them and greeted them from afar, and having confessed that they were strangers and pilgrims on the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.14",
+      "edition_verse_id": "ASV1901:HEB.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For they that say such things make it manifest that they are seeking after a country of their own.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.15",
+      "edition_verse_id": "ASV1901:HEB.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And if indeed they had been mindful of that ",
+          "kind": "text"
+        },
+        {
+          "text": "country",
+          "kind": "supplied"
+        },
+        {
+          "text": " from which they went out, they would have had opportunity to return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.16",
+      "edition_verse_id": "ASV1901:HEB.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But now they desire a better ",
+          "kind": "text"
+        },
+        {
+          "text": "country",
+          "kind": "supplied"
+        },
+        {
+          "text": ", that is, a heavenly: wherefore God is not ashamed of them, to be called their God; for he hath prepared for them a city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.17",
+      "edition_verse_id": "ASV1901:HEB.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "By faith Abraham, being tried, offered up Isaac: yea, he that had gladly received the promises was offering up his only begotten ",
+          "kind": "text"
+        },
+        {
+          "text": "son",
+          "kind": "supplied"
+        },
+        {
+          "text": ";",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.18",
+      "edition_verse_id": "ASV1901:HEB.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "even he",
+          "kind": "supplied"
+        },
+        {
+          "text": " to whom it was said, In Isaac shall thy seed be called:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.19",
+      "edition_verse_id": "ASV1901:HEB.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "accounting that God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " able to raise up, even from the dead; from whence he did also in a figure receive him back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.20",
+      "edition_verse_id": "ASV1901:HEB.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "By faith Isaac blessed Jacob and Esau, even concerning things to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.21",
+      "edition_verse_id": "ASV1901:HEB.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "By faith Jacob, when he was dying, blessed each of the sons of Joseph; and worshipped, ",
+          "kind": "text"
+        },
+        {
+          "text": "leaning",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon the top of his staff.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.22",
+      "edition_verse_id": "ASV1901:HEB.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "By faith Joseph, when his end was nigh, made mention of the departure of the children of Israel; and gave commandment concerning his bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.23",
+      "edition_verse_id": "ASV1901:HEB.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "By faith Moses, when he was born, was hid three months by his parents, because they saw he was a goodly child; and they were not afraid of the king’s commandment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.24",
+      "edition_verse_id": "ASV1901:HEB.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "By faith Moses, when he was grown up, refused to be called the son of Pharaoh’s daughter;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.25",
+      "edition_verse_id": "ASV1901:HEB.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "choosing rather to share ill treatment with the people of God, than to enjoy the pleasures of sin for a season;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.26",
+      "edition_verse_id": "ASV1901:HEB.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "accounting the reproach of Christ greater riches than the treasures of Egypt: for he looked unto the recompense of reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.27",
+      "edition_verse_id": "ASV1901:HEB.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.28",
+      "edition_verse_id": "ASV1901:HEB.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "By faith he kept the passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.29",
+      "edition_verse_id": "ASV1901:HEB.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were swallowed up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.30",
+      "edition_verse_id": "ASV1901:HEB.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "By faith the walls of Jericho fell down, after they had been compassed about for seven days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.31",
+      "edition_verse_id": "ASV1901:HEB.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "By faith Rahab the harlot perished not with them that were disobedient, having received the spies with peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.32",
+      "edition_verse_id": "ASV1901:HEB.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And what shall I more say? for the time will fail me if I tell of Gideon, Barak, Samson, Jephthah; of David and Samuel and the prophets:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.33",
+      "edition_verse_id": "ASV1901:HEB.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.34",
+      "edition_verse_id": "ASV1901:HEB.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "quenched the power of fire, escaped the edge of the sword, from weakness were made strong, waxed mighty in war, turned to flight armies of aliens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.35",
+      "edition_verse_id": "ASV1901:HEB.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Women received their dead by a resurrection: and others were tortured, not accepting their deliverance; that they might obtain a better resurrection:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.36",
+      "edition_verse_id": "ASV1901:HEB.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "and others had trial of mockings and scourgings, yea, moreover of bonds and imprisonment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.37",
+      "edition_verse_id": "ASV1901:HEB.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "they were stoned, they were sawn asunder, they were tempted, they were slain with the sword: they went about in sheepskins, in goatskins; being destitute, afflicted, ill-treated",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.38",
+      "edition_verse_id": "ASV1901:HEB.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "(of whom the world was not worthy), wandering in deserts and mountains and caves, and the holes of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.39",
+      "edition_verse_id": "ASV1901:HEB.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And these all, having had witness borne to them through their faith, received not the promise,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.11.40",
+      "edition_verse_id": "ASV1901:HEB.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "God having provided some better thing concerning us, that apart from us they should not be made perfect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

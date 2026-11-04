@@ -1,0 +1,152 @@
+{
+  "code": "HEB",
+  "slug": "hebrews",
+  "name": "Hebrews",
+  "order": 58,
+  "predecessor": "PHM",
+  "successor": "JAS",
+  "usx": "58-HEB.usx",
+  "usfm": "88-HEB.usfm",
+  "chapter_counts": [
+    14,
+    18,
+    19,
+    16,
+    14,
+    20,
+    28,
+    13,
+    28,
+    39,
+    40,
+    29,
+    25
+  ],
+  "first_pdf": 1229,
+  "last_pdf": 1240,
+  "first_print": 235,
+  "scripture": [
+    [
+      1229,
+      1,
+      1,
+      0
+    ],
+    [
+      1230,
+      2,
+      5,
+      0
+    ],
+    [
+      1231,
+      3,
+      12,
+      0
+    ],
+    [
+      1232,
+      5,
+      4,
+      1
+    ],
+    [
+      1233,
+      6,
+      18,
+      1
+    ],
+    [
+      1234,
+      8,
+      1,
+      1
+    ],
+    [
+      1235,
+      9,
+      10,
+      1
+    ],
+    [
+      1236,
+      10,
+      7,
+      0
+    ],
+    [
+      1237,
+      10,
+      36,
+      1
+    ],
+    [
+      1238,
+      11,
+      23,
+      1
+    ],
+    [
+      1239,
+      12,
+      9,
+      1
+    ],
+    [
+      1240,
+      13,
+      6,
+      0
+    ]
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "note_verse": [
+    9,
+    4
+  ],
+  "note_text": "Hebrews 9:4 retains the original 1901 marginal alternative “Or, censer”; the main verse remains unchanged.",
+  "other_apparatus": [
+    {
+      "passage": "HEB.4.8",
+      "source_pdf_page": 1231,
+      "note": "The printed margin reads “Gr. Jesus” for the proper name translated Joshua in the main text; compare Acts 7:45. This translation note is distinct from the running verse.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "HEB.9.4",
+      "source_pdf_page": 1234,
+      "note": "The original 1901 print gives the alternative “Or, censer.” It is not substituted into the main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "HEB.10.34",
+      "source_pdf_page": 1236,
+      "note": "The printed apparatus notes a reading in many ancient authorities beginning “ye have your own selves for a better possession.” It is not inserted in the main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "HEB.13.21",
+      "source_pdf_page": 1240,
+      "note": "Original printed notes document alternative readings “work” and “you” in ancient authorities. The facsimile retains the complete marginal notes.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    }
+  ],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1229,
+      1240
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "60a08bf88c5d4bdb86fa70877a6dca2c9bc4be3bb99f594e2181747d3054029d",
+  "comparison_usfm_sha256": "43b5b477d0d29737b69d9701547f749a549dc90b13f6a8362a7d3e78a83ff6e4"
+}

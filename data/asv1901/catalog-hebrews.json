@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "book_name": "Hebrews",
+  "book_order": 58,
+  "canonical_ids": "HEB.{chapter}.{verse}",
+  "edition_ids": "ASV1901:HEB.{chapter}.{verse}",
+  "chapter_count": 13,
+  "verse_count": 303,
+  "traditional_verse_positions": 303,
+  "omitted_from_1901_main_text": [],
+  "verse_omissions_path": "hebrews/verse-omissions.json",
+  "textual_apparatus_path": "hebrews/textual-apparatus.json",
+  "chapter_path_template": "hebrews/chapters/{chapter:02d}.json",
+  "facsimile_index": "hebrews/page-index.json",
+  "predecessor_book_code": "PHM",
+  "successor_book_code": "JAS",
+  "source_provenance": "books/hebrews/SOURCE_INVENTORY.json",
+  "reader": "books/hebrews/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

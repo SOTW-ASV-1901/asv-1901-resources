@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "HEB.6.1",
+      "edition_verse_id": "ASV1901:HEB.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Wherefore leaving the doctrine of the first principles of Christ, let us press on unto perfection; not laying again a foundation of repentance from dead works, and of faith toward God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.6.2",
+      "edition_verse_id": "ASV1901:HEB.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "of the teaching of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.3",
+      "edition_verse_id": "ASV1901:HEB.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And this will we do, if God permit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.4",
+      "edition_verse_id": "ASV1901:HEB.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For as touching those who were once enlightened and tasted of the heavenly gift, and were made partakers of the Holy Spirit,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.5",
+      "edition_verse_id": "ASV1901:HEB.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and tasted the good word of God, and the powers of the age to come,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.6",
+      "edition_verse_id": "ASV1901:HEB.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " fell away, it is impossible to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.7",
+      "edition_verse_id": "ASV1901:HEB.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the land which hath drunk the rain that cometh oft upon it, and bringeth forth herbs meet for them for whose sake it is also tilled, receiveth blessing from God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.8",
+      "edition_verse_id": "ASV1901:HEB.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "but if it beareth thorns and thistles, it is rejected and nigh unto a curse; whose end is to be burned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.9",
+      "edition_verse_id": "ASV1901:HEB.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.6.10",
+      "edition_verse_id": "ASV1901:HEB.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "for God is not unrighteous to forget your work and the love which ye showed toward his name, in that ye ministered unto the saints, and still do minister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.11",
+      "edition_verse_id": "ASV1901:HEB.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And we desire that each one of you may show the same diligence unto the fulness of hope even to the end:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.12",
+      "edition_verse_id": "ASV1901:HEB.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "that ye be not sluggish, but imitators of them who through faith and patience inherit the promises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.13",
+      "edition_verse_id": "ASV1901:HEB.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For when God made promise to Abraham, since he could swear by none greater, he sware by himself,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.6.14",
+      "edition_verse_id": "ASV1901:HEB.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "saying, Surely blessing I will bless thee, and multiplying I will multiply thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.15",
+      "edition_verse_id": "ASV1901:HEB.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And thus, having patiently endured, he obtained the promise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.16",
+      "edition_verse_id": "ASV1901:HEB.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For men swear by the greater: and in every dispute of theirs the oath is final for confirmation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.17",
+      "edition_verse_id": "ASV1901:HEB.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Wherein God, being minded to show more abundantly unto the heirs of the promise the immutability of his counsel, interposed with an oath;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.18",
+      "edition_verse_id": "ASV1901:HEB.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "that by two immutable things, in which it is impossible for God to lie, we may have a strong encouragement, who have fled for refuge to lay hold of the hope set before us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.19",
+      "edition_verse_id": "ASV1901:HEB.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "which we have as an anchor of the soul, ",
+          "kind": "text"
+        },
+        {
+          "text": "a hope",
+          "kind": "supplied"
+        },
+        {
+          "text": " both sure and stedfast and entering into that which is within the veil;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.6.20",
+      "edition_verse_id": "ASV1901:HEB.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "whither as a forerunner Jesus entered for us, having become a high priest for ever after the order of Melchizedek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

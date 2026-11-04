@@ -1,0 +1,74 @@
+{
+  "source_pdf_page_range": [
+    1229,
+    1240
+  ],
+  "original_maps": [],
+  "interleaves": [],
+  "printed_scripture_pages": [
+    235,
+    246
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1229,
+      "first_verse": "HEB.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1230,
+      "first_verse": "HEB.2.5",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1231,
+      "first_verse": "HEB.3.12",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1232,
+      "first_verse": "HEB.5.4",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1233,
+      "first_verse": "HEB.6.18",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1234,
+      "first_verse": "HEB.8.1",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1235,
+      "first_verse": "HEB.9.10",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1236,
+      "first_verse": "HEB.10.7",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1237,
+      "first_verse": "HEB.10.36",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1238,
+      "first_verse": "HEB.11.23",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1239,
+      "first_verse": "HEB.12.9",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1240,
+      "first_verse": "HEB.13.6",
+      "continues_previous_scripture_page": false
+    }
+  ]
+}

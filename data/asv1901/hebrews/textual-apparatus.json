@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "apparatus": [
+    {
+      "passage": "HEB.4.8",
+      "source_pdf_page": 1231,
+      "note": "The printed margin reads “Gr. Jesus” for the proper name translated Joshua in the main text; compare Acts 7:45. This translation note is distinct from the running verse.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "HEB.9.4",
+      "source_pdf_page": 1234,
+      "note": "The original 1901 print gives the alternative “Or, censer.” It is not substituted into the main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "HEB.10.34",
+      "source_pdf_page": 1236,
+      "note": "The printed apparatus notes a reading in many ancient authorities beginning “ye have your own selves for a better possession.” It is not inserted in the main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "HEB.13.21",
+      "source_pdf_page": 1240,
+      "note": "Original printed notes document alternative readings “work” and “you” in ancient authorities. The facsimile retains the complete marginal notes.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

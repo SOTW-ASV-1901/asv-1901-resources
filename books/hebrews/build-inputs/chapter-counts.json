@@ -1,0 +1,22 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "chapter_traditional_verse_counts": {
+    "1": 14,
+    "2": 18,
+    "3": 19,
+    "4": 16,
+    "5": 14,
+    "6": 20,
+    "7": 28,
+    "8": 13,
+    "9": 28,
+    "10": 39,
+    "11": 40,
+    "12": 29,
+    "13": 25
+  },
+  "traditional_verse_positions": 303,
+  "main_text_verse_count": 303,
+  "omitted_verse_ids": []
+}

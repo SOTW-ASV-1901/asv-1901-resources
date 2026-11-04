@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "HEB",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "HEB.8.1",
+      "edition_verse_id": "ASV1901:HEB.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now in the things which we are saying the chief point ",
+          "kind": "text"
+        },
+        {
+          "text": "is this",
+          "kind": "supplied"
+        },
+        {
+          "text": ": We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.8.2",
+      "edition_verse_id": "ASV1901:HEB.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "a minister of the sanctuary, and of the true tabernacle, which the Lord pitched, not man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.8.3",
+      "edition_verse_id": "ASV1901:HEB.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For every high priest is appointed to offer both gifts and sacrifices: wherefore it is necessary that this ",
+          "kind": "text"
+        },
+        {
+          "text": "high priest",
+          "kind": "supplied"
+        },
+        {
+          "text": " also have somewhat to offer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.8.4",
+      "edition_verse_id": "ASV1901:HEB.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now if he were on earth, he would not be a priest at all, seeing there are those who offer the gifts according to the law;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.8.5",
+      "edition_verse_id": "ASV1901:HEB.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "who serve ",
+          "kind": "text"
+        },
+        {
+          "text": "that which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a copy and shadow of the heavenly things, even as Moses is warned ",
+          "kind": "text"
+        },
+        {
+          "text": "of God",
+          "kind": "supplied"
+        },
+        {
+          "text": " when he is about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern that was showed thee in the mount.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.8.6",
+      "edition_verse_id": "ASV1901:HEB.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But now hath he obtained a ministry the more excellent, by so much as he is also the mediator of a better covenant, which hath been enacted upon better promises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.8.7",
+      "edition_verse_id": "ASV1901:HEB.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For if that first ",
+          "kind": "text"
+        },
+        {
+          "text": "covenant",
+          "kind": "supplied"
+        },
+        {
+          "text": " had been faultless, then would no place have been sought for a second.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.8.8",
+      "edition_verse_id": "ASV1901:HEB.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For finding fault with them, he saith,Behold, the days come, saith the Lord,\nThat I will make a new covenant with the house of Israel and with the house of Judah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.8.9",
+      "edition_verse_id": "ASV1901:HEB.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Not according to the covenant that I made with their fathers\nIn the day that I took them by the hand to lead them forth out of the land of Egypt;\nFor they continued not in my covenant,\nAnd I regarded them not, saith the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.8.10",
+      "edition_verse_id": "ASV1901:HEB.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For this is the covenant that I will make with the house of Israel\nAfter those days, saith the Lord;\nI will put my laws into their mind,\nAnd on their heart also will I write them:\nAnd I will be to them a God,\nAnd they shall be to me a people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.8.11",
+      "edition_verse_id": "ASV1901:HEB.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they shall not teach every man his fellow-citizen,\nAnd every man his brother, saying, Know the Lord:\nFor all shall know me,\nFrom the least to the greatest of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.8.12",
+      "edition_verse_id": "ASV1901:HEB.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For I will be merciful to their iniquities,\nAnd their sins will I remember no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.8.13",
+      "edition_verse_id": "ASV1901:HEB.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "In that he saith, A new ",
+          "kind": "text"
+        },
+        {
+          "text": "covenant",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he hath made the first old. But that which is becoming old and waxeth aged is nigh unto vanishing away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
