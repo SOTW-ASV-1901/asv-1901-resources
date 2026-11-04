@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1PE",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "1PE.4.1",
+      "edition_verse_id": "ASV1901:1PE.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Forasmuch then as Christ suffered in the flesh, arm ye yourselves also with the same mind; for he that hath suffered in the flesh hath ceased from sin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.4.2",
+      "edition_verse_id": "ASV1901:1PE.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that ye no longer should live the rest of your time in the flesh to the lusts of men, but to the will of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.3",
+      "edition_verse_id": "ASV1901:1PE.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the time past may suffice to have wrought the desire of the Gentiles, and to have walked in lasciviousness, lusts, winebibbings, revellings, carousings, and abominable idolatries:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.4",
+      "edition_verse_id": "ASV1901:1PE.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "wherein they think it strange that ye run not with ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " into the same excess of riot, speaking evil of ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.5",
+      "edition_verse_id": "ASV1901:1PE.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "who shall give account to him that is ready to judge the living and the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.6",
+      "edition_verse_id": "ASV1901:1PE.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For unto this end was the gospel preached even to the dead, that they might be judged indeed according to men in the flesh, but live according to God in the spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.7",
+      "edition_verse_id": "ASV1901:1PE.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the end of all things is at hand: be ye therefore of sound mind, and be sober unto prayer:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.4.8",
+      "edition_verse_id": "ASV1901:1PE.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "above all things being fervent in your love among yourselves; for love covereth a multitude of sins:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.9",
+      "edition_verse_id": "ASV1901:1PE.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "using hospitality one to another without murmuring:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.10",
+      "edition_verse_id": "ASV1901:1PE.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "according as each hath received a gift, ministering it among yourselves, as good stewards of the manifold grace of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.11",
+      "edition_verse_id": "ASV1901:1PE.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "if any man speaketh, ",
+          "kind": "text"
+        },
+        {
+          "text": "speaking",
+          "kind": "supplied"
+        },
+        {
+          "text": " as it were oracles of God; if any man ministereth, ",
+          "kind": "text"
+        },
+        {
+          "text": "ministering",
+          "kind": "supplied"
+        },
+        {
+          "text": " as of the strength which God supplieth: that in all things God may be glorified through Jesus Christ, whose is the glory and the dominion for ever and ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.12",
+      "edition_verse_id": "ASV1901:1PE.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Beloved, think it not strange concerning the fiery trial among you, which cometh upon you to prove you, as though a strange thing happened unto you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.13",
+      "edition_verse_id": "ASV1901:1PE.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "but insomuch as ye are partakers of Christ’s sufferings, rejoice; that at the revelation of his glory also ye may rejoice with exceeding joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.4.14",
+      "edition_verse_id": "ASV1901:1PE.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If ye are reproached for the name of Christ, blessed ",
+          "kind": "text"
+        },
+        {
+          "text": "are ye",
+          "kind": "supplied"
+        },
+        {
+          "text": "; because the ",
+          "kind": "text"
+        },
+        {
+          "text": "Spirit",
+          "kind": "supplied"
+        },
+        {
+          "text": " of glory and the Spirit of God resteth upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.15",
+      "edition_verse_id": "ASV1901:1PE.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For let none of you suffer as a murderer, or a thief, or an evil-doer, or as a meddler in other men’s matters:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.16",
+      "edition_verse_id": "ASV1901:1PE.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "but if ",
+          "kind": "text"
+        },
+        {
+          "text": "a man suffer",
+          "kind": "supplied"
+        },
+        {
+          "text": " as a Christian, let him not be ashamed; but let him glorify God in this name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.17",
+      "edition_verse_id": "ASV1901:1PE.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the time ",
+          "kind": "text"
+        },
+        {
+          "text": "is come",
+          "kind": "supplied"
+        },
+        {
+          "text": " for judgment to begin at the house of God: and if ",
+          "kind": "text"
+        },
+        {
+          "text": "it begin",
+          "kind": "supplied"
+        },
+        {
+          "text": " first at us, what ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the end of them that obey not the gospel of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.18",
+      "edition_verse_id": "ASV1901:1PE.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And if the righteous is scarcely saved, where shall the ungodly and sinner appear?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.4.19",
+      "edition_verse_id": "ASV1901:1PE.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Wherefore let them also that suffer according to the will of God commit their souls in well-doing unto a faithful Creator.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

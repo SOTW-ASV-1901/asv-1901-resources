@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1PE",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1245,
+      "type": "scripture",
+      "printed_page": 251,
+      "first_verse": "1PE.1.1",
+      "last_verse": "1PE.1.20",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-peter-pages-1245-1249.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1246,
+      "type": "scripture",
+      "printed_page": 252,
+      "first_verse": "1PE.1.20",
+      "last_verse": "1PE.2.20",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-peter-pages-1245-1249.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1247,
+      "type": "scripture",
+      "printed_page": 253,
+      "first_verse": "1PE.2.20",
+      "last_verse": "1PE.3.21",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-peter-pages-1245-1249.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1248,
+      "type": "scripture",
+      "printed_page": 254,
+      "first_verse": "1PE.3.21",
+      "last_verse": "1PE.5.5",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-peter-pages-1245-1249.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1249,
+      "type": "scripture",
+      "printed_page": 255,
+      "first_verse": "1PE.5.5",
+      "last_verse": "1PE.5.14",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-peter-pages-1245-1249.pdf",
+      "volume_pdf_page": 5
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-first-peter-pages-1245-1249.pdf",
+      "first_source_pdf_page": 1245,
+      "last_source_pdf_page": 1249,
+      "bytes": 528484,
+      "sha256": "3123e28e68ebae750afb22ca045dc2d6f13e1e7e03d6a0577b75f6e53b0c385d"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

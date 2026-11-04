@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1PE",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1PE.5.1",
+      "edition_verse_id": "ASV1901:1PE.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The elders therefore among you I exhort, who am a fellow-elder, and a witness of the sufferings of Christ, who am also a partaker of the glory that shall be revealed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.5.2",
+      "edition_verse_id": "ASV1901:1PE.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Tend the flock of God which is among you, exercising the oversight, not of constraint, but willingly, according to ",
+          "kind": "text"
+        },
+        {
+          "text": "the will of",
+          "kind": "supplied"
+        },
+        {
+          "text": " God; nor yet for filthy lucre, but of a ready mind;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.3",
+      "edition_verse_id": "ASV1901:1PE.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "neither as lording it over the charge allotted to you, but making yourselves ensamples to the flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.4",
+      "edition_verse_id": "ASV1901:1PE.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when the chief Shepherd shall be manifested, ye shall receive the crown of glory that fadeth not away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.5",
+      "edition_verse_id": "ASV1901:1PE.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Likewise, ye younger, be subject unto the elder. Yea, all of you gird yourselves with humility, to serve one another: for God resisteth the proud, but giveth grace to the humble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.6",
+      "edition_verse_id": "ASV1901:1PE.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.7",
+      "edition_verse_id": "ASV1901:1PE.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "casting all your anxiety upon him, because he careth for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.8",
+      "edition_verse_id": "ASV1901:1PE.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Be sober, be watchful: your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.9",
+      "edition_verse_id": "ASV1901:1PE.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "whom withstand stedfast in your faith, knowing that the same sufferings are accomplished in your brethren who are in the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.10",
+      "edition_verse_id": "ASV1901:1PE.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the God of all grace, who called you unto his eternal glory in Christ, after that ye have suffered a little while, shall himself perfect, establish, strengthen you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.11",
+      "edition_verse_id": "ASV1901:1PE.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "To him ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the dominion for ever and ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.12",
+      "edition_verse_id": "ASV1901:1PE.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "By Silvanus, our faithful brother, as I account ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", I have written unto you briefly, exhorting, and testifying that this is the true grace of God: stand ye fast therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.5.13",
+      "edition_verse_id": "ASV1901:1PE.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "She that is in Babylon, elect together with ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saluteth you; and ",
+          "kind": "text"
+        },
+        {
+          "text": "so doth",
+          "kind": "supplied"
+        },
+        {
+          "text": " Mark my son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.5.14",
+      "edition_verse_id": "ASV1901:1PE.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Salute one another with a kiss of love.Peace be unto you all that are in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
