@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHM",
+  "apparatus": [
+    {
+      "passage": "PHM.1.16",
+      "source_pdf_page": 1228,
+      "note": "The original ASV 1901 marginal apparatus gives “Gr. bondservant” for “servant.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "PHM.1.25",
+      "source_pdf_page": 1228,
+      "note": "The original 1901 margin states: “Many ancient authorities omit Amen.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

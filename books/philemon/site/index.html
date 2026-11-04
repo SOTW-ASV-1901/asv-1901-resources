@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Servants of the Way | ASV 1901 Philemon</title>
+<style>
+:root{font-family:Georgia,serif;color:#192b32;background:#f7f5ef}*{box-sizing:border-box}body{margin:0}header{background:#132f37;color:#fcf8ec;padding:20px max(20px,calc((100vw - 1080px)/2))}header small{color:#c8d7d1;letter-spacing:.12em;font:600 11px Arial,sans-serif}h1{font-weight:normal;font-size:clamp(25px,4vw,40px);margin:6px 0}main{max-width:1120px;margin:24px auto;padding:0 16px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px}.panel{background:white;border:1px solid #d4d9d6;box-shadow:0 2px 16px #0b28350a;border-radius:12px;min-width:0;overflow:hidden}.toolbar{padding:16px;border-bottom:1px solid #e4e6e2;display:flex;gap:9px;align-items:center;flex-wrap:wrap}.toolbar h2{font:600 16px Arial,sans-serif;margin:0 auto 0 0}.label{font:11px Arial,sans-serif;color:#48616a}select,button{font:14px Arial,sans-serif;border:1px solid #a8b4b6;border-radius:6px;padding:10px;background:white;color:#173943}button{background:#1c515a;color:white;border-color:#1c515a;cursor:pointer}button:disabled{opacity:.4;cursor:not-allowed}.scripture{padding:16px 25px 30px;overflow:auto;max-height:75vh;font-size:17px;line-height:1.8}.scripture p{margin:.45em 0;white-space:pre-wrap;scroll-margin:75px}.scripture sup{font:600 10px Arial,sans-serif;color:#9b7342;margin-right:6px}.scripture em{font-style:italic}.scripture .selected{background:#f4ecca;outline:3px solid #f4ecca;border-radius:2px}.muted{color:#60777e;font:13px/1.5 Arial,sans-serif}.viewer{padding:14px}.viewer p{margin:5px 0 12px}.file{font:12px Arial,sans-serif;color:#557077;word-break:break-all}iframe{width:100%;height:62vh;border:1px solid #e0e4e4;border-radius:7px;background:#efefef}.pagebar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:12px 0}.pagebar span{font:12px Arial,sans-serif}a{color:#1e5367}#error{display:none;background:#fff0e7;border-bottom:1px solid #dfbba8;padding:12px;font:13px Arial,sans-serif}footer{max-width:1100px;margin:auto;padding:18px;color:#60757b;font:12px/1.6 Arial,sans-serif}@media(max-width:780px){main{grid-template-columns:1fr}.scripture{max-height:none}iframe{height:65vh}}
+</style>
+</head>
+<body>
+<header><small>SERVANTS OF THE WAY · BIBLE FOUNDATION</small><h1>American Standard Version · 1901</h1><div>Philemon · Scripture with original-print comparison</div></header>
+<div id="error" role="alert"></div>
+<div style="max-width:1100px;margin:16px auto 0;padding:0 16px;font:13px/1.55 Arial,sans-serif;color:#394e55">
+<strong>Original ASV 1901 marginal apparatus:</strong> At Philemon 25 the original 1901 printed margin records that many ancient authorities omit “Amen.” The printed main text and its manuscript note are retained distinctly. <a href="#PHM.1.25" id="variantLink">Inspect the noted verse</a>.</div>
+<main>
+<section class="panel"><div class="toolbar"><h2>Read Scripture</h2><label class="label" for="chapter">Chapter</label><select id="chapter"></select><label class="label" for="verse">Verse</label><select id="verse"></select><button id="compare">Compare original</button></div><article class="scripture" id="scripture" aria-live="polite"></article></section>
+<section class="panel"><div class="toolbar"><h2>Original printing</h2><span class="muted" id="pageNotice">Select Compare</span></div><div class="viewer"><p class="muted" id="rangeInfo">Some verses continue onto a neighboring physical page. Use Next verse page to jump directly to a continuation, when a verse crosses an original printed page boundary.</p><div class="pagebar"><button id="prevPage" disabled>Previous page</button><span id="pageLabel">No page selected</span><button id="nextPage" disabled>Next page</button><button id="nextVersePage" disabled>Next verse page</button></div><iframe id="original" title="Original ASV 1901 scanned Philemon page"></iframe><p class="file" id="sourceFile">Source PDF referenced by original page number. The full 1901 scan is preserved outside this standalone book release.</p></div></section>
+</main>
+<footer>ASV 1901 · Philemon, 1 chapters, 25 main-text verses. Supplied translator words are italicized from the original digital witness. Historical facsimiles: original source PDF pages 1228–1228, printed pages 234–234. The original USX and USFM witnesses are preserved without modification. No unverified word-to-Strong's mappings. Source witness independence and exhaustive print proofreading are not claimed.</footer>
+<script>
+'use strict';
+const prefix='../../../data/asv1901/philemon/';
+const ids={chapter:document.getElementById('chapter'),verse:document.getElementById('verse'),scripture:document.getElementById('scripture'),original:document.getElementById('original'),notice:document.getElementById('pageNotice'),info:document.getElementById('rangeInfo'),label:document.getElementById('pageLabel'),source:document.getElementById('sourceFile'),previous:document.getElementById('prevPage'),next:document.getElementById('nextPage'),nextVersePage:document.getElementById('nextVersePage')};
+let index=null,chapterData=null,activePage=-1,selectedVerse=1,matchingPageIndices=[];
+const error=(text)=>{const e=document.getElementById('error');e.style.display='block';e.textContent=text};
+const canonical=(c,v)=>`PHM.${c}.${v}`;
+function formatPage(p){return p.type==='map'?`Original PDF page ${p.source_pdf_page} · historical Bible map`:`Original PDF page ${p.source_pdf_page} · printed NT page ${p.printed_page}`}
+function fillVerses(){
+ const chapter=Number(ids.chapter.value);if(!chapterData)return;
+ ids.verse.replaceChildren();for(const v of chapterData.verses){const x=document.createElement('option');x.value=String(v.verse);x.textContent=String(v.verse);ids.verse.append(x)}
+ if(!chapterData.verses.some(x=>x.verse===selectedVerse)){selectedVerse=chapterData.verses[0].verse;}ids.verse.value=String(selectedVerse);
+}
+function draw(){
+ ids.scripture.replaceChildren();if(!chapterData)return;
+ const frag=document.createDocumentFragment();
+ for(const verse of chapterData.verses){
+  const p=document.createElement('p');p.dataset.id=verse.id;p.id=verse.id;p.className=verse.verse===selectedVerse?'selected':'';
+  const num=document.createElement('sup');num.textContent=String(verse.verse);p.append(num);
+  for(const span of verse.spans){const node=document.createElement(span.kind==='supplied'?'em':'span');node.textContent=span.text;p.append(node)}
+  p.addEventListener('click',()=>{selectedVerse=verse.verse;ids.verse.value=String(selectedVerse);setSelected(false)});
+  frag.append(p);
+ }
+ ids.scripture.append(frag);setSelected(true);
+}
+function setSelected(scroll){
+ ids.scripture.querySelectorAll('[data-id]').forEach(p=>p.classList.toggle('selected',p.dataset.id===canonical(Number(ids.chapter.value),selectedVerse)));
+ const selected=document.getElementById(canonical(Number(ids.chapter.value),selectedVerse));if(scroll&&selected)selected.scrollIntoView({block:'nearest'});
+ history.replaceState(null,'',`#PHM.${Number(ids.chapter.value)}.${selectedVerse}`);
+}
+async function selectChapter(ch,verse=1){
+ const res=await fetch(prefix+'chapters/'+String(ch).padStart(2,'0')+'.json');if(!res.ok)throw new Error('Unable to load chapter '+ch);
+ chapterData=await res.json();selectedVerse=verse;fillVerses();draw();
+}
+function pageRow(p){return index.pages[p]}
+function navigateTo(p){
+ if(!index||p<0||p>=index.pages.length)return;
+ activePage=p;const page=pageRow(p);const uri=prefix+'facsimile/'+encodeURIComponent(page.volume)+'#page='+page.volume_pdf_page;
+ ids.original.src=uri;ids.notice.textContent=formatPage(page);ids.label.textContent=`${p+1} of ${index.pages.length}`;
+ ids.source.textContent='Original facsimile volume: '+page.volume;
+ ids.previous.disabled=p===0;ids.next.disabled=p===index.pages.length-1;
+}
+function showMatchingPages(){
+ const ref=canonical(Number(ids.chapter.value),selectedVerse);const target=[Number(ids.chapter.value),selectedVerse];
+ const matching=index.pages.map((p,i)=>({p,i})).filter(({p})=>{
+  if(p.type!=='scripture')return false;const [ac,av]=p.first_verse.split('.').slice(1).map(Number);const [bc,bv]=p.last_verse.split('.').slice(1).map(Number);
+  return (target[0]>ac||(target[0]===ac&&target[1]>=av))&&(target[0]<bc||(target[0]===bc&&target[1]<=bv));
+ });
+ if(!matching.length){error('No original page mapped for '+ref);return}matchingPageIndices=matching.map(x=>x.i);ids.nextVersePage.disabled=matchingPageIndices.length<2;
+ ids.info.textContent=matching.length>1?`${ref} spans original pages ${matching.map(x=>x.p.source_pdf_page).join(' and ')}. Use Next verse page to jump directly to the continuation.`:`${ref} appears on original PDF page ${matching[0].p.source_pdf_page} (printed page ${matching[0].p.printed_page}).`;
+ navigateTo(matching[0].i);
+}
+async function init(){
+ try{
+  const r=await fetch(prefix+'page-index.json');if(!r.ok)throw new Error('Unable to load original page index');index=await r.json();
+  for(let i=1;i<=1;i++){const opt=document.createElement('option');opt.value=String(i);opt.textContent=String(i);ids.chapter.append(opt)}
+  const match=location.hash.match(/^#PHM\.(\d+)\.(\d+)$/);let ch=1,v=1;
+  if(match&&Number(match[1])>=1&&Number(match[1])<=1){ch=Number(match[1]);v=Number(match[2])||1}
+  ids.chapter.value=String(ch);await selectChapter(ch,v);
+ }catch(e){error('Reader requires local HTTP or hosted static resources. '+e.message)}
+}
+ids.chapter.addEventListener('change',()=>selectChapter(Number(ids.chapter.value),1).catch(e=>error(e.message)));
+ids.verse.addEventListener('change',()=>{selectedVerse=Number(ids.verse.value);setSelected(true)});
+document.getElementById('compare').addEventListener('click',showMatchingPages);
+ids.nextVersePage.addEventListener('click',()=>{if(matchingPageIndices.length>1){navigateTo(matchingPageIndices[1]);ids.nextVersePage.disabled=true}});
+ids.previous.addEventListener('click',()=>navigateTo(activePage-1));ids.next.addEventListener('click',()=>navigateTo(activePage+1));
+document.getElementById('variantLink').addEventListener('click',async e=>{e.preventDefault();try{ids.chapter.value='1';await selectChapter(1,25);history.replaceState(null,'','#PHM.1.25')}catch(err){error(err.message)}});
+init();
+</script>
+</body></html>

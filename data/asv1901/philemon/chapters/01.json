@@ -1,0 +1,328 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHM",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "PHM.1.1",
+      "edition_verse_id": "ASV1901:PHM.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our beloved and fellow-worker,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHM.1.2",
+      "edition_verse_id": "ASV1901:PHM.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and to Apphia our sister, and to Archippus our fellow-soldier, and to the church in thy house:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.3",
+      "edition_verse_id": "ASV1901:PHM.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.4",
+      "edition_verse_id": "ASV1901:PHM.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I thank my God always, making mention of thee in my prayers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.5",
+      "edition_verse_id": "ASV1901:PHM.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "hearing of thy love, and of the faith which thou hast toward the Lord Jesus, and toward all the saints;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHM.1.6",
+      "edition_verse_id": "ASV1901:PHM.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "that the fellowship of thy faith may become effectual, in the knowledge of every good thing which is in you, unto Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.7",
+      "edition_verse_id": "ASV1901:PHM.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For I had much joy and comfort in thy love, because the hearts of the saints have been refreshed through thee, brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.8",
+      "edition_verse_id": "ASV1901:PHM.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Wherefore, though I have all boldness in Christ to enjoin thee that which is befitting,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHM.1.9",
+      "edition_verse_id": "ASV1901:PHM.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "yet for love’s sake I rather beseech, being such a one as Paul the aged, and now a prisoner also of Christ Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.10",
+      "edition_verse_id": "ASV1901:PHM.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I beseech thee for my child, whom I have begotten in my bonds, Onesimus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.11",
+      "edition_verse_id": "ASV1901:PHM.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "who once was unprofitable to thee, but now is profitable to thee and to me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.12",
+      "edition_verse_id": "ASV1901:PHM.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "whom I have sent back to thee in his own person, that is, my very heart:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.13",
+      "edition_verse_id": "ASV1901:PHM.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "whom I would fain have kept with me, that in thy behalf he might minister unto me in the bonds of the gospel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.14",
+      "edition_verse_id": "ASV1901:PHM.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "but without thy mind I would do nothing; that thy goodness should not be as of necessity, but of free will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.15",
+      "edition_verse_id": "ASV1901:PHM.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For perhaps he was therefore parted ",
+          "kind": "text"
+        },
+        {
+          "text": "from thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " for a season, that thou shouldest have him for ever;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.16",
+      "edition_verse_id": "ASV1901:PHM.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "no longer as a servant, but more than a servant, a brother beloved, specially to me, but how much rather to thee, both in the flesh and in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.17",
+      "edition_verse_id": "ASV1901:PHM.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If then thou countest me a partner, receive him as myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.18",
+      "edition_verse_id": "ASV1901:PHM.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But if he hath wronged thee at all, or oweth ",
+          "kind": "text"
+        },
+        {
+          "text": "thee",
+          "kind": "supplied"
+        },
+        {
+          "text": " aught, put that to mine account;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.19",
+      "edition_verse_id": "ASV1901:PHM.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I Paul write it with mine own hand, I will repay it: that I say not unto thee that thou owest to me even thine own self besides.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.20",
+      "edition_verse_id": "ASV1901:PHM.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Yea, brother, let me have joy of thee in the Lord: refresh my heart in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.21",
+      "edition_verse_id": "ASV1901:PHM.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Having confidence in thine obedience I write unto thee, knowing that thou wilt do even beyond what I say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHM.1.22",
+      "edition_verse_id": "ASV1901:PHM.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But withal prepare me also a lodging: for I hope that through your prayers I shall be granted unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.23",
+      "edition_verse_id": "ASV1901:PHM.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Epaphras, my fellow-prisoner in Christ Jesus, saluteth thee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHM.1.24",
+      "edition_verse_id": "ASV1901:PHM.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and so do",
+          "kind": "supplied"
+        },
+        {
+          "text": " Mark, Aristarchus, Demas, Luke, my fellow-workers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHM.1.25",
+      "edition_verse_id": "ASV1901:PHM.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The grace of our Lord Jesus Christ be with your spirit. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

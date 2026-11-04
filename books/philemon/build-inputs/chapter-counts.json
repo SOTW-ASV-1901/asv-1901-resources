@@ -1,0 +1,10 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "PHM",
+  "chapter_traditional_verse_counts": {
+    "1": 25
+  },
+  "traditional_verse_positions": 25,
+  "main_text_verse_count": 25,
+  "omitted_verse_ids": []
+}

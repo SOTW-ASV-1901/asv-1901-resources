@@ -1,0 +1,41 @@
+{
+  "status": "STRUCTURALLY_BUILT_FROM_DECLARED_SOURCE",
+  "edition": "ASV1901",
+  "book": "PHM",
+  "chapter_count": 1,
+  "verse_count": 25,
+  "source_hashes": {
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "primary_usx": "d8c028db815924558a04911549f13714cc94bf84a541918105ae1bc3b27550cf",
+    "comparison_usfm": "e4760bfde0c7d76529eb99d7e09105c5e8bb48209b548b4c6c97fef9d80c874f"
+  },
+  "files": {
+    "books/philemon/DATA_CONTRACT.md": "852b1c31d72dd55146e84bb8b88762127894b7a5a787115d3712dc3203679448",
+    "books/philemon/INDEPENDENT_AUDIT.json": "0c53e0e0c16aa65b5834bb58abe835003e60cbc51892d48331d9803064cac66e",
+    "books/philemon/INSTALLATION_NOTES.md": "a416582136870cbe62d7a44746edd40e7b465fcdae857d84a77353ef617a4a49",
+    "books/philemon/README.md": "59d9648947815e8bdb566b8dcf0445bc91dcf1474e8e3713c201fc38ebdf891a",
+    "books/philemon/SOURCE_INVENTORY.json": "0093819677787a4ef32d36b4cea7e618c03c13e110ebe5862b6b82190f8a2674",
+    "books/philemon/UPLOAD_PACKAGE_AUDIT.md": "160a0688c8d32bc07fe96c22ba1bec8e122a3d3139720f3176cb55a8641faba5",
+    "books/philemon/VALIDATION_REPORT.json": "d4b9c6106e6405091df3293172ec32523df8fcacb08734b2cdd3539c943a68e7",
+    "books/philemon/VALIDATION_REPORT.md": "83f1b002a2e43b48187610d0978888f37301dd209fe408f173f2997ba381e79d",
+    "books/philemon/build-inputs/book-plan.json": "bd0eed57a1a600342597988e177972dec7a9dcb1ff7c1e9f8cf2fd60464a9efa",
+    "books/philemon/build-inputs/chapter-counts.json": "ed3caddad0cb620930a5a2cb538376f8ee902108fd630bc4e8de06ee8084ed30",
+    "books/philemon/build-inputs/original-page-index-input.json": "a9991f2f79a1d73af00530b8440ea1d3a33349ea0b6e7b48b0c15e330cdbf8c6",
+    "books/philemon/build-inputs/source-differences-resolved.json": "5220670ab5945baf30ba53c0a53c4604ad5c0b02eb2ec9933d085ab697dabfaa",
+    "books/philemon/index.html": "be4de0b68249d85621bca72f79746b23b37898b30b45afb001f1ba43222a643a",
+    "books/philemon/schemas/asv1901-philemon-chapter.schema.json": "3b1a2cdfd654d5392f3b72db0c66bc5981c97f62c760d2bf83d765808b3d43ef",
+    "books/philemon/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/philemon/scripts/build_philemon.py": "eecb4ddc439938bc49627351900e6545c522cff2b0e3527b199121b0c0777d58",
+    "books/philemon/scripts/validate_release.py": "8c7d280e5058093b32291e8b86c7d036cb991b4328d3433af47d62c54d592c86",
+    "books/philemon/site/index.html": "9e31429d201ba562ac5289985b360d771ed4392a927e1fbe079b93bd7a06cf2c",
+    "books/philemon/sources/asv1901-english-only/57-PHM.usx": "d8c028db815924558a04911549f13714cc94bf84a541918105ae1bc3b27550cf",
+    "books/philemon/sources/comparison-only/87-PHMeng-asv.usfm": "e4760bfde0c7d76529eb99d7e09105c5e8bb48209b548b4c6c97fef9d80c874f",
+    "data/asv1901/catalog-philemon.json": "7ab67c8da381d0be3b7795081ae4fa6c9c51928a407e189357a733e2457797d7",
+    "data/asv1901/philemon/chapter-checks.json": "b8cf8b0f25f529cb3840e429412e5b2960864e62bf59606df82bd0296ec141af",
+    "data/asv1901/philemon/chapters/01.json": "7f43565cf05c1f84ee143838fc674cc4d78977f92eea77705c6064768e578a3d",
+    "data/asv1901/philemon/facsimile/asv1901-philemon-pages-1228-1228.pdf": "1458608fe255d6287985cecb5f988d3efb52c6d96f28ab204b06418769781685",
+    "data/asv1901/philemon/page-index.json": "19c6ec8d9d33ec9fd29f94ef43f0c644a60cebb3c5f236d9ce1f4be33341d25a",
+    "data/asv1901/philemon/textual-apparatus.json": "f3b9942c9300762dc0de9ea4161f54cf82e5afe2244b5c990e6f14d57fb4ee24",
+    "data/asv1901/philemon/verse-omissions.json": "a48e10ff500dbbd51d6cecb30601d87bbf051a9c651fe8fba510666f2108ee7e"
+  }
+}

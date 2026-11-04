@@ -1,0 +1,62 @@
+{
+  "code": "PHM",
+  "slug": "philemon",
+  "name": "Philemon",
+  "order": 57,
+  "predecessor": "TIT",
+  "successor": "HEB",
+  "usx": "57-PHM.usx",
+  "usfm": "87-PHMeng-asv.usfm",
+  "chapter_counts": [
+    25
+  ],
+  "first_pdf": 1228,
+  "last_pdf": 1228,
+  "first_print": 234,
+  "scripture": [
+    [
+      1228,
+      1,
+      1,
+      0
+    ]
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "note_verse": [
+    1,
+    25
+  ],
+  "note_text": "At Philemon 25 the original 1901 printed margin records that many ancient authorities omit “Amen.” The printed main text and its manuscript note are retained distinctly.",
+  "other_apparatus": [
+    {
+      "passage": "PHM.1.16",
+      "source_pdf_page": 1228,
+      "note": "The original ASV 1901 marginal apparatus gives “Gr. bondservant” for “servant.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "PHM.1.25",
+      "source_pdf_page": 1228,
+      "note": "The original 1901 margin states: “Many ancient authorities omit Amen.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    }
+  ],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1228,
+      1228
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "d8c028db815924558a04911549f13714cc94bf84a541918105ae1bc3b27550cf",
+  "comparison_usfm_sha256": "e4760bfde0c7d76529eb99d7e09105c5e8bb48209b548b4c6c97fef9d80c874f"
+}

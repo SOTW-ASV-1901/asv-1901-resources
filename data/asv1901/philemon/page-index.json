@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHM",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1228,
+      "type": "scripture",
+      "printed_page": 234,
+      "first_verse": "PHM.1.1",
+      "last_verse": "PHM.1.25",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-philemon-pages-1228-1228.pdf",
+      "volume_pdf_page": 1
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-philemon-pages-1228-1228.pdf",
+      "first_source_pdf_page": 1228,
+      "last_source_pdf_page": 1228,
+      "bytes": 94782,
+      "sha256": "1458608fe255d6287985cecb5f988d3efb52c6d96f28ab204b06418769781685"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

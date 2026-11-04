@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHM",
+  "book_name": "Philemon",
+  "book_order": 57,
+  "canonical_ids": "PHM.{chapter}.{verse}",
+  "edition_ids": "ASV1901:PHM.{chapter}.{verse}",
+  "chapter_count": 1,
+  "verse_count": 25,
+  "traditional_verse_positions": 25,
+  "omitted_from_1901_main_text": [],
+  "verse_omissions_path": "philemon/verse-omissions.json",
+  "textual_apparatus_path": "philemon/textual-apparatus.json",
+  "chapter_path_template": "philemon/chapters/{chapter:02d}.json",
+  "facsimile_index": "philemon/page-index.json",
+  "predecessor_book_code": "TIT",
+  "successor_book_code": "HEB",
+  "source_provenance": "books/philemon/SOURCE_INVENTORY.json",
+  "reader": "books/philemon/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}
