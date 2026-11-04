@@ -1,0 +1,74 @@
+{
+  "code": "2JN",
+  "slug": "second-john",
+  "name": "2 John",
+  "order": 63,
+  "predecessor": "1JN",
+  "successor": "3JN",
+  "usx": "63-2JN.usx",
+  "usfm": "93-2JNeng-asv.usfm",
+  "chapter_counts": [
+    13
+  ],
+  "first_pdf": 1257,
+  "last_pdf": 1257,
+  "first_print": 263,
+  "scripture": [
+    [
+      1257,
+      1,
+      1,
+      0
+    ]
+  ],
+  "note_verse": [
+    1,
+    1
+  ],
+  "note_text": "2 John 1:1 retains the original text “the elect lady”; the 1901 marginal alternative “Or, Cyria” is preserved separately as an editorial translation note.",
+  "other_apparatus": [
+    {
+      "passage": "2JN.1.1",
+      "source_pdf_page": 1257,
+      "note": "The original margin lists “Or, Cyria” for “lady,” without altering the printed main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2JN.1.8",
+      "source_pdf_page": 1257,
+      "note": "The original margin records “Many ancient authorities read ye.” This is a manuscript note and not a replacement for the main-text reading.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "2JN.1.9",
+      "source_pdf_page": 1257,
+      "note": "The original 1901 margin offers “Or, taketh the lead. Comp. 3 Jn. 9.” This remains an alternative translation note.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2JN.1.12",
+      "source_pdf_page": 1257,
+      "note": "The original 1901 printed marginal cross-reference and the full closing text remain available on the scanned page.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_CROSS_REFERENCE"
+    }
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1257,
+      1257
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "9d6335c24f2f3e1f89b645c0c270d030a9dae602e7ff2a8d3d68aa18c9e799ce",
+  "comparison_usfm_sha256": "c60ece983c6e8520a7cf258f9f024bf7bc7e9cbab941392c688ae6a0113214f8"
+}

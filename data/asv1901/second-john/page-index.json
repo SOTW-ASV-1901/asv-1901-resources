@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2JN",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1257,
+      "type": "scripture",
+      "printed_page": 263,
+      "first_verse": "2JN.1.1",
+      "last_verse": "2JN.1.13",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-john-pages-1257-1257.pdf",
+      "volume_pdf_page": 1
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-second-john-pages-1257-1257.pdf",
+      "first_source_pdf_page": 1257,
+      "last_source_pdf_page": 1257,
+      "bytes": 62673,
+      "sha256": "563596b9c7012a4c567a60300cdb7c3c2a676ad0ec126bfadaa92c4ec1049a61"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

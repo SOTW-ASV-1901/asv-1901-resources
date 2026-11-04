@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2JN",
+  "book_name": "2 John",
+  "book_order": 63,
+  "canonical_ids": "2JN.{chapter}.{verse}",
+  "edition_ids": "ASV1901:2JN.{chapter}.{verse}",
+  "chapter_count": 1,
+  "verse_count": 13,
+  "traditional_verse_positions": 13,
+  "omitted_from_1901_main_text": [],
+  "verse_omissions_path": "second-john/verse-omissions.json",
+  "textual_apparatus_path": "second-john/textual-apparatus.json",
+  "chapter_path_template": "second-john/chapters/{chapter:02d}.json",
+  "facsimile_index": "second-john/page-index.json",
+  "predecessor_book_code": "1JN",
+  "successor_book_code": "3JN",
+  "source_provenance": "books/second-john/SOURCE_INVENTORY.json",
+  "reader": "books/second-john/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

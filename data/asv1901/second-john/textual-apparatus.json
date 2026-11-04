@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2JN",
+  "apparatus": [
+    {
+      "passage": "2JN.1.1",
+      "source_pdf_page": 1257,
+      "note": "The original margin lists “Or, Cyria” for “lady,” without altering the printed main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2JN.1.8",
+      "source_pdf_page": 1257,
+      "note": "The original margin records “Many ancient authorities read ye.” This is a manuscript note and not a replacement for the main-text reading.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "2JN.1.9",
+      "source_pdf_page": 1257,
+      "note": "The original 1901 margin offers “Or, taketh the lead. Comp. 3 Jn. 9.” This remains an alternative translation note.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2JN.1.12",
+      "source_pdf_page": 1257,
+      "note": "The original 1901 printed marginal cross-reference and the full closing text remain available on the scanned page.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_CROSS_REFERENCE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}
