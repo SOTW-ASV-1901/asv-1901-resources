@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GAL",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "GAL.6.1",
+      "edition_verse_id": "ASV1901:GAL.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Brethren, even if a man be overtaken in any trespass, ye who are spiritual, restore such a one in a spirit of gentleness; looking to thyself, lest thou also be tempted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.2",
+      "edition_verse_id": "ASV1901:GAL.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.3",
+      "edition_verse_id": "ASV1901:GAL.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For if a man thinketh himself to be something when he is nothing, he deceiveth himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.4",
+      "edition_verse_id": "ASV1901:GAL.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.5",
+      "edition_verse_id": "ASV1901:GAL.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For each man shall bear his own burden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.6",
+      "edition_verse_id": "ASV1901:GAL.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But let him that is taught in the word communicate unto him that teacheth in all good things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.7",
+      "edition_verse_id": "ASV1901:GAL.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.8",
+      "edition_verse_id": "ASV1901:GAL.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For he that soweth unto his own flesh shall of the flesh reap corruption; but he that soweth unto the Spirit shall of the Spirit reap eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.9",
+      "edition_verse_id": "ASV1901:GAL.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And let us not be weary in well-doing: for in due season we shall reap, if we faint not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.10",
+      "edition_verse_id": "ASV1901:GAL.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So then, as we have opportunity, let us work that which is good toward all men, and especially toward them that are of the household of the faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.11",
+      "edition_verse_id": "ASV1901:GAL.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "See with how large letters I write unto you with mine own hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.12",
+      "edition_verse_id": "ASV1901:GAL.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As many as desire to make a fair show in the flesh, they compel you to be circumcised; only that they may not be persecuted for the cross of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.13",
+      "edition_verse_id": "ASV1901:GAL.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For not even they who receive circumcision do themselves keep the law; but they desire to have you circumcised, that they may glory in your flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.14",
+      "edition_verse_id": "ASV1901:GAL.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But far be it from me to glory, save in the cross of our Lord Jesus Christ, through which the world hath been crucified unto me, and I unto the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.15",
+      "edition_verse_id": "ASV1901:GAL.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For neither is circumcision anything, nor uncircumcision, but a new creature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.16",
+      "edition_verse_id": "ASV1901:GAL.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And as many as shall walk by this rule, peace ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon them, and mercy, and upon the Israel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.17",
+      "edition_verse_id": "ASV1901:GAL.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Henceforth let no man trouble me; for I bear branded on my body the marks of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.18",
+      "edition_verse_id": "ASV1901:GAL.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "GAL",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1192,
+      "type": "scripture",
+      "printed_page": 198,
+      "first_verse": "GAL.1.1",
+      "last_verse": "GAL.1.24",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-galatians-pages-1192-1197.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1193,
+      "type": "scripture",
+      "printed_page": 199,
+      "first_verse": "GAL.2.1",
+      "last_verse": "GAL.3.5",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-galatians-pages-1192-1197.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1194,
+      "type": "scripture",
+      "printed_page": 200,
+      "first_verse": "GAL.3.5",
+      "last_verse": "GAL.4.7",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-galatians-pages-1192-1197.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1195,
+      "type": "scripture",
+      "printed_page": 201,
+      "first_verse": "GAL.4.7",
+      "last_verse": "GAL.5.10",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-galatians-pages-1192-1197.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1196,
+      "type": "scripture",
+      "printed_page": 202,
+      "first_verse": "GAL.5.10",
+      "last_verse": "GAL.6.14",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-galatians-pages-1192-1197.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1197,
+      "type": "scripture",
+      "printed_page": 203,
+      "first_verse": "GAL.6.14",
+      "last_verse": "GAL.6.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-galatians-pages-1192-1197.pdf",
+      "volume_pdf_page": 6
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-galatians-pages-1192-1197.pdf",
+      "first_source_pdf_page": 1192,
+      "last_source_pdf_page": 1197,
+      "bytes": 621068,
+      "sha256": "3b35fb87363ad52655e4128ee4077949b5831c87ed9d99dccf70f562d59e3858"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

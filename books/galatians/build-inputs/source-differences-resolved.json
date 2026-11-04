@@ -1,0 +1,27 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "GAL",
+  "difference_count": 1,
+  "typographical_or_orthographic_count": 1,
+  "different_words_or_hyphenation_count": 0,
+  "differences": [
+    {
+      "verse_id": "GAL.1.22",
+      "primary_usx": "And I was still unknown by face unto the churches of Judaea which were in Christ:",
+      "comparison_usfm": "And I was still unknown by face unto the churches of Judæa which were in Christ:",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See this source-differences-resolved.json file and print-backed decisions; unchanged upstream witnesses retained."
+    }
+  ],
+  "print_backed_decisions": [
+    {
+      "verse": "GAL.1.22",
+      "source_phrase": "Judaea",
+      "replace_with": "Judæa",
+      "print_page": 1192,
+      "reason": "Original Thomas Nelson 1901 printing shows the historical æ ligature in Judæa. The comparison USFM agrees; original USX remains byte-unchanged."
+    }
+  ],
+  "additional_print_backed_uncorrected_readings": {},
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

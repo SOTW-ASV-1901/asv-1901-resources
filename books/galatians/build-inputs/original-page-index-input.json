@@ -1,0 +1,44 @@
+{
+  "source_pdf_page_range": [
+    1192,
+    1197
+  ],
+  "original_maps": [],
+  "interleaves": [],
+  "printed_scripture_pages": [
+    198,
+    203
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1192,
+      "first_verse": "GAL.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1193,
+      "first_verse": "GAL.2.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1194,
+      "first_verse": "GAL.3.5",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1195,
+      "first_verse": "GAL.4.7",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1196,
+      "first_verse": "GAL.5.10",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1197,
+      "first_verse": "GAL.6.14",
+      "continues_previous_scripture_page": true
+    }
+  ]
+}

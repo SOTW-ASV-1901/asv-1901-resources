@@ -1,0 +1,15 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "GAL",
+  "chapter_traditional_verse_counts": {
+    "1": 24,
+    "2": 21,
+    "3": 29,
+    "4": 31,
+    "5": 26,
+    "6": 18
+  },
+  "traditional_verse_positions": 149,
+  "main_text_verse_count": 149,
+  "omitted_verse_ids": []
+}
