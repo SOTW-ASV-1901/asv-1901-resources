@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TI",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1223,
+      "type": "scripture",
+      "printed_page": 229,
+      "first_verse": "2TI.1.1",
+      "last_verse": "2TI.2.5",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-timothy-pages-1223-1225.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1224,
+      "type": "scripture",
+      "printed_page": 230,
+      "first_verse": "2TI.2.5",
+      "last_verse": "2TI.3.9",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-timothy-pages-1223-1225.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1225,
+      "type": "scripture",
+      "printed_page": 231,
+      "first_verse": "2TI.3.9",
+      "last_verse": "2TI.4.22",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-timothy-pages-1223-1225.pdf",
+      "volume_pdf_page": 3
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-second-timothy-pages-1223-1225.pdf",
+      "first_source_pdf_page": 1223,
+      "last_source_pdf_page": 1225,
+      "bytes": 361410,
+      "sha256": "2b3e3c1154fe9d716f4608e7c41a0d19f70264b851fb2b44cd0f58b2eee4c5b5"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

@@ -1,0 +1,84 @@
+{
+  "code": "2TI",
+  "slug": "second-timothy",
+  "name": "2 Timothy",
+  "order": 55,
+  "predecessor": "1TI",
+  "successor": "TIT",
+  "usx": "55-2TI.usx",
+  "usfm": "85-2TIeng-asv.usfm",
+  "chapter_counts": [
+    18,
+    26,
+    17,
+    22
+  ],
+  "first_pdf": 1223,
+  "last_pdf": 1225,
+  "first_print": 229,
+  "scripture": [
+    [
+      1223,
+      1,
+      1,
+      0
+    ],
+    [
+      1224,
+      2,
+      5,
+      1
+    ],
+    [
+      1225,
+      3,
+      9,
+      1
+    ]
+  ],
+  "source_decisions": [
+    {
+      "verse": "2TI.2.17",
+      "source_phrase": "Hymenaeus",
+      "replace_with": "Hymenæus",
+      "reason": "Original printed 1901 page 1224 uses the historical name ligature; alternate digital witness agrees."
+    }
+  ],
+  "allowed_word_differences": [],
+  "note_verse": [
+    3,
+    16
+  ],
+  "note_text": "At 2 Timothy 3:16 the original 1901 margin gives an alternative rendering of the sentence beginning “Every scripture.” The alternative is preserved as an original translation note, not substituted into the main text.",
+  "other_apparatus": [
+    {
+      "passage": "2TI.2.15",
+      "source_pdf_page": 1224,
+      "note": "The original printed marginal apparatus includes alternatives for “handling aright the word of truth,” including “rightly dividing the word of truth.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2TI.3.16",
+      "source_pdf_page": 1225,
+      "note": "The original 1901 translation note offers “Every scripture is inspired of God, and profitable” as an alternative to the printed main-text rendering.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    }
+  ],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1223,
+      1225
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "7f95df6efe1042edae3cce3560c86309d533170281b64589636f3076552f8f2e",
+  "comparison_usfm_sha256": "99525d9803a8966d364419a83cdaf594c3ae9539a2af25f7bfb47d993ed7b245"
+}

@@ -1,0 +1,11 @@
+# 2 Timothy | American Standard Version (1901)
+
+**Servants of the Way | Book 55 | additive, source-locked foundation**
+
+The original ASV 1901 2 Timothy contains **4 chapters and 83 main-text verses**, with no omitted numbered positions in either digital witness. The book includes original 1901 printed Bible pages **229–231** from PDF source pages **1223–1225**. Source-page IDs are retained in verse-to-page navigation. The original digital English-only USX and comparison USFM files are preserved byte-for-byte. The first witness governs primary text/italics structure, while the original 1901 printing controls documented orthography differences.
+
+Original-page comparison supports all verses including verses crossing physical source-page boundaries. Historical marginal notes are visible in the complete original facsimile; a selected set is separately indexed in `data/asv1901/second-timothy/textual-apparatus.json`. The reader has **Compare original**, **Previous page**, **Next page** and **Next verse page** controls. The original complete 135 MB source Bible PDF remains checksum-identified outside this ZIP; only this book's scanned pages are included.
+
+**About This Translation (planned reader enhancement):** Historical edition: *American Standard Version, Standard American Edition*, American Revision Committee, Thomas Nelson & Sons (New York, 1901). Servants of the Way is the public Bible Translation Library provider, not the original translator or historical publisher. Source acquisition, digital witnesses, print source identity, rights and SHA-256 hashes are documented in `SOURCE_INVENTORY.json`. The attribution feature will be added later as a shared metadata/reader enhancement without reprocessing accepted book text; it is not yet a functional About panel.
+
+**Audit boundaries:** Original USX/USFM structure and all verse IDs/italics checked; source-page starts and continuations individually inspected; all source image streams and placements compared with original; original-page renders sampled or fully compared; schemas, SHA-256 hashes, deterministic regeneration and local reader resources checked. **Not** an exhaustive print character-by-character collation, hosted browser test, independent proof of USX/USFM source independence, or verified Strong's mapping.

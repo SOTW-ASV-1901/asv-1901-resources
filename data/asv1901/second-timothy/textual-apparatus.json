@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TI",
+  "apparatus": [
+    {
+      "passage": "2TI.2.15",
+      "source_pdf_page": 1224,
+      "note": "The original printed marginal apparatus includes alternatives for “handling aright the word of truth,” including “rightly dividing the word of truth.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "2TI.3.16",
+      "source_pdf_page": 1225,
+      "note": "The original 1901 translation note offers “Every scripture is inspired of God, and profitable” as an alternative to the printed main-text rendering.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

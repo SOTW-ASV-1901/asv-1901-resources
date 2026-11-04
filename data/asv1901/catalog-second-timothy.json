@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TI",
+  "book_name": "2 Timothy",
+  "book_order": 55,
+  "canonical_ids": "2TI.{chapter}.{verse}",
+  "edition_ids": "ASV1901:2TI.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 83,
+  "traditional_verse_positions": 83,
+  "omitted_from_1901_main_text": [],
+  "verse_omissions_path": "second-timothy/verse-omissions.json",
+  "textual_apparatus_path": "second-timothy/textual-apparatus.json",
+  "chapter_path_template": "second-timothy/chapters/{chapter:02d}.json",
+  "facsimile_index": "second-timothy/page-index.json",
+  "predecessor_book_code": "1TI",
+  "successor_book_code": "TIT",
+  "source_provenance": "books/second-timothy/SOURCE_INVENTORY.json",
+  "reader": "books/second-timothy/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

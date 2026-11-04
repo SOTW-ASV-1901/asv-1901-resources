@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TI",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2TI.2.1",
+      "edition_verse_id": "ASV1901:2TI.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thou therefore, my child, be strengthened in the grace that is in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.2.2",
+      "edition_verse_id": "ASV1901:2TI.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the things which thou hast heard from me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.3",
+      "edition_verse_id": "ASV1901:2TI.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Suffer hardship with ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": ", as a good soldier of Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.4",
+      "edition_verse_id": "ASV1901:2TI.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "No soldier on service entangleth himself in the affairs of ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " life; that he may please him who enrolled him as a soldier.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.5",
+      "edition_verse_id": "ASV1901:2TI.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And if also a man contend in the games, he is not crowned, except he have contended lawfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.6",
+      "edition_verse_id": "ASV1901:2TI.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The husbandman that laboreth must be the first to partake of the fruits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.7",
+      "edition_verse_id": "ASV1901:2TI.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Consider what I say; for the Lord shall give thee understanding in all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.8",
+      "edition_verse_id": "ASV1901:2TI.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Remember Jesus Christ, risen from the dead, of the seed of David, according to my gospel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.9",
+      "edition_verse_id": "ASV1901:2TI.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "wherein I suffer hardship unto bonds, as a malefactor; but the word of God is not bound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.10",
+      "edition_verse_id": "ASV1901:2TI.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore I endure all things for the elect’s sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.11",
+      "edition_verse_id": "ASV1901:2TI.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Faithful is the saying: For if we died with him, we shall also live with him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.12",
+      "edition_verse_id": "ASV1901:2TI.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "if we endure, we shall also reign with him: if we shall deny him, he also will deny us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.13",
+      "edition_verse_id": "ASV1901:2TI.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "if we are faithless, he abideth faithful; for he cannot deny himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.14",
+      "edition_verse_id": "ASV1901:2TI.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Of these things put them in remembrance, charging ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the sight of the Lord, that they strive not about words, to no profit, to the subverting of them that hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.2.15",
+      "edition_verse_id": "ASV1901:2TI.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Give diligence to present thyself approved unto God, a workman that needeth not to be ashamed, handling aright the word of truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.16",
+      "edition_verse_id": "ASV1901:2TI.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But shun profane babblings: for they will proceed further in ungodliness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.17",
+      "edition_verse_id": "ASV1901:2TI.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and their word will eat as doth a gangrene: of whom is Hymenæus and Philetus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.18",
+      "edition_verse_id": "ASV1901:2TI.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "men who concerning the truth have erred, saying that the resurrection is past already, and overthrow the faith of some.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.19",
+      "edition_verse_id": "ASV1901:2TI.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Howbeit the firm foundation of God standeth, having this seal, The Lord knoweth them that are his: and, Let every one that nameth the name of the Lord depart from unrighteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.20",
+      "edition_verse_id": "ASV1901:2TI.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some unto honor, and some unto dishonor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.21",
+      "edition_verse_id": "ASV1901:2TI.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If a man therefore purge himself from these, he shall be a vessel unto honor, sanctified, meet for the master’s use, prepared unto every good work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.22",
+      "edition_verse_id": "ASV1901:2TI.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But flee youthful lusts, and follow after righteousness, faith, love, peace, with them that call on the Lord out of a pure heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.23",
+      "edition_verse_id": "ASV1901:2TI.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But foolish and ignorant questionings refuse, knowing that they gender strifes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.24",
+      "edition_verse_id": "ASV1901:2TI.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the Lord’s servant must not strive, but be gentle towards all, apt to teach, forbearing,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.25",
+      "edition_verse_id": "ASV1901:2TI.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "in meekness correcting them that oppose themselves; if peradventure God may give them repentance unto the knowledge of the truth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.2.26",
+      "edition_verse_id": "ASV1901:2TI.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and they may recover themselves out of the snare of the devil, having been taken captive by him unto his will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
