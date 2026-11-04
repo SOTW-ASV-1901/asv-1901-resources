@@ -1,0 +1,388 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "REV.2.1",
+      "edition_verse_id": "ASV1901:REV.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "To the angel of the church in Ephesus write:These things saith he that holdeth the seven stars in his right hand, he that walketh in the midst of the seven golden candlesticks:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.2",
+      "edition_verse_id": "ASV1901:REV.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I know thy works, and thy toil and patience, and that thou canst not bear evil men, and didst try them that call themselves apostles, and they are not, and didst find them false;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.3",
+      "edition_verse_id": "ASV1901:REV.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and thou hast patience and didst bear for my name’s sake, and hast not grown weary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.4",
+      "edition_verse_id": "ASV1901:REV.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But I have ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " against thee, that thou didst leave thy first love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.5",
+      "edition_verse_id": "ASV1901:REV.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Remember therefore whence thou art fallen, and repent and do the first works; or else I come to thee, and will move thy candlestick out of its place, except thou repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.6",
+      "edition_verse_id": "ASV1901:REV.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But this thou hast, that thou hatest the works of the Nicolaitans, which I also hate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.7",
+      "edition_verse_id": "ASV1901:REV.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith to the churches. To him that overcometh, to him will I give to eat of the tree of life, which is in the Paradise of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.8",
+      "edition_verse_id": "ASV1901:REV.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And to the angel of the church in Smyrna write:These things saith the first and the last, who was dead, and lived ",
+          "kind": "text"
+        },
+        {
+          "text": "again",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.9",
+      "edition_verse_id": "ASV1901:REV.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I know thy tribulation, and thy poverty (but thou art rich), and the blasphemy of them that say they are Jews, and they are not, but are a synagogue of Satan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.10",
+      "edition_verse_id": "ASV1901:REV.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Fear not the things which thou art about to suffer: behold, the devil is about to cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days. Be thou faithful unto death, and I will give thee the crown of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.11",
+      "edition_verse_id": "ASV1901:REV.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith to the churches. He that overcometh shall not be hurt of the second death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.12",
+      "edition_verse_id": "ASV1901:REV.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And to the angel of the church in Pergamum write:These things saith he that hath the sharp two-edged sword:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.13",
+      "edition_verse_id": "ASV1901:REV.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I know where thou dwellest, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " where Satan’s throne is; and thou holdest fast my name, and didst not deny my faith, even in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwelleth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.14",
+      "edition_verse_id": "ASV1901:REV.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I have a few things against thee, because thou hast there some that hold the teaching of Balaam, who taught Balak to cast a stumblingblock before the children of Israel, to eat things sacrificed to idols, and to commit fornication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.15",
+      "edition_verse_id": "ASV1901:REV.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So hast thou also some that hold the teaching of the Nicolaitans in like manner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.16",
+      "edition_verse_id": "ASV1901:REV.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Repent therefore; or else I come to thee quickly, and I will make war against them with the sword of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.17",
+      "edition_verse_id": "ASV1901:REV.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith to the churches. To him that overcometh, to him will I give of the hidden manna, and I will give him a white stone, and upon the stone a new name written, which no one knoweth but he that receiveth it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.18",
+      "edition_verse_id": "ASV1901:REV.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And to the angel of the church in Thyatira write:These things saith the Son of God, who hath his eyes like a flame of fire, and his feet are like unto burnished brass:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.19",
+      "edition_verse_id": "ASV1901:REV.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I know thy works, and thy love and faith and ministry and patience, and that thy last works are more than the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.20",
+      "edition_verse_id": "ASV1901:REV.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But I have ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " against thee, that thou sufferest the woman Jezebel, who calleth herself a prophetess; and she teacheth and seduceth my servants to commit fornication, and to eat things sacrificed to idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.21",
+      "edition_verse_id": "ASV1901:REV.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And I gave her time that she should repent; and she willeth not to repent of her fornication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.22",
+      "edition_verse_id": "ASV1901:REV.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold, I cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of her works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.23",
+      "edition_verse_id": "ASV1901:REV.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And I will kill her children with death; and all the churches shall know that I am he that searcheth the reins and hearts: and I will give unto each one of you according to your works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.24",
+      "edition_verse_id": "ASV1901:REV.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But to you I say, to the rest that are in Thyatira, as many as have not this teaching, who know not the deep things of Satan, as they are wont to say; I cast upon you none other burden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.25",
+      "edition_verse_id": "ASV1901:REV.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Nevertheless that which ye have, hold fast till I come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.26",
+      "edition_verse_id": "ASV1901:REV.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he that overcometh, and he that keepeth my works unto the end, to him will I give authority over the nations:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.27",
+      "edition_verse_id": "ASV1901:REV.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and he shall rule them with a rod of iron, as the vessels of the potter are broken to shivers; as I also have received of my Father:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.28",
+      "edition_verse_id": "ASV1901:REV.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and I will give him the morning star.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.29",
+      "edition_verse_id": "ASV1901:REV.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith to the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

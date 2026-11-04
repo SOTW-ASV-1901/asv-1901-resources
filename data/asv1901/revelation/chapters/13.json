@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "REV.13.1",
+      "edition_verse_id": "ASV1901:REV.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "and he stood upon the sand of the sea.And I saw a beast coming up out of the sea, having ten horns and seven heads, and on his horns ten diadems, and upon his heads names of blasphemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.2",
+      "edition_verse_id": "ASV1901:REV.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the beast which I saw was like unto a leopard, and his feet were as ",
+          "kind": "text"
+        },
+        {
+          "text": "the feet",
+          "kind": "supplied"
+        },
+        {
+          "text": " of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his throne, and great authority.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.3",
+      "edition_verse_id": "ASV1901:REV.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "I saw",
+          "kind": "supplied"
+        },
+        {
+          "text": " one of his heads as though it had been smitten unto death; and his death-stroke was healed: and the whole earth wondered after the beast;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.4",
+      "edition_verse_id": "ASV1901:REV.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and they worshipped the dragon, because he gave his authority unto the beast; and they worshipped the beast, saying, Who is like unto the beast? and who is able to war with him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.5",
+      "edition_verse_id": "ASV1901:REV.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and there was given to him a mouth speaking great things and blasphemies; and there was given to him authority to continue forty and two months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.6",
+      "edition_verse_id": "ASV1901:REV.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he opened his mouth for blasphemies against God, to blaspheme his name, and his tabernacle, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " them that dwell in the heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.7",
+      "edition_verse_id": "ASV1901:REV.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it was given unto him to make war with the saints, and to overcome them: and there was given to him authority over every tribe and people and tongue and nation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.8",
+      "edition_verse_id": "ASV1901:REV.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And all that dwell on the earth shall worship him, ",
+          "kind": "text"
+        },
+        {
+          "text": "every one",
+          "kind": "supplied"
+        },
+        {
+          "text": " whose name hath not been written from the foundation of the world in the book of life of the Lamb that hath been slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.9",
+      "edition_verse_id": "ASV1901:REV.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If any man hath an ear, let him hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.10",
+      "edition_verse_id": "ASV1901:REV.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If any man ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " for captivity, into captivity he goeth: if any man shall kill with the sword, with the sword must he be killed. Here is the patience and the faith of the saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.11",
+      "edition_verse_id": "ASV1901:REV.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I saw another beast coming up out of the earth; and he had two horns like unto a lamb, and he spake as a dragon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.12",
+      "edition_verse_id": "ASV1901:REV.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he exerciseth all the authority of the first beast in his sight. And he maketh the earth and them that dwell therein to worship the first beast, whose death-stroke was healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.13",
+      "edition_verse_id": "ASV1901:REV.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And he doeth great signs, that he should even make fire to come down out of heaven upon the earth in the sight of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.14",
+      "edition_verse_id": "ASV1901:REV.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he deceiveth them that dwell on the earth by reason of the signs which it was given him to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast who hath the stroke of the sword and lived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.15",
+      "edition_verse_id": "ASV1901:REV.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And it was given ",
+          "kind": "text"
+        },
+        {
+          "text": "unto him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to give breath to it, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the image of the beast, that the image of the beast should both speak, and cause that as many as should not worship the image of the beast should be killed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.16",
+      "edition_verse_id": "ASV1901:REV.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he causeth all, the small and the great, and the rich and the poor, and the free and the bond, that there be given them a mark on their right hand, or upon their forehead;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.17",
+      "edition_verse_id": "ASV1901:REV.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and that no man should be able to buy or to sell, save he that hath the mark, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the name of the beast or the number of his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.18",
+      "edition_verse_id": "ASV1901:REV.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Here is wisdom. He that hath understanding, let him count the number of the beast; for it is the number of a man: and his number is Six hundred and sixty and six.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

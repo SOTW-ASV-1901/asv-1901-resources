@@ -1,0 +1,26 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "difference_count": 2,
+  "typographical_or_orthographic_count": 2,
+  "different_words_or_hyphenation_count": 0,
+  "differences": [
+    {
+      "verse_id": "REV.17.5",
+      "primary_usx": "and upon her forehead a name written, Mystery, Babylon the Great, the Mother of the Harlots and of the Abominations of the Earth.",
+      "comparison_usfm": "and upon her forehead a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF THE HARLOTS AND OF THE ABOMINATIONS OF THE EARTH.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "Typography resolved where supported by print; uncertain hyphenation retained as original USX with explicit ambiguity notice. Upstream witnesses unchanged."
+    },
+    {
+      "verse_id": "REV.19.16",
+      "primary_usx": "And he hath on his garment and on his thigh a name written, King of Kings, and Lord of Lords.",
+      "comparison_usfm": "And he hath on his garment and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "Typography resolved where supported by print; uncertain hyphenation retained as original USX with explicit ambiguity notice. Upstream witnesses unchanged."
+    }
+  ],
+  "print_backed_decisions": [],
+  "additional_print_backed_uncorrected_readings": {},
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

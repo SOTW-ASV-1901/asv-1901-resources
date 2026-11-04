@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "REV.3.1",
+      "edition_verse_id": "ASV1901:REV.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And to the angel of the church in Sardis write:These things saith he that hath the seven Spirits of God, and the seven stars: I know thy works, that thou hast a name that thou livest, and thou art dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.3.2",
+      "edition_verse_id": "ASV1901:REV.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Be thou watchful, and establish the things that remain, which were ready to die: for I have found no works of thine perfected before my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.3.3",
+      "edition_verse_id": "ASV1901:REV.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Remember therefore how thou hast received and didst hear; and keep ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and repent. If therefore thou shalt not watch, I will come as a thief, and thou shalt not know what hour I will come upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.4",
+      "edition_verse_id": "ASV1901:REV.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But thou hast a few names in Sardis that did not defile their garments: and they shall walk with me in white; for they are worthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.5",
+      "edition_verse_id": "ASV1901:REV.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He that overcometh shall thus be arrayed in white garments; and I will in no wise blot his name out of the book of life, and I will confess his name before my Father, and before his angels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.6",
+      "edition_verse_id": "ASV1901:REV.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith to the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.7",
+      "edition_verse_id": "ASV1901:REV.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And to the angel of the church in Philadelphia write:These things saith he that is holy, he that is true, he that hath the key of David, he that openeth and none shall shut, and that shutteth and none openeth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.3.8",
+      "edition_verse_id": "ASV1901:REV.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I know thy works (behold, I have set before thee a door opened, which none can shut), that thou hast a little power, and didst keep my word, and didst not deny my name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.3.9",
+      "edition_verse_id": "ASV1901:REV.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Behold, I give of the synagogue of Satan, of them that say they are Jews, and they are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.10",
+      "edition_verse_id": "ASV1901:REV.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Because thou didst keep the word of my patience, I also will keep thee from the hour of trial, that ",
+          "kind": "text"
+        },
+        {
+          "text": "hour",
+          "kind": "supplied"
+        },
+        {
+          "text": " which is to come upon the whole world, to try them that dwell upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.11",
+      "edition_verse_id": "ASV1901:REV.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I come quickly: hold fast that which thou hast, that no one take thy crown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.12",
+      "edition_verse_id": "ASV1901:REV.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He that overcometh, I will make him a pillar in the temple of my God, and he shall go out thence no more: and I will write upon him the name of my God, and the name of the city of my God, the new Jerusalem, which cometh down out of heaven from my God, and mine own new name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.13",
+      "edition_verse_id": "ASV1901:REV.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith to the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.14",
+      "edition_verse_id": "ASV1901:REV.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And to the angel of the church in Laodicea write:These things saith the Amen, the faithful and true witness, the beginning of the creation of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.3.15",
+      "edition_verse_id": "ASV1901:REV.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.3.16",
+      "edition_verse_id": "ASV1901:REV.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So because thou art lukewarm, and neither hot nor cold, I will spew thee out of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.17",
+      "edition_verse_id": "ASV1901:REV.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Because thou sayest, I am rich, and have gotten riches, and have need of nothing; and knowest not that thou art the wretched one and miserable and poor and blind and naked:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.18",
+      "edition_verse_id": "ASV1901:REV.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I counsel thee to buy of me gold refined by fire, that thou mayest become rich; and white garments, that thou mayest clothe thyself, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the shame of thy nakedness be not made manifest; and eyesalve to anoint thine eyes, that thou mayest see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.19",
+      "edition_verse_id": "ASV1901:REV.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "As many as I love, I reprove and chasten: be zealous therefore, and repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.20",
+      "edition_verse_id": "ASV1901:REV.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Behold, I stand at the door and knock: if any man hear my voice and open the door, I will come in to him, and will sup with him, and he with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.21",
+      "edition_verse_id": "ASV1901:REV.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He that overcometh, I will give to him to sit down with me in my throne, as I also overcame, and sat down with my Father in his throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.3.22",
+      "edition_verse_id": "ASV1901:REV.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He that hath an ear, let him hear what the Spirit saith to the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

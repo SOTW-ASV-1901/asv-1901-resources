@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "REV.22.1",
+      "edition_verse_id": "ASV1901:REV.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And he showed me a river of water of life, bright as crystal, proceeding out of the throne of God and of the Lamb,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.2",
+      "edition_verse_id": "ASV1901:REV.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "in the midst of the street thereof. And on this side of the river and on that was the tree of life, bearing twelve ",
+          "kind": "text"
+        },
+        {
+          "text": "manner of",
+          "kind": "supplied"
+        },
+        {
+          "text": " fruits, yielding its fruit every month: and the leaves of the tree were for the healing of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.3",
+      "edition_verse_id": "ASV1901:REV.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And there shall be no curse any more: and the throne of God and of the Lamb shall be therein: and his servants shall serve him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.4",
+      "edition_verse_id": "ASV1901:REV.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and they shall see his face; and his name ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " on their foreheads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.5",
+      "edition_verse_id": "ASV1901:REV.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And there shall be night no more; and they need no light of lamp, neither light of sun; for the Lord God shall give them light: and they shall reign for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.6",
+      "edition_verse_id": "ASV1901:REV.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said unto me, These words are faithful and true: and the Lord, the God of the spirits of the prophets, sent his angel to show unto his servants the things which must shortly come to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.7",
+      "edition_verse_id": "ASV1901:REV.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And behold, I come quickly. Blessed is he that keepeth the words of the prophecy of this book.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.22.8",
+      "edition_verse_id": "ASV1901:REV.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I John am he that heard and saw these things. And when I heard and saw, I fell down to worship before the feet of the angel that showed me these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.22.9",
+      "edition_verse_id": "ASV1901:REV.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he saith unto me, See thou do it not: I am a fellow-servant with thee and with thy brethren the prophets, and with them that keep the words of this book: worship God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.10",
+      "edition_verse_id": "ASV1901:REV.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he saith unto me, Seal not up the words of the prophecy of this book; for the time is at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.11",
+      "edition_verse_id": "ASV1901:REV.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He that is unrighteous, let him do unrighteousness still: and he that is filthy, let him be made filthy still: and he that is righteous, let him do righteousness still: and he that is holy, let him be made holy still.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.22.12",
+      "edition_verse_id": "ASV1901:REV.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Behold, I come quickly; and my reward is with me, to render to each man according as his work is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.13",
+      "edition_verse_id": "ASV1901:REV.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I am the Alpha and the Omega, the first and the last, the beginning and the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.14",
+      "edition_verse_id": "ASV1901:REV.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Blessed are they that wash their robes, that they may have the right ",
+          "kind": "text"
+        },
+        {
+          "text": "to come",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the tree of life, and may enter in by the gates into the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.15",
+      "edition_verse_id": "ASV1901:REV.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Without are the dogs, and the sorcerers, and the fornicators, and the murderers, and the idolaters, and every one that loveth and maketh a lie.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.16",
+      "edition_verse_id": "ASV1901:REV.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I Jesus have sent mine angel to testify unto you these things for the churches. I am the root and the offspring of David, the bright, the morning star.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.22.17",
+      "edition_verse_id": "ASV1901:REV.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the Spirit and the bride say, Come. And he that heareth, let him say, Come. And he that is athirst, let him come: he that will, let him take the water of life freely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.22.18",
+      "edition_verse_id": "ASV1901:REV.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto them, God shall add unto him the plagues which are written in this book:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.22.19",
+      "edition_verse_id": "ASV1901:REV.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and if any man shall take away from the words of the book of this prophecy, God shall take away his part from the tree of life, and out of the holy city, which are written in this book.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.22.20",
+      "edition_verse_id": "ASV1901:REV.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He who testifieth these things saith, Yea: I come quickly. Amen: come, Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.22.21",
+      "edition_verse_id": "ASV1901:REV.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The grace of the Lord Jesus be with the saints. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

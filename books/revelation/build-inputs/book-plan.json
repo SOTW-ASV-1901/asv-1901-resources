@@ -1,0 +1,229 @@
+{
+  "code": "REV",
+  "slug": "revelation",
+  "name": "Revelation",
+  "order": 66,
+  "predecessor": "JUD",
+  "successor": null,
+  "usx": "66-REV.usx",
+  "usfm": "96-REVeng-asv.usfm",
+  "chapter_counts": [
+    20,
+    29,
+    22,
+    11,
+    14,
+    17,
+    17,
+    13,
+    21,
+    11,
+    19,
+    17,
+    18,
+    20,
+    8,
+    21,
+    18,
+    24,
+    21,
+    15,
+    27,
+    21
+  ],
+  "first_pdf": 1261,
+  "last_pdf": 1281,
+  "first_print": 267,
+  "scripture": [
+    [
+      1263,
+      1,
+      1,
+      0
+    ],
+    [
+      1264,
+      1,
+      18,
+      1
+    ],
+    [
+      1265,
+      2,
+      21,
+      0
+    ],
+    [
+      1266,
+      3,
+      15,
+      1
+    ],
+    [
+      1267,
+      5,
+      6,
+      1
+    ],
+    [
+      1268,
+      6,
+      11,
+      1
+    ],
+    [
+      1269,
+      7,
+      15,
+      1
+    ],
+    [
+      1270,
+      9,
+      9,
+      1
+    ],
+    [
+      1271,
+      11,
+      1,
+      1
+    ],
+    [
+      1272,
+      12,
+      3,
+      1
+    ],
+    [
+      1273,
+      13,
+      7,
+      1
+    ],
+    [
+      1274,
+      14,
+      10,
+      1
+    ],
+    [
+      1275,
+      16,
+      2,
+      1
+    ],
+    [
+      1276,
+      17,
+      3,
+      1
+    ],
+    [
+      1277,
+      18,
+      7,
+      1
+    ],
+    [
+      1278,
+      19,
+      4,
+      1
+    ],
+    [
+      1279,
+      20,
+      4,
+      1
+    ],
+    [
+      1280,
+      21,
+      10,
+      1
+    ],
+    [
+      1281,
+      22,
+      8,
+      1
+    ]
+  ],
+  "map_pages": [
+    1262
+  ],
+  "interleaf_pages": [
+    1261
+  ],
+  "volume_bounds": [
+    [
+      1261,
+      1271
+    ],
+    [
+      1272,
+      1281
+    ]
+  ],
+  "note_verse": [
+    13,
+    18
+  ],
+  "note_text": "At Revelation 13:18, the ASV 1901 main text reads “six hundred and sixty and six,” while its printed margin records an ancient alternative “Six hundred and sixteen.” The main text must not be replaced by the variant.",
+  "other_apparatus": [
+    {
+      "passage": "REV.1.5",
+      "source_pdf_page": 1263,
+      "note": "The 1901 printed main text has “loosed us from our sins”; the margin says many authorities, some ancient, read “washed.” Retain the main text and preserve the manuscript note.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "REV.2.20",
+      "source_pdf_page": 1264,
+      "note": "The original printed marginal apparatus states that many authorities, some ancient, read “thy wife.” It is an alternative reading, not the printed main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "REV.13.18",
+      "source_pdf_page": 1273,
+      "note": "The printed marginal note reads “Some ancient authorities read Six hundred and sixteen.” The original main text gives the number six hundred and sixty and six.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "REV.17.5",
+      "source_pdf_page": 1276,
+      "note": "The name on the forehead is set with historical capitalization and small-capital typography in print. The USX and USFM witnesses differ only in modernized capitalization. Primary USX title case is retained in machine text; original small capitals remain visible in facsimile.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TYPOGRAPHY"
+    },
+    {
+      "passage": "REV.19.16",
+      "source_pdf_page": 1278,
+      "note": "The title “King of Kings, and Lord of Lords” uses historical capitals and small-capital printing. The alternate USFM supplies all-uppercase typography. Main text follows the USX capitalization and preserves the original printed page.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TYPOGRAPHY"
+    },
+    {
+      "passage": "REV.22.14",
+      "source_pdf_page": 1281,
+      "note": "The original printed ASV 1901 main text reads “wash their robes,” not “do his commandments.” Retain the exact historical witness.",
+      "main_text_status": "PRESENT_AS_ORIGINAL_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "REV.22.21",
+      "source_pdf_page": 1281,
+      "note": "The original printed margin records “Some ancient authorities add Christ” and “Two ancient authorities read with all.” The final verse remains as printed.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTES"
+    }
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "044cb7f8c596458dd015d5f2329325bb0a92088b671eca4cbf94a41e14c15cc6",
+  "comparison_usfm_sha256": "1355c10c3aa28a61a96ce6a6f52808980d12a9d6d038fedf7edbc68d9b86ad55"
+}

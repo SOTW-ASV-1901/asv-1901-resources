@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "REV.14.1",
+      "edition_verse_id": "ASV1901:REV.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I saw, and behold, the Lamb standing on the mount Zion, and with him a hundred and forty and four thousand, having his name, and the name of his Father, written on their foreheads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.14.2",
+      "edition_verse_id": "ASV1901:REV.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and the voice which I heard ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " as ",
+          "kind": "text"
+        },
+        {
+          "text": "the voice",
+          "kind": "supplied"
+        },
+        {
+          "text": " of harpers harping with their harps:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.3",
+      "edition_verse_id": "ASV1901:REV.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and they sing as it were a new song before the throne, and before the four living creatures and the elders: and no man could learn the song save the hundred and forty and four thousand, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that had been purchased out of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.4",
+      "edition_verse_id": "ASV1901:REV.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "These are they that were not defiled with women; for they are virgins. These ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that follow the Lamb whithersoever he goeth. These were purchased from among men, ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " the firstfruits unto God and unto the Lamb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.5",
+      "edition_verse_id": "ASV1901:REV.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And in their mouth was found no lie: they are without blemish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.6",
+      "edition_verse_id": "ASV1901:REV.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I saw another angel flying in mid heaven, having eternal good tidings to proclaim unto them that dwell on the earth, and unto every nation and tribe and tongue and people;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.14.7",
+      "edition_verse_id": "ASV1901:REV.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and he saith with a great voice, Fear God, and give him glory; for the hour of his judgment is come: and worship him that made the heaven and the earth and sea and fountains of waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.8",
+      "edition_verse_id": "ASV1901:REV.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And another, a second angel, followed, saying, Fallen, fallen is Babylon the great, that hath made all the nations to drink of the wine of the wrath of her fornication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.14.9",
+      "edition_verse_id": "ASV1901:REV.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And another angel, a third, followed them, saying with a great voice, If any man worshippeth the beast and his image, and receiveth a mark on his forehead, or upon his hand,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.14.10",
+      "edition_verse_id": "ASV1901:REV.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "he also shall drink of the wine of the wrath of God, which is prepared unmixed in the cup of his anger; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.11",
+      "edition_verse_id": "ASV1901:REV.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and the smoke of their torment goeth up for ever and ever; and they have no rest day and night, they that worship the beast and his image, and whoso receiveth the mark of his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.12",
+      "edition_verse_id": "ASV1901:REV.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Here is the patience of the saints, they that keep the commandments of God, and the faith of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.13",
+      "edition_verse_id": "ASV1901:REV.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I heard a voice from heaven saying, Write, Blessed are the dead who die in the Lord from henceforth: yea, saith the Spirit, that they may rest from their labors; for their works follow with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.14.14",
+      "edition_verse_id": "ASV1901:REV.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I saw, and behold, a white cloud; and on the cloud ",
+          "kind": "text"
+        },
+        {
+          "text": "I saw",
+          "kind": "supplied"
+        },
+        {
+          "text": " one sitting like unto a son of man, having on his head a golden crown, and in his hand a sharp sickle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.14.15",
+      "edition_verse_id": "ASV1901:REV.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And another angel came out from the temple, crying with a great voice to him that sat on the cloud, Send forth thy sickle, and reap: for the hour to reap is come; for the harvest of the earth is ripe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.16",
+      "edition_verse_id": "ASV1901:REV.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he that sat on the cloud cast his sickle upon the earth; and the earth was reaped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.17",
+      "edition_verse_id": "ASV1901:REV.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And another angel came out from the temple which is in heaven, he also having a sharp sickle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.14.18",
+      "edition_verse_id": "ASV1901:REV.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And another angel came out from the altar, he that hath power over fire; and he called with a great voice to him that had the sharp sickle, saying, Send forth thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.19",
+      "edition_verse_id": "ASV1901:REV.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the angel cast his sickle into the earth, and gathered the vintage of the earth, and cast it into the winepress, the great ",
+          "kind": "text"
+        },
+        {
+          "text": "winepress",
+          "kind": "supplied"
+        },
+        {
+          "text": ", of the wrath of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.14.20",
+      "edition_verse_id": "ASV1901:REV.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the winepress was trodden without the city, and there came out blood from the winepress, even unto the bridles of the horses, as far as a thousand and six hundred furlongs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

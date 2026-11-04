@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "REV.6.1",
+      "edition_verse_id": "ASV1901:REV.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I saw when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying as with a voice of thunder, Come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.2",
+      "edition_verse_id": "ASV1901:REV.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I saw, and behold, a white horse, and he that sat thereon had a bow; and there was given unto him a crown: and he came forth conquering, and to conquer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.6.3",
+      "edition_verse_id": "ASV1901:REV.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And when he opened the second seal, I heard the second living creature saying, Come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.6.4",
+      "edition_verse_id": "ASV1901:REV.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And another ",
+          "kind": "text"
+        },
+        {
+          "text": "horse",
+          "kind": "supplied"
+        },
+        {
+          "text": " came forth, a red horse: and to him that sat thereon it was given to take peace from the earth, and that they should slay one another: and there was given unto him a great sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.5",
+      "edition_verse_id": "ASV1901:REV.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when he opened the third seal, I heard the third living creature saying, Come. And I saw, and behold, a black horse; and he that sat thereon had a balance in his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.6.6",
+      "edition_verse_id": "ASV1901:REV.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I heard as it were a voice in the midst of the four living creatures saying, A measure of wheat for a shilling, and three measures of barley for a shilling; and the oil and the wine hurt thou not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.7",
+      "edition_verse_id": "ASV1901:REV.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when he opened the fourth seal, I heard the voice of the fourth living creature saying, Come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.6.8",
+      "edition_verse_id": "ASV1901:REV.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I saw, and behold, a pale horse: and he that sat upon him, his name was Death; and Hades followed with him. And there was given unto them authority over the fourth part of the earth, to kill with sword, and with famine, and with death, and by the wild beasts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.9",
+      "edition_verse_id": "ASV1901:REV.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when he opened the fifth seal, I saw underneath the altar the souls of them that had been slain for the word of God, and for the testimony which they held:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.6.10",
+      "edition_verse_id": "ASV1901:REV.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and they cried with a great voice, saying, How long, O Master, the holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.11",
+      "edition_verse_id": "ASV1901:REV.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And there was given them to each one a white robe; and it was said unto them, that they should rest yet for a little time, until their fellow-servants also and their brethren, who should be killed even as they were, should have fulfilled ",
+          "kind": "text"
+        },
+        {
+          "text": "their course",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.12",
+      "edition_verse_id": "ASV1901:REV.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I saw when he opened the sixth seal, and there was a great earthquake; and the sun became black as sackcloth of hair, and the whole moon became as blood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.6.13",
+      "edition_verse_id": "ASV1901:REV.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and the stars of the heaven fell unto the earth, as a fig tree casteth her unripe figs when she is shaken of a great wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.14",
+      "edition_verse_id": "ASV1901:REV.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the heaven was removed as a scroll when it is rolled up; and every mountain and island were moved out of their places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.15",
+      "edition_verse_id": "ASV1901:REV.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the kings of the earth, and the princes, and the chief captains, and the rich, and the strong, and every bondman and freeman, hid themselves in the caves and in the rocks of the mountains;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.16",
+      "edition_verse_id": "ASV1901:REV.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and they say to the mountains and to the rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.6.17",
+      "edition_verse_id": "ASV1901:REV.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "for the great day of their wrath is come; and who is able to stand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

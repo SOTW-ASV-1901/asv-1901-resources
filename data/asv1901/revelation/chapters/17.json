@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "REV.17.1",
+      "edition_verse_id": "ASV1901:REV.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And there came one of the seven angels that had the seven bowls, and spake with me, saying, Come hither, I will show thee the judgment of the great harlot that sitteth upon many waters;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.17.2",
+      "edition_verse_id": "ASV1901:REV.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "with whom the kings of the earth committed fornication, and they that dwell in the earth were made drunken with the wine of her fornication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.3",
+      "edition_verse_id": "ASV1901:REV.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he carried me away in the Spirit into a wilderness: and I saw a woman sitting upon a scarlet-colored beast, full of names of blasphemy, having seven heads and ten horns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.4",
+      "edition_verse_id": "ASV1901:REV.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the woman was arrayed in purple and scarlet, and decked with gold and precious stone and pearls, having in her hand a golden cup full of abominations, even the unclean things of her fornication,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.5",
+      "edition_verse_id": "ASV1901:REV.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and upon her forehead a name written, Mystery, Babylon the Great, the Mother of the Harlots and of the Abominations of the Earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.6",
+      "edition_verse_id": "ASV1901:REV.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus. And when I saw her, I wondered with a great wonder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.7",
+      "edition_verse_id": "ASV1901:REV.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the angel said unto me, Wherefore didst thou wonder? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and the ten horns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.8",
+      "edition_verse_id": "ASV1901:REV.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The beast that thou sawest was, and is not; and is about to come up out of the abyss, and to go into perdition. And they that dwell on the earth shall wonder, ",
+          "kind": "text"
+        },
+        {
+          "text": "they",
+          "kind": "supplied"
+        },
+        {
+          "text": " whose name hath not been written in the book of life from the foundation of the world, when they behold the beast, how that he was, and is not, and shall come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.9",
+      "edition_verse_id": "ASV1901:REV.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Here is the mind that hath wisdom. The seven heads are seven mountains, on which the woman sitteth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.10",
+      "edition_verse_id": "ASV1901:REV.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and they are seven kings; the five are fallen, the one is, the other is not yet come; and when he cometh, he must continue a little while.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.11",
+      "edition_verse_id": "ASV1901:REV.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the beast that was, and is not, is himself also an eighth, and is of the seven; and he goeth into perdition.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.12",
+      "edition_verse_id": "ASV1901:REV.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the ten horns that thou sawest are ten kings, who have received no kingdom as yet; but they receive authority as kings, with the beast, for one hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.13",
+      "edition_verse_id": "ASV1901:REV.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "These have one mind, and they give their power and authority unto the beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.14",
+      "edition_verse_id": "ASV1901:REV.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "These shall war against the Lamb, and the Lamb shall overcome them, for he is Lord of lords, and King of kings; and they ",
+          "kind": "text"
+        },
+        {
+          "text": "also shall overcome",
+          "kind": "supplied"
+        },
+        {
+          "text": " that are with him, called and chosen and faithful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.15",
+      "edition_verse_id": "ASV1901:REV.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he saith unto me, The waters which thou sawest, where the harlot sitteth, are peoples, and multitudes, and nations, and tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.16",
+      "edition_verse_id": "ASV1901:REV.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the ten horns which thou sawest, and the beast, these shall hate the harlot, and shall make her desolate and naked, and shall eat her flesh, and shall burn her utterly with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.17",
+      "edition_verse_id": "ASV1901:REV.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For God did put in their hearts to do his mind, and to come to one mind, and to give their kingdom unto the beast, until the words of God should be accomplished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.17.18",
+      "edition_verse_id": "ASV1901:REV.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the woman whom thou sawest is the great city, which reigneth over the kings of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

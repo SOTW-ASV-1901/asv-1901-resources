@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "book_order": 66,
+  "chapters": 22,
+  "main_text_verse_count": 404,
+  "traditional_verse_positions": 404,
+  "omitted_verse_ids": [],
+  "source_witness_typographical_or_orthographic_differences": 2,
+  "source_witness_wording_or_hyphenation_differences": 0,
+  "source_witness_differences_resolved_against_original_print": true,
+  "translator_supplied_italic_spans": 98,
+  "italic_spans_vs_comparison": "PASS_98_OF_98",
+  "primary_usx_note_elements": 255,
+  "historical_source_pdf_page_range": [
+    1261,
+    1281
+  ],
+  "historical_map_pages": 1,
+  "original_interleaf_pages_retained": 1,
+  "scripture_pages": 19,
+  "physical_pages": 21,
+  "page_spanning_main_text_verses": 17,
+  "page_index_coverage": "PASS_ALL_404_MAIN_TEXT_VERSES",
+  "facsimile_volumes": 2,
+  "original_source_sha256": "MATCHED_PINNED_MATTHEW_PROVERBS_SOURCE",
+  "original_print_character_by_character_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED"
+}

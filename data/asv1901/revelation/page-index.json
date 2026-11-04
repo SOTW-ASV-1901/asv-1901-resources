@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1261,
+      "type": "interleaf",
+      "printed_page": null,
+      "description": "Original blank reverse leaf following historical map; included to preserve source page order.",
+      "evidence_method": "Retained complete 1901 historical page, without inventing a Scripture position.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1262,
+      "type": "map",
+      "printed_page": null,
+      "description": "Original 1901 historical map; interpret as period cartography, not verified modern geocoding.",
+      "evidence_method": "Physical historical map retained as printed, no redraw.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1263,
+      "type": "scripture",
+      "printed_page": 267,
+      "first_verse": "REV.1.1",
+      "last_verse": "REV.1.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1264,
+      "type": "scripture",
+      "printed_page": 268,
+      "first_verse": "REV.1.18",
+      "last_verse": "REV.2.20",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1265,
+      "type": "scripture",
+      "printed_page": 269,
+      "first_verse": "REV.2.21",
+      "last_verse": "REV.3.15",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1266,
+      "type": "scripture",
+      "printed_page": 270,
+      "first_verse": "REV.3.15",
+      "last_verse": "REV.5.6",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1267,
+      "type": "scripture",
+      "printed_page": 271,
+      "first_verse": "REV.5.6",
+      "last_verse": "REV.6.11",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1268,
+      "type": "scripture",
+      "printed_page": 272,
+      "first_verse": "REV.6.11",
+      "last_verse": "REV.7.15",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1269,
+      "type": "scripture",
+      "printed_page": 273,
+      "first_verse": "REV.7.15",
+      "last_verse": "REV.9.9",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1270,
+      "type": "scripture",
+      "printed_page": 274,
+      "first_verse": "REV.9.9",
+      "last_verse": "REV.11.1",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 10
+    },
+    {
+      "source_pdf_page": 1271,
+      "type": "scripture",
+      "printed_page": 275,
+      "first_verse": "REV.11.1",
+      "last_verse": "REV.12.3",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1261-1271.pdf",
+      "volume_pdf_page": 11
+    },
+    {
+      "source_pdf_page": 1272,
+      "type": "scripture",
+      "printed_page": 276,
+      "first_verse": "REV.12.3",
+      "last_verse": "REV.13.7",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1273,
+      "type": "scripture",
+      "printed_page": 277,
+      "first_verse": "REV.13.7",
+      "last_verse": "REV.14.10",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1274,
+      "type": "scripture",
+      "printed_page": 278,
+      "first_verse": "REV.14.10",
+      "last_verse": "REV.16.2",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1275,
+      "type": "scripture",
+      "printed_page": 279,
+      "first_verse": "REV.16.2",
+      "last_verse": "REV.17.3",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1276,
+      "type": "scripture",
+      "printed_page": 280,
+      "first_verse": "REV.17.3",
+      "last_verse": "REV.18.7",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1277,
+      "type": "scripture",
+      "printed_page": 281,
+      "first_verse": "REV.18.7",
+      "last_verse": "REV.19.4",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1278,
+      "type": "scripture",
+      "printed_page": 282,
+      "first_verse": "REV.19.4",
+      "last_verse": "REV.20.4",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1279,
+      "type": "scripture",
+      "printed_page": 283,
+      "first_verse": "REV.20.4",
+      "last_verse": "REV.21.10",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1280,
+      "type": "scripture",
+      "printed_page": 284,
+      "first_verse": "REV.21.10",
+      "last_verse": "REV.22.8",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1281,
+      "type": "scripture",
+      "printed_page": 285,
+      "first_verse": "REV.22.8",
+      "last_verse": "REV.22.21",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-revelation-pages-1272-1281.pdf",
+      "volume_pdf_page": 10
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-revelation-pages-1261-1271.pdf",
+      "first_source_pdf_page": 1261,
+      "last_source_pdf_page": 1271,
+      "bytes": 1151261,
+      "sha256": "72accddd7bc5feabc6e56f2a488e3ad2c5ad22510a7d7b432f14b6b9ee9e109d"
+    },
+    {
+      "filename": "asv1901-revelation-pages-1272-1281.pdf",
+      "first_source_pdf_page": 1272,
+      "last_source_pdf_page": 1281,
+      "bytes": 1183547,
+      "sha256": "594735fdf7505cc1829066e13ff86a71cfc1b77214106e0df4e2c162abaedab1"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

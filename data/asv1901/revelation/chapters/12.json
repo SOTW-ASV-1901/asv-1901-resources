@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "REV.12.1",
+      "edition_verse_id": "ASV1901:REV.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And a great sign was seen in heaven: a woman arrayed with the sun, and the moon under her feet, and upon her head a crown of twelve stars;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.12.2",
+      "edition_verse_id": "ASV1901:REV.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and she was with child; and she crieth out, travailing in birth, and in pain to be delivered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.3",
+      "edition_verse_id": "ASV1901:REV.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And there was seen another sign in heaven: and behold, a great red dragon, having seven heads and ten horns, and upon his heads seven diadems.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.4",
+      "edition_verse_id": "ASV1901:REV.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And his tail draweth the third part of the stars of heaven, and did cast them to the earth: and the dragon standeth before the woman that is about to be delivered, that when she is delivered he may devour her child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.5",
+      "edition_verse_id": "ASV1901:REV.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And she was delivered of a son, a man child, who is to rule all the nations with a rod of iron: and her child was caught up unto God, and unto his throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.6",
+      "edition_verse_id": "ASV1901:REV.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the woman fled into the wilderness, where she hath a place prepared of God, that there they may nourish her a thousand two hundred and threescore days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.7",
+      "edition_verse_id": "ASV1901:REV.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And there was war in heaven: Michael and his angels ",
+          "kind": "text"
+        },
+        {
+          "text": "going forth",
+          "kind": "supplied"
+        },
+        {
+          "text": " to war with the dragon; and the dragon warred and his angels;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.12.8",
+      "edition_verse_id": "ASV1901:REV.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and they prevailed not, neither was their place found any more in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.9",
+      "edition_verse_id": "ASV1901:REV.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the great dragon was cast down, the old serpent, he that is called the Devil and Satan, the deceiver of the whole world; he was cast down to the earth, and his angels were cast down with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.10",
+      "edition_verse_id": "ASV1901:REV.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I heard a great voice in heaven, saying,Now is come the salvation, and the power, and the kingdom of our God, and the authority of his Christ: for the accuser of our brethren is cast down, who accuseth them before our God day and night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.11",
+      "edition_verse_id": "ASV1901:REV.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they overcame him because of the blood of the Lamb, and because of the word of their testimony; and they loved not their life even unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.12",
+      "edition_verse_id": "ASV1901:REV.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore rejoice, O heavens, and ye that dwell in them. Woe for the earth and for the sea: because the devil is gone down unto you, having great wrath, knowing that he hath but a short time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.13",
+      "edition_verse_id": "ASV1901:REV.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when the dragon saw that he was cast down to the earth, he persecuted the woman that brought forth the man ",
+          "kind": "text"
+        },
+        {
+          "text": "child",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.12.14",
+      "edition_verse_id": "ASV1901:REV.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And there were given to the woman the two wings of the great eagle, that she might fly into the wilderness unto her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.15",
+      "edition_verse_id": "ASV1901:REV.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the serpent cast out of his mouth after the woman water as a river, that he might cause her to be carried away by the stream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.16",
+      "edition_verse_id": "ASV1901:REV.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the earth helped the woman, and the earth opened her mouth and swallowed up the river which the dragon cast out of his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.12.17",
+      "edition_verse_id": "ASV1901:REV.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the dragon waxed wroth with the woman, and went away to make war with the rest of her seed, that keep the commandments of God, and hold the testimony of Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

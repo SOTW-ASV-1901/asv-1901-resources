@@ -1,0 +1,113 @@
+{
+  "source_pdf_page_range": [
+    1261,
+    1281
+  ],
+  "original_maps": [
+    1262
+  ],
+  "interleaves": [
+    1261
+  ],
+  "printed_scripture_pages": [
+    267,
+    285
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1263,
+      "first_verse": "REV.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1264,
+      "first_verse": "REV.1.18",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1265,
+      "first_verse": "REV.2.21",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1266,
+      "first_verse": "REV.3.15",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1267,
+      "first_verse": "REV.5.6",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1268,
+      "first_verse": "REV.6.11",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1269,
+      "first_verse": "REV.7.15",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1270,
+      "first_verse": "REV.9.9",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1271,
+      "first_verse": "REV.11.1",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1272,
+      "first_verse": "REV.12.3",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1273,
+      "first_verse": "REV.13.7",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1274,
+      "first_verse": "REV.14.10",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1275,
+      "first_verse": "REV.16.2",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1276,
+      "first_verse": "REV.17.3",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1277,
+      "first_verse": "REV.18.7",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1278,
+      "first_verse": "REV.19.4",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1279,
+      "first_verse": "REV.20.4",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1280,
+      "first_verse": "REV.21.10",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1281,
+      "first_verse": "REV.22.8",
+      "continues_previous_scripture_page": true
+    }
+  ]
+}

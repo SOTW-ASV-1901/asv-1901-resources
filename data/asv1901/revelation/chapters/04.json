@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "REV.4.1",
+      "edition_verse_id": "ASV1901:REV.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these things I saw, and behold, a door opened in heaven, and the first voice that I heard, ",
+          "kind": "text"
+        },
+        {
+          "text": "a voice",
+          "kind": "supplied"
+        },
+        {
+          "text": " as of a trumpet speaking with me, one saying, Come up hither, and I will show thee the things which must come to pass hereafter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.2",
+      "edition_verse_id": "ASV1901:REV.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Straightway I was in the Spirit: and behold, there was a throne set in heaven, and one sitting upon the throne;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.4.3",
+      "edition_verse_id": "ASV1901:REV.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and he that sat ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " to look upon like a jasper stone and a sardius: and ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " a rainbow round about the throne, like an emerald to look upon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.4",
+      "edition_verse_id": "ASV1901:REV.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And round about the throne ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " four and twenty thrones: and upon the thrones ",
+          "kind": "text"
+        },
+        {
+          "text": "I saw",
+          "kind": "supplied"
+        },
+        {
+          "text": " four and twenty elders sitting, arrayed in white garments; and on their heads crowns of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.5",
+      "edition_verse_id": "ASV1901:REV.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And out of the throne proceed lightnings and voices and thunders. And ",
+          "kind": "text"
+        },
+        {
+          "text": "there were",
+          "kind": "supplied"
+        },
+        {
+          "text": " seven lamps of fire burning before the throne, which are the seven Spirits of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.6",
+      "edition_verse_id": "ASV1901:REV.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and before the throne, as it were a sea of glass like unto crystal; and in the midst of the throne, and round about the throne, four living creatures full of eyes before and behind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.7",
+      "edition_verse_id": "ASV1901:REV.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the first creature ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a lion, and the second creature like a calf, and the third creature had a face as of a man, and the fourth creature ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " like a flying eagle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.8",
+      "edition_verse_id": "ASV1901:REV.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the four living creatures, having each one of them six wings, are full of eyes round about and within: and they have no rest day and night, saying,Holy, holy, holy, ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Lord God, the Almighty, who was and who is and who is to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.9",
+      "edition_verse_id": "ASV1901:REV.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when the living creatures shall give glory and honor and thanks to him that sitteth on the throne, to him that liveth for ever and ever,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.4.10",
+      "edition_verse_id": "ASV1901:REV.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "the four and twenty elders shall fall down before him that sitteth on the throne, and shall worship him that liveth for ever and ever, and shall cast their crowns before the throne, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.4.11",
+      "edition_verse_id": "ASV1901:REV.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Worthy art thou, our Lord and our God, to receive the glory and the honor and the power: for thou didst create all things, and because of thy will they were, and were created.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

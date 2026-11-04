@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "REV.15.1",
+      "edition_verse_id": "ASV1901:REV.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I saw another sign in heaven, great and marvellous, seven angels having seven plagues, ",
+          "kind": "text"
+        },
+        {
+          "text": "which are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the last, for in them is finished the wrath of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.15.2",
+      "edition_verse_id": "ASV1901:REV.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I saw as it were a sea of glass mingled with fire; and them that come off victorious from the beast, and from his image, and from the number of his name, standing by the sea of glass, having harps of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.15.3",
+      "edition_verse_id": "ASV1901:REV.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they sing the song of Moses the servant of God, and the song of the Lamb, saying,Great and marvellous are thy works, O Lord God, the Almighty; righteous and true are thy ways, thou King of the ages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.15.4",
+      "edition_verse_id": "ASV1901:REV.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who shall not fear, O Lord, and glorify thy name? for thou only art holy; for all the nations shall come and worship before thee; for thy righteous acts have been made manifest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.15.5",
+      "edition_verse_id": "ASV1901:REV.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And after these things I saw, and the temple of the tabernacle of the testimony in heaven was opened:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.15.6",
+      "edition_verse_id": "ASV1901:REV.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and there came out from the temple the seven angels that had the seven plagues, arrayed with ",
+          "kind": "text"
+        },
+        {
+          "text": "precious",
+          "kind": "supplied"
+        },
+        {
+          "text": " stone, pure ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " bright, and girt about their breasts with golden girdles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.15.7",
+      "edition_verse_id": "ASV1901:REV.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And one of the four living creatures gave unto the seven angels seven golden bowls full of the wrath of God, who liveth for ever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.15.8",
+      "edition_verse_id": "ASV1901:REV.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the temple was filled with smoke from the glory of God, and from his power; and none was able to enter into the temple, till the seven plagues of the seven angels should be finished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "apparatus": [
+    {
+      "passage": "REV.1.5",
+      "source_pdf_page": 1263,
+      "note": "The 1901 printed main text has “loosed us from our sins”; the margin says many authorities, some ancient, read “washed.” Retain the main text and preserve the manuscript note.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "REV.2.20",
+      "source_pdf_page": 1264,
+      "note": "The original printed marginal apparatus states that many authorities, some ancient, read “thy wife.” It is an alternative reading, not the printed main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "REV.13.18",
+      "source_pdf_page": 1273,
+      "note": "The printed marginal note reads “Some ancient authorities read Six hundred and sixteen.” The original main text gives the number six hundred and sixty and six.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "REV.17.5",
+      "source_pdf_page": 1276,
+      "note": "The name on the forehead is set with historical capitalization and small-capital typography in print. The USX and USFM witnesses differ only in modernized capitalization. Primary USX title case is retained in machine text; original small capitals remain visible in facsimile.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TYPOGRAPHY"
+    },
+    {
+      "passage": "REV.19.16",
+      "source_pdf_page": 1278,
+      "note": "The title “King of Kings, and Lord of Lords” uses historical capitals and small-capital printing. The alternate USFM supplies all-uppercase typography. Main text follows the USX capitalization and preserves the original printed page.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TYPOGRAPHY"
+    },
+    {
+      "passage": "REV.22.14",
+      "source_pdf_page": 1281,
+      "note": "The original printed ASV 1901 main text reads “wash their robes,” not “do his commandments.” Retain the exact historical witness.",
+      "main_text_status": "PRESENT_AS_ORIGINAL_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "REV.22.21",
+      "source_pdf_page": 1281,
+      "note": "The original printed margin records “Some ancient authorities add Christ” and “Two ancient authorities read with all.” The final verse remains as printed.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTES"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

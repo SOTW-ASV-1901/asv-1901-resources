@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "REV",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "REV.16.1",
+      "edition_verse_id": "ASV1901:REV.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I heard a great voice out of the temple, saying to the seven angels, Go ye, and pour out the seven bowls of the wrath of God into the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.2",
+      "edition_verse_id": "ASV1901:REV.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the first went, and poured out his bowl into the earth; and it became a noisome and grievous sore upon the men that had the mark of the beast, and that worshipped his image.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.3",
+      "edition_verse_id": "ASV1901:REV.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the second poured out his bowl into the sea; and it became blood as of a dead man; and every living soul died, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the things that were in the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.4",
+      "edition_verse_id": "ASV1901:REV.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the third poured out his bowl into the rivers and the fountains of the waters; and it became blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.5",
+      "edition_verse_id": "ASV1901:REV.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I heard the angel of the waters saying, Righteous art thou, who art and who wast, thou Holy One, because thou didst thus judge:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.6",
+      "edition_verse_id": "ASV1901:REV.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "for they poured out the blood of saints and prophets, and blood hast thou given them to drink: they are worthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.7",
+      "edition_verse_id": "ASV1901:REV.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I heard the altar saying, Yea, O Lord God, the Almighty, true and righteous are thy judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.8",
+      "edition_verse_id": "ASV1901:REV.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the fourth poured out his bowl upon the sun; and it was given unto it to scorch men with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.9",
+      "edition_verse_id": "ASV1901:REV.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And men were scorched with great heat: and they blasphemed the name of God who hath the power over these plagues; and they repented not to give him glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.10",
+      "edition_verse_id": "ASV1901:REV.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the fifth poured out his bowl upon the throne of the beast; and his kingdom was darkened; and they gnawed their tongues for pain,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.11",
+      "edition_verse_id": "ASV1901:REV.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and they blasphemed the God of heaven because of their pains and their sores; and they repented not of their works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.12",
+      "edition_verse_id": "ASV1901:REV.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the sixth poured out his bowl upon the great river, the ",
+          "kind": "text"
+        },
+        {
+          "text": "river",
+          "kind": "supplied"
+        },
+        {
+          "text": " Euphrates; and the water thereof was dried up, that the way might be made ready for the kings that ",
+          "kind": "text"
+        },
+        {
+          "text": "come",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the sunrising.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.13",
+      "edition_verse_id": "ASV1901:REV.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I saw ",
+          "kind": "text"
+        },
+        {
+          "text": "coming",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet, three unclean spirits, as it were frogs:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.14",
+      "edition_verse_id": "ASV1901:REV.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "for they are spirits of demons, working signs; which go forth unto the kings of the whole world, to gather them together unto the war of the great day of God, the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.15",
+      "edition_verse_id": "ASV1901:REV.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "(Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.16",
+      "edition_verse_id": "ASV1901:REV.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they gathered them together into the place which is called in Hebrew Har-Magedon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.17",
+      "edition_verse_id": "ASV1901:REV.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the seventh poured out his bowl upon the air; and there came forth a great voice out of the temple, from the throne, saying, It is done:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.16.18",
+      "edition_verse_id": "ASV1901:REV.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and there were lightnings, and voices, and thunders; and there was a great earthquake, such as was not since there were men upon the earth, so great an earthquake, so mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.19",
+      "edition_verse_id": "ASV1901:REV.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the great city was divided into three parts, and the cities of the nations fell: and Babylon the great was remembered in the sight of God, to give unto her the cup of the wine of the fierceness of his wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.20",
+      "edition_verse_id": "ASV1901:REV.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And every island fled away, and the mountains were not found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.16.21",
+      "edition_verse_id": "ASV1901:REV.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And great hail, ",
+          "kind": "text"
+        },
+        {
+          "text": "every stone",
+          "kind": "supplied"
+        },
+        {
+          "text": " about the weight of a talent, cometh down out of heaven upon men: and men blasphemed God because of the plague of the hail; for the plague thereof is exceeding great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
