@@ -1,0 +1,90 @@
+{
+  "code": "EPH",
+  "slug": "ephesians",
+  "name": "Ephesians",
+  "order": 49,
+  "predecessor": "GAL",
+  "successor": "PHP",
+  "usx": "49-EPH.usx",
+  "usfm": "79-EPHeng-asv.usfm",
+  "chapter_counts": [
+    23,
+    22,
+    21,
+    32,
+    33,
+    24
+  ],
+  "first_pdf": 1198,
+  "last_pdf": 1203,
+  "first_print": 204,
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1198,
+      1203
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "scripture": [
+    [
+      1198,
+      1,
+      1,
+      0
+    ],
+    [
+      1199,
+      1,
+      21,
+      1
+    ],
+    [
+      1200,
+      3,
+      6,
+      1
+    ],
+    [
+      1201,
+      4,
+      16,
+      1
+    ],
+    [
+      1202,
+      5,
+      17,
+      1
+    ],
+    [
+      1203,
+      6,
+      17,
+      0
+    ]
+  ],
+  "source_decisions": [],
+  "other_apparatus": [
+    {
+      "passage": "EPH.1.1",
+      "source_pdf_page": 1198,
+      "note": "The original 1901 printed marginal apparatus records that some very ancient authorities omit “at Ephesus.” This is retained as textual-apparatus evidence, not as a change to the running main text.",
+      "main_text_status": "PRESENT_IN_PRINT_WITH_VARIANT_NOTE"
+    }
+  ],
+  "note_verse": [
+    1,
+    1
+  ],
+  "note_text": "Ephesians 1:1 has an original 1901 manuscript notice about the words “at Ephesus.” The historical note remains separate from the main Scripture text.",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "a5b6ff0ff892fdcc353f18cba881bcadca0f70aa3265d41202623bcecdfff726",
+  "comparison_usfm_sha256": "d1e22e67e49156ea9a00030ba18deb489a9c5f1d42d32384cedfe9d9658a479f"
+}

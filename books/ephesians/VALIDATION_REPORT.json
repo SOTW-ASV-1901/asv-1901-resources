@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "edition_id": "ASV1901",
+  "book_code": "EPH",
+  "book_order": 49,
+  "chapters": 6,
+  "main_text_verse_count": 155,
+  "traditional_verse_positions": 155,
+  "omitted_verse_ids": [],
+  "source_witness_typographical_or_orthographic_differences": 0,
+  "source_witness_wording_or_hyphenation_differences": 0,
+  "source_witness_differences_resolved_against_original_print": true,
+  "translator_supplied_italic_spans": 33,
+  "italic_spans_vs_comparison": "PASS_33_OF_33",
+  "primary_usx_note_elements": 69,
+  "historical_source_pdf_page_range": [
+    1198,
+    1203
+  ],
+  "historical_map_pages": 0,
+  "original_interleaf_pages_retained": 0,
+  "scripture_pages": 6,
+  "physical_pages": 6,
+  "page_spanning_main_text_verses": 4,
+  "page_index_coverage": "PASS_ALL_155_MAIN_TEXT_VERSES",
+  "facsimile_volumes": 1,
+  "original_source_sha256": "MATCHED_PINNED_MATTHEW_PROVERBS_SOURCE",
+  "original_print_character_by_character_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED"
+}

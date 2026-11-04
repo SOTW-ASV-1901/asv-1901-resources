@@ -1,0 +1,44 @@
+{
+  "source_pdf_page_range": [
+    1198,
+    1203
+  ],
+  "original_maps": [],
+  "interleaves": [],
+  "printed_scripture_pages": [
+    204,
+    209
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1198,
+      "first_verse": "EPH.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1199,
+      "first_verse": "EPH.1.21",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1200,
+      "first_verse": "EPH.3.6",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1201,
+      "first_verse": "EPH.4.16",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1202,
+      "first_verse": "EPH.5.17",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1203,
+      "first_verse": "EPH.6.17",
+      "continues_previous_scripture_page": false
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EPH",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "EPH.5.1",
+      "edition_verse_id": "ASV1901:EPH.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Be ye therefore imitators of God, as beloved children;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.2",
+      "edition_verse_id": "ASV1901:EPH.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and walk in love, even as Christ also loved you, and gave himself up for us, an offering and a sacrifice to God for an odor of a sweet smell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.3",
+      "edition_verse_id": "ASV1901:EPH.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But fornication, and all uncleanness, or covetousness, let it not even be named among you, as becometh saints;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.4",
+      "edition_verse_id": "ASV1901:EPH.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "nor filthiness, nor foolish talking, or jesting, which are not befitting: but rather giving of thanks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.5",
+      "edition_verse_id": "ASV1901:EPH.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For this ye know of a surety, that no fornicator, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.6",
+      "edition_verse_id": "ASV1901:EPH.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let no man deceive you with empty words: for because of these things cometh the wrath of God upon the sons of disobedience.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.7",
+      "edition_verse_id": "ASV1901:EPH.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be not ye therefore partakers with them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.8",
+      "edition_verse_id": "ASV1901:EPH.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "for ye were once darkness, but are now light in the Lord: walk as children of light",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.9",
+      "edition_verse_id": "ASV1901:EPH.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "(for the fruit of the light is in all goodness and righteousness and truth),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.10",
+      "edition_verse_id": "ASV1901:EPH.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "proving what is well-pleasing unto the Lord;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.11",
+      "edition_verse_id": "ASV1901:EPH.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and have no fellowship with the unfruitful works of darkness, but rather even reprove them;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.12",
+      "edition_verse_id": "ASV1901:EPH.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "for the things which are done by them in secret it is a shame even to speak of.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.13",
+      "edition_verse_id": "ASV1901:EPH.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But all things when they are reproved are made manifest by the light: for everything that is made manifest is light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.14",
+      "edition_verse_id": "ASV1901:EPH.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Wherefore ",
+          "kind": "text"
+        },
+        {
+          "text": "he",
+          "kind": "supplied"
+        },
+        {
+          "text": " saith, Awake, thou that sleepest, and arise from the dead, and Christ shall shine upon thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.15",
+      "edition_verse_id": "ASV1901:EPH.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Look therefore carefully how ye walk, not as unwise, but as wise;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.16",
+      "edition_verse_id": "ASV1901:EPH.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "redeeming the time, because the days are evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.17",
+      "edition_verse_id": "ASV1901:EPH.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Wherefore be ye not foolish, but understand what the will of the Lord is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.18",
+      "edition_verse_id": "ASV1901:EPH.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And be not drunken with wine, wherein is riot, but be filled with the Spirit;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.19",
+      "edition_verse_id": "ASV1901:EPH.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "speaking one to another in psalms and hymns and spiritual songs, singing and making melody with your heart to the Lord;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.20",
+      "edition_verse_id": "ASV1901:EPH.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "giving thanks always for all things in the name of our Lord Jesus Christ to God, even the Father;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.21",
+      "edition_verse_id": "ASV1901:EPH.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "subjecting yourselves one to another in the fear of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.22",
+      "edition_verse_id": "ASV1901:EPH.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Wives, ",
+          "kind": "text"
+        },
+        {
+          "text": "be in subjection",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto your own husbands, as unto the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.23",
+      "edition_verse_id": "ASV1901:EPH.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For the husband is the head of the wife, as Christ also is the head of the church, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " himself the saviour of the body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.24",
+      "edition_verse_id": "ASV1901:EPH.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But as the church is subject to Christ, so ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wives also ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " to their husbands in everything.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.25",
+      "edition_verse_id": "ASV1901:EPH.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself up for it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.26",
+      "edition_verse_id": "ASV1901:EPH.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "that he might sanctify it, having cleansed it by the washing of water with the word,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.27",
+      "edition_verse_id": "ASV1901:EPH.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "that he might present the church to himself a glorious ",
+          "kind": "text"
+        },
+        {
+          "text": "church",
+          "kind": "supplied"
+        },
+        {
+          "text": ", not having spot or wrinkle or any such thing; but that it should be holy and without blemish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.28",
+      "edition_verse_id": "ASV1901:EPH.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Even so ought husbands also to love their own wives as their own bodies. He that loveth his own wife loveth himself:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.29",
+      "edition_verse_id": "ASV1901:EPH.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "for no man ever hated his own flesh; but nourisheth and cherisheth it, even as Christ also the church;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.30",
+      "edition_verse_id": "ASV1901:EPH.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "because we are members of his body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.31",
+      "edition_verse_id": "ASV1901:EPH.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For this cause shall a man leave his father and mother, and shall cleave to his wife; and the two shall become one flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.32",
+      "edition_verse_id": "ASV1901:EPH.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "This mystery is great: but I speak in regard of Christ and of the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.33",
+      "edition_verse_id": "ASV1901:EPH.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Nevertheless do ye also severally love each one his own wife even as himself; and ",
+          "kind": "text"
+        },
+        {
+          "text": "let",
+          "kind": "supplied"
+        },
+        {
+          "text": " the wife ",
+          "kind": "text"
+        },
+        {
+          "text": "see",
+          "kind": "supplied"
+        },
+        {
+          "text": " that she fear her husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

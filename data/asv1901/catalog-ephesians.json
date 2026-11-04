@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EPH",
+  "book_name": "Ephesians",
+  "book_order": 49,
+  "canonical_ids": "EPH.{chapter}.{verse}",
+  "edition_ids": "ASV1901:EPH.{chapter}.{verse}",
+  "chapter_count": 6,
+  "verse_count": 155,
+  "traditional_verse_positions": 155,
+  "omitted_from_1901_main_text": [],
+  "verse_omissions_path": "ephesians/verse-omissions.json",
+  "textual_apparatus_path": "ephesians/textual-apparatus.json",
+  "chapter_path_template": "ephesians/chapters/{chapter:02d}.json",
+  "facsimile_index": "ephesians/page-index.json",
+  "predecessor_book_code": "GAL",
+  "successor_book_code": "PHP",
+  "source_provenance": "books/ephesians/SOURCE_INVENTORY.json",
+  "reader": "books/ephesians/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

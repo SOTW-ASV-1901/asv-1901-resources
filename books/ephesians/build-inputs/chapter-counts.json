@@ -1,0 +1,15 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "EPH",
+  "chapter_traditional_verse_counts": {
+    "1": 23,
+    "2": 22,
+    "3": 21,
+    "4": 32,
+    "5": 33,
+    "6": 24
+  },
+  "traditional_verse_positions": 155,
+  "main_text_verse_count": 155,
+  "omitted_verse_ids": []
+}

@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "EPH",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "EPH.6.1",
+      "edition_verse_id": "ASV1901:EPH.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Children, obey your parents in the Lord: for this is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.2",
+      "edition_verse_id": "ASV1901:EPH.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Honor thy father and mother (which is the first commandment with promise),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.3",
+      "edition_verse_id": "ASV1901:EPH.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "that it may be well with thee, and thou mayest live long on the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.4",
+      "edition_verse_id": "ASV1901:EPH.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And, ye fathers, provoke not your children to wrath: but nurture them in the chastening and admonition of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.5",
+      "edition_verse_id": "ASV1901:EPH.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Servants, be obedient unto them that according to the flesh are your masters, with fear and trembling, in singleness of your heart, as unto Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.6",
+      "edition_verse_id": "ASV1901:EPH.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "not in the way of eyeservice, as men-pleasers; but as servants of Christ, doing the will of God from the heart;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.7",
+      "edition_verse_id": "ASV1901:EPH.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "with good will doing service, as unto the Lord, and not unto men:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.8",
+      "edition_verse_id": "ASV1901:EPH.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "knowing that whatsoever good thing each one doeth, the same shall he receive again from the Lord, whether ",
+          "kind": "text"
+        },
+        {
+          "text": "he be",
+          "kind": "supplied"
+        },
+        {
+          "text": " bond or free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.9",
+      "edition_verse_id": "ASV1901:EPH.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And, ye masters, do the same things unto them, and forbear threatening: knowing that he who is both their Master and yours is in heaven, and there is no respect of persons with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.10",
+      "edition_verse_id": "ASV1901:EPH.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Finally, be strong in the Lord, and in the strength of his might.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.11",
+      "edition_verse_id": "ASV1901:EPH.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Put on the whole armor of God, that ye may be able to stand against the wiles of the devil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.12",
+      "edition_verse_id": "ASV1901:EPH.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world-rulers of this darkness, against the spiritual ",
+          "kind": "text"
+        },
+        {
+          "text": "hosts",
+          "kind": "supplied"
+        },
+        {
+          "text": " of wickedness in the heavenly ",
+          "kind": "text"
+        },
+        {
+          "text": "places",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.13",
+      "edition_verse_id": "ASV1901:EPH.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Wherefore take up the whole armor of God, that ye may be able to withstand in the evil day, and, having done all, to stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.14",
+      "edition_verse_id": "ASV1901:EPH.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Stand therefore, having girded your loins with truth, and having put on the breastplate of righteousness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.15",
+      "edition_verse_id": "ASV1901:EPH.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and having shod your feet with the preparation of the gospel of peace;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.16",
+      "edition_verse_id": "ASV1901:EPH.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "withal taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts of the evil ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.17",
+      "edition_verse_id": "ASV1901:EPH.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.18",
+      "edition_verse_id": "ASV1901:EPH.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "with all prayer and supplication praying at all seasons in the Spirit, and watching thereunto in all perseverance and supplication for all the saints,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.19",
+      "edition_verse_id": "ASV1901:EPH.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and on my behalf, that utterance may be given unto me in opening my mouth, to make known with boldness the mystery of the gospel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.20",
+      "edition_verse_id": "ASV1901:EPH.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.21",
+      "edition_verse_id": "ASV1901:EPH.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But that ye also may know my affairs, how I do, Tychicus, the beloved brother and faithful minister in the Lord, shall make known to you all things:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.22",
+      "edition_verse_id": "ASV1901:EPH.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "whom I have sent unto you for this very purpose, that ye may know our state, and that he may comfort your hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.23",
+      "edition_verse_id": "ASV1901:EPH.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.24",
+      "edition_verse_id": "ASV1901:EPH.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Grace be with all them that love our Lord Jesus Christ with ",
+          "kind": "text"
+        },
+        {
+          "text": "a love",
+          "kind": "supplied"
+        },
+        {
+          "text": " incorruptible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
