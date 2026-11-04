@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "COL",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1208,
+      "type": "scripture",
+      "printed_page": 214,
+      "first_verse": "COL.1.1",
+      "last_verse": "COL.1.23",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-colossians-pages-1208-1211.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1209,
+      "type": "scripture",
+      "printed_page": 215,
+      "first_verse": "COL.1.23",
+      "last_verse": "COL.2.19",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-colossians-pages-1208-1211.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1210,
+      "type": "scripture",
+      "printed_page": 216,
+      "first_verse": "COL.2.19",
+      "last_verse": "COL.4.1",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-colossians-pages-1208-1211.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1211,
+      "type": "scripture",
+      "printed_page": 217,
+      "first_verse": "COL.4.2",
+      "last_verse": "COL.4.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-colossians-pages-1208-1211.pdf",
+      "volume_pdf_page": 4
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-colossians-pages-1208-1211.pdf",
+      "first_source_pdf_page": 1208,
+      "last_source_pdf_page": 1211,
+      "bytes": 432278,
+      "sha256": "64cdb1397991c10ca3d83ccc98d73f3a89ede831dab4cf30d7e03ee77679be3c"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

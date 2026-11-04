@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "COL",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "COL.2.1",
+      "edition_verse_id": "ASV1901:COL.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For I would have you know how greatly I strive for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.2",
+      "edition_verse_id": "ASV1901:COL.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that their hearts may be comforted, they being knit together in love, and unto all riches of the full assurance of understanding, that they may know the mystery of God, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Christ,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.3",
+      "edition_verse_id": "ASV1901:COL.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "in whom are all the treasures of wisdom and knowledge hidden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.4",
+      "edition_verse_id": "ASV1901:COL.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This I say, that no one may delude you with persuasiveness of speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.5",
+      "edition_verse_id": "ASV1901:COL.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For though I am absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.6",
+      "edition_verse_id": "ASV1901:COL.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "As therefore ye received Christ Jesus the Lord, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " walk in him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.7",
+      "edition_verse_id": "ASV1901:COL.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "rooted and builded up in him, and established in your faith, even as ye were taught, abounding in thanksgiving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.8",
+      "edition_verse_id": "ASV1901:COL.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Take heed lest there shall be any one that maketh spoil of you through his philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.9",
+      "edition_verse_id": "ASV1901:COL.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "for in him dwelleth all the fulness of the Godhead bodily,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.10",
+      "edition_verse_id": "ASV1901:COL.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and in him ye are made full, who is the head of all principality and power:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.11",
+      "edition_verse_id": "ASV1901:COL.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "in whom ye were also circumcised with a circumcision not made with hands, in the putting off of the body of the flesh, in the circumcision of Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.12",
+      "edition_verse_id": "ASV1901:COL.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "having been buried with him in baptism, wherein ye were also raised with him through faith in the working of God, who raised him from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.13",
+      "edition_verse_id": "ASV1901:COL.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And you, being dead through your trespasses and the uncircumcision of your flesh, you, ",
+          "kind": "text"
+        },
+        {
+          "text": "I say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", did he make alive together with him, having forgiven us all our trespasses;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.14",
+      "edition_verse_id": "ASV1901:COL.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "having blotted out the bond written in ordinances that was against us, which was contrary to us: and he hath taken it out of the way, nailing it to the cross;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.15",
+      "edition_verse_id": "ASV1901:COL.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "having despoiled the principalities and the powers, he made a show of them openly, triumphing over them in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.16",
+      "edition_verse_id": "ASV1901:COL.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Let no man therefore judge you in meat, or in drink, or in respect of a feast day or a new moon or a sabbath day:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.17",
+      "edition_verse_id": "ASV1901:COL.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "which are a shadow of the things to come; but the body is Christ’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.18",
+      "edition_verse_id": "ASV1901:COL.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Let no man rob you of your prize by a voluntary humility and worshipping of the angels, dwelling in the things which he hath seen, vainly puffed up by his fleshly mind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.19",
+      "edition_verse_id": "ASV1901:COL.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and not holding fast the Head, from whom all the body, being supplied and knit together through the joints and bands, increaseth with the increase of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.20",
+      "edition_verse_id": "ASV1901:COL.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If ye died with Christ from the rudiments of the world, why, as though living in the world, do ye subject yourselves to ordinances,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.21",
+      "edition_verse_id": "ASV1901:COL.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Handle not, nor taste, nor touch",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.22",
+      "edition_verse_id": "ASV1901:COL.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "(all which things are to perish with the using), after the precepts and doctrines of men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.23",
+      "edition_verse_id": "ASV1901:COL.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Which things have indeed a show of wisdom in will-worship, and humility, and severity to the body; ",
+          "kind": "text"
+        },
+        {
+          "text": "but are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not of any value against the indulgence of the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "code": "COL",
+  "slug": "colossians",
+  "name": "Colossians",
+  "order": 51,
+  "predecessor": "PHP",
+  "successor": "1TH",
+  "usx": "51-COL.usx",
+  "usfm": "81-COLeng-asv.usfm",
+  "chapter_counts": [
+    29,
+    23,
+    25,
+    18
+  ],
+  "first_pdf": 1208,
+  "last_pdf": 1211,
+  "first_print": 214,
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1208,
+      1211
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "scripture": [
+    [
+      1208,
+      1,
+      1,
+      0
+    ],
+    [
+      1209,
+      1,
+      23,
+      1
+    ],
+    [
+      1210,
+      2,
+      19,
+      1
+    ],
+    [
+      1211,
+      4,
+      2,
+      0
+    ]
+  ],
+  "source_decisions": [
+    {
+      "verse": "COL.1.2",
+      "source_phrase": "Colossae",
+      "replace_with": "Colossæ",
+      "print_page": 1208,
+      "reason": "Original 1901 print uses the historical æ ligature in the place name Colossæ. Original digital witnesses remain byte-for-byte preserved."
+    }
+  ],
+  "other_apparatus": [
+    {
+      "passage": "COL.1.22",
+      "source_pdf_page": 1208,
+      "note": "The original 1901 printed apparatus records “Some ancient authorities read ye have been reconciled” at Colossians 1:22. This is preserved as a note, separate from the running main text.",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_MANUSCRIPT_VARIANT_NOTE"
+    }
+  ],
+  "note_verse": [
+    1,
+    22
+  ],
+  "note_text": "Colossians 1:22 contains an original 1901 manuscript-variant notice about “ye have been reconciled.” The original text and the note remain distinct.",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "ce51bb6f6a52441d8ae97eb2533445e6092c74554e8a7603372d0330b54a00ab",
+  "comparison_usfm_sha256": "ad7cedb442a8420a84912a3b71f641799d67d8b4de90f7df4f8ceadee2d8933e"
+}

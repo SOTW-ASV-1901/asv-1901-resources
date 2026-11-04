@@ -1,0 +1,27 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "COL",
+  "difference_count": 1,
+  "typographical_or_orthographic_count": 1,
+  "different_words_or_hyphenation_count": 0,
+  "differences": [
+    {
+      "verse_id": "COL.1.2",
+      "primary_usx": "to the saints and faithful brethren in Christ that are at Colossae: Grace to you and peace from God our Father.",
+      "comparison_usfm": "to the saints and faithful brethren in Christ that are at Colossæ: Grace to you and peace from God our Father.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See this source-differences-resolved.json file and print-backed decisions; unchanged upstream witnesses retained."
+    }
+  ],
+  "print_backed_decisions": [
+    {
+      "verse": "COL.1.2",
+      "source_phrase": "Colossae",
+      "replace_with": "Colossæ",
+      "print_page": 1208,
+      "reason": "Original 1901 print uses the historical æ ligature in the place name Colossæ. Original digital witnesses remain byte-for-byte preserved."
+    }
+  ],
+  "additional_print_backed_uncorrected_readings": {},
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "COL",
+  "apparatus": [
+    {
+      "passage": "COL.1.22",
+      "source_pdf_page": 1208,
+      "note": "The original 1901 printed apparatus records “Some ancient authorities read ye have been reconciled” at Colossians 1:22. This is preserved as a note, separate from the running main text.",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_MANUSCRIPT_VARIANT_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

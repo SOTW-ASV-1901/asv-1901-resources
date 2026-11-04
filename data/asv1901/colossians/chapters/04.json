@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "COL",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "COL.4.1",
+      "edition_verse_id": "ASV1901:COL.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Masters, render unto your servants that which is just and equal; knowing that ye also have a Master in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.2",
+      "edition_verse_id": "ASV1901:COL.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Continue stedfastly in prayer, watching therein with thanksgiving;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.3",
+      "edition_verse_id": "ASV1901:COL.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "withal praying for us also, that God may open unto us a door for the word, to speak the mystery of Christ, for which I am also in bonds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.4",
+      "edition_verse_id": "ASV1901:COL.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "that I may make it manifest, as I ought to speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.5",
+      "edition_verse_id": "ASV1901:COL.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Walk in wisdom toward them that are without, redeeming the time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.6",
+      "edition_verse_id": "ASV1901:COL.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let your speech be always with grace, seasoned with salt, that ye may know how ye ought to answer each one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.7",
+      "edition_verse_id": "ASV1901:COL.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All my affairs shall Tychicus make known unto you, the beloved brother and faithful minister and fellow-servant in the Lord:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.8",
+      "edition_verse_id": "ASV1901:COL.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "whom I have sent unto you for this very purpose, that ye may know our state, and that he may comfort your hearts;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.9",
+      "edition_verse_id": "ASV1901:COL.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "together with Onesimus, the faithful and beloved brother, who is one of you. They shall make known unto you all things that ",
+          "kind": "text"
+        },
+        {
+          "text": "are done",
+          "kind": "supplied"
+        },
+        {
+          "text": " here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.10",
+      "edition_verse_id": "ASV1901:COL.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Aristarchus my fellow-prisoner saluteth you, and Mark, the cousin of Barnabas (touching whom ye received commandments; if he come unto you, receive him),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.11",
+      "edition_verse_id": "ASV1901:COL.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and Jesus that is called Justus, who are of the circumcision: these only ",
+          "kind": "text"
+        },
+        {
+          "text": "are my",
+          "kind": "supplied"
+        },
+        {
+          "text": " fellow-workers unto the kingdom of God, men that have been a comfort unto me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.12",
+      "edition_verse_id": "ASV1901:COL.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Epaphras, who is one of you, a servant of Christ Jesus, saluteth you, always striving for you in his prayers, that ye may stand perfect and fully assured in all the will of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.13",
+      "edition_verse_id": "ASV1901:COL.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I bear him witness, that he hath much labor for you, and for them in Laodicea, and for them in Hierapolis.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.14",
+      "edition_verse_id": "ASV1901:COL.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Luke, the beloved physician, and Demas salute you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.15",
+      "edition_verse_id": "ASV1901:COL.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Salute the brethren that are in Laodicea, and Nymphas, and the church that is in their house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.16",
+      "edition_verse_id": "ASV1901:COL.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when this epistle hath been read among you, cause that it be read also in the church of the Laodiceans; and that ye also read the epistle from Laodicea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.17",
+      "edition_verse_id": "ASV1901:COL.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.18",
+      "edition_verse_id": "ASV1901:COL.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The salutation of me Paul with mine own hand. Remember my bonds. Grace be with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
