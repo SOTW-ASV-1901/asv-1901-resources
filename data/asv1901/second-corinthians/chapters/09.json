@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CO",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "2CO.9.1",
+      "edition_verse_id": "ASV1901:2CO.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For as touching the ministering to the saints, it is superfluous for me to write to you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.9.2",
+      "edition_verse_id": "ASV1901:2CO.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "for I know your readiness, of which I glory on your behalf to them of Macedonia, that Achaia hath been prepared for a year past; and your zeal hath stirred up very many of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.3",
+      "edition_verse_id": "ASV1901:2CO.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But I have sent the brethren, that our glorying on your behalf may not be made void in this respect; that, even as I said, ye may be prepared:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.4",
+      "edition_verse_id": "ASV1901:2CO.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "lest by any means, if there come with me any of Macedonia and find you unprepared, we (that we say not, ye) should be put to shame in this confidence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.5",
+      "edition_verse_id": "ASV1901:2CO.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I thought it necessary therefore to entreat the brethren, that they would go before unto you, and make up beforehand your aforepromised bounty, that the same might be ready as a matter of bounty, and not of extortion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.6",
+      "edition_verse_id": "ASV1901:2CO.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But this ",
+          "kind": "text"
+        },
+        {
+          "text": "I say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", He that soweth sparingly shall reap also sparingly; and he that soweth bountifully shall reap also bountifully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.9.7",
+      "edition_verse_id": "ASV1901:2CO.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let",
+          "kind": "supplied"
+        },
+        {
+          "text": " each man ",
+          "kind": "text"
+        },
+        {
+          "text": "do",
+          "kind": "supplied"
+        },
+        {
+          "text": " according as he hath purposed in his heart: not grudgingly, or of necessity: for God loveth a cheerful giver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.8",
+      "edition_verse_id": "ASV1901:2CO.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And God is able to make all grace abound unto you; that ye, having always all sufficiency in everything, may abound unto every good work:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.9",
+      "edition_verse_id": "ASV1901:2CO.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "as it is written,He hath scattered abroad, he hath given to the poor;\nHis righteousness abideth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.10",
+      "edition_verse_id": "ASV1901:2CO.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he that supplieth seed to the sower and bread for food, shall supply and multiply your seed for sowing, and increase the fruits of your righteousness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.9.11",
+      "edition_verse_id": "ASV1901:2CO.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "ye being enriched in everything unto all liberality, which worketh through us thanksgiving to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.12",
+      "edition_verse_id": "ASV1901:2CO.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the ministration of this service not only filleth up the measure of the wants of the saints, but aboundeth also through many thanksgivings unto God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.13",
+      "edition_verse_id": "ASV1901:2CO.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "seeing that through the proving ",
+          "kind": "text"
+        },
+        {
+          "text": "of you",
+          "kind": "supplied"
+        },
+        {
+          "text": " by this ministration they glorify God for the obedience of your confession unto the gospel of Christ, and for the liberality of ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " contribution unto them and unto all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.14",
+      "edition_verse_id": "ASV1901:2CO.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "while they themselves also, with supplication on your behalf, long after you by reason of the exceeding grace of God in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.9.15",
+      "edition_verse_id": "ASV1901:2CO.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Thanks be to God for his unspeakable gift.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

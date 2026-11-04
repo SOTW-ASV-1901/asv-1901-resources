@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CO",
+  "book_name": "2 Corinthians",
+  "book_order": 47,
+  "canonical_ids": "2CO.{chapter}.{verse}",
+  "edition_ids": "ASV1901:2CO.{chapter}.{verse}",
+  "chapter_count": 13,
+  "verse_count": 257,
+  "traditional_verse_positions": 257,
+  "omitted_from_1901_main_text": [],
+  "verse_omissions_path": "second-corinthians/verse-omissions.json",
+  "textual_apparatus_path": "second-corinthians/textual-apparatus.json",
+  "chapter_path_template": "second-corinthians/chapters/{chapter:02d}.json",
+  "facsimile_index": "second-corinthians/page-index.json",
+  "predecessor_book_code": "1CO",
+  "successor_book_code": "GAL",
+  "source_provenance": "books/second-corinthians/SOURCE_INVENTORY.json",
+  "reader": "books/second-corinthians/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

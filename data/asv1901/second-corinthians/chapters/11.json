@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CO",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "2CO.11.1",
+      "edition_verse_id": "ASV1901:2CO.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Would that ye could bear with me in a little foolishness: but indeed ye do bear with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.11.2",
+      "edition_verse_id": "ASV1901:2CO.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For I am jealous over you with a godly jealousy: for I espoused you to one husband, that I might present you ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " a pure virgin to Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.3",
+      "edition_verse_id": "ASV1901:2CO.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But I fear, lest by any means, as the serpent beguiled Eve in his craftiness, your minds should be corrupted from the simplicity and the purity that is toward Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.4",
+      "edition_verse_id": "ASV1901:2CO.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For if he that cometh preacheth another Jesus, whom we did not preach, or ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye receive a different spirit, which ye did not receive, or a different gospel, which ye did not accept, ye do well to bear with ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.5",
+      "edition_verse_id": "ASV1901:2CO.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For I reckon that I am not a whit behind the very chiefest apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.6",
+      "edition_verse_id": "ASV1901:2CO.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But though ",
+          "kind": "text"
+        },
+        {
+          "text": "I be",
+          "kind": "supplied"
+        },
+        {
+          "text": " rude in speech, yet ",
+          "kind": "text"
+        },
+        {
+          "text": "am I",
+          "kind": "supplied"
+        },
+        {
+          "text": " not in knowledge; nay, in every way have we made ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " manifest unto you in all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.7",
+      "edition_verse_id": "ASV1901:2CO.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Or did I commit a sin in abasing myself that ye might be exalted, because I preached to you the gospel of God for nought?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.8",
+      "edition_verse_id": "ASV1901:2CO.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I robbed other churches, taking wages ",
+          "kind": "text"
+        },
+        {
+          "text": "of them",
+          "kind": "supplied"
+        },
+        {
+          "text": " that I might minister unto you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.9",
+      "edition_verse_id": "ASV1901:2CO.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and when I was present with you and was in want, I was not a burden on any man; for the brethren, when they came from Macedonia, supplied the measure of my want; and in everything I kept myself from being burdensome unto you, and ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " will I keep ",
+          "kind": "text"
+        },
+        {
+          "text": "myself",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.10",
+      "edition_verse_id": "ASV1901:2CO.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As the truth of Christ is in me, no man shall stop me of this glorying in the regions of Achaia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.11",
+      "edition_verse_id": "ASV1901:2CO.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Wherefore? because I love you not? God knoweth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.12",
+      "edition_verse_id": "ASV1901:2CO.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But what I do, that I will do, that I may cut off occasion from them that desire an occasion; that wherein they glory, they may be found even as we.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.13",
+      "edition_verse_id": "ASV1901:2CO.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For such men are false apostles, deceitful workers, fashioning themselves into apostles of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.14",
+      "edition_verse_id": "ASV1901:2CO.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And no marvel; for even Satan fashioneth himself into an angel of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.15",
+      "edition_verse_id": "ASV1901:2CO.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "It is no great thing therefore if his ministers also fashion themselves as ministers of righteousness; whose end shall be according to their works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.16",
+      "edition_verse_id": "ASV1901:2CO.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I say again, Let no man think me foolish; but if ",
+          "kind": "text"
+        },
+        {
+          "text": "ye do",
+          "kind": "supplied"
+        },
+        {
+          "text": ", yet as foolish receive me, that I also may glory a little.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.11.17",
+      "edition_verse_id": "ASV1901:2CO.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "That which I speak, I speak not after the Lord, but as in foolishness, in this confidence of glorying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.18",
+      "edition_verse_id": "ASV1901:2CO.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Seeing that many glory after the flesh, I will glory also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.19",
+      "edition_verse_id": "ASV1901:2CO.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For ye bear with the foolish gladly, being wise ",
+          "kind": "text"
+        },
+        {
+          "text": "yourselves",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.20",
+      "edition_verse_id": "ASV1901:2CO.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For ye bear with a man, if he bringeth you into bondage, if he devoureth you, if he taketh you ",
+          "kind": "text"
+        },
+        {
+          "text": "captive",
+          "kind": "supplied"
+        },
+        {
+          "text": ", if he exalteth himself, if he smiteth you on the face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.21",
+      "edition_verse_id": "ASV1901:2CO.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I speak by way of disparagement, as though we had been weak. Yet whereinsoever any is bold (I speak in foolishness), I am bold also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.22",
+      "edition_verse_id": "ASV1901:2CO.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.23",
+      "edition_verse_id": "ASV1901:2CO.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Are they ministers of Christ? (I speak as one beside himself) I more; in labors more abundantly, in prisons more abundantly, in stripes above measure, in deaths oft.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.24",
+      "edition_verse_id": "ASV1901:2CO.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Of the Jews five times received I forty ",
+          "kind": "text"
+        },
+        {
+          "text": "stripes",
+          "kind": "supplied"
+        },
+        {
+          "text": " save one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.25",
+      "edition_verse_id": "ASV1901:2CO.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day have I been in the deep;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.26",
+      "edition_verse_id": "ASV1901:2CO.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " journeyings often, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils of rivers, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils of robbers, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils from ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " countrymen, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils from the Gentiles, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils in the city, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils in the wilderness, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils in the sea, ",
+          "kind": "text"
+        },
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " perils among false brethren;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.27",
+      "edition_verse_id": "ASV1901:2CO.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "in",
+          "kind": "supplied"
+        },
+        {
+          "text": " labor and travail, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.28",
+      "edition_verse_id": "ASV1901:2CO.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Besides those things that are without, there is that which presseth upon me daily, anxiety for all the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.29",
+      "edition_verse_id": "ASV1901:2CO.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Who is weak, and I am not weak? who is caused to stumble, and I burn not?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.30",
+      "edition_verse_id": "ASV1901:2CO.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If I must needs glory, I will glory of the things that concern my weakness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.31",
+      "edition_verse_id": "ASV1901:2CO.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The God and Father of the Lord Jesus, he who is blessed for evermore knoweth that I lie not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.32",
+      "edition_verse_id": "ASV1901:2CO.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "In Damascus the governor under Aretas the king guarded the city of the Damascenes in order to take me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.11.33",
+      "edition_verse_id": "ASV1901:2CO.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "and through a window was I let down in a basket by the wall, and escaped his hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

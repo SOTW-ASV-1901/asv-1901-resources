@@ -1,0 +1,130 @@
+{
+  "code": "2CO",
+  "slug": "second-corinthians",
+  "name": "2 Corinthians",
+  "order": 47,
+  "predecessor": "1CO",
+  "successor": "GAL",
+  "usx": "47-2CO.usx",
+  "usfm": "77-2COeng-asv.usfm",
+  "chapter_counts": [
+    24,
+    17,
+    18,
+    18,
+    21,
+    18,
+    16,
+    24,
+    15,
+    18,
+    33,
+    21,
+    14
+  ],
+  "first_pdf": 1182,
+  "last_pdf": 1191,
+  "first_print": 188,
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1182,
+      1191
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "scripture": [
+    [
+      1182,
+      1,
+      1,
+      0
+    ],
+    [
+      1183,
+      1,
+      21,
+      1
+    ],
+    [
+      1184,
+      3,
+      9,
+      0
+    ],
+    [
+      1185,
+      4,
+      18,
+      1
+    ],
+    [
+      1186,
+      6,
+      7,
+      1
+    ],
+    [
+      1187,
+      7,
+      15,
+      1
+    ],
+    [
+      1188,
+      9,
+      5,
+      1
+    ],
+    [
+      1189,
+      10,
+      15,
+      1
+    ],
+    [
+      1190,
+      11,
+      26,
+      1
+    ],
+    [
+      1191,
+      12,
+      19,
+      0
+    ]
+  ],
+  "source_decisions": [
+    {
+      "verse": "2CO.1.16",
+      "source_phrase": "Judaea.",
+      "replace_with": "Judæa.",
+      "print_page": 1182,
+      "reason": "The original 1901 printing on PDF page 1182 uses the æ ligature in Judæa, as does the comparison witness; original USX text is unchanged and retained."
+    }
+  ],
+  "other_apparatus": [
+    {
+      "passage": "2CO.4.14",
+      "source_pdf_page": 1184,
+      "note": "The original 1901 printed marginal apparatus records a reading “through Jesus” in some ancient authorities; refer to the facsimile for exact wording and scope.",
+      "main_text_status": "PRESENT_IN_PRINT_WITH_VARIANT_NOTE"
+    },
+    {
+      "passage": "2CO.12.1",
+      "source_pdf_page": 1190,
+      "note": "Original 1901 marginal apparatus records an alternative opening of verse 12:1; original facsimile and unchanged source notes remain authoritative for exact wording.",
+      "main_text_status": "PRESENT_IN_PRINT_WITH_VARIANT_NOTE"
+    }
+  ],
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "93f375fd718c6c15c1686c6e912c86029e60f06aabe444f75025caebf6bf1dd2",
+  "comparison_usfm_sha256": "3cfec0a5274b38bc51deb20c349b0ff9b1e91246f9e712156f319c68d8bb97aa"
+}

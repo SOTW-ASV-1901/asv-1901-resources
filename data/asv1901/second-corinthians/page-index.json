@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CO",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1182,
+      "type": "scripture",
+      "printed_page": 188,
+      "first_verse": "2CO.1.1",
+      "last_verse": "2CO.1.21",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1183,
+      "type": "scripture",
+      "printed_page": 189,
+      "first_verse": "2CO.1.21",
+      "last_verse": "2CO.3.8",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1184,
+      "type": "scripture",
+      "printed_page": 190,
+      "first_verse": "2CO.3.9",
+      "last_verse": "2CO.4.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1185,
+      "type": "scripture",
+      "printed_page": 191,
+      "first_verse": "2CO.4.18",
+      "last_verse": "2CO.6.7",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1186,
+      "type": "scripture",
+      "printed_page": 192,
+      "first_verse": "2CO.6.7",
+      "last_verse": "2CO.7.15",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 5
+    },
+    {
+      "source_pdf_page": 1187,
+      "type": "scripture",
+      "printed_page": 193,
+      "first_verse": "2CO.7.15",
+      "last_verse": "2CO.9.5",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 6
+    },
+    {
+      "source_pdf_page": 1188,
+      "type": "scripture",
+      "printed_page": 194,
+      "first_verse": "2CO.9.5",
+      "last_verse": "2CO.10.15",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 7
+    },
+    {
+      "source_pdf_page": 1189,
+      "type": "scripture",
+      "printed_page": 195,
+      "first_verse": "2CO.10.15",
+      "last_verse": "2CO.11.26",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 8
+    },
+    {
+      "source_pdf_page": 1190,
+      "type": "scripture",
+      "printed_page": 196,
+      "first_verse": "2CO.11.26",
+      "last_verse": "2CO.12.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 9
+    },
+    {
+      "source_pdf_page": 1191,
+      "type": "scripture",
+      "printed_page": 197,
+      "first_verse": "2CO.12.19",
+      "last_verse": "2CO.13.14",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "volume_pdf_page": 10
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-second-corinthians-pages-1182-1191.pdf",
+      "first_source_pdf_page": 1182,
+      "last_source_pdf_page": 1191,
+      "bytes": 1188733,
+      "sha256": "a2a8634e1cbf1819969e96cc3e5b2d6624c369424ac4d592c0e1af93158155c6"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

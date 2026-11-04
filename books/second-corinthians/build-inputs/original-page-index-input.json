@@ -1,0 +1,64 @@
+{
+  "source_pdf_page_range": [
+    1182,
+    1191
+  ],
+  "original_maps": [],
+  "interleaves": [],
+  "printed_scripture_pages": [
+    188,
+    197
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1182,
+      "first_verse": "2CO.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1183,
+      "first_verse": "2CO.1.21",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1184,
+      "first_verse": "2CO.3.9",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1185,
+      "first_verse": "2CO.4.18",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1186,
+      "first_verse": "2CO.6.7",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1187,
+      "first_verse": "2CO.7.15",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1188,
+      "first_verse": "2CO.9.5",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1189,
+      "first_verse": "2CO.10.15",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1190,
+      "first_verse": "2CO.11.26",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1191,
+      "first_verse": "2CO.12.19",
+      "continues_previous_scripture_page": false
+    }
+  ]
+}

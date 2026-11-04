@@ -1,0 +1,30 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "2CO",
+  "difference_count": 1,
+  "typographical_or_orthographic_count": 1,
+  "different_words_or_hyphenation_count": 0,
+  "differences": [
+    {
+      "verse_id": "2CO.1.16",
+      "primary_usx": "and by you to pass into Macedonia, and again from Macedonia to come unto you, and of you to be set forward on my journey unto Judaea.",
+      "comparison_usfm": "and by you to pass into Macedonia, and again from Macedonia to come unto you, and of you to be set forward on my journey unto Judæa.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See print-resolutions.json; unchanged upstream witnesses retained."
+    }
+  ],
+  "print_backed_decisions": [
+    {
+      "verse": "2CO.1.16",
+      "source_phrase": "Judaea.",
+      "replace_with": "Judæa.",
+      "print_page": 1182,
+      "reason": "The original 1901 printing on PDF page 1182 uses the æ ligature in Judæa, as does the comparison witness; original USX text is unchanged and retained."
+    }
+  ],
+  "additional_print_backed_uncorrected_readings": {
+    "ACT.28.6": "Original print has came (primary USX), comparison has come.",
+    "2CO.16.5": "Original print has Epaenetus and first-fruits (primary USX), comparison has Epænetus and firstfruits."
+  },
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

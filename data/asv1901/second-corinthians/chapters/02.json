@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CO",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2CO.2.1",
+      "edition_verse_id": "ASV1901:2CO.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But I determined this for myself, that I would not come again to you with sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.2",
+      "edition_verse_id": "ASV1901:2CO.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For if I make you sorry, who then is he that maketh me glad but he that is made sorry by me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.3",
+      "edition_verse_id": "ASV1901:2CO.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I wrote this very thing, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is ",
+          "kind": "text"
+        },
+        {
+          "text": "the joy",
+          "kind": "supplied"
+        },
+        {
+          "text": " of you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.4",
+      "edition_verse_id": "ASV1901:2CO.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be made sorry, but that ye might know the love which I have more abundantly unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.5",
+      "edition_verse_id": "ASV1901:2CO.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But if any hath caused sorrow, he hath caused sorrow, not to me, but in part (that I press not too heavily) to you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.2.6",
+      "edition_verse_id": "ASV1901:2CO.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Sufficient to such a one is this punishment which was ",
+          "kind": "text"
+        },
+        {
+          "text": "inflicted",
+          "kind": "supplied"
+        },
+        {
+          "text": " by the many;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.7",
+      "edition_verse_id": "ASV1901:2CO.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "so that contrariwise ye should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his overmuch sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.8",
+      "edition_verse_id": "ASV1901:2CO.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Wherefore I beseech you to confirm ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " love toward him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.9",
+      "edition_verse_id": "ASV1901:2CO.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For to this end also did I write, that I might know the proof of you, whether ye are obedient in all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.10",
+      "edition_verse_id": "ASV1901:2CO.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But to whom ye forgive anything, I ",
+          "kind": "text"
+        },
+        {
+          "text": "forgive",
+          "kind": "supplied"
+        },
+        {
+          "text": " also: for what I also have forgiven, if I have forgiven anything, for your sakes ",
+          "kind": "text"
+        },
+        {
+          "text": "have I forgiven it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the presence of Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.11",
+      "edition_verse_id": "ASV1901:2CO.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "that no advantage may be gained over us by Satan: for we are not ignorant of his devices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.12",
+      "edition_verse_id": "ASV1901:2CO.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now when I came to Troas for the gospel of Christ, and when a door was opened unto me in the Lord,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.2.13",
+      "edition_verse_id": "ASV1901:2CO.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I had no relief for my spirit, because I found not Titus my brother: but taking my leave of them, I went forth into Macedonia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.14",
+      "edition_verse_id": "ASV1901:2CO.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But thanks be unto God, who always leadeth us in triumph in Christ, and maketh manifest through us the savor of his knowledge in every place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.2.15",
+      "edition_verse_id": "ASV1901:2CO.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For we are a sweet savor of Christ unto God, in them that are saved, and in them that perish;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.16",
+      "edition_verse_id": "ASV1901:2CO.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "to the one a savor from death unto death; to the other a savor from life unto life. And who is sufficient for these things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.2.17",
+      "edition_verse_id": "ASV1901:2CO.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For we are not as the many, corrupting the word of God: but as of sincerity, but as of God, in the sight of God, speak we in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

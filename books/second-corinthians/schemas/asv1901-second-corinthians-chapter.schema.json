@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:sotw:asv1901:second-corinthians:chapter:1.0.0",
+  "title": "SOTW ASV 1901 2 Corinthians chapter projection",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "edition_id",
+    "book_code",
+    "chapter",
+    "verses"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "edition_id": {
+      "const": "ASV1901"
+    },
+    "book_code": {
+      "const": "2CO"
+    },
+    "chapter": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 13
+    },
+    "verses": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "edition_verse_id",
+          "verse",
+          "spans",
+          "paragraph_start"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^2CO\\.[1-9][0-9]*\\.[1-9][0-9]*$"
+          },
+          "edition_verse_id": {
+            "type": "string",
+            "pattern": "^ASV1901:2CO\\.[1-9][0-9]*\\.[1-9][0-9]*$"
+          },
+          "verse": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "paragraph_start": {
+            "type": "boolean"
+          },
+          "spans": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "text",
+                "kind"
+              ],
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "kind": {
+                  "enum": [
+                    "text",
+                    "supplied"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

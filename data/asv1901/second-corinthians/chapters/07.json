@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2CO",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "2CO.7.1",
+      "edition_verse_id": "ASV1901:2CO.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Having therefore these promises, beloved, let us cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.2",
+      "edition_verse_id": "ASV1901:2CO.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Open your hearts to us: we wronged no man, we corrupted no man, we took advantage of no man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.3",
+      "edition_verse_id": "ASV1901:2CO.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I say it not to condemn ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ": for I have said before, that ye are in our hearts to die together and live together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.4",
+      "edition_verse_id": "ASV1901:2CO.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Great is my boldness of speech toward you, great is my glorying on your behalf: I am filled with comfort, I overflow with joy in all our affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.5",
+      "edition_verse_id": "ASV1901:2CO.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For even when we were come into Macedonia our flesh had no relief, but ",
+          "kind": "text"
+        },
+        {
+          "text": "we were",
+          "kind": "supplied"
+        },
+        {
+          "text": " afflicted on every side; without ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fightings, within ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " fears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.6",
+      "edition_verse_id": "ASV1901:2CO.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Nevertheless he that comforteth the lowly, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " God, comforted us by the coming of Titus;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.7",
+      "edition_verse_id": "ASV1901:2CO.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and not by his coming only, but also by the comfort wherewith he was comforted in you, while he told us your longing, your mourning, your zeal for me; so that I rejoiced yet more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.8",
+      "edition_verse_id": "ASV1901:2CO.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For though I made you sorry with my epistle, I do not regret it: though I did regret ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " (for I see that that epistle made you sorry, though but for a season),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.9",
+      "edition_verse_id": "ASV1901:2CO.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I now rejoice, not that ye were made sorry, but that ye were made sorry unto repentance; for ye were made sorry after a godly sort, that ye might suffer loss by us in nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.10",
+      "edition_verse_id": "ASV1901:2CO.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For godly sorrow worketh repentance unto salvation, ",
+          "kind": "text"
+        },
+        {
+          "text": "a repentance",
+          "kind": "supplied"
+        },
+        {
+          "text": " which bringeth no regret: but the sorrow of the world worketh death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.11",
+      "edition_verse_id": "ASV1901:2CO.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For behold, this selfsame thing, that ye were made sorry after a godly sort, what earnest care it wrought in you, yea what clearing of yourselves, yea what indignation, yea what fear, yea what longing, yea what zeal, yea what avenging! In everything ye approved yourselves to be pure in the matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.12",
+      "edition_verse_id": "ASV1901:2CO.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So although I wrote unto you, ",
+          "kind": "text"
+        },
+        {
+          "text": "I wrote",
+          "kind": "supplied"
+        },
+        {
+          "text": " not for his cause that did the wrong, nor for his cause that suffered the wrong, but that your earnest care for us might be made manifest unto you in the sight of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.13",
+      "edition_verse_id": "ASV1901:2CO.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore we have been comforted: and in our comfort we joyed the more exceedingly for the joy of Titus, because his spirit hath been refreshed by you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.14",
+      "edition_verse_id": "ASV1901:2CO.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For if in anything I have gloried to him on your behalf, I was not put to shame; but as we spake all things to you in truth, so our glorying also which I made before Titus was found to be truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.15",
+      "edition_verse_id": "ASV1901:2CO.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And his affection is more abundantly toward you, while he remembereth the obedience of you all, how with fear and trembling ye received him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.16",
+      "edition_verse_id": "ASV1901:2CO.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I rejoice that in everything I am of good courage concerning you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
