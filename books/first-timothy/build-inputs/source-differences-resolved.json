@@ -1,0 +1,26 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "1TI",
+  "difference_count": 1,
+  "typographical_or_orthographic_count": 1,
+  "different_words_or_hyphenation_count": 0,
+  "differences": [
+    {
+      "verse_id": "1TI.1.20",
+      "primary_usx": "of whom is Hymenaeus and Alexander; whom I delivered unto Satan, that they might be taught not to blaspheme.",
+      "comparison_usfm": "of whom is Hymenæus and Alexander; whom I delivered unto Satan, that they might be taught not to blaspheme.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "Typography resolved where supported by print; uncertain hyphenation retained as original USX with explicit ambiguity notice. Upstream witnesses unchanged."
+    }
+  ],
+  "print_backed_decisions": [
+    {
+      "verse": "1TI.1.20",
+      "source_phrase": "Hymenaeus",
+      "replace_with": "Hymenæus",
+      "reason": "Original printed 1901 page 1218 visibly uses the historical ligature in the name; alternate digital witness agrees."
+    }
+  ],
+  "additional_print_backed_uncorrected_readings": {},
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

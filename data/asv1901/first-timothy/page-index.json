@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1TI",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1218,
+      "type": "scripture",
+      "printed_page": 224,
+      "first_verse": "1TI.1.1",
+      "last_verse": "1TI.2.1",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-timothy-pages-1218-1222.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1219,
+      "type": "scripture",
+      "printed_page": 225,
+      "first_verse": "1TI.2.1",
+      "last_verse": "1TI.4.1",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-timothy-pages-1218-1222.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1220,
+      "type": "scripture",
+      "printed_page": 226,
+      "first_verse": "1TI.4.1",
+      "last_verse": "1TI.5.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-timothy-pages-1218-1222.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1221,
+      "type": "scripture",
+      "printed_page": 227,
+      "first_verse": "1TI.5.18",
+      "last_verse": "1TI.6.19",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-timothy-pages-1218-1222.pdf",
+      "volume_pdf_page": 4
+    },
+    {
+      "source_pdf_page": 1222,
+      "type": "scripture",
+      "printed_page": 228,
+      "first_verse": "1TI.6.20",
+      "last_verse": "1TI.6.21",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-timothy-pages-1218-1222.pdf",
+      "volume_pdf_page": 5
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-first-timothy-pages-1218-1222.pdf",
+      "first_source_pdf_page": 1218,
+      "last_source_pdf_page": 1222,
+      "bytes": 498272,
+      "sha256": "4d4d346314a9997a3064f16858ecfe48cefca3eb576a62163381762adfd5322f"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

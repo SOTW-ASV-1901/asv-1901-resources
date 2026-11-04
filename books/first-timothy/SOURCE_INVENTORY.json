@@ -1,0 +1,40 @@
+{
+  "edition": "ASV1901",
+  "book_code": "1TI",
+  "original_print_pdf": {
+    "filename": "Bible_(1901_American_Standard_Version).pdf",
+    "sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "pdf_pages": 1310,
+    "included_in_release": false,
+    "source_url": "https://archive.org/details/holybible00newy",
+    "source_pdf_page_range": [
+      1218,
+      1222
+    ],
+    "printed_scripture_page_range": [
+      224,
+      228
+    ]
+  },
+  "upstream_archives": {
+    "primary_english_usx_archive": {
+      "filename": "American-Standard-Version-Bible-master.zip",
+      "sha256": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247"
+    },
+    "comparison_usfm_archive": {
+      "filename": "eng-asv_usfm.zip",
+      "sha256": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+    }
+  },
+  "source_subfiles": {
+    "primary_usx": "books/first-timothy/sources/asv1901-english-only/54-1TI.usx",
+    "comparison_usfm": "books/first-timothy/sources/comparison-only/84-1TIeng-asv.usfm"
+  },
+  "source_subfile_hashes": {
+    "primary_usx": "6fc5a7cffb636fcaaa62b9bd0536048734f328ec74aa4d88e6d2c13c50232844",
+    "comparison_usfm": "20f393390a9dbae0e1c60b836bc20965f1dc541c0201956e3659429afcd13602"
+  },
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "rights_note": "1901 ASV Bible text public domain in United States; check other territorial rules before redistribution."
+}

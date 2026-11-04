@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1TI",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1TI.1.1",
+      "edition_verse_id": "ASV1901:1TI.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, an apostle of Christ Jesus according to the commandment of God our Saviour, and Christ Jesus our hope;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.1.2",
+      "edition_verse_id": "ASV1901:1TI.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "unto Timothy, my true child in faith: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.3",
+      "edition_verse_id": "ASV1901:1TI.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As I exhorted thee to tarry at Ephesus, when I was going into Macedonia, that thou mightest charge certain men not to teach a different doctrine,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.4",
+      "edition_verse_id": "ASV1901:1TI.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "neither to give heed to fables and endless genealogies, which minister questionings, rather than a dispensation of God which is in faith; ",
+          "kind": "text"
+        },
+        {
+          "text": "so do I now",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.1.5",
+      "edition_verse_id": "ASV1901:1TI.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But the end of the charge is love out of a pure heart and a good conscience and faith unfeigned:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.6",
+      "edition_verse_id": "ASV1901:1TI.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "from which things some having swerved have turned aside unto vain talking;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.7",
+      "edition_verse_id": "ASV1901:1TI.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "desiring to be teachers of the law, though they understand neither what they say, nor whereof they confidently affirm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.8",
+      "edition_verse_id": "ASV1901:1TI.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But we know that the law is good, if a man use it lawfully,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.9",
+      "edition_verse_id": "ASV1901:1TI.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "as knowing this, that law is not made for a righteous man, but for the lawless and unruly, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.10",
+      "edition_verse_id": "ASV1901:1TI.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "for fornicators, for abusers of themselves with men, for menstealers, for liars, for false swearers, and if there be any other thing contrary to the sound doctrine;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.11",
+      "edition_verse_id": "ASV1901:1TI.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "according to the gospel of the glory of the blessed God, which was committed to my trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.12",
+      "edition_verse_id": "ASV1901:1TI.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I thank him that enabled me, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Christ Jesus our Lord, for that he counted me faithful, appointing me to ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " service;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.1.13",
+      "edition_verse_id": "ASV1901:1TI.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "though I was before a blasphemer, and a persecutor, and injurious: howbeit I obtained mercy, because I did it ignorantly in unbelief;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.14",
+      "edition_verse_id": "ASV1901:1TI.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and the grace of our Lord abounded exceedingly with faith and love which is in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.15",
+      "edition_verse_id": "ASV1901:1TI.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.16",
+      "edition_verse_id": "ASV1901:1TI.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "howbeit for this cause I obtained mercy, that in me as chief might Jesus Christ show forth all his longsuffering, for an ensample of them that should thereafter believe on him unto eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.17",
+      "edition_verse_id": "ASV1901:1TI.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now unto the King eternal, immortal, invisible, the only God, ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " honor and glory for ever and ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.18",
+      "edition_verse_id": "ASV1901:1TI.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "This charge I commit unto thee, my child Timothy, according to the prophecies which led the way to thee, that by them thou mayest war the good warfare;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.1.19",
+      "edition_verse_id": "ASV1901:1TI.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "holding faith and a good conscience; which some having thrust from them made shipwreck concerning the faith:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.1.20",
+      "edition_verse_id": "ASV1901:1TI.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "of whom is Hymenæus and Alexander; whom I delivered unto Satan, that they might be taught not to blaspheme.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

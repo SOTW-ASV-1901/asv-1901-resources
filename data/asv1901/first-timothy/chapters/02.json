@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1TI",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1TI.2.1",
+      "edition_verse_id": "ASV1901:1TI.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I exhort therefore, first of all, that supplications, prayers, intercessions, thanksgivings, be made for all men;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.2.2",
+      "edition_verse_id": "ASV1901:1TI.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "for kings and all that are in high place; that we may lead a tranquil and quiet life in all godliness and gravity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.3",
+      "edition_verse_id": "ASV1901:1TI.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This is good and acceptable in the sight of God our Saviour;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.4",
+      "edition_verse_id": "ASV1901:1TI.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "who would have all men to be saved, and come to the knowledge of the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.5",
+      "edition_verse_id": "ASV1901:1TI.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For there is one God, one mediator also between God and men, ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " man, Christ Jesus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.6",
+      "edition_verse_id": "ASV1901:1TI.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "who gave himself a ransom for all; the testimony ",
+          "kind": "text"
+        },
+        {
+          "text": "to be borne",
+          "kind": "supplied"
+        },
+        {
+          "text": " in its own times;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.7",
+      "edition_verse_id": "ASV1901:1TI.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "whereunto I was appointed a preacher and an apostle (I speak the truth, I lie not), a teacher of the Gentiles in faith and truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.8",
+      "edition_verse_id": "ASV1901:1TI.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I desire therefore that the men pray in every place, lifting up holy hands, without wrath and disputing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.2.9",
+      "edition_verse_id": "ASV1901:1TI.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "In like manner, that women adorn themselves in modest apparel, with shamefastness and sobriety; not with braided hair, and gold or pearls or costly raiment;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.10",
+      "edition_verse_id": "ASV1901:1TI.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but (which becometh women professing godliness) through good works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.11",
+      "edition_verse_id": "ASV1901:1TI.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let a woman learn in quietness with all subjection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.12",
+      "edition_verse_id": "ASV1901:1TI.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But I permit not a woman to teach, nor to have dominion over a man, but to be in quietness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.13",
+      "edition_verse_id": "ASV1901:1TI.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For Adam was first formed, then Eve;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.14",
+      "edition_verse_id": "ASV1901:1TI.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and Adam was not beguiled, but the woman being beguiled hath fallen into transgression:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.15",
+      "edition_verse_id": "ASV1901:1TI.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "but she shall be saved through her child-bearing, if they continue in faith and love and sanctification with sobriety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

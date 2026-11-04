@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1TI",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "1TI.4.1",
+      "edition_verse_id": "ASV1901:1TI.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But the Spirit saith expressly, that in later times some shall fall away from the faith, giving heed to seducing spirits and doctrines of demons,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.4.2",
+      "edition_verse_id": "ASV1901:1TI.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "through the hypocrisy of men that speak lies, branded in their own conscience as with a hot iron;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.3",
+      "edition_verse_id": "ASV1901:1TI.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "forbidding to marry, ",
+          "kind": "text"
+        },
+        {
+          "text": "and commanding",
+          "kind": "supplied"
+        },
+        {
+          "text": " to abstain from meats, which God created to be received with thanksgiving by them that believe and know the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.4",
+      "edition_verse_id": "ASV1901:1TI.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For every creature of God is good, and nothing is to be rejected, if it be received with thanksgiving:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.5",
+      "edition_verse_id": "ASV1901:1TI.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "for it is sanctified through the word of God and prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.6",
+      "edition_verse_id": "ASV1901:1TI.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If thou put the brethren in mind of these things, thou shalt be a good minister of Christ Jesus, nourished in the words of the faith, and of the good doctrine which thou hast followed ",
+          "kind": "text"
+        },
+        {
+          "text": "until now",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.4.7",
+      "edition_verse_id": "ASV1901:1TI.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "but refuse profane and old wives’ fables. And exercise thyself unto godliness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.8",
+      "edition_verse_id": "ASV1901:1TI.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "for bodily exercise is profitable for a little; but godliness is profitable for all things, having promise of the life which now is, and of that which is to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.9",
+      "edition_verse_id": "ASV1901:1TI.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Faithful is the saying, and worthy of all acceptation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.10",
+      "edition_verse_id": "ASV1901:1TI.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For to this end we labor and strive, because we have our hope set on the living God, who is the Saviour of all men, specially of them that believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.11",
+      "edition_verse_id": "ASV1901:1TI.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "These things command and teach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.12",
+      "edition_verse_id": "ASV1901:1TI.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let no man despise thy youth; but be thou an ensample to them that believe, in word, in manner of life, in love, in faith, in purity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.13",
+      "edition_verse_id": "ASV1901:1TI.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Till I come, give heed to reading, to exhortation, to teaching.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.14",
+      "edition_verse_id": "ASV1901:1TI.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.15",
+      "edition_verse_id": "ASV1901:1TI.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Be diligent in these things; give thyself wholly to them; that thy progress may be manifest unto all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.4.16",
+      "edition_verse_id": "ASV1901:1TI.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Take heed to thyself, and to thy teaching. Continue in these things; for in doing this thou shalt save both thyself and them that hear thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
