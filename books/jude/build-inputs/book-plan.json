@@ -1,0 +1,80 @@
+{
+  "code": "JUD",
+  "slug": "jude",
+  "name": "Jude",
+  "order": 65,
+  "predecessor": "3JN",
+  "successor": "REV",
+  "usx": "65-JUD.usx",
+  "usfm": "95-JUDeng-asv.usfm",
+  "chapter_counts": [
+    25
+  ],
+  "first_pdf": 1259,
+  "last_pdf": 1260,
+  "first_print": 265,
+  "scripture": [
+    [
+      1259,
+      1,
+      1,
+      0
+    ],
+    [
+      1260,
+      1,
+      17,
+      0
+    ]
+  ],
+  "note_verse": [
+    1,
+    22
+  ],
+  "note_text": "At Jude 22–23 the historical 1901 printed margin explicitly notes that the Greek text is somewhat uncertain. The original main-text rendering remains intact, with the manuscript caveat kept separately.",
+  "other_apparatus": [
+    {
+      "passage": "JUD.1.1",
+      "source_pdf_page": 1259,
+      "note": "The original margin records “Gr. Judas,” “Gr. bondservant,” and “Or, Jacob.” These remain source-specific name and rendering notes, not changed Scripture text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTES"
+    },
+    {
+      "passage": "JUD.1.9",
+      "source_pdf_page": 1259,
+      "note": "The original 1901 printing preserves the account of Michael the archangel disputing over the body of Moses. Historical marginal notes remain in the scanned page.",
+      "main_text_status": "PRESENT_IN_ORIGINAL_MAIN_TEXT"
+    },
+    {
+      "passage": "JUD.1.22",
+      "source_pdf_page": 1260,
+      "note": "Printed margin: “The Gr. text in this passage [And . . . fire] is somewhat uncertain.” Other possible readings are noted in print. Do not suppress this uncertainty or substitute a different modern reading.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_UNCERTAINTY"
+    },
+    {
+      "passage": "JUD.1.25",
+      "source_pdf_page": 1260,
+      "note": "The historical conclusion and doxology are retained; the printed margin includes translation and Greek-form notes.",
+      "main_text_status": "PRESENT_IN_ORIGINAL_MAIN_TEXT"
+    }
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1259,
+      1260
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "512e2a8e878bb14039e85f9c3138d3cf3f978ebac52a5d41e23d9ec6ae4b0547",
+  "comparison_usfm_sha256": "92fff7ecf171ff1b58e5acac1b312dd7ff24aa885eeb902145230c4cca287d4b"
+}

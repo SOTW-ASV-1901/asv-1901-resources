@@ -1,0 +1,40 @@
+{
+  "edition": "ASV1901",
+  "book_code": "JUD",
+  "original_print_pdf": {
+    "filename": "Bible_(1901_American_Standard_Version).pdf",
+    "sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "pdf_pages": 1310,
+    "included_in_release": false,
+    "source_url": "https://archive.org/details/holybible00newy",
+    "source_pdf_page_range": [
+      1259,
+      1260
+    ],
+    "printed_scripture_page_range": [
+      265,
+      266
+    ]
+  },
+  "upstream_archives": {
+    "primary_english_usx_archive": {
+      "filename": "American-Standard-Version-Bible-master.zip",
+      "sha256": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247"
+    },
+    "comparison_usfm_archive": {
+      "filename": "eng-asv_usfm.zip",
+      "sha256": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+    }
+  },
+  "source_subfiles": {
+    "primary_usx": "books/jude/sources/asv1901-english-only/65-JUD.usx",
+    "comparison_usfm": "books/jude/sources/comparison-only/95-JUDeng-asv.usfm"
+  },
+  "source_subfile_hashes": {
+    "primary_usx": "512e2a8e878bb14039e85f9c3138d3cf3f978ebac52a5d41e23d9ec6ae4b0547",
+    "comparison_usfm": "92fff7ecf171ff1b58e5acac1b312dd7ff24aa885eeb902145230c4cca287d4b"
+  },
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "rights_note": "1901 ASV Bible text public domain in United States; check other territorial rules before redistribution."
+}

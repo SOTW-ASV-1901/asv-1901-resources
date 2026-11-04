@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JUD",
+  "apparatus": [
+    {
+      "passage": "JUD.1.1",
+      "source_pdf_page": 1259,
+      "note": "The original margin records “Gr. Judas,” “Gr. bondservant,” and “Or, Jacob.” These remain source-specific name and rendering notes, not changed Scripture text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTES"
+    },
+    {
+      "passage": "JUD.1.9",
+      "source_pdf_page": 1259,
+      "note": "The original 1901 printing preserves the account of Michael the archangel disputing over the body of Moses. Historical marginal notes remain in the scanned page.",
+      "main_text_status": "PRESENT_IN_ORIGINAL_MAIN_TEXT"
+    },
+    {
+      "passage": "JUD.1.22",
+      "source_pdf_page": 1260,
+      "note": "Printed margin: “The Gr. text in this passage [And . . . fire] is somewhat uncertain.” Other possible readings are noted in print. Do not suppress this uncertainty or substitute a different modern reading.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_UNCERTAINTY"
+    },
+    {
+      "passage": "JUD.1.25",
+      "source_pdf_page": 1260,
+      "note": "The historical conclusion and doxology are retained; the printed margin includes translation and Greek-form notes.",
+      "main_text_status": "PRESENT_IN_ORIGINAL_MAIN_TEXT"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

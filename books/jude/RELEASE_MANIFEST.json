@@ -1,0 +1,41 @@
+{
+  "status": "STRUCTURALLY_BUILT_FROM_DECLARED_SOURCE",
+  "edition": "ASV1901",
+  "book": "JUD",
+  "chapter_count": 1,
+  "verse_count": 25,
+  "source_hashes": {
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "primary_usx": "512e2a8e878bb14039e85f9c3138d3cf3f978ebac52a5d41e23d9ec6ae4b0547",
+    "comparison_usfm": "92fff7ecf171ff1b58e5acac1b312dd7ff24aa885eeb902145230c4cca287d4b"
+  },
+  "files": {
+    "books/jude/DATA_CONTRACT.md": "cb938ad2becab7512d4039dbc7392bef8ba56261733d927672051179886ef2f2",
+    "books/jude/INDEPENDENT_AUDIT.json": "d280fc61b3d0e8a6f51e30bc4dad143f256b44b22eea7d9fef7554e711824860",
+    "books/jude/INSTALLATION_NOTES.md": "d93d6145ffa2b586aeac6e85a6cd0f0ca2450085a0d41fee85737c21759246f8",
+    "books/jude/README.md": "a7b0eabf65ae6cc61462e60eb4af9fed6dfb9a95300b3c15fd4d307326c6f242",
+    "books/jude/SOURCE_INVENTORY.json": "53ec2dd2257b48362227d316f9f296b0459c247e3d402abbafa44c19ce106521",
+    "books/jude/UPLOAD_PACKAGE_AUDIT.md": "d931b3a1ca00034fd3a2a17445c3bf90f0e94595a97642f340415c3af0fd00e9",
+    "books/jude/VALIDATION_REPORT.json": "7d809638959b52c73157bc15b477053ad9269cfaee1354d3b5254688392738b9",
+    "books/jude/VALIDATION_REPORT.md": "6b5a271fbba87f816b284b40bc21d6c069fcccfa8e732e133f636db38eb0e580",
+    "books/jude/build-inputs/book-plan.json": "5fec912124ff037875dd0c401b178363d7455103f76c90ac79721e21b06fb144",
+    "books/jude/build-inputs/chapter-counts.json": "1498ac286d3c215c6d0274a07c603bc1949d4abb877d8d4beeacd495f63ec6a1",
+    "books/jude/build-inputs/original-page-index-input.json": "85f65dfc0bb167e0629dc999400bb5330aed107662ac043022a877aef80f6221",
+    "books/jude/build-inputs/source-differences-resolved.json": "b8b668f45c2c1b148ac1434053622bbfeb3ce0f9222ee8abd8e4b6471f072e4a",
+    "books/jude/index.html": "220ca18124ab053f3760c6e182d1da2e7bd946aae9ec3590cd7719cb0b88269e",
+    "books/jude/schemas/asv1901-jude-chapter.schema.json": "c957d7a9d49f4ac854b723a143c4d2ec4cb8a89bf8f26ace0687d309d80e669c",
+    "books/jude/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/jude/scripts/build_jude.py": "01beec1ef6323c5ec096288e08826f90853a6bc49e387d61a20b5bef3963e370",
+    "books/jude/scripts/validate_release.py": "214e9f670ce22938b02e490822d1d3637e5dc251e344c5c4f97c184b900c0612",
+    "books/jude/site/index.html": "f64ec31fbad612a87d9b88d4384ed35ab2b645c3fd4bbe1a9f5800a4f722ad6b",
+    "books/jude/sources/asv1901-english-only/65-JUD.usx": "512e2a8e878bb14039e85f9c3138d3cf3f978ebac52a5d41e23d9ec6ae4b0547",
+    "books/jude/sources/comparison-only/95-JUDeng-asv.usfm": "92fff7ecf171ff1b58e5acac1b312dd7ff24aa885eeb902145230c4cca287d4b",
+    "data/asv1901/catalog-jude.json": "2374708fc2b7a5afbfc7324d03b66cacf72987759fc41283967e693c6bbc0b29",
+    "data/asv1901/jude/chapter-checks.json": "b8cf8b0f25f529cb3840e429412e5b2960864e62bf59606df82bd0296ec141af",
+    "data/asv1901/jude/chapters/01.json": "8edab7c87a3d04340f49dab6ddaf22b03b619e3bdb37d733bba9d88d9b0e40bb",
+    "data/asv1901/jude/facsimile/asv1901-jude-pages-1259-1260.pdf": "15cf8964f592d01a8088d9ac6c9902f78d4caaecef2438ebe1fe43de55454471",
+    "data/asv1901/jude/page-index.json": "e831110199469ad90e46e2e3e8cfe3104c8c4709055e0205353f14995d1cb6f7",
+    "data/asv1901/jude/textual-apparatus.json": "bb81edaad7e2e09e568a74a84d4542d1d3a4cceb1faa3b039dd39d1794d935de",
+    "data/asv1901/jude/verse-omissions.json": "f5dc62fc5f91608a2635fea185b9171702db57262824683f4567904fb5dbaa19"
+  }
+}
