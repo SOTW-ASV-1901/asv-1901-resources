@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SOTW original-source page-to-Scripture boundaries",
+  "type": "object",
+  "required": [
+    "pages"
+  ],
+  "properties": {
+    "pages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": [
+          "source_pdf_page",
+          "type"
+        ],
+        "properties": {
+          "source_pdf_page": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "printed_page": {
+            "type": [
+              "integer",
+              "string",
+              "null"
+            ]
+          },
+          "type": {
+            "enum": [
+              "scripture",
+              "map",
+              "front_matter",
+              "interleaf",
+              "other_historical"
+            ]
+          },
+          "first_verse": {
+            "type": "string"
+          },
+          "last_verse": {
+            "type": "string"
+          },
+          "volume": {
+            "type": "string"
+          },
+          "volume_pdf_page": {
+            "type": "integer",
+            "minimum": 1
+          }
+        }
+      }
+    }
+  }
+}

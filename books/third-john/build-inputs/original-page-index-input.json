@@ -1,0 +1,19 @@
+{
+  "source_pdf_page_range": [
+    1258,
+    1258
+  ],
+  "original_maps": [],
+  "interleaves": [],
+  "printed_scripture_pages": [
+    264,
+    264
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1258,
+      "first_verse": "3JN.1.1",
+      "continues_previous_scripture_page": false
+    }
+  ]
+}

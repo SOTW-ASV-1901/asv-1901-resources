@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "3JN",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1258,
+      "type": "scripture",
+      "printed_page": 264,
+      "first_verse": "3JN.1.1",
+      "last_verse": "3JN.1.14",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-third-john-pages-1258-1258.pdf",
+      "volume_pdf_page": 1
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-third-john-pages-1258-1258.pdf",
+      "first_source_pdf_page": 1258,
+      "last_source_pdf_page": 1258,
+      "bytes": 64616,
+      "sha256": "6329e5c0f36e323aba47037b27836d95c305a50c177b9b7d02faf630eb3dedca"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

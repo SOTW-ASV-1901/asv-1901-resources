@@ -1,0 +1,41 @@
+{
+  "status": "STRUCTURALLY_BUILT_FROM_DECLARED_SOURCE",
+  "edition": "ASV1901",
+  "book": "3JN",
+  "chapter_count": 1,
+  "verse_count": 14,
+  "source_hashes": {
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "primary_usx": "e59fdf9d60141db405fbc26d59f6e140f6a607f5b6aedee4c5a34821fdb8b0f1",
+    "comparison_usfm": "06d9751d22a958a63504674f25694a4da9511ea35d79784351f063e0cd5c5ec2"
+  },
+  "files": {
+    "books/third-john/DATA_CONTRACT.md": "c093d1dcf265a2b28075646c9ff5fb8210dce3a7ec65e090c096ce8f940f937e",
+    "books/third-john/INDEPENDENT_AUDIT.json": "bf321a66e6c0ce56a0fb91b9c37b85c9877df09ad6ef218c695ae47581c539a6",
+    "books/third-john/INSTALLATION_NOTES.md": "b8df876ec2df78bfaa70eea8365512c6b9a3c291fdeb3a0c9c3223deefab80e1",
+    "books/third-john/README.md": "a9f731025bb4a83845eee46aa90244254a30a2908f97b42af422f979eece0b88",
+    "books/third-john/SOURCE_INVENTORY.json": "5927b6089415687fe49259169848cc4590b752f39706decc7a2b16ee19fea6da",
+    "books/third-john/UPLOAD_PACKAGE_AUDIT.md": "f1a50fc58c90dfd95dcfbe1c8dedbdb0b823b75e27104e79f8aecfb03a7da479",
+    "books/third-john/VALIDATION_REPORT.json": "40aa03b9578bc3bb478dd834c23b4c24def208f377b06f2df6cf180c092d9b6e",
+    "books/third-john/VALIDATION_REPORT.md": "0d3f6899d07c65ba196738d65218507fd512c29e99397f7b8492123fba3f1fc9",
+    "books/third-john/build-inputs/book-plan.json": "b93008fcb8d96fcdd636c066fb9c419218533677bff18465f166445124475c0f",
+    "books/third-john/build-inputs/chapter-counts.json": "83f459870cfb22110e1753ca60e4236df05f1b3c64419ab0bee880eef570f6e0",
+    "books/third-john/build-inputs/original-page-index-input.json": "d469caf31c9f7c2f8aa5d3d316d8b307552092fbb827df620e25bf74476bfb17",
+    "books/third-john/build-inputs/source-differences-resolved.json": "0c64c9775e1fbe202b05ec923044593ead09e90916a37d29614105aaa0d6a58d",
+    "books/third-john/index.html": "987430245b4a858c30f5506549c0aaa25f2c8c60fb1406ff439ae850cb2e6b29",
+    "books/third-john/schemas/asv1901-third-john-chapter.schema.json": "5bef4e46753e5969f361559fa96200ef76d721f7eea555f798eb8fba120ae181",
+    "books/third-john/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/third-john/scripts/build_third-john.py": "8cd8bd2f0a75f344ba3ca4626c91cfe5f67bbfed8eda84c604ca40949a90fefa",
+    "books/third-john/scripts/validate_release.py": "214e9f670ce22938b02e490822d1d3637e5dc251e344c5c4f97c184b900c0612",
+    "books/third-john/site/index.html": "34f2d05cf8d0bff18c2e5b3216eb134157aed16fa2dcb76fdb0b204404564c4c",
+    "books/third-john/sources/asv1901-english-only/64-3JN.usx": "e59fdf9d60141db405fbc26d59f6e140f6a607f5b6aedee4c5a34821fdb8b0f1",
+    "books/third-john/sources/comparison-only/94-3JNeng-asv.usfm": "06d9751d22a958a63504674f25694a4da9511ea35d79784351f063e0cd5c5ec2",
+    "data/asv1901/catalog-third-john.json": "4bcd04a26f92ca92537d383f0d056711d6a349f6b8898ed6933c13cdd70e6f8d",
+    "data/asv1901/third-john/chapter-checks.json": "522e3af201450d5c17374e0fa79f44089fa2066797f6848f8ebecad57c5acc8e",
+    "data/asv1901/third-john/chapters/01.json": "8cfe6f7e88a9750edc5a50843201cfb16fe8e54f0a963d7c03b38c2e204290ef",
+    "data/asv1901/third-john/facsimile/asv1901-third-john-pages-1258-1258.pdf": "6329e5c0f36e323aba47037b27836d95c305a50c177b9b7d02faf630eb3dedca",
+    "data/asv1901/third-john/page-index.json": "78130eafeeb7478e66569cfb67c73c7d9a90eec02a3958621ddee2b13f8ecec3",
+    "data/asv1901/third-john/textual-apparatus.json": "3fccaa21e49cc2828aa1cfc781a4044991918d1d7938690eb615b007c9d91b39",
+    "data/asv1901/third-john/verse-omissions.json": "70e443a88b29a688fd7d6855ea7315c0b4bcb281dcf1e1df34d999747f480429"
+  }
+}

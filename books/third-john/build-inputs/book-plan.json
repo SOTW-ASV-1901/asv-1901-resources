@@ -1,0 +1,68 @@
+{
+  "code": "3JN",
+  "slug": "third-john",
+  "name": "3 John",
+  "order": 64,
+  "predecessor": "2JN",
+  "successor": "JUD",
+  "usx": "64-3JN.usx",
+  "usfm": "94-3JNeng-asv.usfm",
+  "chapter_counts": [
+    14
+  ],
+  "first_pdf": 1258,
+  "last_pdf": 1258,
+  "first_print": 264,
+  "scripture": [
+    [
+      1258,
+      1,
+      1,
+      0
+    ]
+  ],
+  "note_verse": [
+    1,
+    8
+  ],
+  "note_text": "3 John 1:8 retains the original printed wording. The marginal “Or, with” is a translation alternative, not replacement Scripture text.",
+  "other_apparatus": [
+    {
+      "passage": "3JN.1.3",
+      "source_pdf_page": 1258,
+      "note": "The original print margin records “Or, rejoice greatly, when brethren come and bear witness.” The original main text is retained.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "3JN.1.4",
+      "source_pdf_page": 1258,
+      "note": "The original margin offers “Or, these things, that I may hear.” Preserve as a source translation note, not the running text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "3JN.1.8",
+      "source_pdf_page": 1258,
+      "note": "The original source marginal note offers “Or, with” for the surrounding phrase. The running text is preserved without blending alternatives.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    }
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1258,
+      1258
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "e59fdf9d60141db405fbc26d59f6e140f6a607f5b6aedee4c5a34821fdb8b0f1",
+  "comparison_usfm_sha256": "06d9751d22a958a63504674f25694a4da9511ea35d79784351f063e0cd5c5ec2"
+}
