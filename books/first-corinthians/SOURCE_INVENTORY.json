@@ -1,0 +1,40 @@
+{
+  "edition": "ASV1901",
+  "book_code": "1CO",
+  "original_print_pdf": {
+    "filename": "Bible_(1901_American_Standard_Version).pdf",
+    "sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "pdf_pages": 1310,
+    "included_in_release": false,
+    "source_url": "https://archive.org/details/holybible00newy",
+    "source_pdf_page_range": [
+      1167,
+      1181
+    ],
+    "printed_scripture_page_range": [
+      173,
+      187
+    ]
+  },
+  "upstream_archives": {
+    "primary_english_usx_archive": {
+      "filename": "American-Standard-Version-Bible-master.zip",
+      "sha256": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247"
+    },
+    "comparison_usfm_archive": {
+      "filename": "eng-asv_usfm.zip",
+      "sha256": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+    }
+  },
+  "source_subfiles": {
+    "primary_usx": "books/first-corinthians/sources/asv1901-english-only/46-1CO.usx",
+    "comparison_usfm": "books/first-corinthians/sources/comparison-only/76-1COeng-asv.usfm"
+  },
+  "source_subfile_hashes": {
+    "primary_usx": "ff15522f11d5e3d3bb9119655a38a627b12550873eb5a9f475a869589b0fefba",
+    "comparison_usfm": "d8229aad5b9356455843f8b03646cfafe24cbf8785c3d0ff3a2398253c42e69f"
+  },
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "strongs_alignment": "NOT_IMPORTED_UNVERIFIED",
+  "rights_note": "1901 ASV Bible text public domain in United States; check other territorial rules before redistribution."
+}

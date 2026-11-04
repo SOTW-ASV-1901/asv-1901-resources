@@ -1,0 +1,161 @@
+{
+  "code": "1CO",
+  "slug": "first-corinthians",
+  "name": "1 Corinthians",
+  "order": 46,
+  "predecessor": "ROM",
+  "successor": "2CO",
+  "usx": "46-1CO.usx",
+  "usfm": "76-1COeng-asv.usfm",
+  "chapter_counts": [
+    31,
+    16,
+    23,
+    21,
+    13,
+    20,
+    40,
+    13,
+    27,
+    33,
+    34,
+    31,
+    13,
+    40,
+    58,
+    24
+  ],
+  "first_pdf": 1167,
+  "last_pdf": 1181,
+  "first_print": 173,
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1167,
+      1181
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "scripture": [
+    [
+      1167,
+      1,
+      1,
+      0
+    ],
+    [
+      1168,
+      1,
+      23,
+      1
+    ],
+    [
+      1169,
+      3,
+      4,
+      1
+    ],
+    [
+      1170,
+      4,
+      11,
+      1
+    ],
+    [
+      1171,
+      6,
+      7,
+      1
+    ],
+    [
+      1172,
+      7,
+      17,
+      1
+    ],
+    [
+      1173,
+      8,
+      6,
+      1
+    ],
+    [
+      1174,
+      9,
+      22,
+      1
+    ],
+    [
+      1175,
+      10,
+      27,
+      1
+    ],
+    [
+      1176,
+      11,
+      28,
+      0
+    ],
+    [
+      1177,
+      12,
+      28,
+      1
+    ],
+    [
+      1178,
+      14,
+      16,
+      1
+    ],
+    [
+      1179,
+      15,
+      9,
+      1
+    ],
+    [
+      1180,
+      15,
+      44,
+      0
+    ],
+    [
+      1181,
+      16,
+      18,
+      1
+    ]
+  ],
+  "source_decisions": [],
+  "other_apparatus": [
+    {
+      "passage": "1CO.11.24",
+      "source_pdf_page": 1175,
+      "note": "The original 1901 printed marginal note records that many ancient authorities read “is broken for you”; the main text reads “which is for you.”",
+      "main_text_status": "PRESENT_IN_PRINT_WITH_VARIANT_NOTE"
+    },
+    {
+      "passage": "1CO.13.3",
+      "source_pdf_page": 1177,
+      "note": "The original 1901 printed marginal note records the alternative “that I may glory” at the end of the verse. Preserve the main-text wording and the original marginal note as separate evidence.",
+      "main_text_status": "PRESENT_IN_PRINT_WITH_VARIANT_NOTE"
+    },
+    {
+      "passage": "1CO.15.51",
+      "source_pdf_page": 1180,
+      "note": "Original 1901 marginal apparatus records textual variation in this verse. For exact printed variants consult the original facsimile and unchanged USX note.",
+      "main_text_status": "PRESENT_IN_PRINT_WITH_VARIANT_NOTE"
+    }
+  ],
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "ff15522f11d5e3d3bb9119655a38a627b12550873eb5a9f475a869589b0fefba",
+  "comparison_usfm_sha256": "d8229aad5b9356455843f8b03646cfafe24cbf8785c3d0ff3a2398253c42e69f"
+}

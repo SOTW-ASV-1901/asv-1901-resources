@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "1CO.3.1",
+      "edition_verse_id": "ASV1901:1CO.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, as unto babes in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.3.2",
+      "edition_verse_id": "ASV1901:1CO.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I fed you with milk, not with meat; for ye were not yet able ",
+          "kind": "text"
+        },
+        {
+          "text": "to bear it",
+          "kind": "supplied"
+        },
+        {
+          "text": ": nay, not even now are ye able;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.3",
+      "edition_verse_id": "ASV1901:1CO.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "for ye are yet carnal: for whereas there is among you jealousy and strife, are ye not carnal, and do ye not walk after the manner of men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.4",
+      "edition_verse_id": "ASV1901:1CO.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For when one saith, I am of Paul; and another, I am of Apollos; are ye not men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.5",
+      "edition_verse_id": "ASV1901:1CO.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "What then is Apollos? and what is Paul? Ministers through whom ye believed; and each as the Lord gave to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.6",
+      "edition_verse_id": "ASV1901:1CO.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I planted, Apollos watered; but God gave the increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.7",
+      "edition_verse_id": "ASV1901:1CO.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So then neither is he that planteth anything, neither he that watereth; but God that giveth the increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.8",
+      "edition_verse_id": "ASV1901:1CO.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now he that planteth and he that watereth are one: but each shall receive his own reward according to his own labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.9",
+      "edition_verse_id": "ASV1901:1CO.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For we are God’s fellow-workers: ye are God’s husbandry, God’s building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.10",
+      "edition_verse_id": "ASV1901:1CO.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "According to the grace of God which was given unto me, as a wise masterbuilder I laid a foundation; and another buildeth thereon. But let each man take heed how he buildeth thereon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.3.11",
+      "edition_verse_id": "ASV1901:1CO.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For other foundation can no man lay than that which is laid, which is Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.12",
+      "edition_verse_id": "ASV1901:1CO.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But if any man buildeth on the foundation gold, silver, costly stones, wood, hay, stubble;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.13",
+      "edition_verse_id": "ASV1901:1CO.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "each man’s work shall be made manifest: for the day shall declare it, because it is revealed in fire; and the fire itself shall prove each man’s work of what sort it is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.14",
+      "edition_verse_id": "ASV1901:1CO.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If any man’s work shall abide which he built thereon, he shall receive a reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.15",
+      "edition_verse_id": "ASV1901:1CO.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as through fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.16",
+      "edition_verse_id": "ASV1901:1CO.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Know ye not that ye are a temple of God, and ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the Spirit of God dwelleth in you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.3.17",
+      "edition_verse_id": "ASV1901:1CO.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If any man destroyeth the temple of God, him shall God destroy; for the temple of God is holy, and such are ye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.18",
+      "edition_verse_id": "ASV1901:1CO.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Let no man deceive himself. If any man thinketh that he is wise among you in this world, let him become a fool, that he may become wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.3.19",
+      "edition_verse_id": "ASV1901:1CO.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For the wisdom of this world is foolishness with God. For it is written, He that taketh the wise in their craftiness:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.20",
+      "edition_verse_id": "ASV1901:1CO.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and again, The Lord knoweth the reasonings of the wise, that they are vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.21",
+      "edition_verse_id": "ASV1901:1CO.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Wherefore let no one glory in men. For all things are yours;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.22",
+      "edition_verse_id": "ASV1901:1CO.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.3.23",
+      "edition_verse_id": "ASV1901:1CO.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and ye are Christ’s; and Christ is God’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

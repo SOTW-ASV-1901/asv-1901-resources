@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "1CO.12.1",
+      "edition_verse_id": "ASV1901:1CO.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now concerning spiritual ",
+          "kind": "text"
+        },
+        {
+          "text": "gifts",
+          "kind": "supplied"
+        },
+        {
+          "text": ", brethren, I would not have you ignorant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.2",
+      "edition_verse_id": "ASV1901:1CO.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Ye know that when ye were Gentiles ",
+          "kind": "text"
+        },
+        {
+          "text": "ye were",
+          "kind": "supplied"
+        },
+        {
+          "text": " led away unto those dumb idols, howsoever ye might be led.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.3",
+      "edition_verse_id": "ASV1901:1CO.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Wherefore I make known unto you, that no man speaking in the Spirit of God saith, Jesus is anathema; and no man can say, Jesus is Lord, but in the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.4",
+      "edition_verse_id": "ASV1901:1CO.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now there are diversities of gifts, but the same Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.5",
+      "edition_verse_id": "ASV1901:1CO.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And there are diversities of ministrations, and the same Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.6",
+      "edition_verse_id": "ASV1901:1CO.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And there are diversities of workings, but the same God, who worketh all things in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.7",
+      "edition_verse_id": "ASV1901:1CO.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But to each one is given the manifestation of the Spirit to profit withal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.8",
+      "edition_verse_id": "ASV1901:1CO.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For to one is given through the Spirit the word of wisdom; and to another the word of knowledge, according to the same Spirit:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.9",
+      "edition_verse_id": "ASV1901:1CO.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "to another faith, in the same Spirit; and to another gifts of healings, in the one Spirit;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.10",
+      "edition_verse_id": "ASV1901:1CO.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and to another workings of miracles; and to another prophecy; and to another discernings of spirits: to another ",
+          "kind": "text"
+        },
+        {
+          "text": "divers",
+          "kind": "supplied"
+        },
+        {
+          "text": " kinds of tongues; and to another the interpretation of tongues:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.11",
+      "edition_verse_id": "ASV1901:1CO.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "but all these worketh the one and the same Spirit, dividing to each one severally even as he will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.12",
+      "edition_verse_id": "ASV1901:1CO.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For as the body is one, and hath many members, and all the members of the body, being many, are one body; so also is Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.13",
+      "edition_verse_id": "ASV1901:1CO.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For in one Spirit were we all baptized into one body, whether Jews or Greeks, whether bond or free; and were all made to drink of one Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.14",
+      "edition_verse_id": "ASV1901:1CO.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the body is not one member, but many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.15",
+      "edition_verse_id": "ASV1901:1CO.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If the foot shall say, Because I am not the hand, I am not of the body; it is not therefore not of the body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.16",
+      "edition_verse_id": "ASV1901:1CO.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And if the ear shall say, Because I am not the eye, I am not of the body; it is not therefore not of the body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.17",
+      "edition_verse_id": "ASV1901:1CO.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.18",
+      "edition_verse_id": "ASV1901:1CO.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But now hath God set the members each one of them in the body, even as it pleased him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.19",
+      "edition_verse_id": "ASV1901:1CO.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And if they were all one member, where were the body?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.20",
+      "edition_verse_id": "ASV1901:1CO.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But now they are many members, but one body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.21",
+      "edition_verse_id": "ASV1901:1CO.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the eye cannot say to the hand, I have no need of thee: or again the head to the feet, I have no need of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.22",
+      "edition_verse_id": "ASV1901:1CO.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Nay, much rather, those members of the body which seem to be more feeble are necessary:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.23",
+      "edition_verse_id": "ASV1901:1CO.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and those ",
+          "kind": "text"
+        },
+        {
+          "text": "parts",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the body, which we think to be less honorable, upon these we bestow more abundant honor; and our uncomely ",
+          "kind": "text"
+        },
+        {
+          "text": "parts",
+          "kind": "supplied"
+        },
+        {
+          "text": " have more abundant comeliness;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.24",
+      "edition_verse_id": "ASV1901:1CO.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "whereas our comely ",
+          "kind": "text"
+        },
+        {
+          "text": "parts",
+          "kind": "supplied"
+        },
+        {
+          "text": " have no need: but God tempered the body together, giving more abundant honor to that ",
+          "kind": "text"
+        },
+        {
+          "text": "part",
+          "kind": "supplied"
+        },
+        {
+          "text": " which lacked;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.25",
+      "edition_verse_id": "ASV1901:1CO.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "that there should be no schism in the body; but ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " the members should have the same care one for another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.26",
+      "edition_verse_id": "ASV1901:1CO.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And whether one member suffereth, all the members suffer with it; or ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": " member is honored, all the members rejoice with it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.27",
+      "edition_verse_id": "ASV1901:1CO.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Now ye are the body of Christ, and severally members thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.28",
+      "edition_verse_id": "ASV1901:1CO.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And God hath set some in the church, first apostles, secondly prophets, thirdly teachers, then miracles, then gifts of healings, helps, governments, ",
+          "kind": "text"
+        },
+        {
+          "text": "divers",
+          "kind": "supplied"
+        },
+        {
+          "text": " kinds of tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.29",
+      "edition_verse_id": "ASV1901:1CO.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Are all apostles? are all prophets? are all teachers? are all ",
+          "kind": "text"
+        },
+        {
+          "text": "workers of",
+          "kind": "supplied"
+        },
+        {
+          "text": " miracles?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.30",
+      "edition_verse_id": "ASV1901:1CO.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "have all gifts of healings? do all speak with tongues? do all interpret?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.31",
+      "edition_verse_id": "ASV1901:1CO.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But desire earnestly the greater gifts. And moreover a most excellent way show I unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

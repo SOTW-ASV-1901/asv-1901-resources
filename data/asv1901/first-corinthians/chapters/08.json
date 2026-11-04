@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "1CO.8.1",
+      "edition_verse_id": "ASV1901:1CO.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffeth up, but love edifieth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.2",
+      "edition_verse_id": "ASV1901:1CO.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If any man thinketh that he knoweth anything, he knoweth not yet as he ought to know;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.8.3",
+      "edition_verse_id": "ASV1901:1CO.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "but if any man loveth God, the same is known by him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.4",
+      "edition_verse_id": "ASV1901:1CO.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Concerning therefore the eating of things sacrificed to idols, we know that no idol is ",
+          "kind": "text"
+        },
+        {
+          "text": "anything",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the world, and that there is no God but one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.5",
+      "edition_verse_id": "ASV1901:1CO.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For though there be that are called gods, whether in heaven or on earth; as there are gods many, and lords many;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.6",
+      "edition_verse_id": "ASV1901:1CO.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "yet to us there is one God, the Father, of whom are all things, and we unto him; and one Lord, Jesus Christ, through whom are all things, and we through him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.7",
+      "edition_verse_id": "ASV1901:1CO.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Howbeit there is not in all men that knowledge: but some, being used until now to the idol, eat as ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " a thing sacrificed to an idol; and their conscience being weak is defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.8",
+      "edition_verse_id": "ASV1901:1CO.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But food will not commend us to God: neither, if we eat not, are we the worse; nor, if we eat, are we the better.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.9",
+      "edition_verse_id": "ASV1901:1CO.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But take heed lest by any means this liberty of yours become a stumblingblock to the weak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.10",
+      "edition_verse_id": "ASV1901:1CO.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For if a man see thee who hast knowledge sitting at meat in an idol’s temple, will not his conscience, if he is weak, be emboldened to eat things sacrificed to idols?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.11",
+      "edition_verse_id": "ASV1901:1CO.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For through thy knowledge he that is weak perisheth, the brother for whose sake Christ died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.12",
+      "edition_verse_id": "ASV1901:1CO.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And thus, sinning against the brethren, and wounding their conscience when it is weak, ye sin against Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.13",
+      "edition_verse_id": "ASV1901:1CO.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Wherefore, if meat causeth my brother to stumble, I will eat no flesh for evermore, that I cause not my brother to stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

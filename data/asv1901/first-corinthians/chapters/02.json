@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1CO.2.1",
+      "edition_verse_id": "ASV1901:1CO.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And I, brethren, when I came unto you, came not with excellency of speech or of wisdom, proclaiming to you the testimony of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.2.2",
+      "edition_verse_id": "ASV1901:1CO.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For I determined not to know anything among you, save Jesus Christ, and him crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.3",
+      "edition_verse_id": "ASV1901:1CO.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I was with you in weakness, and in fear, and in much trembling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.4",
+      "edition_verse_id": "ASV1901:1CO.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And my speech and my preaching were not in persuasive words of wisdom, but in demonstration of the Spirit and of power:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.5",
+      "edition_verse_id": "ASV1901:1CO.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "that your faith should not stand in the wisdom of men, but in the power of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.6",
+      "edition_verse_id": "ASV1901:1CO.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We speak wisdom, however, among them that are fullgrown: yet a wisdom not of this world, nor of the rulers of this world, who are coming to nought:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.2.7",
+      "edition_verse_id": "ASV1901:1CO.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "but we speak God’s wisdom in a mystery, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " the ",
+          "kind": "text"
+        },
+        {
+          "text": "wisdom",
+          "kind": "supplied"
+        },
+        {
+          "text": " that hath been hidden, which God foreordained before the worlds unto our glory:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.8",
+      "edition_verse_id": "ASV1901:1CO.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "which none of the rulers of this world hath known: for had they known it, they would not have crucified the Lord of glory:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.9",
+      "edition_verse_id": "ASV1901:1CO.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "but as it is written,Things which eye saw not, and ear heard not,\nAnd ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " entered not into the heart of man,\nWhatsoever things God prepared for them that love him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.10",
+      "edition_verse_id": "ASV1901:1CO.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But unto us God revealed ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": " through the Spirit: for the Spirit searcheth all things, yea, the deep things of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.2.11",
+      "edition_verse_id": "ASV1901:1CO.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For who among men knoweth the things of a man, save the spirit of the man, which is in him? even so the things of God none knoweth, save the Spirit of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.12",
+      "edition_verse_id": "ASV1901:1CO.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But we received, not the spirit of the world, but the spirit which is from God; that we might know the things that were freely given to us of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.13",
+      "edition_verse_id": "ASV1901:1CO.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Which things also we speak, not in words which man’s wisdom teacheth, but which the Spirit teacheth; combining spiritual things with spiritual ",
+          "kind": "text"
+        },
+        {
+          "text": "words",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.14",
+      "edition_verse_id": "ASV1901:1CO.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him; and he cannot know them, because they are spiritually judged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.15",
+      "edition_verse_id": "ASV1901:1CO.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But he that is spiritual judgeth all things, and he himself is judged of no man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.2.16",
+      "edition_verse_id": "ASV1901:1CO.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For who hath known the mind of the Lord, that he should instruct him? But we have the mind of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

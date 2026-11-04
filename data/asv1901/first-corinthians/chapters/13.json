@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "1CO.13.1",
+      "edition_verse_id": "ASV1901:1CO.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If I speak with the tongues of men and of angels, but have not love, I am become sounding brass, or a clanging cymbal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.13.2",
+      "edition_verse_id": "ASV1901:1CO.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And if I have ",
+          "kind": "text"
+        },
+        {
+          "text": "the gift of",
+          "kind": "supplied"
+        },
+        {
+          "text": " prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but have not love, I am nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.3",
+      "edition_verse_id": "ASV1901:1CO.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And if I bestow all my goods to feed ",
+          "kind": "text"
+        },
+        {
+          "text": "the poor",
+          "kind": "supplied"
+        },
+        {
+          "text": ", and if I give my body to be burned, but have not love, it profiteth me nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.4",
+      "edition_verse_id": "ASV1901:1CO.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Love suffereth long, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " is kind; love envieth not; love vaunteth not itself, is not puffed up,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.5",
+      "edition_verse_id": "ASV1901:1CO.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "doth not behave itself unseemly, seeketh not its own, is not provoked, taketh not account of evil;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.6",
+      "edition_verse_id": "ASV1901:1CO.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "rejoiceth not in unrighteousness, but rejoiceth with the truth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.7",
+      "edition_verse_id": "ASV1901:1CO.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "beareth all things, believeth all things, hopeth all things, endureth all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.8",
+      "edition_verse_id": "ASV1901:1CO.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Love never faileth: but whether ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " prophecies, they shall be done away; whether ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " tongues, they shall cease; whether ",
+          "kind": "text"
+        },
+        {
+          "text": "there be",
+          "kind": "supplied"
+        },
+        {
+          "text": " knowledge, it shall be done away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.9",
+      "edition_verse_id": "ASV1901:1CO.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For we know in part, and we prophesy in part;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.10",
+      "edition_verse_id": "ASV1901:1CO.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but when that which is perfect is come, that which is in part shall be done away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.11",
+      "edition_verse_id": "ASV1901:1CO.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When I was a child, I spake as a child, I felt as a child, I thought as a child: now that I am become a man, I have put away childish things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.12",
+      "edition_verse_id": "ASV1901:1CO.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For now we see in a mirror, darkly; but then face to face: now I know in part; but then shall I know fully even as also I was fully known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.13",
+      "edition_verse_id": "ASV1901:1CO.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But now abideth faith, hope, love, these three; and the greatest of these is love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

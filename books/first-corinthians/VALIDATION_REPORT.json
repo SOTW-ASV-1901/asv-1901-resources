@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "book_order": 46,
+  "chapters": 16,
+  "main_text_verse_count": 437,
+  "traditional_verse_positions": 437,
+  "omitted_verse_ids": [],
+  "source_witness_typographical_or_orthographic_differences": 0,
+  "source_witness_wording_or_hyphenation_differences": 0,
+  "source_witness_differences_resolved_against_original_print": true,
+  "translator_supplied_italic_spans": 86,
+  "italic_spans_vs_comparison": "PASS_86_OF_86",
+  "primary_usx_note_elements": 191,
+  "historical_source_pdf_page_range": [
+    1167,
+    1181
+  ],
+  "historical_map_pages": 0,
+  "original_interleaf_pages_retained": 0,
+  "scripture_pages": 15,
+  "physical_pages": 15,
+  "page_spanning_main_text_verses": 12,
+  "page_index_coverage": "PASS_ALL_437_MAIN_TEXT_VERSES",
+  "facsimile_volumes": 1,
+  "original_source_sha256": "MATCHED_PINNED_MATTHEW_PROVERBS_SOURCE",
+  "original_print_character_by_character_proofreading": "NOT_PERFORMED",
+  "hosted_browser_interaction": "NOT_PERFORMED",
+  "source_witness_independence": "NOT_ESTABLISHED",
+  "lexical_strongs_alignment": "NOT_IMPORTED_UNVERIFIED"
+}

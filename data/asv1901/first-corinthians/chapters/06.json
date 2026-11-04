@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "1CO.6.1",
+      "edition_verse_id": "ASV1901:1CO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.2",
+      "edition_verse_id": "ASV1901:1CO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Or know ye not that the saints shall judge the world? and if the world is judged by you, are ye unworthy to judge the smallest matters?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.3",
+      "edition_verse_id": "ASV1901:1CO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Know ye not that we shall judge angels? how much more, things that pertain to this life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.4",
+      "edition_verse_id": "ASV1901:1CO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If then ye have to judge things pertaining to this life, do ye set them to judge who are of no account in the church?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.5",
+      "edition_verse_id": "ASV1901:1CO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I say ",
+          "kind": "text"
+        },
+        {
+          "text": "this",
+          "kind": "supplied"
+        },
+        {
+          "text": " to move you to shame. What, cannot there be ",
+          "kind": "text"
+        },
+        {
+          "text": "found",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you one wise man who shall be able to decide between his brethren,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.6",
+      "edition_verse_id": "ASV1901:1CO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "but brother goeth to law with brother, and that before unbelievers?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.7",
+      "edition_verse_id": "ASV1901:1CO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Nay, already it is altogether a defect in you, that ye have lawsuits one with another. Why not rather take wrong? why not rather be defrauded?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.8",
+      "edition_verse_id": "ASV1901:1CO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Nay, but ye yourselves do wrong, and defraud, and that ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " brethren.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.9",
+      "edition_verse_id": "ASV1901:1CO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Or know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.10",
+      "edition_verse_id": "ASV1901:1CO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.11",
+      "edition_verse_id": "ASV1901:1CO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And such were some of you: but ye were washed, but ye were sanctified, but ye were justified in the name of the Lord Jesus Christ, and in the Spirit of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.12",
+      "edition_verse_id": "ASV1901:1CO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "All things are lawful for me; but not all things are expedient. All things are lawful for me; but I will not be brought under the power of any.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.13",
+      "edition_verse_id": "ASV1901:1CO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Meats for the belly, and the belly for meats: but God shall bring to nought both it and them. But the body is not for fornication, but for the Lord; and the Lord for the body:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.14",
+      "edition_verse_id": "ASV1901:1CO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and God both raised the Lord, and will raise up us through his power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.15",
+      "edition_verse_id": "ASV1901:1CO.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Know ye not that your bodies are members of Christ? shall I then take away the members of Christ, and make them members of a harlot? God forbid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.16",
+      "edition_verse_id": "ASV1901:1CO.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Or know ye not that he that is joined to a harlot is one body? for, The twain, saith he, shall become one flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.17",
+      "edition_verse_id": "ASV1901:1CO.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But he that is joined unto the Lord is one spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.18",
+      "edition_verse_id": "ASV1901:1CO.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.19",
+      "edition_verse_id": "ASV1901:1CO.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Or know ye not that your body is a temple of the Holy Spirit which is in you, which ye have from God? and ye are not your own;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.20",
+      "edition_verse_id": "ASV1901:1CO.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "for ye were bought with a price: glorify God therefore in your body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "1CO",
+  "difference_count": 0,
+  "typographical_or_orthographic_count": 0,
+  "different_words_or_hyphenation_count": 0,
+  "differences": [],
+  "print_backed_decisions": [],
+  "additional_print_backed_uncorrected_readings": {
+    "ACT.28.6": "Original print has came (primary USX), comparison has come.",
+    "1CO.16.5": "Original print has Epaenetus and first-fruits (primary USX), comparison has Epænetus and firstfruits."
+  },
+  "source_witness_independence": "NOT_ESTABLISHED"
+}
