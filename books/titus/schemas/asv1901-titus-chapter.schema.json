@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:sotw:asv1901:titus:chapter:1.0.0",
+  "title": "SOTW ASV 1901 Titus chapter projection",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "edition_id",
+    "book_code",
+    "chapter",
+    "verses"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "edition_id": {
+      "const": "ASV1901"
+    },
+    "book_code": {
+      "const": "TIT"
+    },
+    "chapter": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 3
+    },
+    "verses": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "edition_verse_id",
+          "verse",
+          "spans",
+          "paragraph_start"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^TIT\\.[1-9][0-9]*\\.[1-9][0-9]*$"
+          },
+          "edition_verse_id": {
+            "type": "string",
+            "pattern": "^ASV1901:TIT\\.[1-9][0-9]*\\.[1-9][0-9]*$"
+          },
+          "verse": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "paragraph_start": {
+            "type": "boolean"
+          },
+          "spans": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "text",
+                "kind"
+              ],
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "kind": {
+                  "enum": [
+                    "text",
+                    "supplied"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

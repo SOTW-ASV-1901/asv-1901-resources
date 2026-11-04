@@ -1,0 +1,43 @@
+{
+  "status": "STRUCTURALLY_BUILT_FROM_DECLARED_SOURCE",
+  "edition": "ASV1901",
+  "book": "TIT",
+  "chapter_count": 3,
+  "verse_count": 46,
+  "source_hashes": {
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "primary_usx": "4a3d9100a6d3ed22ea571ffe34a1b31614b846d7212b32abc956af42b0b87a53",
+    "comparison_usfm": "abcd89708592a7f4700c14f98caad6776a1d29f9c24acdb438c1acb9a01a0c6a"
+  },
+  "files": {
+    "books/titus/DATA_CONTRACT.md": "8d6d2e35fcc5cfcee0b7c38773f78659d48db30073852bb1d9029f8d3528cac7",
+    "books/titus/INDEPENDENT_AUDIT.json": "8a4ef40ec1cd9f64bcb274f696f1de7eec33837e2e5e6095fff297893c447d85",
+    "books/titus/INSTALLATION_NOTES.md": "d591a11be41eed9a759e8cc2b6ef639b7b018242e9f9e2c40b1c254cd45fcdf3",
+    "books/titus/README.md": "09f30dd21c8110a1b1918a14a8498226915d23ecf7e8755251018684bf5008f3",
+    "books/titus/SOURCE_INVENTORY.json": "1da53d205a113e7abc6f831462c5829ca0b0d6282e6b5f9beeb2ac68f587e2a1",
+    "books/titus/UPLOAD_PACKAGE_AUDIT.md": "508bf8d513b2edb7c53c45e5aa1f4e6a38004fb8ea726fec6cd28fb6f9e207a1",
+    "books/titus/VALIDATION_REPORT.json": "419eeb2aff02fa78b019790be3e80b7eb84267cbfd7f37c45eb8bf6257893eaf",
+    "books/titus/VALIDATION_REPORT.md": "f30eb34d0940088610fb5114f3216c7bb9733c2cc6f557d9ad2db909023f8d40",
+    "books/titus/build-inputs/book-plan.json": "92982c8934314c183650ba598bb427ffdf1687c69e79231e2d646b896ff1b965",
+    "books/titus/build-inputs/chapter-counts.json": "75beddc0c606e0932405265a1d38417568567c585e668716586b5016ceeba5ba",
+    "books/titus/build-inputs/original-page-index-input.json": "8a616be6072594f473e032bd7c4205b3965a2e7411ba226eec8ba65155ee5625",
+    "books/titus/build-inputs/source-differences-resolved.json": "f40c865843d98b2430bb82d116f176eae2f3cd8099c0141db0dd9e747decbda8",
+    "books/titus/index.html": "5c565c1962b83cb534770878f8c2a15bffdcea4a25d4ac9662b0dd2ce499b6c1",
+    "books/titus/schemas/asv1901-titus-chapter.schema.json": "37736df48d25f8ffb5af4848b9b14be54fba13dec5b17ef7d44eee79b20a32f8",
+    "books/titus/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/titus/scripts/build_titus.py": "053f754970644bcdefa18cde93c00366cb31403079faecf9bb493e81cbae63e6",
+    "books/titus/scripts/validate_release.py": "818ee27fd93acfd41e6b5f52a1c08b84eafc09d75bdd185a5530dd3e0813a24d",
+    "books/titus/site/index.html": "b36966a6c808556e5445d1b1a6845c0140b11625570c4a1e59fd1f4315cc52e8",
+    "books/titus/sources/asv1901-english-only/56-TIT.usx": "4a3d9100a6d3ed22ea571ffe34a1b31614b846d7212b32abc956af42b0b87a53",
+    "books/titus/sources/comparison-only/86-TITeng-asv.usfm": "abcd89708592a7f4700c14f98caad6776a1d29f9c24acdb438c1acb9a01a0c6a",
+    "data/asv1901/catalog-titus.json": "50579e2e1103b03d252e6eb56ebb94eefe31ba81cf4e99ec2b78059dc08ba115",
+    "data/asv1901/titus/chapter-checks.json": "c68b749d56eeb264319b4b99f07f796bad76db937696cf368aa688a4e90b7eb2",
+    "data/asv1901/titus/chapters/01.json": "fc9f46d6993cfc0637d9ac768d60200a6c134bb76cde66be3be1c312e7936cac",
+    "data/asv1901/titus/chapters/02.json": "b54efa28d528d0574a82a4fc19b17eea8e8fd68f31f6497cd4f0acdbef100d55",
+    "data/asv1901/titus/chapters/03.json": "c991c9b5b2a15a92c18f40473fb6944a1bfcb12a23962fa9823a2dbf45101beb",
+    "data/asv1901/titus/facsimile/asv1901-titus-pages-1226-1227.pdf": "d610d304a482f4270c50a83d77c0316216ade0364580fd9725a65d04c6f65ca1",
+    "data/asv1901/titus/page-index.json": "93e18539f416d363006e4841f013d458170bb89f3a9221cc58ca88929a08d453",
+    "data/asv1901/titus/textual-apparatus.json": "12866c947a4414bf5164de373cfd329a1244c86cd8ef31b56dba301efa7ed189",
+    "data/asv1901/titus/verse-omissions.json": "9f81191b59403e94ea256d83f48f0ebe8dd08f5c090fe62c22cf9a9c83ee79a4"
+  }
+}

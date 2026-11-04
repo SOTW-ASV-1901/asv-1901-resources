@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "TIT",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "TIT.2.1",
+      "edition_verse_id": "ASV1901:TIT.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But speak thou the things which befit the sound doctrine:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "TIT.2.2",
+      "edition_verse_id": "ASV1901:TIT.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that aged men be temperate, grave, sober-minded, sound in faith, in love, in patience:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.3",
+      "edition_verse_id": "ASV1901:TIT.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "that aged women likewise be reverent in demeanor, not slanderers nor enslaved to much wine, teachers of that which is good;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.4",
+      "edition_verse_id": "ASV1901:TIT.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "that they may train the young women to love their husbands, to love their children,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.5",
+      "edition_verse_id": "ASV1901:TIT.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " sober-minded, chaste, workers at home, kind, being in subjection to their own husbands, that the word of God be not blasphemed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.6",
+      "edition_verse_id": "ASV1901:TIT.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "the younger men likewise exhort to be sober-minded:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.7",
+      "edition_verse_id": "ASV1901:TIT.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "in all things showing thyself an ensample of good works; in thy doctrine ",
+          "kind": "text"
+        },
+        {
+          "text": "showing",
+          "kind": "supplied"
+        },
+        {
+          "text": " uncorruptness, gravity,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.8",
+      "edition_verse_id": "ASV1901:TIT.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.9",
+      "edition_verse_id": "ASV1901:TIT.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Exhort",
+          "kind": "supplied"
+        },
+        {
+          "text": " servants to be in subjection to their own masters, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " to be well-pleasing ",
+          "kind": "text"
+        },
+        {
+          "text": "to them",
+          "kind": "supplied"
+        },
+        {
+          "text": " in all things; not gainsaying;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.10",
+      "edition_verse_id": "ASV1901:TIT.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "not purloining, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.11",
+      "edition_verse_id": "ASV1901:TIT.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the grace of God hath appeared, bringing salvation to all men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.12",
+      "edition_verse_id": "ASV1901:TIT.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "instructing us, to the intent that, denying ungodliness and worldly lusts, we should live soberly and righteously and godly in this present world;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.13",
+      "edition_verse_id": "ASV1901:TIT.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "looking for the blessed hope and appearing of the glory of the great God and our Saviour Jesus Christ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.14",
+      "edition_verse_id": "ASV1901:TIT.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a people for his own possession, zealous of good works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "TIT.2.15",
+      "edition_verse_id": "ASV1901:TIT.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These things speak and exhort and reprove with all authority. Let no man despise thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

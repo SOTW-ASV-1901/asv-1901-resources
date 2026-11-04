@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "TIT",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1226,
+      "type": "scripture",
+      "printed_page": 232,
+      "first_verse": "TIT.1.1",
+      "last_verse": "TIT.2.8",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-titus-pages-1226-1227.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1227,
+      "type": "scripture",
+      "printed_page": 233,
+      "first_verse": "TIT.2.9",
+      "last_verse": "TIT.3.15",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-titus-pages-1226-1227.pdf",
+      "volume_pdf_page": 2
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-titus-pages-1226-1227.pdf",
+      "first_source_pdf_page": 1226,
+      "last_source_pdf_page": 1227,
+      "bytes": 209673,
+      "sha256": "d610d304a482f4270c50a83d77c0316216ade0364580fd9725a65d04c6f65ca1"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

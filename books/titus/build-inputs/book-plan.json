@@ -1,0 +1,76 @@
+{
+  "code": "TIT",
+  "slug": "titus",
+  "name": "Titus",
+  "order": 56,
+  "predecessor": "2TI",
+  "successor": "PHM",
+  "usx": "56-TIT.usx",
+  "usfm": "86-TITeng-asv.usfm",
+  "chapter_counts": [
+    16,
+    15,
+    15
+  ],
+  "first_pdf": 1226,
+  "last_pdf": 1227,
+  "first_print": 232,
+  "scripture": [
+    [
+      1226,
+      1,
+      1,
+      0
+    ],
+    [
+      1227,
+      2,
+      9,
+      0
+    ]
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "note_verse": [
+    2,
+    13
+  ],
+  "note_text": "At Titus 2:13 the original 1901 printed margin offers an alternative rendering beginning “of our great God and Saviour.” The translation note remains separate from the main verse text.",
+  "other_apparatus": [
+    {
+      "passage": "TIT.1.1",
+      "source_pdf_page": 1226,
+      "note": "The original ASV 1901 marginal note gives “Gr. bondservant” for “servant.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "TIT.2.13",
+      "source_pdf_page": 1227,
+      "note": "The original 1901 marginal note offers “Or, of our great God and Saviour.” The scanned page preserves full historical wording and numbering.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "TIT.3.5",
+      "source_pdf_page": 1227,
+      "note": "The original 1901 margin offers “Or, laver” as a rendering for “washing.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    }
+  ],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1226,
+      1227
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "4a3d9100a6d3ed22ea571ffe34a1b31614b846d7212b32abc956af42b0b87a53",
+  "comparison_usfm_sha256": "abcd89708592a7f4700c14f98caad6776a1d29f9c24acdb438c1acb9a01a0c6a"
+}
