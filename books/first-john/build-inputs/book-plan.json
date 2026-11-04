@@ -1,0 +1,102 @@
+{
+  "code": "1JN",
+  "slug": "first-john",
+  "name": "1 John",
+  "order": 62,
+  "predecessor": "2PE",
+  "successor": "2JN",
+  "usx": "62-1JN.usx",
+  "usfm": "92-1JNeng-asv.usfm",
+  "chapter_counts": [
+    10,
+    29,
+    24,
+    21,
+    21
+  ],
+  "first_pdf": 1253,
+  "last_pdf": 1256,
+  "first_print": 259,
+  "scripture": [
+    [
+      1253,
+      1,
+      1,
+      0
+    ],
+    [
+      1254,
+      2,
+      13,
+      1
+    ],
+    [
+      1255,
+      3,
+      9,
+      1
+    ],
+    [
+      1256,
+      4,
+      15,
+      1
+    ]
+  ],
+  "note_verse": [
+    4,
+    3
+  ],
+  "note_text": "1 John 4:3 is printed in the main text with a marginal manuscript alternative, “Some ancient authorities read annulleth Jesus.” The alternative must remain a note, not overwrite the printed verse.",
+  "other_apparatus": [
+    {
+      "passage": "1JN.1.1",
+      "source_pdf_page": 1253,
+      "note": "The original 1901 margin notes “Or, word. Compare Acts 5.20.” This is a historical translation alternative, not a replacement for “Word of life” in the printed text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "1JN.2.1",
+      "source_pdf_page": 1253,
+      "note": "The original printed margin supplies “Or, Comforter” and “Or, Helper” with Greek Paraclete in relation to advocate. The main text remains “advocate.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "1JN.4.3",
+      "source_pdf_page": 1255,
+      "note": "The 1901 margin reads “Some ancient authorities read annulleth Jesus.” The printed main-text reading is retained without replacing it with the note.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "1JN.5.7",
+      "source_pdf_page": 1256,
+      "note": "The original ASV1901 main text uses its shorter wording for witnesses in 1 John 5:7–8. Do not import extended later-tradition wording into the 1901 edition; the original printed page remains decisive.",
+      "main_text_status": "PRESENT_AS_ORIGINAL_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "1JN.5.18",
+      "source_pdf_page": 1256,
+      "note": "The original margin records “Some ancient authorities read him.” The main text remains as printed.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    }
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1253,
+      1256
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "ce8b41f7d4eda7d041e709c65346690dac4d760ad822cde2e1951331560eaa4b",
+  "comparison_usfm_sha256": "b3a769ea0d811306fffc0d09a4d61c757ba2d6117c2272980798903ff8f570c9"
+}

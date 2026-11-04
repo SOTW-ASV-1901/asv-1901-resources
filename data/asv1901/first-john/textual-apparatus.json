@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1JN",
+  "apparatus": [
+    {
+      "passage": "1JN.1.1",
+      "source_pdf_page": 1253,
+      "note": "The original 1901 margin notes “Or, word. Compare Acts 5.20.” This is a historical translation alternative, not a replacement for “Word of life” in the printed text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "1JN.2.1",
+      "source_pdf_page": 1253,
+      "note": "The original printed margin supplies “Or, Comforter” and “Or, Helper” with Greek Paraclete in relation to advocate. The main text remains “advocate.”",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "1JN.4.3",
+      "source_pdf_page": 1255,
+      "note": "The 1901 margin reads “Some ancient authorities read annulleth Jesus.” The printed main-text reading is retained without replacing it with the note.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    },
+    {
+      "passage": "1JN.5.7",
+      "source_pdf_page": 1256,
+      "note": "The original ASV1901 main text uses its shorter wording for witnesses in 1 John 5:7–8. Do not import extended later-tradition wording into the 1901 edition; the original printed page remains decisive.",
+      "main_text_status": "PRESENT_AS_ORIGINAL_1901_MAIN_TEXT"
+    },
+    {
+      "passage": "1JN.5.18",
+      "source_pdf_page": 1256,
+      "note": "The original margin records “Some ancient authorities read him.” The main text remains as printed.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

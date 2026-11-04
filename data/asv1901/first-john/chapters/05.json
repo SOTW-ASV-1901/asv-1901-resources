@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1JN",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1JN.5.1",
+      "edition_verse_id": "ASV1901:1JN.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Whosoever believeth that Jesus is the Christ is begotten of God: and whosoever loveth him that begat loveth him also that is begotten of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.2",
+      "edition_verse_id": "ASV1901:1JN.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hereby we know that we love the children of God, when we love God and do his commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.3",
+      "edition_verse_id": "ASV1901:1JN.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.4",
+      "edition_verse_id": "ASV1901:1JN.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For whatsoever is begotten of God overcometh the world: and this is the victory that hath overcome the world, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " our faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.5",
+      "edition_verse_id": "ASV1901:1JN.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And who is he that overcometh the world, but he that believeth that Jesus is the Son of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.6",
+      "edition_verse_id": "ASV1901:1JN.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This is he that came by water and blood, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jesus Christ; not with the water only, but with the water and with the blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.7",
+      "edition_verse_id": "ASV1901:1JN.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And it is the Spirit that beareth witness, because the Spirit is the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.8",
+      "edition_verse_id": "ASV1901:1JN.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For there are three who bear witness, the Spirit, and the water, and the blood: and the three agree in one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.9",
+      "edition_verse_id": "ASV1901:1JN.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If we receive the witness of men, the witness of God is greater: for the witness of God is this, that he hath borne witness concerning his Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.10",
+      "edition_verse_id": "ASV1901:1JN.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He that believeth on the Son of God hath the witness in him: he that believeth not God hath made him a liar; because he hath not believed in the witness that God hath borne concerning his Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.11",
+      "edition_verse_id": "ASV1901:1JN.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the witness is this, that God gave unto us eternal life, and this life is in his Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.12",
+      "edition_verse_id": "ASV1901:1JN.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He that hath the Son hath the life; he that hath not the Son of God hath not the life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.13",
+      "edition_verse_id": "ASV1901:1JN.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "These things have I written unto you, that ye may know that ye have eternal life, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto you that believe on the name of the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.14",
+      "edition_verse_id": "ASV1901:1JN.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And this is the boldness which we have toward him, that, if we ask anything according to his will, he heareth us:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.15",
+      "edition_verse_id": "ASV1901:1JN.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and if we know that he heareth us whatsoever we ask, we know that we have the petitions which we have asked of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.16",
+      "edition_verse_id": "ASV1901:1JN.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If any man see his brother sinning a sin not unto death, he shall ask, and ",
+          "kind": "text"
+        },
+        {
+          "text": "God",
+          "kind": "supplied"
+        },
+        {
+          "text": " will give him life for them that sin not unto death. There is a sin unto death: not concerning this do I say that he should make request.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.17",
+      "edition_verse_id": "ASV1901:1JN.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All unrighteousness is sin: and there is a sin not unto death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.18",
+      "edition_verse_id": "ASV1901:1JN.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "We know that whosoever is begotten of God sinneth not; but he that was begotten of God keepeth himself, and the evil one toucheth him not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.19",
+      "edition_verse_id": "ASV1901:1JN.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "We know that we are of God, and the whole world lieth in the evil one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.20",
+      "edition_verse_id": "ASV1901:1JN.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And we know that the Son of God is come, and hath given us an understanding, that we know him that is true, and we are in him that is true, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " in his Son Jesus Christ. This is the true God, and eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.21",
+      "edition_verse_id": "ASV1901:1JN.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "My",
+          "kind": "supplied"
+        },
+        {
+          "text": " little children, guard yourselves from idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

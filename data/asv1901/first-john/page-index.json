@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "1JN",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1253,
+      "type": "scripture",
+      "printed_page": 259,
+      "first_verse": "1JN.1.1",
+      "last_verse": "1JN.2.13",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-john-pages-1253-1256.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1254,
+      "type": "scripture",
+      "printed_page": 260,
+      "first_verse": "1JN.2.13",
+      "last_verse": "1JN.3.9",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-john-pages-1253-1256.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1255,
+      "type": "scripture",
+      "printed_page": 261,
+      "first_verse": "1JN.3.9",
+      "last_verse": "1JN.4.15",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-john-pages-1253-1256.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1256,
+      "type": "scripture",
+      "printed_page": 262,
+      "first_verse": "1JN.4.15",
+      "last_verse": "1JN.5.21",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-first-john-pages-1253-1256.pdf",
+      "volume_pdf_page": 4
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-first-john-pages-1253-1256.pdf",
+      "first_source_pdf_page": 1253,
+      "last_source_pdf_page": 1256,
+      "bytes": 470423,
+      "sha256": "a89197f6bffaaefe00cc83150dd404db12100dc995a901c726c661ca2889ad51"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}
