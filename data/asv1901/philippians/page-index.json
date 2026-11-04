@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHP",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1204,
+      "type": "scripture",
+      "printed_page": 210,
+      "first_verse": "PHP.1.1",
+      "last_verse": "PHP.1.26",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-philippians-pages-1204-1207.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1205,
+      "type": "scripture",
+      "printed_page": 211,
+      "first_verse": "PHP.1.26",
+      "last_verse": "PHP.2.28",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-philippians-pages-1204-1207.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1206,
+      "type": "scripture",
+      "printed_page": 212,
+      "first_verse": "PHP.2.28",
+      "last_verse": "PHP.4.5",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-philippians-pages-1204-1207.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1207,
+      "type": "scripture",
+      "printed_page": 213,
+      "first_verse": "PHP.4.5",
+      "last_verse": "PHP.4.23",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-philippians-pages-1204-1207.pdf",
+      "volume_pdf_page": 4
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-philippians-pages-1204-1207.pdf",
+      "first_source_pdf_page": 1204,
+      "last_source_pdf_page": 1207,
+      "bytes": 435313,
+      "sha256": "f9d6d83201a1484537d0eafa5eb1aa90b92738f9f823783e5d62cfc9f64e9d84"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

@@ -1,0 +1,41 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "PHP",
+  "difference_count": 2,
+  "typographical_or_orthographic_count": 2,
+  "different_words_or_hyphenation_count": 0,
+  "differences": [
+    {
+      "verse_id": "PHP.1.13",
+      "primary_usx": "so that my bonds became manifest in Christ throughout the whole praetorian guard, and to all the rest;",
+      "comparison_usfm": "so that my bonds became manifest in Christ throughout the whole prætorian guard, and to all the rest;",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See this source-differences-resolved.json file and print-backed decisions; unchanged upstream witnesses retained."
+    },
+    {
+      "verse_id": "PHP.4.22",
+      "primary_usx": "All the saints salute you, especially they that are of Caesar’s household.",
+      "comparison_usfm": "All the saints salute you, especially they that are of Cæsar’s household.",
+      "kind": "orthography_or_case",
+      "source_locked_resolution": "See this source-differences-resolved.json file and print-backed decisions; unchanged upstream witnesses retained."
+    }
+  ],
+  "print_backed_decisions": [
+    {
+      "verse": "PHP.1.13",
+      "source_phrase": "praetorian",
+      "replace_with": "prætorian",
+      "print_page": 1204,
+      "reason": "Original 1901 print uses historical æ ligature in prætorian; primary USX retains ae. Unmodified USX remains preserved."
+    },
+    {
+      "verse": "PHP.4.22",
+      "source_phrase": "Caesar’s",
+      "replace_with": "Cæsar’s",
+      "print_page": 1207,
+      "reason": "Original 1901 print uses Cæsar’s; comparison USFM agrees. Unmodified primary USX is preserved."
+    }
+  ],
+  "additional_print_backed_uncorrected_readings": {},
+  "source_witness_independence": "NOT_ESTABLISHED"
+}

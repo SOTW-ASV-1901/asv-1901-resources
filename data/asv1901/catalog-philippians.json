@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHP",
+  "book_name": "Philippians",
+  "book_order": 50,
+  "canonical_ids": "PHP.{chapter}.{verse}",
+  "edition_ids": "ASV1901:PHP.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 104,
+  "traditional_verse_positions": 104,
+  "omitted_from_1901_main_text": [],
+  "verse_omissions_path": "philippians/verse-omissions.json",
+  "textual_apparatus_path": "philippians/textual-apparatus.json",
+  "chapter_path_template": "philippians/chapters/{chapter:02d}.json",
+  "facsimile_index": "philippians/page-index.json",
+  "predecessor_book_code": "EPH",
+  "successor_book_code": "COL",
+  "source_provenance": "books/philippians/SOURCE_INVENTORY.json",
+  "reader": "books/philippians/site/index.html",
+  "note": "Book-specific verified 1901 page and original-text indices; no unverified Strong’s alignment or global catalog modification."
+}

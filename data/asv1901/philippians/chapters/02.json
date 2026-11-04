@@ -1,0 +1,420 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHP",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "PHP.2.1",
+      "edition_verse_id": "ASV1901:PHP.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If there is therefore any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassions,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.2",
+      "edition_verse_id": "ASV1901:PHP.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "make full my joy, that ye be of the same mind, having the same love, being of one accord, of one mind;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.3",
+      "edition_verse_id": "ASV1901:PHP.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "doing",
+          "kind": "supplied"
+        },
+        {
+          "text": " nothing through faction or through vainglory, but in lowliness of mind each counting other better than himself;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.4",
+      "edition_verse_id": "ASV1901:PHP.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "not looking each of you to his own things, but each of you also to the things of others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.5",
+      "edition_verse_id": "ASV1901:PHP.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Have this mind in you, which was also in Christ Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.6",
+      "edition_verse_id": "ASV1901:PHP.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "who, existing in the form of God, counted not the being on an equality with God a thing to be grasped,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.7",
+      "edition_verse_id": "ASV1901:PHP.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "but emptied himself, taking the form of a servant, being made in the likeness of men;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.8",
+      "edition_verse_id": "ASV1901:PHP.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and being found in fashion as a man, he humbled himself, becoming obedient ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " unto death, yea, the death of the cross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.9",
+      "edition_verse_id": "ASV1901:PHP.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Wherefore also God highly exalted him, and gave unto him the name which is above every name;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.10",
+      "edition_verse_id": "ASV1901:PHP.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "that in the name of Jesus every knee should bow, of ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " in heaven and ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " on earth and ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " under the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.11",
+      "edition_verse_id": "ASV1901:PHP.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.12",
+      "edition_verse_id": "ASV1901:PHP.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So then, my beloved, even as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.13",
+      "edition_verse_id": "ASV1901:PHP.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "for it is God who worketh in you both to will and to work, for his good pleasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.14",
+      "edition_verse_id": "ASV1901:PHP.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do all things without murmurings and questionings:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.15",
+      "edition_verse_id": "ASV1901:PHP.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "that ye may become blameless and harmless, children of God without blemish in the midst of a crooked and perverse generation, among whom ye are seen as lights in the world,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.16",
+      "edition_verse_id": "ASV1901:PHP.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "holding forth the word of life; that I may have whereof to glory in the day of Christ, that I did not run in vain neither labor in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.17",
+      "edition_verse_id": "ASV1901:PHP.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Yea, and if I am offered upon the sacrifice and service of your faith, I joy, and rejoice with you all:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.18",
+      "edition_verse_id": "ASV1901:PHP.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and in the same manner do ye also joy, and rejoice with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.19",
+      "edition_verse_id": "ASV1901:PHP.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But I hope in the Lord Jesus to send Timothy shortly unto you, that I also may be of good comfort, when I know your state.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.20",
+      "edition_verse_id": "ASV1901:PHP.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For I have no man likeminded, who will care truly for your state.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.21",
+      "edition_verse_id": "ASV1901:PHP.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For they all seek their own, not the things of Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.22",
+      "edition_verse_id": "ASV1901:PHP.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But ye know the proof of him, that, as a child ",
+          "kind": "text"
+        },
+        {
+          "text": "serveth",
+          "kind": "supplied"
+        },
+        {
+          "text": " a father, ",
+          "kind": "text"
+        },
+        {
+          "text": "so",
+          "kind": "supplied"
+        },
+        {
+          "text": " he served with me in furtherance of the gospel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.23",
+      "edition_verse_id": "ASV1901:PHP.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Him therefore I hope to send forthwith, so soon as I shall see how it will go with me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.24",
+      "edition_verse_id": "ASV1901:PHP.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "but I trust in the Lord that I myself also shall come shortly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.25",
+      "edition_verse_id": "ASV1901:PHP.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But I counted it necessary to send to you Epaphroditus, my brother and fellow-worker and fellow-soldier, and your messenger and minister to my need;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.26",
+      "edition_verse_id": "ASV1901:PHP.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "since he longed after you all, and was sore troubled, because ye had heard that he was sick:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.27",
+      "edition_verse_id": "ASV1901:PHP.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "for indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, that I might not have sorrow upon sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.28",
+      "edition_verse_id": "ASV1901:PHP.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I have sent him therefore the more diligently, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.29",
+      "edition_verse_id": "ASV1901:PHP.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Receive him therefore in the Lord with all joy; and hold such in honor:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.30",
+      "edition_verse_id": "ASV1901:PHP.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "because for the work of Christ he came nigh unto death, hazarding his life to supply that which was lacking in your service toward me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

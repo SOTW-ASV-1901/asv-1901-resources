@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHP",
+  "apparatus": [
+    {
+      "passage": "PHP.1.13",
+      "source_pdf_page": 1204,
+      "note": "Original 1901 print includes the translation note “Gr. in the whole Prætorium” for the “prætorian guard” wording. This is a historical marginal translation note, not a manuscript variant.",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_TRANSLATION_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "PHP",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "PHP.3.1",
+      "edition_verse_id": "ASV1901:PHP.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not irksome, but for you it is safe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.2",
+      "edition_verse_id": "ASV1901:PHP.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Beware of the dogs, beware of the evil workers, beware of the concision:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.3.3",
+      "edition_verse_id": "ASV1901:PHP.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "for we are the circumcision, who worship by the Spirit of God, and glory in Christ Jesus, and have no confidence in the flesh:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.4",
+      "edition_verse_id": "ASV1901:PHP.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "though I myself might have confidence even in the flesh: if any other man thinketh to have confidence in the flesh, I yet more:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.5",
+      "edition_verse_id": "ASV1901:PHP.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as touching the law, a Pharisee;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.6",
+      "edition_verse_id": "ASV1901:PHP.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "as touching zeal, persecuting the church; as touching the righteousness which is in the law, found blameless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.7",
+      "edition_verse_id": "ASV1901:PHP.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Howbeit what things were gain to me, these have I counted loss for Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.8",
+      "edition_verse_id": "ASV1901:PHP.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yea verily, and I count all things to be loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I suffered the loss of all things, and do count them but refuse, that I may gain Christ,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.9",
+      "edition_verse_id": "ASV1901:PHP.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and be found in him, not having a righteousness of mine own, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " that which is of the law, but that which is through faith in Christ, the righteousness which is from God by faith:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.10",
+      "edition_verse_id": "ASV1901:PHP.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "that I may know him, and the power of his resurrection, and the fellowship of his sufferings, becoming conformed unto his death;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.11",
+      "edition_verse_id": "ASV1901:PHP.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "if by any means I may attain unto the resurrection from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.12",
+      "edition_verse_id": "ASV1901:PHP.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Not that I have already obtained, or am already made perfect: but I press on, if so be that I may lay hold on that for which also I was laid hold on by Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.13",
+      "edition_verse_id": "ASV1901:PHP.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Brethren, I count not myself yet to have laid hold: but one thing ",
+          "kind": "text"
+        },
+        {
+          "text": "I do",
+          "kind": "supplied"
+        },
+        {
+          "text": ", forgetting the things which are behind, and stretching forward to the things which are before,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.14",
+      "edition_verse_id": "ASV1901:PHP.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I press on toward the goal unto the prize of the high calling of God in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.15",
+      "edition_verse_id": "ASV1901:PHP.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let us therefore, as many as are perfect, be thus minded: and if in anything ye are otherwise minded, this also shall God reveal unto you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.16",
+      "edition_verse_id": "ASV1901:PHP.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "only, whereunto we have attained, by that same ",
+          "kind": "text"
+        },
+        {
+          "text": "rule",
+          "kind": "supplied"
+        },
+        {
+          "text": " let us walk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.17",
+      "edition_verse_id": "ASV1901:PHP.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Brethren, be ye imitators together of me, and mark them that so walk even as ye have us for an ensample.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.3.18",
+      "edition_verse_id": "ASV1901:PHP.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For many walk, of whom I told you often, and now tell you even weeping, ",
+          "kind": "text"
+        },
+        {
+          "text": "that they are",
+          "kind": "supplied"
+        },
+        {
+          "text": " the enemies of the cross of Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.19",
+      "edition_verse_id": "ASV1901:PHP.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "whose end is perdition, whose god is the belly, and ",
+          "kind": "text"
+        },
+        {
+          "text": "whose",
+          "kind": "supplied"
+        },
+        {
+          "text": " glory is in their shame, who mind earthly things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.20",
+      "edition_verse_id": "ASV1901:PHP.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For our citizenship is in heaven; whence also we wait for a Saviour, the Lord Jesus Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.3.21",
+      "edition_verse_id": "ASV1901:PHP.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "who shall fashion anew the body of our humiliation, ",
+          "kind": "text"
+        },
+        {
+          "text": "that it may be",
+          "kind": "supplied"
+        },
+        {
+          "text": " conformed to the body of his glory, according to the working whereby he is able even to subject all things unto himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
