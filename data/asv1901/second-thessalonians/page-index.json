@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TH",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1216,
+      "type": "scripture",
+      "printed_page": 222,
+      "first_verse": "2TH.1.1",
+      "last_verse": "2TH.2.9",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-thessalonians-pages-1216-1217.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1217,
+      "type": "scripture",
+      "printed_page": 223,
+      "first_verse": "2TH.2.9",
+      "last_verse": "2TH.3.18",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-second-thessalonians-pages-1216-1217.pdf",
+      "volume_pdf_page": 2
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-second-thessalonians-pages-1216-1217.pdf",
+      "first_source_pdf_page": 1216,
+      "last_source_pdf_page": 1217,
+      "bytes": 213626,
+      "sha256": "a40382b41a3351ce9d561bd687e8a734a0912654d5af2373dcd90662b0578ef5"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

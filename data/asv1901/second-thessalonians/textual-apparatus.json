@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TH",
+  "apparatus": [
+    {
+      "passage": "2TH.2.3",
+      "source_pdf_page": 1216,
+      "note": "The original 1901 printed marginal apparatus notes: “Many ancient authorities read lawlessness.”",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_MANUSCRIPT_VARIANT_NOTE"
+    },
+    {
+      "passage": "2TH.2.8",
+      "source_pdf_page": 1216,
+      "note": "The printed apparatus includes manuscript variation about the presence of “Jesus” and the rendering “consume.” The historical facsimile retains the full note.",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_MANUSCRIPT_VARIANT_NOTE"
+    }
+  ],
+  "scope_note": "Selected major original 1901 marginal notes, supplemented by all original scanned printed apparatus and byte-preserved original digital USX notes; not a modern textual-critical reconstruction."
+}

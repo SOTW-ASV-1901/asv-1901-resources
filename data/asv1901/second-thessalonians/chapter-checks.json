@@ -1,0 +1,20 @@
+{
+  "01": {
+    "chapter": 1,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 12
+  },
+  "02": {
+    "chapter": 2,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 17
+  },
+  "03": {
+    "chapter": 3,
+    "digital_witness_verse_ids_checked": true,
+    "historical_source_print_page_bounds_checked": "MANUALLY_RESEARCHED_BOUNDARIES_WITH_SCANNED_SOURCE",
+    "main_text_verse_count": 18
+  }
+}

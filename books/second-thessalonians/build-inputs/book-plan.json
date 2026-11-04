@@ -1,0 +1,70 @@
+{
+  "code": "2TH",
+  "slug": "second-thessalonians",
+  "name": "2 Thessalonians",
+  "order": 53,
+  "predecessor": "1TH",
+  "successor": "1TI",
+  "usx": "53-2TH.usx",
+  "usfm": "83-2THeng-asv.usfm",
+  "chapter_counts": [
+    12,
+    17,
+    18
+  ],
+  "first_pdf": 1216,
+  "last_pdf": 1217,
+  "first_print": 222,
+  "scripture": [
+    [
+      1216,
+      1,
+      1,
+      0
+    ],
+    [
+      1217,
+      2,
+      9,
+      1
+    ]
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "note_verse": [
+    2,
+    3
+  ],
+  "note_text": "At 2 Thessalonians 2:3, the original 1901 printing records that some ancient authorities read “lawlessness” rather than “sin.” The marginal note remains distinct from the main text.",
+  "other_apparatus": [
+    {
+      "passage": "2TH.2.3",
+      "source_pdf_page": 1216,
+      "note": "The original 1901 printed marginal apparatus notes: “Many ancient authorities read lawlessness.”",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_MANUSCRIPT_VARIANT_NOTE"
+    },
+    {
+      "passage": "2TH.2.8",
+      "source_pdf_page": 1216,
+      "note": "The printed apparatus includes manuscript variation about the presence of “Jesus” and the rendering “consume.” The historical facsimile retains the full note.",
+      "main_text_status": "PRESENT_WITH_ORIGINAL_MANUSCRIPT_VARIANT_NOTE"
+    }
+  ],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1216,
+      1217
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "a3f909dfd053da1ae99b54e50b86c2365f913f9b7fdaaed0b0eec2e8fd8b32ad",
+  "comparison_usfm_sha256": "7d49d81c4b1c75e2481928098170d57f3c27174424ff5a5a65f2daa1c94a14f5"
+}

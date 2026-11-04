@@ -1,0 +1,43 @@
+{
+  "status": "STRUCTURALLY_BUILT_FROM_DECLARED_SOURCE",
+  "edition": "ASV1901",
+  "book": "2TH",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "source_hashes": {
+    "original_pdf": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+    "primary_usx": "a3f909dfd053da1ae99b54e50b86c2365f913f9b7fdaaed0b0eec2e8fd8b32ad",
+    "comparison_usfm": "7d49d81c4b1c75e2481928098170d57f3c27174424ff5a5a65f2daa1c94a14f5"
+  },
+  "files": {
+    "books/second-thessalonians/DATA_CONTRACT.md": "497ddb79a617e05dd4c09330f3531d683c1b2042bedea848bdac5c0bf563aeae",
+    "books/second-thessalonians/INDEPENDENT_AUDIT.json": "80dcfea77e440e32f3e8729a261604edaa90003af531dd2b52e615982ca0cf4c",
+    "books/second-thessalonians/INSTALLATION_NOTES.md": "263aca3be48f2f8fe3300d1c843792ced061c8df0fd072537424da30d2ceb66f",
+    "books/second-thessalonians/README.md": "28b29efe9a292311dfe5151113c0321b0dcf8f93402263af25be289ce8400d9d",
+    "books/second-thessalonians/SOURCE_INVENTORY.json": "a0c26110e328b46c2059e34911dc2a3894e99afec4d936f4a3340afa97a1b97d",
+    "books/second-thessalonians/UPLOAD_PACKAGE_AUDIT.md": "acfec10d4261194cb4ed2c1ef04324a3362d4feb2872f11fc47839bcc913d67a",
+    "books/second-thessalonians/VALIDATION_REPORT.json": "02627c9f3663316ee2142f732298d6e089eaefb8bc77cbd0252ef306d1382727",
+    "books/second-thessalonians/VALIDATION_REPORT.md": "c46eff7e3729180c04fcc1dd413da67a7be1efa7eb1a4171cd665d731dbd7325",
+    "books/second-thessalonians/build-inputs/book-plan.json": "5d1abd42b61d11561c3345c49dc8cb7a8e62e186db09ae1cbdca939134d587f5",
+    "books/second-thessalonians/build-inputs/chapter-counts.json": "9ccfb4f6eeac0fbcc5c5f6daba8fe7a80fd02c4a2e9c9f1796f4fe3cc0649040",
+    "books/second-thessalonians/build-inputs/original-page-index-input.json": "a2e257a34cb355cb58740bac97b6d8179760fcbd19c57ec276f1db371654ce2e",
+    "books/second-thessalonians/build-inputs/source-differences-resolved.json": "14ba65c6a8de098f9864edf77a40a449526e00116b214f4bda2231fed54d27cf",
+    "books/second-thessalonians/index.html": "b973dd8a591ad439ad4ff7695c8daf459df8f2ff693964b2c726633df32e6018",
+    "books/second-thessalonians/schemas/asv1901-second-thessalonians-chapter.schema.json": "a0c786ac828deb2882bcc25cb6502043d9666dc13875519c0d91d11eabf91553",
+    "books/second-thessalonians/schemas/facsimile-page-index.schema.json": "399f7310ad0f254d6fc8eb8e6f31cf443d931befca4b50eb15766209b9dce38a",
+    "books/second-thessalonians/scripts/build_second-thessalonians.py": "c00ae5032b02f9f20fdaec3643725df6119176f1bfa8e53dcf22b5826c35f249",
+    "books/second-thessalonians/scripts/validate_release.py": "9bfe1aecae03c767b2412e1860b5802584760274548299664b13a3cd73aa3652",
+    "books/second-thessalonians/site/index.html": "6127e667a99c6b393ab7494a000767801bd8fa343f461b010d9bf902b7e46a48",
+    "books/second-thessalonians/sources/asv1901-english-only/53-2TH.usx": "a3f909dfd053da1ae99b54e50b86c2365f913f9b7fdaaed0b0eec2e8fd8b32ad",
+    "books/second-thessalonians/sources/comparison-only/83-2THeng-asv.usfm": "7d49d81c4b1c75e2481928098170d57f3c27174424ff5a5a65f2daa1c94a14f5",
+    "data/asv1901/catalog-second-thessalonians.json": "982763f60fd0361a8732f6454f607582b90716ac0b0a8113673592c8ceb52e6a",
+    "data/asv1901/second-thessalonians/chapter-checks.json": "7bdad22b982d1c008546e5ca8027e09309c38d1d2b9686096767617cb542c436",
+    "data/asv1901/second-thessalonians/chapters/01.json": "a8fb6da4f5933665928ea852ec177eb5da2289b19e4180af559461f300f83928",
+    "data/asv1901/second-thessalonians/chapters/02.json": "6d7a262e9ae8797123aef66a8b7d3cac6bdea8183404c5af83ae5dca9c9aa20a",
+    "data/asv1901/second-thessalonians/chapters/03.json": "b213bb812bc46d0cc14e74e5b6951bf5d9a3fbb44cb1deee5b7b62cedf802a36",
+    "data/asv1901/second-thessalonians/facsimile/asv1901-second-thessalonians-pages-1216-1217.pdf": "a40382b41a3351ce9d561bd687e8a734a0912654d5af2373dcd90662b0578ef5",
+    "data/asv1901/second-thessalonians/page-index.json": "7c7e8b623ea41f160ff80b61a329f6aa7af3a50632cc56063e6ae03815543b7e",
+    "data/asv1901/second-thessalonians/textual-apparatus.json": "713a2e4d016b4f00b93530008b3e7780bbc65a5a40ae1d9c4e3bd133cde9898d",
+    "data/asv1901/second-thessalonians/verse-omissions.json": "28674448256fd2d86cc7f480af11d16f16f4f21e9660ec90b834592c5dda3f7c"
+  }
+}

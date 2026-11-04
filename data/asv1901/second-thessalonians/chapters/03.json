@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TH",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "2TH.3.1",
+      "edition_verse_id": "ASV1901:2TH.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Finally, brethren, pray for us, that the word of the Lord may run and be glorified, even as also ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.2",
+      "edition_verse_id": "ASV1901:2TH.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and that we may be delivered from unreasonable and evil men; for all have not faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.3.3",
+      "edition_verse_id": "ASV1901:2TH.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But the Lord is faithful, who shall establish you, and guard you from the evil ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.4",
+      "edition_verse_id": "ASV1901:2TH.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And we have confidence in the Lord touching you, that ye both do and will do the things which we command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.5",
+      "edition_verse_id": "ASV1901:2TH.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the Lord direct your hearts into the love of God, and into the patience of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.6",
+      "edition_verse_id": "ASV1901:2TH.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which they received of us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.3.7",
+      "edition_verse_id": "ASV1901:2TH.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For yourselves know how ye ought to imitate us: for we behaved not ourselves disorderly among you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.8",
+      "edition_verse_id": "ASV1901:2TH.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "neither did we eat bread for nought at any man’s hand, but in labor and travail, working night and day, that we might not burden any of you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.9",
+      "edition_verse_id": "ASV1901:2TH.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "not because we have not the right, but to make ourselves an ensample unto you, that ye should imitate us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.10",
+      "edition_verse_id": "ASV1901:2TH.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For even when we were with you, this we commanded you, If any will not work, neither let him eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.11",
+      "edition_verse_id": "ASV1901:2TH.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For we hear of some that walk among you disorderly, that work not at all, but are busybodies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.12",
+      "edition_verse_id": "ASV1901:2TH.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now them that are such we command and exhort in the Lord Jesus Christ, that with quietness they work, and eat their own bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.13",
+      "edition_verse_id": "ASV1901:2TH.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But ye, brethren, be not weary in well-doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.14",
+      "edition_verse_id": "ASV1901:2TH.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if any man obeyeth not our word by this epistle, note that man, that ye have no company with him, to the end that he may be ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.15",
+      "edition_verse_id": "ASV1901:2TH.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And ",
+          "kind": "text"
+        },
+        {
+          "text": "yet",
+          "kind": "supplied"
+        },
+        {
+          "text": " count him not as an enemy, but admonish him as a brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.16",
+      "edition_verse_id": "ASV1901:2TH.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.3.17",
+      "edition_verse_id": "ASV1901:2TH.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The salutation of me Paul with mine own hand, which is the token in every epistle: so I write.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.3.18",
+      "edition_verse_id": "ASV1901:2TH.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The grace of our Lord Jesus Christ be with you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

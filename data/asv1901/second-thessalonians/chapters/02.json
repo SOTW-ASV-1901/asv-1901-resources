@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "2TH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2TH.2.1",
+      "edition_verse_id": "ASV1901:2TH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now we beseech you, brethren, touching the coming of our Lord Jesus Christ, and our gathering together unto him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.2.2",
+      "edition_verse_id": "ASV1901:2TH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "to the end that ye be not quickly shaken from your mind, nor yet be troubled, either by spirit, or by word, or by epistle as from us, as that the day of the Lord is just at hand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.3",
+      "edition_verse_id": "ASV1901:2TH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "let no man beguile you in any wise: for ",
+          "kind": "text"
+        },
+        {
+          "text": "it will not be",
+          "kind": "supplied"
+        },
+        {
+          "text": ", except the falling away come first, and the man of sin be revealed, the son of perdition,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.4",
+      "edition_verse_id": "ASV1901:2TH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "he that opposeth and exalteth himself against all that is called God or that is worshipped; so that he sitteth in the temple of God, setting himself forth as God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.5",
+      "edition_verse_id": "ASV1901:2TH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Remember ye not, that, when I was yet with you, I told you these things?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.6",
+      "edition_verse_id": "ASV1901:2TH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And now ye know that which restraineth, to the end that he may be revealed in his own season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.7",
+      "edition_verse_id": "ASV1901:2TH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the mystery of lawlessness doth already work: only ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " one that restraineth now, until he be taken out of the way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.8",
+      "edition_verse_id": "ASV1901:2TH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And then shall be revealed the lawless one, whom the Lord Jesus shall slay with the breath of his mouth, and bring to nought by the manifestation of his coming;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.9",
+      "edition_verse_id": "ASV1901:2TH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "even he",
+          "kind": "supplied"
+        },
+        {
+          "text": ", whose coming is according to the working of Satan with all power and signs and lying wonders,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.10",
+      "edition_verse_id": "ASV1901:2TH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and with all deceit of unrighteousness for them that perish; because they received not the love of the truth, that they might be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.11",
+      "edition_verse_id": "ASV1901:2TH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And for this cause God sendeth them a working of error, that they should believe a lie:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.12",
+      "edition_verse_id": "ASV1901:2TH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "that they all might be judged who believed not the truth, but had pleasure in unrighteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.13",
+      "edition_verse_id": "ASV1901:2TH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But we are bound to give thanks to God always for you, brethren beloved of the Lord, for that God chose you from the beginning unto salvation in sanctification of the Spirit and belief of the truth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.2.14",
+      "edition_verse_id": "ASV1901:2TH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "whereunto he called you through our gospel, to the obtaining of the glory of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.15",
+      "edition_verse_id": "ASV1901:2TH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So then, brethren, stand fast, and hold the traditions which ye were taught, whether by word, or by epistle of ours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.2.16",
+      "edition_verse_id": "ASV1901:2TH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now our Lord Jesus Christ himself, and God our Father who loved us and gave us eternal comfort and good hope through grace,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.2.17",
+      "edition_verse_id": "ASV1901:2TH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "comfort your hearts and establish them in every good work and word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
