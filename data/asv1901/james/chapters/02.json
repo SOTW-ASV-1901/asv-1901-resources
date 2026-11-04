@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JAS",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JAS.2.1",
+      "edition_verse_id": "ASV1901:JAS.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My brethren, hold not the faith of our Lord Jesus Christ, ",
+          "kind": "text"
+        },
+        {
+          "text": "the Lord",
+          "kind": "supplied"
+        },
+        {
+          "text": " of glory, with respect of persons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.2",
+      "edition_verse_id": "ASV1901:JAS.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For if there come into your synagogue a man with a gold ring, in fine clothing, and there come in also a poor man in vile clothing;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.3",
+      "edition_verse_id": "ASV1901:JAS.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and ye have regard to him that weareth the fine clothing, and say, Sit thou here in a good place; and ye say to the poor man, Stand thou there, or sit under my footstool;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.4",
+      "edition_verse_id": "ASV1901:JAS.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "do ye not make distinctions among yourselves, and become judges with evil thoughts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.5",
+      "edition_verse_id": "ASV1901:JAS.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Hearken, my beloved brethren; did not God choose them that are poor as to the world ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " rich in faith, and heirs of the kingdom which he promised to them that love him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.6",
+      "edition_verse_id": "ASV1901:JAS.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But ye have dishonored the poor man. Do not the rich oppress you, and themselves drag you before the judgment-seats?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.7",
+      "edition_verse_id": "ASV1901:JAS.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Do not they blaspheme the honorable name by which ye are called?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.8",
+      "edition_verse_id": "ASV1901:JAS.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Howbeit if ye fulfil the royal law, according to the scripture, Thou shalt love thy neighbor as thyself, ye do well:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.9",
+      "edition_verse_id": "ASV1901:JAS.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "but if ye have respect of persons, ye commit sin, being convicted by the law as transgressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.10",
+      "edition_verse_id": "ASV1901:JAS.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For whosoever shall keep the whole law, and yet stumble in one ",
+          "kind": "text"
+        },
+        {
+          "text": "point",
+          "kind": "supplied"
+        },
+        {
+          "text": ", he is become guilty of all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.11",
+      "edition_verse_id": "ASV1901:JAS.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou dost not commit adultery, but killest, thou art become a transgressor of the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.12",
+      "edition_verse_id": "ASV1901:JAS.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So speak ye, and so do, as men that are to be judged by a law of liberty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.13",
+      "edition_verse_id": "ASV1901:JAS.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For judgment ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " without mercy to him that hath showed no mercy: mercy glorieth against judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.14",
+      "edition_verse_id": "ASV1901:JAS.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "What doth it profit, my brethren, if a man say he hath faith, but have not works? can that faith save him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.15",
+      "edition_verse_id": "ASV1901:JAS.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If a brother or sister be naked and in lack of daily food,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.16",
+      "edition_verse_id": "ASV1901:JAS.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and one of you say unto them, Go in peace, be ye warmed and filled; and yet ye give them not the things needful to the body; what doth it profit?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.17",
+      "edition_verse_id": "ASV1901:JAS.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Even so faith, if it have not works, is dead in itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.18",
+      "edition_verse_id": "ASV1901:JAS.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Yea, a man will say, Thou hast faith, and I have works: show me thy faith apart from ",
+          "kind": "text"
+        },
+        {
+          "text": "thy",
+          "kind": "supplied"
+        },
+        {
+          "text": " works, and I by my works will show thee ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.19",
+      "edition_verse_id": "ASV1901:JAS.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Thou believest that God is one; thou doest well: the demons also believe, and shudder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.20",
+      "edition_verse_id": "ASV1901:JAS.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But wilt thou know, O vain man, that faith apart from works is barren?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.21",
+      "edition_verse_id": "ASV1901:JAS.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Was not Abraham our father justified by works, in that he offered up Isaac his son upon the altar?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.22",
+      "edition_verse_id": "ASV1901:JAS.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Thou seest that faith wrought with his works, and by works was faith made perfect;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.23",
+      "edition_verse_id": "ASV1901:JAS.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and the scripture was fulfilled which saith, And Abraham believed God, and it was reckoned unto him for righteousness; and he was called the friend of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.24",
+      "edition_verse_id": "ASV1901:JAS.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Ye see that by works a man is justified, and not only by faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.25",
+      "edition_verse_id": "ASV1901:JAS.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And in like manner was not also Rahab the harlot justified by works, in that she received the messengers, and sent them out another way?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.26",
+      "edition_verse_id": "ASV1901:JAS.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

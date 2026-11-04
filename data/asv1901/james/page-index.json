@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JAS",
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "pages": [
+    {
+      "source_pdf_page": 1241,
+      "type": "scripture",
+      "printed_page": 247,
+      "first_verse": "JAS.1.1",
+      "last_verse": "JAS.1.25",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": false,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-james-pages-1241-1244.pdf",
+      "volume_pdf_page": 1
+    },
+    {
+      "source_pdf_page": 1242,
+      "type": "scripture",
+      "printed_page": 248,
+      "first_verse": "JAS.1.25",
+      "last_verse": "JAS.3.3",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-james-pages-1241-1244.pdf",
+      "volume_pdf_page": 2
+    },
+    {
+      "source_pdf_page": 1243,
+      "type": "scripture",
+      "printed_page": 249,
+      "first_verse": "JAS.3.3",
+      "last_verse": "JAS.4.13",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-james-pages-1241-1244.pdf",
+      "volume_pdf_page": 3
+    },
+    {
+      "source_pdf_page": 1244,
+      "type": "scripture",
+      "printed_page": 250,
+      "first_verse": "JAS.4.13",
+      "last_verse": "JAS.5.20",
+      "running_head_verified": false,
+      "page_begins_with_verse_continuation": true,
+      "evidence_method": "1901 original page headers, opening/closing verses and transitions inspected; exhaustive character-level print collation not performed.",
+      "volume": "asv1901-james-pages-1241-1244.pdf",
+      "volume_pdf_page": 4
+    }
+  ],
+  "volumes": [
+    {
+      "filename": "asv1901-james-pages-1241-1244.pdf",
+      "first_source_pdf_page": 1241,
+      "last_source_pdf_page": 1244,
+      "bytes": 473994,
+      "sha256": "3703aed58713dea3f2ed2a4cc9a1023055e38372fa33eebdf9ddae639a32208a"
+    }
+  ],
+  "navigation_rule": "Physical original PDF pages in source order; original maps and interleaves preserve historical position. A verse can continue across map/interleaf insertions."
+}

@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JAS",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "JAS.4.1",
+      "edition_verse_id": "ASV1901:JAS.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Whence ",
+          "kind": "text"
+        },
+        {
+          "text": "come",
+          "kind": "supplied"
+        },
+        {
+          "text": " wars and whence ",
+          "kind": "text"
+        },
+        {
+          "text": "come",
+          "kind": "supplied"
+        },
+        {
+          "text": " fightings among you? ",
+          "kind": "text"
+        },
+        {
+          "text": "come they",
+          "kind": "supplied"
+        },
+        {
+          "text": " not hence, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " of your pleasures that war in your members?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.4.2",
+      "edition_verse_id": "ASV1901:JAS.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Ye lust, and have not: ye kill, and covet, and cannot obtain: ye fight and war; ye have not, because ye ask not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.3",
+      "edition_verse_id": "ASV1901:JAS.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Ye ask, and receive not, because ye ask amiss, that ye may spend ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in your pleasures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.4",
+      "edition_verse_id": "ASV1901:JAS.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ye adulteresses, know ye not that the friendship of the world is enmity with God? Whosoever therefore would be a friend of the world maketh himself an enemy of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.5",
+      "edition_verse_id": "ASV1901:JAS.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Or think ye that the scripture speaketh in vain? Doth the spirit which he made to dwell in us long unto envying?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.6",
+      "edition_verse_id": "ASV1901:JAS.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But he giveth more grace. Wherefore ",
+          "kind": "text"
+        },
+        {
+          "text": "the scripture",
+          "kind": "supplied"
+        },
+        {
+          "text": " saith, God resisteth the proud, but giveth grace to the humble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.7",
+      "edition_verse_id": "ASV1901:JAS.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be subject therefore unto God; but resist the devil, and he will flee from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.8",
+      "edition_verse_id": "ASV1901:JAS.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye doubleminded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.9",
+      "edition_verse_id": "ASV1901:JAS.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.10",
+      "edition_verse_id": "ASV1901:JAS.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Humble yourselves in the sight of the Lord, and he shall exalt you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.11",
+      "edition_verse_id": "ASV1901:JAS.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Speak not one against another, brethren. He that speaketh against a brother, or judgeth his brother, speaketh against the law, and judgeth the law: but if thou judgest the law, thou art not a doer of the law, but a judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.4.12",
+      "edition_verse_id": "ASV1901:JAS.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "One ",
+          "kind": "text"
+        },
+        {
+          "text": "only",
+          "kind": "supplied"
+        },
+        {
+          "text": " is the lawgiver and judge, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " he who is able to save and to destroy: but who art thou that judgest thy neighbor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.13",
+      "edition_verse_id": "ASV1901:JAS.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Come now, ye that say, To-day or to-morrow we will go into this city, and spend a year there, and trade, and get gain:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.4.14",
+      "edition_verse_id": "ASV1901:JAS.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "whereas ye know not what shall be on the morrow. What is your life? For ye are a vapor that appeareth for a little time, and then vanisheth away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.15",
+      "edition_verse_id": "ASV1901:JAS.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For that ye ought to say, If the Lord will, we shall both live, and do this or that.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.16",
+      "edition_verse_id": "ASV1901:JAS.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But now ye glory in your vauntings: all such glorying is evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.4.17",
+      "edition_verse_id": "ASV1901:JAS.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "To him therefore that knoweth to do good, and doeth it not, to him it is sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

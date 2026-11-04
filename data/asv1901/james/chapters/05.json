@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "ASV1901",
+  "book_code": "JAS",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JAS.5.1",
+      "edition_verse_id": "ASV1901:JAS.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Come now, ye rich, weep and howl for your miseries that are coming upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.2",
+      "edition_verse_id": "ASV1901:JAS.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Your riches are corrupted, and your garments are moth-eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.3",
+      "edition_verse_id": "ASV1901:JAS.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Your gold and your silver are rusted; and their rust shall be for a testimony against you, and shall eat your flesh as fire. Ye have laid up your treasure in the last days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.4",
+      "edition_verse_id": "ASV1901:JAS.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, the hire of the laborers who mowed your fields, which is of you kept back by fraud, crieth out: and the cries of them that reaped have entered into the ears of the Lord of Sabaoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.5",
+      "edition_verse_id": "ASV1901:JAS.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ye have lived delicately on the earth, and taken your pleasure; ye have nourished your hearts in a day of slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.6",
+      "edition_verse_id": "ASV1901:JAS.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ye have condemned, ye have killed the righteous ",
+          "kind": "text"
+        },
+        {
+          "text": "one",
+          "kind": "supplied"
+        },
+        {
+          "text": "; he doth not resist you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.7",
+      "edition_verse_id": "ASV1901:JAS.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be patient therefore, brethren, until the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, being patient over it, until it receive the early and latter rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.8",
+      "edition_verse_id": "ASV1901:JAS.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Be ye also patient; establish your hearts: for the coming of the Lord is at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.9",
+      "edition_verse_id": "ASV1901:JAS.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Murmur not, brethren, one against another, that ye be not judged: behold, the judge standeth before the doors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.10",
+      "edition_verse_id": "ASV1901:JAS.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Take, brethren, for an example of suffering and of patience, the prophets who spake in the name of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.11",
+      "edition_verse_id": "ASV1901:JAS.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, we call them blessed that endured: ye have heard of the patience of Job, and have seen the end of the Lord, how that the Lord is full of pity, and merciful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.12",
+      "edition_verse_id": "ASV1901:JAS.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But above all things, my brethren, swear not, neither by the heaven, nor by the earth, nor by any other oath: but let your yea be yea, and your nay, nay; that ye fall not under judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.13",
+      "edition_verse_id": "ASV1901:JAS.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Is any among you suffering? let him pray. Is any cheerful? let him sing praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.14",
+      "edition_verse_id": "ASV1901:JAS.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Is any among you sick? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.15",
+      "edition_verse_id": "ASV1901:JAS.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and the prayer of faith shall save him that is sick, and the Lord shall raise him up; and if he have committed sins, it shall be forgiven him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.16",
+      "edition_verse_id": "ASV1901:JAS.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Confess therefore your sins one to another, and pray one for another, that ye may be healed. The supplication of a righteous man availeth much in its working.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.17",
+      "edition_verse_id": "ASV1901:JAS.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Elijah was a man of like passions with us, and he prayed fervently that it might not rain; and it rained not on the earth for three years and six months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.18",
+      "edition_verse_id": "ASV1901:JAS.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he prayed again; and the heaven gave rain, and the earth brought forth her fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.19",
+      "edition_verse_id": "ASV1901:JAS.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My brethren, if any among you err from the truth, and one convert him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.20",
+      "edition_verse_id": "ASV1901:JAS.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "let him know, that he who converteth a sinner from the error of his way shall save a soul from death, and shall cover a multitude of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

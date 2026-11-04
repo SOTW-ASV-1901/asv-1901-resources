@@ -1,0 +1,34 @@
+{
+  "source_pdf_page_range": [
+    1241,
+    1244
+  ],
+  "original_maps": [],
+  "interleaves": [],
+  "printed_scripture_pages": [
+    247,
+    250
+  ],
+  "page_first_verses": [
+    {
+      "source_pdf_page": 1241,
+      "first_verse": "JAS.1.1",
+      "continues_previous_scripture_page": false
+    },
+    {
+      "source_pdf_page": 1242,
+      "first_verse": "JAS.1.25",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1243,
+      "first_verse": "JAS.3.3",
+      "continues_previous_scripture_page": true
+    },
+    {
+      "source_pdf_page": 1244,
+      "first_verse": "JAS.4.13",
+      "continues_previous_scripture_page": true
+    }
+  ]
+}

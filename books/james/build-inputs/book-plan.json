@@ -1,0 +1,96 @@
+{
+  "code": "JAS",
+  "slug": "james",
+  "name": "James",
+  "order": 59,
+  "predecessor": "HEB",
+  "successor": "1PE",
+  "usx": "59-JAS.usx",
+  "usfm": "89-JAS.usfm",
+  "chapter_counts": [
+    27,
+    26,
+    18,
+    17,
+    20
+  ],
+  "first_pdf": 1241,
+  "last_pdf": 1244,
+  "first_print": 247,
+  "scripture": [
+    [
+      1241,
+      1,
+      1,
+      0
+    ],
+    [
+      1242,
+      1,
+      25,
+      1
+    ],
+    [
+      1243,
+      3,
+      3,
+      1
+    ],
+    [
+      1244,
+      4,
+      13,
+      1
+    ]
+  ],
+  "source_decisions": [],
+  "allowed_word_differences": [],
+  "note_verse": [
+    4,
+    5
+  ],
+  "note_text": "James 4:5 has multiple alternatives in the original ASV 1901 margin, including an alternative reading “dwelleth in us.” These are historical notes, not replacements for the main verse.",
+  "other_apparatus": [
+    {
+      "passage": "JAS.1.1",
+      "source_pdf_page": 1241,
+      "note": "The 1901 margin includes “Or, Jacob” for the name James and “Gr. bondservant” for servant. The edition title and running text remain as printed.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "JAS.2.18",
+      "source_pdf_page": 1242,
+      "note": "The original margin gives the alternative introduction “Or, But some one will say.” The main text is preserved.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_NOTE"
+    },
+    {
+      "passage": "JAS.4.5",
+      "source_pdf_page": 1243,
+      "note": "The original printed apparatus presents multiple alternate renderings for the Spirit statement, as well as the ancient-authority variant “dwelleth in us.” The facsimile preserves the full printed alternatives.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_TRANSLATION_AND_MANUSCRIPT_NOTES"
+    },
+    {
+      "passage": "JAS.5.20",
+      "source_pdf_page": 1244,
+      "note": "The original 1901 margin notes that some ancient authorities read “know ye.” This remains a note, separate from the main text.",
+      "main_text_status": "PRESENT_WITH_HISTORICAL_MANUSCRIPT_NOTE"
+    }
+  ],
+  "map_pages": [],
+  "interleaf_pages": [],
+  "volume_bounds": [
+    [
+      1241,
+      1244
+    ]
+  ],
+  "omissions": [],
+  "omission_page": {},
+  "source_pdf_sha256": "e5a19756c441024c056a5f2e11eba4e1213c9a3c42e5d22c33147520bbbd3f7d",
+  "source_archives_sha256": {
+    "primary_usx": "9c0c15c70a490583ae1f2bd8e617ef6ca692ade1e528c7df08175777412dd247",
+    "comparison_usfm": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901"
+  },
+  "primary_usx_sha256": "37a58deb5af063057a880a9e6b091329f4e7164050235553dfe434605e73e39e",
+  "comparison_usfm_sha256": "2cc5ef6e95d0e50a17cb16d1f620dfc9ab377d0db1d955226dee733b1355d304"
+}

@@ -1,0 +1,14 @@
+{
+  "edition_id": "ASV1901",
+  "book_code": "JAS",
+  "chapter_traditional_verse_counts": {
+    "1": 27,
+    "2": 26,
+    "3": 18,
+    "4": 17,
+    "5": 20
+  },
+  "traditional_verse_positions": 108,
+  "main_text_verse_count": 108,
+  "omitted_verse_ids": []
+}
