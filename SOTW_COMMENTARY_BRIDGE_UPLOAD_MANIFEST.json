@@ -1,0 +1,351 @@
+{
+  "kind": "sotw_historical_commentary_authorized_direct_github_install",
+  "edition_id": "ASV1901",
+  "repository": "SOTW-ASV-1901/asv-1901-resources",
+  "baseline_main_commit": "4179ceb646cf4fed0077760794749821fb989273",
+  "baseline_historical_commit": "96d361a2675c448c65c9aa4f24b5b5bcd12ce85d",
+  "file_count": 69,
+  "preserve_verses_and_facsimiles": true,
+  "modified_reader_files": 66,
+  "files": [
+    {
+      "path": "assets/sotw-commentary/bridge.js",
+      "new_blob": "91b8c24964a7fe372905750ea811c19aa3d5b659"
+    },
+    {
+      "path": "data/asv1901/historical-commentary-bridge-v1.json",
+      "new_blob": "d4310a1a83aa565d545c302f0badd4e64cc85617"
+    },
+    {
+      "path": "books/acts/site/index.html",
+      "original_blob": "46c36a6c1735ddd5d7e2e0a09678237dd7a71424",
+      "new_blob": "e52a8dc0a0d9f0630aa00e257f2675168885f060"
+    },
+    {
+      "path": "books/amos/site/index.html",
+      "original_blob": "f138b4e6e7a643ecf3986d72fe01be7c63b9281e",
+      "new_blob": "6d3d2bb8a8f66b9cd9ec29d3a2760b1a8bb11ed8"
+    },
+    {
+      "path": "books/colossians/site/index.html",
+      "original_blob": "77c2aca4981930cd04948e8f9740f26f666c3766",
+      "new_blob": "61e5922a4c4a472f0ab1042c89839a23ae2a8b61"
+    },
+    {
+      "path": "books/daniel/site/index.html",
+      "original_blob": "aee2ca46569fb4bea37d7ac8181a9361e799e491",
+      "new_blob": "bb85de0f270089af37f3fff84756726eb038fb1b"
+    },
+    {
+      "path": "books/deuteronomy/site/index.html",
+      "original_blob": "627352c50adb0bbe0eed151ec199fa2d685ceb1b",
+      "new_blob": "c9a242f3012ad5ea2a75b87a150a1ced38a5b519"
+    },
+    {
+      "path": "books/ecclesiastes/site/index.html",
+      "original_blob": "8c05c037f063a5766a34bb01ba77c1aa0940db2c",
+      "new_blob": "be458a3351b51b89fc9be53f74d10334fbf0ac78"
+    },
+    {
+      "path": "books/ephesians/site/index.html",
+      "original_blob": "15832bf61d46c3bdeea9b476956a92f90b352256",
+      "new_blob": "3a987e2ec8adcbec3e6a47a08f1b9c1b2f7bd285"
+    },
+    {
+      "path": "books/esther/site/index.html",
+      "original_blob": "2904019e76a5a9f9e2898f12454d61f5778f385d",
+      "new_blob": "189ce99251373e2efbc7964e12af0a76f0096a48"
+    },
+    {
+      "path": "books/exodus/site/index.html",
+      "original_blob": "5b56820120f5a825ad86cad24df14f757399b90a",
+      "new_blob": "d6b37c61d7c88099a8fbb5265d2f5e6be5287d28"
+    },
+    {
+      "path": "books/ezekiel/site/index.html",
+      "original_blob": "750f2d0865f6096e86d6f5d8262b97de7c74789a",
+      "new_blob": "79c983f056d19a529ea7889fc744fa1c3cac2adf"
+    },
+    {
+      "path": "books/ezra/site/index.html",
+      "original_blob": "2fbde7feb196227147cb343abc9dd148607b8c2f",
+      "new_blob": "a8b94009988b94555eb7923996f5e92ff7f03408"
+    },
+    {
+      "path": "books/first-chronicles/site/index.html",
+      "original_blob": "fb27ec8d6b6c4437f31c642cc1bd355ef2122565",
+      "new_blob": "00cd148444562feef15b82a8bfbb95ddb154c1b2"
+    },
+    {
+      "path": "books/first-corinthians/site/index.html",
+      "original_blob": "1412f3c9e3e3871486a3d956f8f3779970f80de8",
+      "new_blob": "b143f9ef0518f4a6bd86d0b7082a949f8ee95bc2"
+    },
+    {
+      "path": "books/first-john/site/index.html",
+      "original_blob": "53468194a90df698dfb9384637f524409398dbf5",
+      "new_blob": "d8f94365822210c8fbc435afa67833b1126a9b72"
+    },
+    {
+      "path": "books/first-kings/site/index.html",
+      "original_blob": "bc80d5659f8c862de6c2bd4dc99ee13b4e360b45",
+      "new_blob": "cb2c70e27fa66559b019042fa92842dff265c584"
+    },
+    {
+      "path": "books/first-peter/site/index.html",
+      "original_blob": "0a52ee792208a95ed2f79ec50de79127a5f6d86f",
+      "new_blob": "d9055766642f4108235151e8fee7d7aaf066a9ce"
+    },
+    {
+      "path": "books/first-samuel/site/index.html",
+      "original_blob": "0fa7248592eeeaa13d7b30076c9c4083b3e0a97c",
+      "new_blob": "3991e3e7c97857a3953f699cf51362c2523a2f23"
+    },
+    {
+      "path": "books/first-thessalonians/site/index.html",
+      "original_blob": "c656ffd76f789211740a984cfcac124750f7d308",
+      "new_blob": "6add33044137c63890ba737900a91c23ea61f4b9"
+    },
+    {
+      "path": "books/first-timothy/site/index.html",
+      "original_blob": "d8399331bbd28501ccd8894f2e1a32089a681776",
+      "new_blob": "10c9e8c6a2a75f7046bb3c1692f0ce0bc8ff4c7c"
+    },
+    {
+      "path": "books/galatians/site/index.html",
+      "original_blob": "c168f5ff9421051ecf25696f6ea07aac68880f18",
+      "new_blob": "825018f9c96912761f2e816dbe36336519f3eac8"
+    },
+    {
+      "path": "books/genesis/site/index.html",
+      "original_blob": "fc5c12a088b75f87bced721831a6c2a121d5266d",
+      "new_blob": "a5afcc063b675774df03ff0f5626f34c33a94321"
+    },
+    {
+      "path": "books/habakkuk/site/index.html",
+      "original_blob": "04f0040bf75c8b368fa13f10889cbe8ffad0fe2b",
+      "new_blob": "c95a8b6258c3119f03e102c5c5a4b8595032282d"
+    },
+    {
+      "path": "books/haggai/site/index.html",
+      "original_blob": "3cd654e2c1230b5c21c8d8f1b8dedecee1378d89",
+      "new_blob": "880f49c6f291107c75cb6d2e4c3f4f96dc74df33"
+    },
+    {
+      "path": "books/hebrews/site/index.html",
+      "original_blob": "acc44ef9f21fea2266b0a62dda7b756a689f43a7",
+      "new_blob": "3410b081c1c2455a6a3636e61cdd5a2e4b8ab3d0"
+    },
+    {
+      "path": "books/hosea/site/index.html",
+      "original_blob": "e527deeff797e9edf8a974b3b5b37f5488f0b0ec",
+      "new_blob": "196ad81f6eee78eac29cfcc1fd5399395cb6ea64"
+    },
+    {
+      "path": "books/isaiah/site/index.html",
+      "original_blob": "2a9f1e3c51441c09e0090aaeb35a8a2258293c2a",
+      "new_blob": "1c7a3fd0323f87c79ea8b575e9e841d8d6c4ac52"
+    },
+    {
+      "path": "books/james/site/index.html",
+      "original_blob": "fe1c7b0a82d7dc0246b7a39d2363c79cb0d1c878",
+      "new_blob": "1e0ac0d4767041bc250dc52482fab5b06a6ca721"
+    },
+    {
+      "path": "books/jeremiah/site/index.html",
+      "original_blob": "17cfaf0c9a2645a85580ae1d565eb6d1b3310f2d",
+      "new_blob": "7f5af90f160e053921fc7050b4ff348a4fc1b2df"
+    },
+    {
+      "path": "books/job/site/index.html",
+      "original_blob": "200e2b014eecefdd723babb6457cd86021eaf323",
+      "new_blob": "146a6a703c5288bbe6b5d56af0c7c3941d394096"
+    },
+    {
+      "path": "books/joel/site/index.html",
+      "original_blob": "a37712cba865e7700a6b13059508621684c14c79",
+      "new_blob": "0cb120d0d525234ffd85eceeda34efcff8db4a4c"
+    },
+    {
+      "path": "books/john/site/index.html",
+      "original_blob": "89c79b000a0173b055a46ea9357914f47637356e",
+      "new_blob": "9a7146cd8af64995306b842386a2aaf0a86c3921"
+    },
+    {
+      "path": "books/jonah/site/index.html",
+      "original_blob": "5e54f810b5a741d8bd6059e04a620fa9e53b3fb2",
+      "new_blob": "05210af564dc8ffa8cd521286dde31df7aca70eb"
+    },
+    {
+      "path": "books/joshua/site/index.html",
+      "original_blob": "fb5f03071770a454ae0f6f590370c8fc25bf4292",
+      "new_blob": "edce6d51b35d5d4a292c91e8899f81d720841e5f"
+    },
+    {
+      "path": "books/jude/site/index.html",
+      "original_blob": "00c8f9b4e773c9715b03a312d07c961265b51b59",
+      "new_blob": "d4532119ff2ed7e94e283751fec0ae658d1948ac"
+    },
+    {
+      "path": "books/judges/site/index.html",
+      "original_blob": "8d54db6150d12c9810b6f5721055577d51d57949",
+      "new_blob": "5ee0b1e36b1aa6ae04bedfd08615870577663d3d"
+    },
+    {
+      "path": "books/lamentations/site/index.html",
+      "original_blob": "8e9d0e3288b0889e69a314fcddc57728d4f0f602",
+      "new_blob": "028c684bfbb183c12190d0b7d30f992efb4df2a0"
+    },
+    {
+      "path": "books/leviticus/site/index.html",
+      "original_blob": "c7114d849cc8c6b6ad561d0327ccf2fadff367de",
+      "new_blob": "634437b3064a7c97b00ac6744ce67827bcccb7dc"
+    },
+    {
+      "path": "books/luke/site/index.html",
+      "original_blob": "bb6393bee1d7b901fc3fa33027fac17ae5f2a282",
+      "new_blob": "a220dbfef32de4e51fae25a7c8750f8d6b8bc2d1"
+    },
+    {
+      "path": "books/malachi/site/index.html",
+      "original_blob": "cb1613c8e19bec7b64079342ec710bfacdae3f1f",
+      "new_blob": "ab6e50a01b20facbb3c94bac50c03ee6441886c7"
+    },
+    {
+      "path": "books/mark/site/index.html",
+      "original_blob": "705cf4af204136f759c86ee27d265b09dd44391a",
+      "new_blob": "a26ed0afebae8a6b9cb56d6da916371ba8b27665"
+    },
+    {
+      "path": "books/matthew/site/index.html",
+      "original_blob": "e757094834bb2b8c9c51f5c35a11f7f0f38872a8",
+      "new_blob": "5f6b7ddcc8f26d1ab33220a8ff2f4eb4c3756d6b"
+    },
+    {
+      "path": "books/micah/site/index.html",
+      "original_blob": "7ff3fe96780967c2fdae39dd236b2d6f7b74e320",
+      "new_blob": "b6cf09d5817ed1b101351848d5bca6a2a3f3c535"
+    },
+    {
+      "path": "books/nahum/site/index.html",
+      "original_blob": "cc0f5d196ec82d78d96cafaac2a9579dc26dc4da",
+      "new_blob": "8d8c6226297cc0455b13afbd8b9407a673258515"
+    },
+    {
+      "path": "books/nehemiah/site/index.html",
+      "original_blob": "10cae747941e1f312cf7d583a0ffb776c4145abf",
+      "new_blob": "18a71af24c5fe9a73a0abe71d584510482cbdc9c"
+    },
+    {
+      "path": "books/numbers/site/index.html",
+      "original_blob": "11efe198fb98c3e5d29df225978ee9156038dd2e",
+      "new_blob": "fce3edb1441a85d6a41fd709a494274e452fddad"
+    },
+    {
+      "path": "books/obadiah/site/index.html",
+      "original_blob": "67c4e111face0b75f400b3b7df26212c609e9b72",
+      "new_blob": "1d736961cb0e9622a3c1389bcaa558e2d8795ab2"
+    },
+    {
+      "path": "books/philemon/site/index.html",
+      "original_blob": "ea5d162ab7e693a85f67e077f9ade7fb52ca80f8",
+      "new_blob": "55e9ed3c4fded988936990560d1b7e3ce5404ab9"
+    },
+    {
+      "path": "books/philippians/site/index.html",
+      "original_blob": "09f0cc789f459cc74f6650da94ceacbc05a2578b",
+      "new_blob": "577820ba2d394abec6ddfef985f475387162f6d2"
+    },
+    {
+      "path": "books/proverbs/site/index.html",
+      "original_blob": "302f54ef29c16c8ff4ae7c1765968329ffee0e0a",
+      "new_blob": "66b9e051eeb4df8d503f0dc7f706033ddabe3472"
+    },
+    {
+      "path": "books/psalms/site/index.html",
+      "original_blob": "8372d4eb4f8ba795e8d652f9739ea7c3255a1e38",
+      "new_blob": "ee20934f4d8ef9fe99c1b482c13af8bd67ce9541"
+    },
+    {
+      "path": "books/revelation/site/index.html",
+      "original_blob": "79bf363d06c77b9b293caa94e47e56ffb3622d71",
+      "new_blob": "631aa8c5506724992584a68e8ae910aa10c71eb9"
+    },
+    {
+      "path": "books/romans/site/index.html",
+      "original_blob": "fbcf757c77a6d6907d9c319d90b8ae747a9a0488",
+      "new_blob": "023ee5ff2735f8e98d5da9d4287adb31038e6b8a"
+    },
+    {
+      "path": "books/ruth/site/index.html",
+      "original_blob": "115bcb71e91f2522eea8c672fe5718fe525c0714",
+      "new_blob": "d83e928da03e94b1c4364605ad28b5be6f514d67"
+    },
+    {
+      "path": "books/second-chronicles/site/index.html",
+      "original_blob": "31805df8ff9d96a8f84108648ef838cc393e75f0",
+      "new_blob": "6ee5f9b20c5c1fcd89eab96dd5968c743d160a8a"
+    },
+    {
+      "path": "books/second-corinthians/site/index.html",
+      "original_blob": "bc5094802f7907e9ae6ffad033d19da2cdc7ed4d",
+      "new_blob": "b30c281a339194ec2fc84f0cad823fdfe241edce"
+    },
+    {
+      "path": "books/second-john/site/index.html",
+      "original_blob": "1cc5c305d359f3e9f312d6369962bde5ff27964b",
+      "new_blob": "db571f0eeb11161d853f2a47a72e0a9c9f1a18c0"
+    },
+    {
+      "path": "books/second-kings/site/index.html",
+      "original_blob": "49f6481109c2ac6a8c44531a21af520cca2e51f2",
+      "new_blob": "0b744ee675210f4badada8396a5e6ac0161577bb"
+    },
+    {
+      "path": "books/second-peter/site/index.html",
+      "original_blob": "1fe66f01b18df3611e4d9b23911b31468cc6b39a",
+      "new_blob": "adb1214e201490e2b34d29c129f49e01b77423d5"
+    },
+    {
+      "path": "books/second-samuel/site/index.html",
+      "original_blob": "2a9bce1a04d3b0c6e40a4a39e17ada28a25c8df0",
+      "new_blob": "cecfeb0c9d1dfb80747097ae3ba6b77889ab3504"
+    },
+    {
+      "path": "books/second-thessalonians/site/index.html",
+      "original_blob": "6ec8dacdf34f629fde2bfb1b6de9d052f554108a",
+      "new_blob": "5419ebf88d8f622a5c774e7333b02310ace6bc4c"
+    },
+    {
+      "path": "books/second-timothy/site/index.html",
+      "original_blob": "bcabf010f0d227f57f37d49cba204cb3b0576975",
+      "new_blob": "ecd849e48818084dfaee805a149eace2b06babc5"
+    },
+    {
+      "path": "books/song-of-solomon/site/index.html",
+      "original_blob": "6b1309691404eb1d57ddd21d32530b0563fb1165",
+      "new_blob": "0b5789a13d5d6d199e207c1fbef6f63b6d407b16"
+    },
+    {
+      "path": "books/third-john/site/index.html",
+      "original_blob": "919d682ba93084c5ed549c94f78b66942e83f419",
+      "new_blob": "1e6cf91ecc3a2361e6d5885577c1948044ea575d"
+    },
+    {
+      "path": "books/titus/site/index.html",
+      "original_blob": "c1f304c4008fce5213e7265b0cc53e6262c50f94",
+      "new_blob": "22fb72a850bc9d511bb1957a90483acca3328bfe"
+    },
+    {
+      "path": "books/zechariah/site/index.html",
+      "original_blob": "5e9537d0679e58db88f8ea11915fd28d9bf55b07",
+      "new_blob": "82c59f6dd5265cc1a453280631e9e3bb27b1e575"
+    },
+    {
+      "path": "books/zephaniah/site/index.html",
+      "original_blob": "808acd8620a3d1b44228b840c372fea26e4616ee",
+      "new_blob": "7577b1278115e68f183a7c3754bf909c8e805682"
+    }
+  ],
+  "status": "STAGING_PENDING_REVIEW"
+}
