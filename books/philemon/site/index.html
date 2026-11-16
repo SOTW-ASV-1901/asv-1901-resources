@@ -86,4 +86,5 @@ ids.previous.addEventListener('click',()=>navigateTo(activePage-1));ids.next.add
 document.getElementById('variantLink').addEventListener('click',async e=>{e.preventDefault();try{ids.chapter.value='1';await selectChapter(1,25);history.replaceState(null,'','#PHM.1.25')}catch(err){error(err.message)}});
 init();
 </script>
+<script defer src="../../../assets/sotw-commentary/bridge.js" data-sotw-book="PHM" data-sotw-edition="ASV1901" data-sotw-bridge="1"></script>
 </body></html>

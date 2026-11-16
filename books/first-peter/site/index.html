@@ -86,4 +86,5 @@ ids.previous.addEventListener('click',()=>navigateTo(activePage-1));ids.next.add
 document.getElementById('variantLink').addEventListener('click',async e=>{e.preventDefault();try{ids.chapter.value='5';await selectChapter(5,13);history.replaceState(null,'','#1PE.5.13')}catch(err){error(err.message)}});
 init();
 </script>
+<script defer src="../../../assets/sotw-commentary/bridge.js" data-sotw-book="1PE" data-sotw-edition="ASV1901" data-sotw-bridge="1"></script>
 </body></html>
